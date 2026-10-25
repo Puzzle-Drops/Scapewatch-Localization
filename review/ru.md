@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бард |
 | Discover | Открытие |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0} и {1} меняются ролями со следующего забега: {0} играет роль «{2}», {1} играет роль «{3}» |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} и {1} поменялись ролями: {0} играет роль «{2}», {1} играет роль «{3}» |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} и {1} поменялись ролями: {0} теперь играет роль «{2}», {1} теперь играет роль «{3}» |
+| `Hardware Acceleration` | Hardware Acceleration | Аппаратное ускорение |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Игра отрисовывается видеокартой вместо процессора, и нагрузка на процессор становится намного меньше. Если при включённом ускорении экран остаётся чёрным, игра сама его отключит. |
+| `Restart the game to apply.` | Restart the game to apply. | Перезапустите игру, чтобы применить изменение. |
+| `Restart now` | Restart now | Перезапустить сейчас |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | Игра отрисовывается видеокартой. |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Видеокарту не удалось использовать при этом запуске, поэтому игра отрисовывается процессором. |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Отключено: при включённом ускорении игра ничего не отрисовала. |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | Игра отрисовывается процессором. |

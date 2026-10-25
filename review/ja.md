@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0}と{1}が次のランから役割を交換します：{0}は{2}、{1}は{3}を担当 |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0}と{1}が役割を交換しました：{0}は{2}、{1}は{3}を担当 |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0}と{1}が役割を交換しました：今から{0}は{2}、{1}は{3}を担当 |
+| `Hardware Acceleration` | Hardware Acceleration | ハードウェアアクセラレーション |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | CPUの代わりにグラフィックカードでゲームを描画し、CPU使用率を大きく下げます。オンにして画面が黒いままの場合、ゲームが自動でオフに戻します。 |
+| `Restart the game to apply.` | Restart the game to apply. | 反映するにはゲームを再起動してください。 |
+| `Restart now` | Restart now | 今すぐ再起動 |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | グラフィックカードでゲームを描画しています。 |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | 今回の起動ではグラフィックカードを使用できなかったため、CPUでゲームを描画しています。 |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | オフにしました：オンのときにゲームが描画されませんでした。 |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | CPUでゲームを描画しています。 |

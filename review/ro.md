@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cântă |
 | Discover | Descoperire |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0} a făcut schimb de roluri cu {1} începând cu runda următoare: {0} joacă rolul „{2}”, {1} joacă rolul „{3}” |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} a făcut schimb de roluri cu {1}: {0} joacă rolul „{2}”, {1} joacă rolul „{3}” |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} a făcut schimb de roluri cu {1}: {0} joacă acum rolul „{2}”, {1} joacă acum rolul „{3}” |
+| `Hardware Acceleration` | Hardware Acceleration | Accelerare hardware |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Desenează jocul cu placa video în loc de procesor, așa că procesorul e mult mai puțin solicitat. Dacă ecranul rămâne negru cât e pornită, jocul o oprește singur. |
+| `Restart the game to apply.` | Restart the game to apply. | Repornește jocul ca să se aplice. |
+| `Restart now` | Restart now | Repornește acum |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | Jocul este desenat de placa video. |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Placa video nu a putut fi folosită la această pornire, așa că jocul este desenat de procesor. |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Oprită: jocul nu a desenat nimic cât a fost pornită. |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | Jocul este desenat de procesor. |

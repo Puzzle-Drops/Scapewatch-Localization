@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бард |
 | Discover | Откритие |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0} размени ролите с {1} от следващия рунд: {0} играе с ролята „{2}“, {1} играе с ролята „{3}“ |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} размени ролите с {1}: {0} играе с ролята „{2}“, {1} играе с ролята „{3}“ |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} размени ролите с {1}: {0} вече играе с ролята „{2}“, {1} вече играе с ролята „{3}“ |
+| `Hardware Acceleration` | Hardware Acceleration | Хардуерно ускорение |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Изобразява играта с видеокартата вместо с процесора, което силно намалява натоварването на процесора. Ако екранът остане черен, докато е включено, играта сама го изключва. |
+| `Restart the game to apply.` | Restart the game to apply. | Рестартирайте играта, за да влезе в сила. |
+| `Restart now` | Restart now | Рестартирай сега |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | Играта се изобразява с видеокартата. |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Видеокартата не можа да се използва при това стартиране, затова играта се изобразява с процесора. |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Изключено: играта не изобрази нищо, докато беше включено. |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | Играта се изобразява с процесора. |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Tuklasin |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | Nakipagpalit ng tungkulin si {0} kay {1} simula sa susunod na run: si {0} ay {2}, si {1} ay {3} |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | Nakipagpalit ng tungkulin si {0} kay {1}: si {0} ay {2}, si {1} ay {3} |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | Nakipagpalit ng tungkulin si {0} kay {1}: si {0} na ngayon ang {2}, si {1} na ngayon ang {3} |
+| `Hardware Acceleration` | Hardware Acceleration | Hardware Acceleration |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Iginuguhit ang laro gamit ang graphics card sa halip na ang CPU, kaya mas kaunting CPU ang nagagamit. Kapag nanatiling itim ang screen habang naka-on ito, kusa itong papatayin ng laro. |
+| `Restart the game to apply.` | Restart the game to apply. | I-restart ang laro para mailapat. |
+| `Restart now` | Restart now | Mag-restart ngayon |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | Iginuguhit ang laro gamit ang graphics card. |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Hindi magamit ang graphics card sa launch na ito, kaya iginuguhit ang laro gamit ang CPU. |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Pinatay: walang naiguhit ang laro habang naka-on ito. |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | Iginuguhit ang laro gamit ang CPU. |

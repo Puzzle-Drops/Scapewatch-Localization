@@ -10976,5 +10976,13 @@
   "@lobby_role_next_run": "{0} будет играть роль «{1}» со следующего забега",
   "@lobby_role_swap_next": "{0} и {1} меняются ролями со следующего забега: {0} играет роль «{2}», {1} играет роль «{3}»",
   "@lobby_role_swap": "{0} и {1} поменялись ролями: {0} играет роль «{2}», {1} играет роль «{3}»",
-  "@lobby_role_swap_now": "{0} и {1} поменялись ролями: {0} теперь играет роль «{2}», {1} теперь играет роль «{3}»"
+  "@lobby_role_swap_now": "{0} и {1} поменялись ролями: {0} теперь играет роль «{2}», {1} теперь играет роль «{3}»",
+  "Hardware Acceleration": "Аппаратное ускорение",
+  "Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.": "Игра отрисовывается видеокартой вместо процессора, и нагрузка на процессор становится намного меньше. Если при включённом ускорении экран остаётся чёрным, игра сама его отключит.",
+  "Restart the game to apply.": "Перезапустите игру, чтобы применить изменение.",
+  "Restart now": "Перезапустить сейчас",
+  "The game is drawing on your graphics card.": "Игра отрисовывается видеокартой.",
+  "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "Видеокарту не удалось использовать при этом запуске, поэтому игра отрисовывается процессором.",
+  "Turned off: the game did not draw with it on.": "Отключено: при включённом ускорении игра ничего не отрисовала.",
+  "The game is drawing on the CPU.": "Игра отрисовывается процессором."
 }

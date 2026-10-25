@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Βάρδος |
 | Discover | Ανακάλυψη |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0} και {1} αντάλλαξαν ρόλους από τον επόμενο γύρο: {0} παίζει τον ρόλο «{2}», {1} παίζει τον ρόλο «{3}» |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} και {1} αντάλλαξαν ρόλους: {0} παίζει τον ρόλο «{2}», {1} παίζει τον ρόλο «{3}» |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} και {1} αντάλλαξαν ρόλους: {0} παίζει τώρα τον ρόλο «{2}», {1} παίζει τώρα τον ρόλο «{3}» |
+| `Hardware Acceleration` | Hardware Acceleration | Επιτάχυνση υλικού |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Σχεδιάζει το παιχνίδι στην κάρτα γραφικών αντί για τη CPU, με πολύ μικρότερη χρήση CPU. Αν η οθόνη μείνει μαύρη όταν είναι ενεργή, το παιχνίδι την απενεργοποιεί μόνο του. |
+| `Restart the game to apply.` | Restart the game to apply. | Κάνε επανεκκίνηση του παιχνιδιού για να εφαρμοστεί. |
+| `Restart now` | Restart now | Επανεκκίνηση τώρα |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | Το παιχνίδι σχεδιάζεται στην κάρτα γραφικών. |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Η κάρτα γραφικών δεν μπόρεσε να χρησιμοποιηθεί σε αυτή την εκκίνηση, οπότε το παιχνίδι σχεδιάζεται στη CPU. |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Απενεργοποιήθηκε: το παιχνίδι δεν σχεδίασε τίποτα όταν ήταν ενεργή. |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | Το παιχνίδι σχεδιάζεται στη CPU. |

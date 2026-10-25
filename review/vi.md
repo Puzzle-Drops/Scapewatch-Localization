@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Nhạc công |
 | Discover | Khám phá |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0} đã đổi vai trò với {1} từ lượt chơi tiếp theo: {0} đảm nhận {2}, {1} đảm nhận {3} |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} đã đổi vai trò với {1}: {0} đảm nhận {2}, {1} đảm nhận {3} |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} đã đổi vai trò với {1}: {0} giờ đảm nhận {2}, {1} giờ đảm nhận {3} |
+| `Hardware Acceleration` | Hardware Acceleration | Tăng tốc phần cứng |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Vẽ game bằng card đồ họa thay vì CPU, giúp giảm mạnh mức dùng CPU. Nếu màn hình vẫn đen khi bật, game sẽ tự tắt lại. |
+| `Restart the game to apply.` | Restart the game to apply. | Khởi động lại game để áp dụng. |
+| `Restart now` | Restart now | Khởi động lại ngay |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | Game đang được vẽ bằng card đồ họa. |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Không thể dùng card đồ họa trong lần khởi động này, nên game đang được vẽ bằng CPU. |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Đã tắt: game không vẽ được gì khi bật. |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | Game đang được vẽ bằng CPU. |

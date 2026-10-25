@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0}與{1}交換了角色，從下一輪起生效：{0}負責{2}，{1}負責{3} |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0}與{1}交換了角色：{0}負責{2}，{1}負責{3} |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0}與{1}交換了角色：{0}現在負責{2}，{1}現在負責{3} |
+| `Hardware Acceleration` | Hardware Acceleration | 硬體加速 |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | 用顯示卡而非處理器繪製遊戲，大幅降低處理器使用率。開啟後若畫面一直是黑的，遊戲會自動將其關閉。 |
+| `Restart the game to apply.` | Restart the game to apply. | 重新啟動遊戲後生效。 |
+| `Restart now` | Restart now | 立即重新啟動 |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | 遊戲正在使用顯示卡繪製。 |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | 本次啟動無法使用顯示卡，遊戲正在使用處理器繪製。 |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | 已關閉：開啟時遊戲沒有顯示畫面。 |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | 遊戲正在使用處理器繪製。 |

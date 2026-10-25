@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardo |
 | Discover | Descoberta |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0} trocou de função com {1} a partir da próxima incursão: {0} joga como {2}, {1} joga como {3} |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} trocou de função com {1}: {0} joga como {2}, {1} joga como {3} |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} trocou de função com {1}: {0} agora joga como {2}, {1} agora joga como {3} |
+| `Hardware Acceleration` | Hardware Acceleration | Aceleração por hardware |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Desenha o jogo na placa gráfica em vez do CPU, com um uso de CPU muito menor. Se o ecrã ficar preto com ela ativada, o jogo desativa-a sozinho. |
+| `Restart the game to apply.` | Restart the game to apply. | Reinicia o jogo para aplicar. |
+| `Restart now` | Restart now | Reiniciar agora |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | O jogo está a ser desenhado pela placa gráfica. |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Não foi possível usar a placa gráfica neste arranque, por isso o jogo está a ser desenhado pelo CPU. |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Desativada: o jogo não desenhou nada com ela ativada. |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | O jogo está a ser desenhado pelo CPU. |

@@ -10976,5 +10976,13 @@
   "@lobby_role_next_run": "{0} гратиме роль «{1}» з наступного забігу",
   "@lobby_role_swap_next": "{0} і {1} міняються ролями з наступного забігу: {0} грає роль «{2}», {1} грає роль «{3}»",
   "@lobby_role_swap": "{0} і {1} помінялися ролями: {0} грає роль «{2}», {1} грає роль «{3}»",
-  "@lobby_role_swap_now": "{0} і {1} помінялися ролями: {0} тепер грає роль «{2}», {1} тепер грає роль «{3}»"
+  "@lobby_role_swap_now": "{0} і {1} помінялися ролями: {0} тепер грає роль «{2}», {1} тепер грає роль «{3}»",
+  "Hardware Acceleration": "Апаратне прискорення",
+  "Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.": "Гра малюється відеокартою замість процесора, і навантаження на процесор стає набагато меншим. Якщо з увімкненим прискоренням екран залишається чорним, гра сама його вимкне.",
+  "Restart the game to apply.": "Перезапустіть гру, щоб застосувати зміну.",
+  "Restart now": "Перезапустити зараз",
+  "The game is drawing on your graphics card.": "Гра малюється відеокартою.",
+  "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "Відеокарту не вдалося використати під час цього запуску, тому гра малюється процесором.",
+  "Turned off: the game did not draw with it on.": "Вимкнено: з увімкненим прискоренням гра нічого не намалювала.",
+  "The game is drawing on the CPU.": "Гра малюється процесором."
 }

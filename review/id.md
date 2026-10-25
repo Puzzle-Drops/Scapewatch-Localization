@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Temukan |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0} bertukar peran dengan {1} mulai putaran berikutnya: {0} memainkan {2}, {1} memainkan {3} |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} bertukar peran dengan {1}: {0} memainkan {2}, {1} memainkan {3} |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} bertukar peran dengan {1}: {0} kini memainkan {2}, {1} kini memainkan {3} |
+| `Hardware Acceleration` | Hardware Acceleration | Akselerasi Perangkat Keras |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Menggambar game dengan kartu grafis alih-alih CPU, sehingga penggunaan CPU jauh lebih rendah. Jika layar tetap hitam saat diaktifkan, game akan mematikannya sendiri. |
+| `Restart the game to apply.` | Restart the game to apply. | Mulai ulang game untuk menerapkannya. |
+| `Restart now` | Restart now | Mulai ulang sekarang |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | Game sedang digambar dengan kartu grafis. |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Kartu grafis tidak dapat digunakan pada peluncuran ini, jadi game digambar dengan CPU. |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Dimatikan: game tidak menggambar apa pun saat fitur ini aktif. |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | Game sedang digambar dengan CPU. |

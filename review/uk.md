@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бардівство |
 | Discover | Дослідження |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0} і {1} міняються ролями з наступного забігу: {0} грає роль «{2}», {1} грає роль «{3}» |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} і {1} помінялися ролями: {0} грає роль «{2}», {1} грає роль «{3}» |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} і {1} помінялися ролями: {0} тепер грає роль «{2}», {1} тепер грає роль «{3}» |
+| `Hardware Acceleration` | Hardware Acceleration | Апаратне прискорення |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Гра малюється відеокартою замість процесора, і навантаження на процесор стає набагато меншим. Якщо з увімкненим прискоренням екран залишається чорним, гра сама його вимкне. |
+| `Restart the game to apply.` | Restart the game to apply. | Перезапустіть гру, щоб застосувати зміну. |
+| `Restart now` | Restart now | Перезапустити зараз |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | Гра малюється відеокартою. |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Відеокарту не вдалося використати під час цього запуску, тому гра малюється процесором. |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Вимкнено: з увімкненим прискоренням гра нічого не намалювала. |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | Гра малюється процесором. |

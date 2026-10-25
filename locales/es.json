@@ -10976,5 +10976,13 @@
   "@lobby_role_next_run": "{0} jugará como {1} desde la próxima partida",
   "@lobby_role_swap_next": "{0} intercambió roles con {1} desde la próxima partida: {0} juega como {2}, {1} juega como {3}",
   "@lobby_role_swap": "{0} intercambió roles con {1}: {0} juega como {2}, {1} juega como {3}",
-  "@lobby_role_swap_now": "{0} intercambió roles con {1}: {0} ahora juega como {2}, {1} ahora juega como {3}"
+  "@lobby_role_swap_now": "{0} intercambió roles con {1}: {0} ahora juega como {2}, {1} ahora juega como {3}",
+  "Hardware Acceleration": "Aceleración por hardware",
+  "Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.": "Dibuja el juego con la tarjeta gráfica en lugar de la CPU, con un uso de CPU mucho menor. Si la pantalla se queda en negro al activarla, el juego la desactiva solo.",
+  "Restart the game to apply.": "Reinicia el juego para aplicarlo.",
+  "Restart now": "Reiniciar ahora",
+  "The game is drawing on your graphics card.": "El juego se está dibujando con la tarjeta gráfica.",
+  "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "No se pudo usar la tarjeta gráfica en este inicio, así que el juego se está dibujando con la CPU.",
+  "Turned off: the game did not draw with it on.": "Desactivada: el juego no dibujó nada con ella activada.",
+  "The game is drawing on the CPU.": "El juego se está dibujando con la CPU."
 }

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | กวี |
 | Discover | ค้นพบ |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0} สลับบทบาทกับ {1} ตั้งแต่รอบถัดไป: {0} รับบท {2} และ {1} รับบท {3} |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} สลับบทบาทกับ {1}: {0} รับบท {2} และ {1} รับบท {3} |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} สลับบทบาทกับ {1}: ตอนนี้ {0} รับบท {2} และ {1} รับบท {3} |
+| `Hardware Acceleration` | Hardware Acceleration | การเร่งด้วยฮาร์ดแวร์ |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | วาดเกมด้วยการ์ดจอแทน CPU ทำให้ใช้ CPU น้อยลงมาก หากหน้าจอยังดำอยู่ขณะเปิดใช้ เกมจะปิดให้เองโดยอัตโนมัติ |
+| `Restart the game to apply.` | Restart the game to apply. | รีสตาร์ทเกมเพื่อให้มีผล |
+| `Restart now` | Restart now | รีสตาร์ทตอนนี้ |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | เกมกำลังวาดด้วยการ์ดจอ |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | ไม่สามารถใช้การ์ดจอในการเปิดเกมครั้งนี้ได้ เกมจึงวาดด้วย CPU |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | ปิดแล้ว เกมไม่แสดงภาพขณะเปิดใช้ |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | เกมกำลังวาดด้วย CPU |

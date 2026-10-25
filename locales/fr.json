@@ -10976,5 +10976,13 @@
   "@lobby_role_next_run": "{0} jouera {1} à partir de la prochaine expédition",
   "@lobby_role_swap_next": "{0} a échangé de rôle avec {1} à partir de la prochaine expédition : {0} joue {2}, {1} joue {3}",
   "@lobby_role_swap": "{0} a échangé de rôle avec {1} : {0} joue {2}, {1} joue {3}",
-  "@lobby_role_swap_now": "{0} a échangé de rôle avec {1} : {0} joue maintenant {2}, {1} joue maintenant {3}"
+  "@lobby_role_swap_now": "{0} a échangé de rôle avec {1} : {0} joue maintenant {2}, {1} joue maintenant {3}",
+  "Hardware Acceleration": "Accélération matérielle",
+  "Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.": "Affiche le jeu avec la carte graphique plutôt qu'avec le processeur, ce qui sollicite beaucoup moins le processeur. Si l'écran reste noir quand elle est activée, le jeu la désactive de lui-même.",
+  "Restart the game to apply.": "Redémarrez le jeu pour appliquer ce réglage.",
+  "Restart now": "Redémarrer maintenant",
+  "The game is drawing on your graphics card.": "Le jeu est affiché par la carte graphique.",
+  "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "La carte graphique n'a pas pu être utilisée à ce lancement, le jeu est donc affiché par le processeur.",
+  "Turned off: the game did not draw with it on.": "Désactivée : le jeu n'affichait rien quand elle était activée.",
+  "The game is drawing on the CPU.": "Le jeu est affiché par le processeur."
 }

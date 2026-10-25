@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardi |
 | Discover | Tutki |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0} vaihtoi rooleja pelaajan {1} kanssa seuraavasta kierroksesta alkaen: {0} pelaa roolia {2}, {1} pelaa roolia {3} |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} vaihtoi rooleja pelaajan {1} kanssa: {0} pelaa roolia {2}, {1} pelaa roolia {3} |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} vaihtoi rooleja pelaajan {1} kanssa: {0} pelaa nyt roolia {2}, {1} pelaa nyt roolia {3} |
+| `Hardware Acceleration` | Hardware Acceleration | Laitteistokiihdytys |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Piirtää pelin näytönohjaimella prosessorin sijaan, jolloin prosessoria kuormitetaan paljon vähemmän. Jos näyttö jää mustaksi, kun se on päällä, peli kytkee sen itse pois. |
+| `Restart the game to apply.` | Restart the game to apply. | Käynnistä peli uudelleen, jotta muutos tulee voimaan. |
+| `Restart now` | Restart now | Käynnistä uudelleen nyt |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | Peli piirretään näytönohjaimella. |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Näytönohjainta ei voitu käyttää tällä käynnistyskerralla, joten peli piirretään prosessorilla. |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Pois päältä: peli ei piirtänyt mitään, kun se oli päällä. |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | Peli piirretään prosessorilla. |

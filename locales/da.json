@@ -10976,5 +10976,13 @@
   "@lobby_role_next_run": "{0} spiller {1} fra næste gennemløb",
   "@lobby_role_swap_next": "{0} byttede roller med {1} fra næste gennemløb: {0} spiller {2}, {1} spiller {3}",
   "@lobby_role_swap": "{0} byttede roller med {1}: {0} spiller {2}, {1} spiller {3}",
-  "@lobby_role_swap_now": "{0} byttede roller med {1}: {0} spiller nu {2}, {1} spiller nu {3}"
+  "@lobby_role_swap_now": "{0} byttede roller med {1}: {0} spiller nu {2}, {1} spiller nu {3}",
+  "Hardware Acceleration": "Hardwareacceleration",
+  "Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.": "Tegner spillet på grafikkortet i stedet for CPU'en, så CPU'en bruges meget mindre. Hvis skærmen forbliver sort, mens den er slået til, slår spillet den selv fra igen.",
+  "Restart the game to apply.": "Genstart spillet for at anvende ændringen.",
+  "Restart now": "Genstart nu",
+  "The game is drawing on your graphics card.": "Spillet tegnes på grafikkortet.",
+  "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "Grafikkortet kunne ikke bruges ved denne opstart, så spillet tegnes på CPU'en.",
+  "Turned off: the game did not draw with it on.": "Slået fra: spillet tegnede intet, mens den var slået til.",
+  "The game is drawing on the CPU.": "Spillet tegnes på CPU'en."
 }

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Oppdag |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0} byttet roller med {1} fra neste runde: {0} spiller {2}, {1} spiller {3} |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} byttet roller med {1}: {0} spiller {2}, {1} spiller {3} |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} byttet roller med {1}: {0} spiller nå {2}, {1} spiller nå {3} |
+| `Hardware Acceleration` | Hardware Acceleration | Maskinvareakselerasjon |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Tegner spillet med skjermkortet i stedet for prosessoren, så prosessoren belastes mye mindre. Hvis skjermen forblir svart når den er på, slår spillet den av igjen selv. |
+| `Restart the game to apply.` | Restart the game to apply. | Start spillet på nytt for å ta i bruk endringen. |
+| `Restart now` | Restart now | Start på nytt nå |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | Spillet tegnes med skjermkortet. |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Skjermkortet kunne ikke brukes ved denne oppstarten, så spillet tegnes med prosessoren. |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Slått av: spillet tegnet ingenting da den var på. |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | Spillet tegnes med prosessoren. |

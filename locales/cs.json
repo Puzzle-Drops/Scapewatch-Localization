@@ -10976,5 +10976,13 @@
   "@lobby_role_next_run": "{0} bude od příštího průchodu hrát roli {1}",
   "@lobby_role_swap_next": "{0} si od příštího průchodu vyměnil role s hráčem {1}: {0} hraje roli {2}, {1} hraje roli {3}",
   "@lobby_role_swap": "{0} si vyměnil role s hráčem {1}: {0} hraje roli {2}, {1} hraje roli {3}",
-  "@lobby_role_swap_now": "{0} si vyměnil role s hráčem {1}: {0} nyní hraje roli {2}, {1} nyní hraje roli {3}"
+  "@lobby_role_swap_now": "{0} si vyměnil role s hráčem {1}: {0} nyní hraje roli {2}, {1} nyní hraje roli {3}",
+  "Hardware Acceleration": "Hardwarová akcelerace",
+  "Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.": "Vykresluje hru na grafické kartě místo na procesoru, takže procesor je mnohem méně vytížený. Pokud obrazovka po zapnutí zůstane černá, hra akceleraci sama zase vypne.",
+  "Restart the game to apply.": "Změna se projeví po restartu hry.",
+  "Restart now": "Restartovat nyní",
+  "The game is drawing on your graphics card.": "Hra se vykresluje na grafické kartě.",
+  "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "Grafickou kartu se při tomto spuštění nepodařilo použít, proto se hra vykresluje na procesoru.",
+  "Turned off: the game did not draw with it on.": "Vypnuto: se zapnutou akcelerací hra nic nevykreslila.",
+  "The game is drawing on the CPU.": "Hra se vykresluje na procesoru."
 }

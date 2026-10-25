@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 음유 |
 | Discover | 탐험 |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0} 님이 다음 도전부터 {1} 님과 역할을 교체합니다: {0} 님은 {2} 담당, {1} 님은 {3} 담당 |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} 님이 {1} 님과 역할을 교체했습니다: {0} 님은 {2} 담당, {1} 님은 {3} 담당 |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} 님이 {1} 님과 역할을 교체했습니다: 이제 {0} 님은 {2} 담당, {1} 님은 {3} 담당 |
+| `Hardware Acceleration` | Hardware Acceleration | 하드웨어 가속 |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | CPU 대신 그래픽 카드로 게임을 그려 CPU 사용량이 크게 줄어듭니다. 켠 상태에서 화면이 검게 유지되면 게임이 자동으로 다시 끕니다. |
+| `Restart the game to apply.` | Restart the game to apply. | 적용하려면 게임을 다시 시작하세요. |
+| `Restart now` | Restart now | 지금 다시 시작 |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | 그래픽 카드로 게임을 그리고 있습니다. |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | 이번 실행에서는 그래픽 카드를 사용할 수 없어 CPU로 게임을 그리고 있습니다. |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | 꺼짐: 켠 상태에서 게임이 화면을 그리지 못했습니다. |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | CPU로 게임을 그리고 있습니다. |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Upptäck |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0} bytte roller med {1} från nästa körning: {0} spelar {2}, {1} spelar {3} |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} bytte roller med {1}: {0} spelar {2}, {1} spelar {3} |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} bytte roller med {1}: {0} spelar nu {2}, {1} spelar nu {3} |
+| `Hardware Acceleration` | Hardware Acceleration | Hårdvaruacceleration |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Ritar spelet med grafikkortet i stället för processorn, så processorn belastas mycket mindre. Om skärmen förblir svart när den är på stänger spelet av den själv igen. |
+| `Restart the game to apply.` | Restart the game to apply. | Starta om spelet för att tillämpa ändringen. |
+| `Restart now` | Restart now | Starta om nu |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | Spelet ritas med grafikkortet. |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Grafikkortet kunde inte användas vid den här starten, så spelet ritas med processorn. |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Avstängd: spelet ritade ingenting när den var på. |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | Spelet ritas med processorn. |

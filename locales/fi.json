@@ -10976,5 +10976,13 @@
   "@lobby_role_next_run": "{0} pelaa seuraavasta kierroksesta alkaen roolia {1}",
   "@lobby_role_swap_next": "{0} vaihtoi rooleja pelaajan {1} kanssa seuraavasta kierroksesta alkaen: {0} pelaa roolia {2}, {1} pelaa roolia {3}",
   "@lobby_role_swap": "{0} vaihtoi rooleja pelaajan {1} kanssa: {0} pelaa roolia {2}, {1} pelaa roolia {3}",
-  "@lobby_role_swap_now": "{0} vaihtoi rooleja pelaajan {1} kanssa: {0} pelaa nyt roolia {2}, {1} pelaa nyt roolia {3}"
+  "@lobby_role_swap_now": "{0} vaihtoi rooleja pelaajan {1} kanssa: {0} pelaa nyt roolia {2}, {1} pelaa nyt roolia {3}",
+  "Hardware Acceleration": "Laitteistokiihdytys",
+  "Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.": "Piirtää pelin näytönohjaimella prosessorin sijaan, jolloin prosessoria kuormitetaan paljon vähemmän. Jos näyttö jää mustaksi, kun se on päällä, peli kytkee sen itse pois.",
+  "Restart the game to apply.": "Käynnistä peli uudelleen, jotta muutos tulee voimaan.",
+  "Restart now": "Käynnistä uudelleen nyt",
+  "The game is drawing on your graphics card.": "Peli piirretään näytönohjaimella.",
+  "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "Näytönohjainta ei voitu käyttää tällä käynnistyskerralla, joten peli piirretään prosessorilla.",
+  "Turned off: the game did not draw with it on.": "Pois päältä: peli ei piirtänyt mitään, kun se oli päällä.",
+  "The game is drawing on the CPU.": "Peli piirretään prosessorilla."
 }

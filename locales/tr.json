@@ -10976,5 +10976,13 @@
   "@lobby_role_next_run": "{0} bir sonraki turdan itibaren {1} rolünü oynayacak",
   "@lobby_role_swap_next": "{0}, {1} ile bir sonraki turdan itibaren rol değiştirdi: {0} {2} rolünü, {1} {3} rolünü oynuyor",
   "@lobby_role_swap": "{0}, {1} ile rol değiştirdi: {0} {2} rolünü, {1} {3} rolünü oynuyor",
-  "@lobby_role_swap_now": "{0}, {1} ile rol değiştirdi: {0} artık {2} rolünü, {1} artık {3} rolünü oynuyor"
+  "@lobby_role_swap_now": "{0}, {1} ile rol değiştirdi: {0} artık {2} rolünü, {1} artık {3} rolünü oynuyor",
+  "Hardware Acceleration": "Donanım Hızlandırma",
+  "Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.": "Oyunu işlemci yerine ekran kartıyla çizer, böylece işlemci çok daha az yorulur. Açıkken ekran siyah kalırsa oyun onu kendiliğinden kapatır.",
+  "Restart the game to apply.": "Uygulamak için oyunu yeniden başlat.",
+  "Restart now": "Şimdi yeniden başlat",
+  "The game is drawing on your graphics card.": "Oyun ekran kartıyla çiziliyor.",
+  "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "Bu açılışta ekran kartı kullanılamadı, bu yüzden oyun işlemciyle çiziliyor.",
+  "Turned off: the game did not draw with it on.": "Kapatıldı: açıkken oyun hiçbir şey çizmedi.",
+  "The game is drawing on the CPU.": "Oyun işlemciyle çiziliyor."
 }

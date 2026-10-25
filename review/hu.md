@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bárd |
 | Discover | Felfedezés |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0} és {1} szerepet cseréltek a következő futamtól: {0} szerepe: {2}, {1} szerepe: {3} |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} és {1} szerepet cseréltek: {0} szerepe: {2}, {1} szerepe: {3} |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} és {1} szerepet cseréltek: {0} szerepe mostantól: {2}, {1} szerepe mostantól: {3} |
+| `Hardware Acceleration` | Hardware Acceleration | Hardveres gyorsítás |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | A játékot a videokártya rajzolja a processzor helyett, így sokkal kisebb a processzor terhelése. Ha bekapcsolva fekete marad a képernyő, a játék magától kikapcsolja. |
+| `Restart the game to apply.` | Restart the game to apply. | Indítsd újra a játékot a módosítás érvényesítéséhez. |
+| `Restart now` | Restart now | Újraindítás most |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | A játékot a videokártya rajzolja. |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Ennél az indításnál a videokártyát nem lehetett használni, ezért a játékot a processzor rajzolja. |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Kikapcsolva: bekapcsolva a játék nem rajzolt ki semmit. |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | A játékot a processzor rajzolja. |

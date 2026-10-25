@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardo |
 | Discover | Descubrimiento |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0} intercambió roles con {1} desde la próxima partida: {0} juega como {2}, {1} juega como {3} |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} intercambió roles con {1}: {0} juega como {2}, {1} juega como {3} |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} intercambió roles con {1}: {0} ahora juega como {2}, {1} ahora juega como {3} |
+| `Hardware Acceleration` | Hardware Acceleration | Aceleración por hardware |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Dibuja el juego con la tarjeta gráfica en lugar de la CPU, con un uso de CPU mucho menor. Si la pantalla se queda en negro al activarla, el juego la desactiva solo. |
+| `Restart the game to apply.` | Restart the game to apply. | Reinicia el juego para aplicarlo. |
+| `Restart now` | Restart now | Reiniciar ahora |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | El juego se está dibujando con la tarjeta gráfica. |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | No se pudo usar la tarjeta gráfica en este inicio, así que el juego se está dibujando con la CPU. |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Desactivada: el juego no dibujó nada con ella activada. |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | El juego se está dibujando con la CPU. |

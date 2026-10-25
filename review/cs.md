@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Objevování |
 
-## Lines to review (444)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -514,3 +514,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0} si od příštího průchodu vyměnil role s hráčem {1}: {0} hraje roli {2}, {1} hraje roli {3} |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} si vyměnil role s hráčem {1}: {0} hraje roli {2}, {1} hraje roli {3} |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} si vyměnil role s hráčem {1}: {0} nyní hraje roli {2}, {1} nyní hraje roli {3} |
+| `Hardware Acceleration` | Hardware Acceleration | Hardwarová akcelerace |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Vykresluje hru na grafické kartě místo na procesoru, takže procesor je mnohem méně vytížený. Pokud obrazovka po zapnutí zůstane černá, hra akceleraci sama zase vypne. |
+| `Restart the game to apply.` | Restart the game to apply. | Změna se projeví po restartu hry. |
+| `Restart now` | Restart now | Restartovat nyní |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | Hra se vykresluje na grafické kartě. |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Grafickou kartu se při tomto spuštění nepodařilo použít, proto se hra vykresluje na procesoru. |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Vypnuto: se zapnutou akcelerací hra nic nevykreslila. |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | Hra se vykresluje na procesoru. |

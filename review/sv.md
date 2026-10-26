@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Upptäck |
 
-## Lines to review (452)
+## Lines to review (453)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,4 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Grafikkortet kunde inte användas vid den här starten, så spelet ritas med processorn. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Avstängd: spelet ritade ingenting när den var på. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Spelet ritas med processorn. |
+| `Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU` | Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU | Linux: ny inställning Hårdvaruacceleration under Inställningar > Build. Slå på den för att rita spelet med grafikkortet och belasta processorn mycket mindre |

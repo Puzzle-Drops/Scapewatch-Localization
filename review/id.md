@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Temukan |
 
-## Lines to review (452)
+## Lines to review (453)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,4 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Kartu grafis tidak dapat digunakan pada peluncuran ini, jadi game digambar dengan CPU. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Dimatikan: game tidak menggambar apa pun saat fitur ini aktif. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Game sedang digambar dengan CPU. |
+| `Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU` | Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU | Linux: pengaturan baru Akselerasi Perangkat Keras di Pengaturan > Build. Aktifkan untuk menggambar game dengan kartu grafis dan memakai CPU jauh lebih sedikit |

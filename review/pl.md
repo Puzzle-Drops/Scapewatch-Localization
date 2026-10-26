@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Pieśń |
 | Discover | Odkrywanie |
 
-## Lines to review (452)
+## Lines to review (453)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,4 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Przy tym uruchomieniu nie udało się użyć karty graficznej, więc gra jest rysowana na procesorze. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Wyłączono: po włączeniu gra niczego nie rysowała. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Gra jest rysowana na procesorze. |
+| `Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU` | Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU | Linux: nowe ustawienie Akceleracja sprzętowa w Ustawienia > Kompilacja. Włącz je, aby gra była rysowana na karcie graficznej, a procesor był dużo mniej obciążony |

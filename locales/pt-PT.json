@@ -10984,5 +10984,6 @@
   "The game is drawing on your graphics card.": "O jogo está a ser desenhado pela placa gráfica.",
   "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "Não foi possível usar a placa gráfica neste arranque, por isso o jogo está a ser desenhado pelo CPU.",
   "Turned off: the game did not draw with it on.": "Desativada: o jogo não desenhou nada com ela ativada.",
-  "The game is drawing on the CPU.": "O jogo está a ser desenhado pelo CPU."
+  "The game is drawing on the CPU.": "O jogo está a ser desenhado pelo CPU.",
+  "Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU": "Linux: nova definição Aceleração por hardware em Definições > Versão. Ativa-a para desenhar o jogo na placa gráfica e usar muito menos CPU"
 }

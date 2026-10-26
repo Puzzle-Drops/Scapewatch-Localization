@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (452)
+## Lines to review (453)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,4 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | 今回の起動ではグラフィックカードを使用できなかったため、CPUでゲームを描画しています。 |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | オフにしました：オンのときにゲームが描画されませんでした。 |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | CPUでゲームを描画しています。 |
+| `Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU` | Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU | Linux：設定 > ビルド にハードウェアアクセラレーション設定を追加。オンにするとグラフィックカードでゲームを描画し、CPU使用率を大きく下げます |

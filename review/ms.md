@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Penyair |
 | Discover | Terokai |
 
-## Lines to review (452)
+## Lines to review (453)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,4 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Kad grafik tidak dapat digunakan pada pelancaran ini, jadi permainan dilukis dengan CPU. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Dimatikan: permainan tidak melukis apa-apa apabila ia dihidupkan. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Permainan sedang dilukis dengan CPU. |
+| `Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU` | Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU | Linux: tetapan baharu Pecutan Perkakasan di Tetapan > Build. Hidupkan untuk melukis permainan dengan kad grafik dan menggunakan jauh kurang CPU |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Objevování |
 
-## Lines to review (452)
+## Lines to review (453)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,4 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Grafickou kartu se při tomto spuštění nepodařilo použít, proto se hra vykresluje na procesoru. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Vypnuto: se zapnutou akcelerací hra nic nevykreslila. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Hra se vykresluje na procesoru. |
+| `Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU` | Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU | Linux: nové nastavení Hardwarová akcelerace v Nastavení > Sestavení. Zapni ho a hra se bude vykreslovat na grafické kartě s mnohem menším vytížením procesoru |

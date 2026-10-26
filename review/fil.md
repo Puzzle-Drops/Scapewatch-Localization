@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Tuklasin |
 
-## Lines to review (452)
+## Lines to review (453)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,4 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Hindi magamit ang graphics card sa launch na ito, kaya iginuguhit ang laro gamit ang CPU. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Pinatay: walang naiguhit ang laro habang naka-on ito. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Iginuguhit ang laro gamit ang CPU. |
+| `Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU` | Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU | Linux: bagong setting na Hardware Acceleration sa Mga Setting > Build. I-on ito para iguhit ang laro gamit ang graphics card at bumaba nang malaki ang paggamit ng CPU |

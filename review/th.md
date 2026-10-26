@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | กวี |
 | Discover | ค้นพบ |
 
-## Lines to review (452)
+## Lines to review (453)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,4 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | ไม่สามารถใช้การ์ดจอในการเปิดเกมครั้งนี้ได้ เกมจึงวาดด้วย CPU |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | ปิดแล้ว เกมไม่แสดงภาพขณะเปิดใช้ |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | เกมกำลังวาดด้วย CPU |
+| `Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU` | Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU | Linux: การตั้งค่าใหม่ การเร่งด้วยฮาร์ดแวร์ ใน การตั้งค่า > Build เปิดใช้เพื่อวาดเกมด้วยการ์ดจอและใช้ CPU น้อยลงมาก |

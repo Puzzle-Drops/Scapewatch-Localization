@@ -10984,5 +10984,6 @@
   "The game is drawing on your graphics card.": "Jocul este desenat de placa video.",
   "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "Placa video nu a putut fi folosită la această pornire, așa că jocul este desenat de procesor.",
   "Turned off: the game did not draw with it on.": "Oprită: jocul nu a desenat nimic cât a fost pornită.",
-  "The game is drawing on the CPU.": "Jocul este desenat de procesor."
+  "The game is drawing on the CPU.": "Jocul este desenat de procesor.",
+  "Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU": "Linux: setare nouă Accelerare hardware în Setări > Build. Pornește-o ca jocul să fie desenat de placa video și procesorul să fie mult mai puțin solicitat"
 }

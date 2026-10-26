@@ -10984,5 +10984,7 @@
   "The game is drawing on your graphics card.": "그래픽 카드로 게임을 그리고 있습니다.",
   "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "이번 실행에서는 그래픽 카드를 사용할 수 없어 CPU로 게임을 그리고 있습니다.",
   "Turned off: the game did not draw with it on.": "꺼짐: 켠 상태에서 게임이 화면을 그리지 못했습니다.",
-  "The game is drawing on the CPU.": "CPU로 게임을 그리고 있습니다."
+  "The game is drawing on the CPU.": "CPU로 게임을 그리고 있습니다.",
+  "@invited_raid_world": "{0}님이 월드 {1}의 레이드에 초대했습니다. 이름 아래의 초대를 확인하세요.",
+  "@invited_fortress_world": "{0}님이 월드 {1}의 시련장 파티에 초대했습니다. 이름 아래의 초대를 확인하세요."
 }

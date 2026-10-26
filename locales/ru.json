@@ -10984,5 +10984,7 @@
   "The game is drawing on your graphics card.": "Игра отрисовывается видеокартой.",
   "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "Видеокарту не удалось использовать при этом запуске, поэтому игра отрисовывается процессором.",
   "Turned off: the game did not draw with it on.": "Отключено: при включённом ускорении игра ничего не отрисовала.",
-  "The game is drawing on the CPU.": "Игра отрисовывается процессором."
+  "The game is drawing on the CPU.": "Игра отрисовывается процессором.",
+  "@invited_raid_world": "{0} приглашает вас в рейд (Мир {1}). Смотрите «Приглашения» под вашим именем.",
+  "@invited_fortress_world": "{0} приглашает вас в группу Гонтлета (Мир {1}). Смотрите «Приглашения» под вашим именем."
 }

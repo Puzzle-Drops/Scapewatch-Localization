@@ -10984,5 +10984,7 @@
   "The game is drawing on your graphics card.": "Game sedang digambar dengan kartu grafis.",
   "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "Kartu grafis tidak dapat digunakan pada peluncuran ini, jadi game digambar dengan CPU.",
   "Turned off: the game did not draw with it on.": "Dimatikan: game tidak menggambar apa pun saat fitur ini aktif.",
-  "The game is drawing on the CPU.": "Game sedang digambar dengan CPU."
+  "The game is drawing on the CPU.": "Game sedang digambar dengan CPU.",
+  "@invited_raid_world": "{0} mengundangmu ke raid di Dunia {1}. Lihat Undangan di bawah namamu.",
+  "@invited_fortress_world": "{0} mengundangmu ke kelompok Gauntlet di Dunia {1}. Lihat Undangan di bawah namamu."
 }

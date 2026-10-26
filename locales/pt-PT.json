@@ -10984,5 +10984,7 @@
   "The game is drawing on your graphics card.": "O jogo está a ser desenhado pela placa gráfica.",
   "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "Não foi possível usar a placa gráfica neste arranque, por isso o jogo está a ser desenhado pelo CPU.",
   "Turned off: the game did not draw with it on.": "Desativada: o jogo não desenhou nada com ela ativada.",
-  "The game is drawing on the CPU.": "O jogo está a ser desenhado pelo CPU."
+  "The game is drawing on the CPU.": "O jogo está a ser desenhado pelo CPU.",
+  "@invited_raid_world": "{0} convidou-te para um raid no Mundo {1}. Vê os Convites por baixo do teu nome.",
+  "@invited_fortress_world": "{0} convidou-te para um grupo do Gauntlet no Mundo {1}. Vê os Convites por baixo do teu nome."
 }

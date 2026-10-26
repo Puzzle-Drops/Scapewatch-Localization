@@ -10984,5 +10984,7 @@
   "The game is drawing on your graphics card.": "Game đang được vẽ bằng card đồ họa.",
   "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "Không thể dùng card đồ họa trong lần khởi động này, nên game đang được vẽ bằng CPU.",
   "Turned off: the game did not draw with it on.": "Đã tắt: game không vẽ được gì khi bật tính năng này.",
-  "The game is drawing on the CPU.": "Game đang được vẽ bằng CPU."
+  "The game is drawing on the CPU.": "Game đang được vẽ bằng CPU.",
+  "@invited_raid_world": "{0} đã mời bạn tham gia raid ở Thế giới {1}. Xem Lời mời dưới tên của bạn.",
+  "@invited_fortress_world": "{0} đã mời bạn vào tổ đội Gauntlet ở Thế giới {1}. Xem Lời mời dưới tên của bạn."
 }

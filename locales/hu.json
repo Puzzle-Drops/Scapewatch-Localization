@@ -10984,5 +10984,7 @@
   "The game is drawing on your graphics card.": "A játékot a videokártya rajzolja.",
   "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "Ennél az indításnál a videokártyát nem lehetett használni, ezért a játékot a processzor rajzolja.",
   "Turned off: the game did not draw with it on.": "Kikapcsolva: bekapcsolva a játék nem rajzolt ki semmit.",
-  "The game is drawing on the CPU.": "A játékot a processzor rajzolja."
+  "The game is drawing on the CPU.": "A játékot a processzor rajzolja.",
+  "@invited_raid_world": "{0} meghívott egy raidbe ({1}. világ). Nézd meg a Meghívásokat a neved alatt.",
+  "@invited_fortress_world": "{0} meghívott egy Próbatétel-csapatba ({1}. világ). Nézd meg a Meghívásokat a neved alatt."
 }

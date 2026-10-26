@@ -597,5 +597,7 @@
   "@lobby_role_next_run": "{0} will play {1} from the next run",
   "@lobby_role_swap_next": "{0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3}",
   "@lobby_role_swap": "{0} swapped roles with {1}: {0} plays {2}, {1} plays {3}",
-  "@lobby_role_swap_now": "{0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3}"
+  "@lobby_role_swap_now": "{0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3}",
+  "@invited_raid_world": "{0} invited you to a raid on World {1}. See Invites under your name.",
+  "@invited_fortress_world": "{0} invited you to a Fortress party on World {1}. See Invites under your name."
 }

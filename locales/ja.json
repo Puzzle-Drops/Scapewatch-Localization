@@ -10984,5 +10984,7 @@
   "The game is drawing on your graphics card.": "グラフィックカードでゲームを描画しています。",
   "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "今回の起動ではグラフィックカードを使用できなかったため、CPUでゲームを描画しています。",
   "Turned off: the game did not draw with it on.": "オフにしました：オンのときにゲームが描画されませんでした。",
-  "The game is drawing on the CPU.": "CPUでゲームを描画しています。"
+  "The game is drawing on the CPU.": "CPUでゲームを描画しています。",
+  "@invited_raid_world": "{0}があなたをワールド {1}のレイドに招待しました。名前の下の「招待」を確認してください。",
+  "@invited_fortress_world": "{0}があなたをワールド {1}の試練場パーティーに招待しました。名前の下の「招待」を確認してください。"
 }

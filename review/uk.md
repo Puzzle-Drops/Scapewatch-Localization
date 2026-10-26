@@ -515,7 +515,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} і {1} помінялися ролями: {0} грає роль «{2}», {1} грає роль «{3}» |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} і {1} помінялися ролями: {0} тепер грає роль «{2}», {1} тепер грає роль «{3}» |
 | `Hardware Acceleration` | Hardware Acceleration | Апаратне прискорення |
-| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Гра малюється відеокартою замість процесора, і навантаження на процесор стає набагато меншим. Якщо з увімкненим прискоренням екран залишається чорним, гра сама його вимкне. |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Вмикає відмальовування гри відеокартою замість процесора, що значно зменшує навантаження на процесор. Якщо з увімкненим прискоренням екран залишається чорним, гра сама його вимкне. |
 | `Restart the game to apply.` | Restart the game to apply. | Перезапустіть гру, щоб застосувати зміну. |
 | `Restart now` | Restart now | Перезапустити зараз |
 | `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | Гра малюється відеокартою. |

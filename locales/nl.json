@@ -10978,11 +10978,11 @@
   "@lobby_role_swap": "{0} heeft van rol gewisseld met {1}: {0} speelt als {2}, {1} speelt als {3}",
   "@lobby_role_swap_now": "{0} heeft van rol gewisseld met {1}: {0} speelt nu als {2}, {1} speelt nu als {3}",
   "Hardware Acceleration": "Hardwareversnelling",
-  "Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.": "Tekent het spel met de videokaart in plaats van de CPU, zodat de CPU veel minder wordt belast. Blijft het scherm zwart als het aan staat, dan zet het spel het zelf weer uit.",
+  "Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.": "Tekent het spel met de videokaart in plaats van de CPU, zodat de CPU veel minder wordt belast. Blijft het scherm zwart als deze optie aanstaat, dan zet het spel die zelf weer uit.",
   "Restart the game to apply.": "Start het spel opnieuw om dit toe te passen.",
   "Restart now": "Nu opnieuw starten",
   "The game is drawing on your graphics card.": "Het spel wordt getekend met de videokaart.",
   "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "De videokaart kon bij deze start niet worden gebruikt, dus het spel wordt getekend met de CPU.",
-  "Turned off: the game did not draw with it on.": "Uitgezet: het spel tekende niets zolang het aan stond.",
+  "Turned off: the game did not draw with it on.": "Uitgezet: het spel tekende niets zolang deze optie aanstond.",
   "The game is drawing on the CPU.": "Het spel wordt getekend met de CPU."
 }

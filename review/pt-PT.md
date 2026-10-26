@@ -515,7 +515,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} trocou de função com {1}: {0} joga como {2}, {1} joga como {3} |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} trocou de função com {1}: {0} agora joga como {2}, {1} agora joga como {3} |
 | `Hardware Acceleration` | Hardware Acceleration | Aceleração por hardware |
-| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Desenha o jogo na placa gráfica em vez do CPU, com um uso de CPU muito menor. Se o ecrã ficar preto com ela ativada, o jogo desativa-a sozinho. |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Desenha o jogo na placa gráfica em vez do CPU, com um uso de CPU muito menor. Se o ecrã ficar preto com esta opção ativada, o jogo desativa-a sozinho. |
 | `Restart the game to apply.` | Restart the game to apply. | Reinicia o jogo para aplicar. |
 | `Restart now` | Restart now | Reiniciar agora |
 | `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | O jogo está a ser desenhado pela placa gráfica. |

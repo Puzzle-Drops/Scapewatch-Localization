@@ -515,7 +515,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} и {1} поменялись ролями: {0} играет роль «{2}», {1} играет роль «{3}» |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} и {1} поменялись ролями: {0} теперь играет роль «{2}», {1} теперь играет роль «{3}» |
 | `Hardware Acceleration` | Hardware Acceleration | Аппаратное ускорение |
-| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Игра отрисовывается видеокартой вместо процессора, и нагрузка на процессор становится намного меньше. Если при включённом ускорении экран остаётся чёрным, игра сама его отключит. |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Включает отрисовку игры видеокартой вместо процессора, что значительно снижает нагрузку на процессор. Если при включённом ускорении экран остаётся чёрным, игра сама его отключит. |
 | `Restart the game to apply.` | Restart the game to apply. | Перезапустите игру, чтобы применить изменение. |
 | `Restart now` | Restart now | Перезапустить сейчас |
 | `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | Игра отрисовывается видеокартой. |

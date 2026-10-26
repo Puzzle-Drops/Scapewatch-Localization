@@ -515,7 +515,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} a făcut schimb de roluri cu {1}: {0} joacă rolul „{2}”, {1} joacă rolul „{3}” |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} a făcut schimb de roluri cu {1}: {0} joacă acum rolul „{2}”, {1} joacă acum rolul „{3}” |
 | `Hardware Acceleration` | Hardware Acceleration | Accelerare hardware |
-| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Desenează jocul cu placa video în loc de procesor, așa că procesorul e mult mai puțin solicitat. Dacă ecranul rămâne negru cât e pornită, jocul o oprește singur. |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Desenează jocul cu placa video în loc de procesor, așa că procesorul e mult mai puțin solicitat. Dacă ecranul rămâne negru cât timp setarea e pornită, jocul o oprește singur. |
 | `Restart the game to apply.` | Restart the game to apply. | Repornește jocul ca să se aplice. |
 | `Restart now` | Restart now | Repornește acum |
 | `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | Jocul este desenat de placa video. |

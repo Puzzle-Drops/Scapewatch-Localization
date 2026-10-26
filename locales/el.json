@@ -10978,7 +10978,7 @@
   "@lobby_role_swap": "{0} και {1} αντάλλαξαν ρόλους: {0} παίζει τον ρόλο «{2}», {1} παίζει τον ρόλο «{3}»",
   "@lobby_role_swap_now": "{0} και {1} αντάλλαξαν ρόλους: {0} παίζει τώρα τον ρόλο «{2}», {1} παίζει τώρα τον ρόλο «{3}»",
   "Hardware Acceleration": "Επιτάχυνση υλικού",
-  "Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.": "Σχεδιάζει το παιχνίδι στην κάρτα γραφικών αντί για τη CPU, με πολύ μικρότερη χρήση CPU. Αν η οθόνη μείνει μαύρη όταν είναι ενεργή, το παιχνίδι την απενεργοποιεί μόνο του.",
+  "Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.": "Σχεδιάζει το παιχνίδι στην κάρτα γραφικών αντί για τη CPU, με πολύ μικρότερη χρήση CPU. Αν η οθόνη μείνει μαύρη με ενεργή την επιτάχυνση, το παιχνίδι την απενεργοποιεί μόνο του.",
   "Restart the game to apply.": "Κάνε επανεκκίνηση του παιχνιδιού για να εφαρμοστεί.",
   "Restart now": "Επανεκκίνηση τώρα",
   "The game is drawing on your graphics card.": "Το παιχνίδι σχεδιάζεται στην κάρτα γραφικών.",

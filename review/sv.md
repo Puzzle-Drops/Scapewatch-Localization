@@ -515,7 +515,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} bytte roller med {1}: {0} spelar {2}, {1} spelar {3} |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} bytte roller med {1}: {0} spelar nu {2}, {1} spelar nu {3} |
 | `Hardware Acceleration` | Hardware Acceleration | Hårdvaruacceleration |
-| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Ritar spelet med grafikkortet i stället för processorn, så processorn belastas mycket mindre. Om skärmen förblir svart när den är på stänger spelet av den själv igen. |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | Ritar spelet med grafikkortet i stället för processorn, så processorn belastas mycket mindre. Om skärmen förblir svart när funktionen är på stänger spelet av den själv igen. |
 | `Restart the game to apply.` | Restart the game to apply. | Starta om spelet för att tillämpa ändringen. |
 | `Restart now` | Restart now | Starta om nu |
 | `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | Spelet ritas med grafikkortet. |

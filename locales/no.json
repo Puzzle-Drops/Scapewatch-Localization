@@ -10984,6 +10984,5 @@
   "The game is drawing on your graphics card.": "Spillet tegnes med skjermkortet.",
   "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "Skjermkortet kunne ikke brukes ved denne oppstarten, så spillet tegnes med prosessoren.",
   "Turned off: the game did not draw with it on.": "Slått av: spillet tegnet ingenting da den var på.",
-  "The game is drawing on the CPU.": "Spillet tegnes med prosessoren.",
-  "Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU": "Linux: ny innstilling Maskinvareakselerasjon under Innstillinger > Build. Slå den på for å tegne spillet med skjermkortet og belaste prosessoren mye mindre"
+  "The game is drawing on the CPU.": "Spillet tegnes med prosessoren."
 }

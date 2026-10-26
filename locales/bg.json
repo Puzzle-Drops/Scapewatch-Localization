@@ -10984,6 +10984,5 @@
   "The game is drawing on your graphics card.": "Играта се изобразява с видеокартата.",
   "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "Видеокартата не можа да се използва при това стартиране, затова играта се изобразява с процесора.",
   "Turned off: the game did not draw with it on.": "Изключено: играта не изобрази нищо, докато беше включено.",
-  "The game is drawing on the CPU.": "Играта се изобразява с процесора.",
-  "Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU": "Linux: нова настройка Хардуерно ускорение в Настройки > Билд. Включете я, за да се изобразява играта с видеокартата и процесорът да се натоварва много по-малко"
+  "The game is drawing on the CPU.": "Играта се изобразява с процесора."
 }

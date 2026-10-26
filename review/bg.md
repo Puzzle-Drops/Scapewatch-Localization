@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бард |
 | Discover | Откритие |
 
-## Lines to review (453)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,4 +522,3 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Видеокартата не можа да се използва при това стартиране, затова играта се изобразява с процесора. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Изключено: играта не изобрази нищо, докато беше включено. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Играта се изобразява с процесора. |
-| `Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU` | Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU | Linux: нова настройка Хардуерно ускорение в Настройки > Билд. Включете я, за да се изобразява играта с видеокартата и процесорът да се натоварва много по-малко |

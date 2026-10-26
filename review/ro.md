@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cântă |
 | Discover | Descoperire |
 
-## Lines to review (453)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,4 +522,3 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Placa video nu a putut fi folosită la această pornire, așa că jocul este desenat de procesor. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Oprită: jocul nu a desenat nimic cât a fost pornită. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Jocul este desenat de procesor. |
-| `Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU` | Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU | Linux: setare nouă Accelerare hardware în Setări > Build. Pornește-o ca jocul să fie desenat de placa video și procesorul să fie mult mai puțin solicitat |

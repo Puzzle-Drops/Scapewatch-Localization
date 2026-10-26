@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Ontdekken |
 
-## Lines to review (453)
+## Lines to review (452)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,4 +522,3 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | De videokaart kon bij deze start niet worden gebruikt, dus het spel wordt getekend met de CPU. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Uitgezet: het spel tekende niets zolang het aan stond. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Het spel wordt getekend met de CPU. |
-| `Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU` | Linux: new Hardware Acceleration setting in Settings > Build. Turn it on to draw the game on your graphics card and use far less CPU | Linux: nieuwe instelling Hardwareversnelling onder Instellingen > Build. Zet deze aan om het spel met de videokaart te tekenen en de CPU veel minder te belasten |

@@ -41,11 +41,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Life | 生命 |
 | Spirit | 精神 |
 | Strike | 精准 |
-| Heft | 重击 |
+| Heft | 武技 |
 | Sight | 瞄准 |
-| Draw | 强弓 |
+| Draw | 射术 |
 | Focus | 专注 |
-| Surge | 法强 |
+| Surge | 法力 |
 | Dodge | 闪避 |
 | Defend | 防御 |
 | Vigor | 体能 |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Βάρδος |
 | Discover | Ανακάλυψη |
 
-## Lines to review (452)
+## Lines to review (463)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,14 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Η κάρτα γραφικών δεν μπόρεσε να χρησιμοποιηθεί σε αυτή την εκκίνηση, οπότε το παιχνίδι σχεδιάζεται στη CPU. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Απενεργοποιήθηκε: το παιχνίδι δεν σχεδίασε τίποτα όταν ήταν ενεργή. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Το παιχνίδι σχεδιάζεται στη CPU. |
+| `Graphics Mode` | Graphics Mode | Λειτουργία γραφικών |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | Ασφαλής λειτουργία: το παιχνίδι σχεδιάζεται από την κάρτα γραφικών, με το Steam overlay απενεργοποιημένο. |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | Ασφαλής λειτουργία: το παιχνίδι σχεδιάζεται από τη CPU αντί για την κάρτα γραφικών, κάτι που είναι πολύ πιο αργό. |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | Το παιχνίδι πέρασε σε ασφαλή λειτουργία επειδή σε μια εκκίνηση η οθόνη έμεινε μαύρη. |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | Το παιχνίδι πέρασε σε ασφαλή λειτουργία επειδή μια εκκίνηση έκλεισε πριν εμφανιστεί οτιδήποτε στην οθόνη. |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | Οι επιλογές εκκίνησης του Steam σου περιλαμβάνουν το --safe-mode. Αφαίρεσε αυτή την επιλογή στο Steam για να επιστρέψεις στην κανονική λειτουργία. |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | Μια κανονική εκκίνηση θα δοκιμαστεί ξανά μετά τις {0}. |
+| `Back to normal` | Back to normal | Επιστροφή στην κανονική λειτουργία |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | Επανεκκινεί το παιχνίδι κανονικά. Αν η οθόνη μαυρίσει ξανά, το παιχνίδι επιστρέφει μόνο του σε ασφαλή λειτουργία. |
+| `The game started in safe mode.` | The game started in safe mode. | Το παιχνίδι ξεκίνησε σε ασφαλή λειτουργία. |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | Μπορείς να επιστρέψεις στην κανονική λειτουργία τώρα ή αργότερα από τις Ρυθμίσεις, στην ενότητα «Build». |

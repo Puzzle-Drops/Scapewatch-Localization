@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bárd |
 | Discover | Felfedezés |
 
-## Lines to review (452)
+## Lines to review (463)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,14 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Ennél az indításnál a videokártyát nem lehetett használni, ezért a játékot a processzor rajzolja. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Kikapcsolva: bekapcsolva a játék nem rajzolt ki semmit. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | A játékot a processzor rajzolja. |
+| `Graphics Mode` | Graphics Mode | Grafikus mód |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | Csökkentett mód: a videokártya rajzolja a játékot, a Steam overlay ki van kapcsolva. |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | Csökkentett mód: a processzor rajzolja a játékot a videokártya helyett, ami sokkal lassabb. |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | A játék csökkentett módra váltott, mert egy indításkor fekete maradt a képernyő. |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | A játék csökkentett módra váltott, mert egy indítás bezárult, mielőtt bármi megjelent volna a képernyőn. |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | A Steam indítási beállításaid között szerepel a --safe-mode. A normál módhoz való visszatéréshez töröld ezt a beállítást a Steamben. |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | {0} után a játék újra megpróbál normál módban elindulni. |
+| `Back to normal` | Back to normal | Vissza a normál módba |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | Normál módban újraindítja a játékot. Ha a képernyő ismét fekete lesz, a játék magától visszavált csökkentett módra. |
+| `The game started in safe mode.` | The game started in safe mode. | A játék csökkentett módban indult. |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | Most vagy később is visszatérhetsz a normál módba a Beállítások „Build” részében. |

@@ -10986,5 +10986,16 @@
   "Turned off: the game did not draw with it on.": "Slått av: spillet tegnet ingenting da den var på.",
   "The game is drawing on the CPU.": "Spillet tegnes med prosessoren.",
   "@invited_raid_world": "{0} inviterte deg til et raid i Verden {1}. Se Invitasjoner under navnet ditt.",
-  "@invited_fortress_world": "{0} inviterte deg til en Ildprøve-gruppe i Verden {1}. Se Invitasjoner under navnet ditt."
+  "@invited_fortress_world": "{0} inviterte deg til en Ildprøve-gruppe i Verden {1}. Se Invitasjoner under navnet ditt.",
+  "Graphics Mode": "Grafikkmodus",
+  "Safe mode: drawing on your graphics card with the Steam overlay off.": "Sikker modus: skjermkortet tegner spillet, og Steam-overlayet er slått av.",
+  "Safe mode: drawing on the CPU instead of your graphics card, which is much slower.": "Sikker modus: prosessoren tegner spillet i stedet for skjermkortet, noe som er mye tregere.",
+  "The game switched to safe mode because a launch showed a black screen.": "Spillet byttet til sikker modus fordi skjermen forble svart under en oppstart.",
+  "The game switched to safe mode because a launch closed before anything appeared on screen.": "Spillet byttet til sikker modus fordi en oppstart ble lukket før noe dukket opp på skjermen.",
+  "Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.": "Startalternativene dine i Steam inneholder --safe-mode. Fjern det alternativet i Steam for å gå tilbake til normal modus.",
+  "@safe_mode_until": "En normal oppstart prøves igjen etter {0}.",
+  "Back to normal": "Tilbake til normal modus",
+  "Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.": "Starter spillet på nytt på vanlig måte. Hvis skjermen blir svart igjen, bytter spillet selv tilbake til sikker modus.",
+  "The game started in safe mode.": "Spillet startet i sikker modus.",
+  "You can go back to normal now, or later in Settings under Build.": "Du kan gå tilbake til normal modus nå eller senere under Innstillinger, i delen «Build»."
 }

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | กวี |
 | Discover | ค้นพบ |
 
-## Lines to review (452)
+## Lines to review (463)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,14 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | ไม่สามารถใช้การ์ดจอในการเปิดเกมครั้งนี้ได้ เกมจึงวาดด้วย CPU |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | ปิดแล้ว เกมไม่แสดงภาพขณะเปิดใช้ |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | เกมกำลังวาดด้วย CPU |
+| `Graphics Mode` | Graphics Mode | โหมดกราฟิก |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | เซฟโหมด: เกมวาดด้วยการ์ดจอ และปิดโอเวอร์เลย์ของ Steam อยู่ |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | เซฟโหมด: เกมวาดด้วย CPU แทนการ์ดจอ ซึ่งช้ากว่ามาก |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | เกมเปลี่ยนไปใช้เซฟโหมด เพราะในการเปิดเกมครั้งหนึ่งหน้าจอยังดำอยู่ |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | เกมเปลี่ยนไปใช้เซฟโหมด เพราะการเปิดเกมครั้งหนึ่งถูกปิดไปก่อนที่จะมีอะไรขึ้นบนหน้าจอ |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | ตัวเลือกการเปิดใช้ของ Steam ของคุณมี --safe-mode อยู่ ให้ลบตัวเลือกนั้นใน Steam เพื่อกลับสู่โหมดปกติ |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | เกมจะลองเปิดแบบปกติอีกครั้งหลังวันที่ {0} |
+| `Back to normal` | Back to normal | กลับสู่โหมดปกติ |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | รีสตาร์ทเกมแบบปกติ หากหน้าจอดำอีก เกมจะกลับไปใช้เซฟโหมดเองโดยอัตโนมัติ |
+| `The game started in safe mode.` | The game started in safe mode. | เกมเริ่มทำงานในเซฟโหมด |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | คุณกลับสู่โหมดปกติได้ทันที หรือภายหลังที่การตั้งค่า ในส่วน "Build" |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cântă |
 | Discover | Descoperire |
 
-## Lines to review (452)
+## Lines to review (463)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,14 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Placa video nu a putut fi folosită la această pornire, așa că jocul este desenat de procesor. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Oprită: jocul nu a desenat nimic cât a fost pornită. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Jocul este desenat de procesor. |
+| `Graphics Mode` | Graphics Mode | Mod grafic |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | Mod sigur: placa video desenează jocul, cu suprapunerea Steam oprită. |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | Mod sigur: procesorul desenează jocul în locul plăcii video, ceea ce e mult mai lent. |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | Jocul a trecut în modul sigur pentru că la o pornire ecranul a rămas negru. |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | Jocul a trecut în modul sigur pentru că o pornire a fost închisă înainte să apară ceva pe ecran. |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | Opțiunile tale de lansare din Steam conțin --safe-mode. Elimină această opțiune din Steam ca să revii la modul normal. |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | O pornire normală va fi încercată din nou după {0}. |
+| `Back to normal` | Back to normal | Înapoi la modul normal |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | Repornește jocul normal. Dacă ecranul se face din nou negru, jocul trece singur înapoi în modul sigur. |
+| `The game started in safe mode.` | The game started in safe mode. | Jocul a pornit în modul sigur. |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | Poți reveni la modul normal acum sau mai târziu din Setări, secțiunea „Build”. |

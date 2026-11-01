@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Temukan |
 
-## Lines to review (452)
+## Lines to review (463)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,14 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Kartu grafis tidak dapat digunakan pada peluncuran ini, jadi game digambar dengan CPU. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Dimatikan: game tidak menggambar apa pun saat fitur ini aktif. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Game sedang digambar dengan CPU. |
+| `Graphics Mode` | Graphics Mode | Mode Grafis |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | Mode aman: kartu grafis menggambar game, dengan overlay Steam dinonaktifkan. |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | Mode aman: CPU menggambar game, bukan kartu grafis, sehingga jauh lebih lambat. |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | Game beralih ke mode aman karena layar tetap hitam pada salah satu peluncuran. |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | Game beralih ke mode aman karena salah satu peluncuran ditutup sebelum ada yang muncul di layar. |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | Opsi peluncuran Steam berisi --safe-mode. Hapus opsi itu di Steam untuk kembali ke mode normal. |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | Peluncuran normal akan dicoba lagi setelah {0}. |
+| `Back to normal` | Back to normal | Kembali ke mode normal |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | Memulai ulang game secara normal. Jika layar kembali hitam, game akan beralih kembali ke mode aman dengan sendirinya. |
+| `The game started in safe mode.` | The game started in safe mode. | Game dimulai dalam mode aman. |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | Mode normal bisa dipulihkan sekarang atau nanti di Pengaturan, bagian "Build". |

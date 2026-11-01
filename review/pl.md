@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Pieśń |
 | Discover | Odkrywanie |
 
-## Lines to review (452)
+## Lines to review (463)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,14 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Przy tym uruchomieniu nie udało się użyć karty graficznej, więc gra jest rysowana na procesorze. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Wyłączono: po włączeniu gra niczego nie rysowała. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Gra jest rysowana na procesorze. |
+| `Graphics Mode` | Graphics Mode | Tryb grafiki |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | Tryb awaryjny: grę rysuje karta graficzna, a nakładka Steam jest wyłączona. |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | Tryb awaryjny: grę rysuje procesor zamiast karty graficznej, co jest dużo wolniejsze. |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | Gra przełączyła się w tryb awaryjny, bo przy jednym uruchomieniu ekran pozostał czarny. |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | Gra przełączyła się w tryb awaryjny, bo jedno uruchomienie zostało zamknięte, zanim cokolwiek pojawiło się na ekranie. |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | Twoje opcje uruchamiania w Steam zawierają --safe-mode. Usuń tę opcję w Steam, aby wrócić do trybu normalnego. |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | Normalne uruchomienie zostanie ponowione po {0}. |
+| `Back to normal` | Back to normal | Wróć do trybu normalnego |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | Uruchamia grę ponownie w zwykły sposób. Jeśli ekran znowu zrobi się czarny, gra sama wróci do trybu awaryjnego. |
+| `The game started in safe mode.` | The game started in safe mode. | Gra uruchomiła się w trybie awaryjnym. |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | Do trybu normalnego możesz wrócić teraz lub później w Ustawieniach, w sekcji „Kompilacja”. |

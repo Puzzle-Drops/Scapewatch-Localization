@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Upptäck |
 
-## Lines to review (452)
+## Lines to review (463)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,14 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Grafikkortet kunde inte användas vid den här starten, så spelet ritas med processorn. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Avstängd: spelet ritade ingenting när den var på. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Spelet ritas med processorn. |
+| `Graphics Mode` | Graphics Mode | Grafikläge |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | Felsäkert läge: grafikkortet ritar spelet, och Steam-överlägget är avstängt. |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | Felsäkert läge: processorn ritar spelet i stället för grafikkortet, vilket är mycket långsammare. |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | Spelet bytte till felsäkert läge eftersom skärmen förblev svart vid en start. |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | Spelet bytte till felsäkert läge eftersom en start stängdes innan något visades på skärmen. |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | Dina startalternativ i Steam innehåller --safe-mode. Ta bort det alternativet i Steam för att återgå till normalt läge. |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | En normal start provas igen efter {0}. |
+| `Back to normal` | Back to normal | Tillbaka till normalt läge |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | Startar om spelet som vanligt. Om skärmen blir svart igen byter spelet själv tillbaka till felsäkert läge. |
+| `The game started in safe mode.` | The game started in safe mode. | Spelet startade i felsäkert läge. |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | Du kan återgå till normalt läge nu eller senare under Inställningar, i avsnittet "Build". |

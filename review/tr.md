@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Ozan |
 | Discover | Keşfet |
 
-## Lines to review (452)
+## Lines to review (463)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,14 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Bu açılışta ekran kartı kullanılamadı, bu yüzden oyun işlemciyle çiziliyor. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Kapatıldı: açıkken oyun hiçbir şey çizmedi. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Oyun işlemciyle çiziliyor. |
+| `Graphics Mode` | Graphics Mode | Grafik Modu |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | Güvenli mod: Oyunu ekran kartı çiziyor, Steam arayüzü kapalı. |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | Güvenli mod: Oyunu ekran kartı yerine işlemci çiziyor, bu çok daha yavaş. |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | Bir açılışta ekran siyah kaldığı için oyun güvenli moda geçti. |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | Bir açılış, ekranda bir şey görünmeden kapandığı için oyun güvenli moda geçti. |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | Steam başlatma seçeneklerinde --safe-mode var. Normal moda dönmek için bu seçeneği Steam'den kaldır. |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | {0} tarihinden sonra yeniden normal açılış denenecek. |
+| `Back to normal` | Back to normal | Normal moda dön |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | Oyunu normal şekilde yeniden başlatır. Ekran yine siyah kalırsa oyun kendiliğinden güvenli moda geri döner. |
+| `The game started in safe mode.` | The game started in safe mode. | Oyun güvenli modda başladı. |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | Normal moda şimdi ya da daha sonra Ayarlar'daki "Yapı" bölümünden dönebilirsin. |

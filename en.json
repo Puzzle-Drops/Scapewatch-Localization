@@ -10516,5 +10516,15 @@
   "The game is drawing on your graphics card.": "The game is drawing on your graphics card.",
   "Your graphics card could not be used this launch, so the game is drawing on the CPU.": "Your graphics card could not be used this launch, so the game is drawing on the CPU.",
   "Turned off: the game did not draw with it on.": "Turned off: the game did not draw with it on.",
-  "The game is drawing on the CPU.": "The game is drawing on the CPU."
+  "The game is drawing on the CPU.": "The game is drawing on the CPU.",
+  "Graphics Mode": "Graphics Mode",
+  "Safe mode: drawing on your graphics card with the Steam overlay off.": "Safe mode: drawing on your graphics card with the Steam overlay off.",
+  "Safe mode: drawing on the CPU instead of your graphics card, which is much slower.": "Safe mode: drawing on the CPU instead of your graphics card, which is much slower.",
+  "The game switched to safe mode because a launch showed a black screen.": "The game switched to safe mode because a launch showed a black screen.",
+  "The game switched to safe mode because a launch closed before anything appeared on screen.": "The game switched to safe mode because a launch closed before anything appeared on screen.",
+  "Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.": "Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.",
+  "Back to normal": "Back to normal",
+  "Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.": "Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.",
+  "The game started in safe mode.": "The game started in safe mode.",
+  "You can go back to normal now, or later in Settings under Build.": "You can go back to normal now, or later in Settings under Build."
 }

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardi |
 | Discover | Tutki |
 
-## Lines to review (452)
+## Lines to review (463)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,14 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Näytönohjainta ei voitu käyttää tällä käynnistyskerralla, joten peli piirretään prosessorilla. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Pois päältä: peli ei piirtänyt mitään, kun kiihdytys oli päällä. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Peli piirretään prosessorilla. |
+| `Graphics Mode` | Graphics Mode | Grafiikkatila |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | Vikasietotila: näytönohjain piirtää pelin, ja Steamin peittokuva on pois päältä. |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | Vikasietotila: prosessori piirtää pelin näytönohjaimen sijaan, mikä on paljon hitaampaa. |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | Peli siirtyi vikasietotilaan, koska näyttö jäi mustaksi yhdellä käynnistyskerralla. |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | Peli siirtyi vikasietotilaan, koska yksi käynnistyskerta suljettiin ennen kuin näytölle ilmestyi mitään. |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | Steamin käynnistysasetuksissasi on --safe-mode. Poista tämä asetus Steamista palataksesi normaalitilaan. |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | Normaalia käynnistystä yritetään uudelleen {0} jälkeen. |
+| `Back to normal` | Back to normal | Takaisin normaalitilaan |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | Käynnistää pelin uudelleen normaalisti. Jos näyttö muuttuu taas mustaksi, peli palaa itse vikasietotilaan. |
+| `The game started in safe mode.` | The game started in safe mode. | Peli käynnistyi vikasietotilassa. |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | Voit palata normaalitilaan nyt tai myöhemmin kohdasta Asetukset, osiosta ”Build”. |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (452)
+## Lines to review (463)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,14 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | 今回の起動ではグラフィックカードを使用できなかったため、CPUでゲームを描画しています。 |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | オフにしました：オンのときにゲームが描画されませんでした。 |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | CPUでゲームを描画しています。 |
+| `Graphics Mode` | Graphics Mode | グラフィックモード |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | セーフモード：グラフィックカードでゲームを描画しています（Steamオーバーレイはオフ）。 |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | セーフモード：グラフィックカードの代わりにCPUでゲームを描画しているため、動作がかなり遅くなります。 |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | 起動時に画面が真っ黒のままだったため、ゲームはセーフモードに切り替わりました。 |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | 画面に何も表示される前に起動が終了したため、ゲームはセーフモードに切り替わりました。 |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | Steamの起動オプションに --safe-mode が含まれています。通常モードに戻すには、Steamでこのオプションを削除してください。 |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | {0}以降に、通常モードでの起動を再び試みます。 |
+| `Back to normal` | Back to normal | 通常モードに戻す |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | ゲームを通常モードで再起動します。再び画面が真っ黒になった場合は、ゲームが自動でセーフモードに戻ります。 |
+| `The game started in safe mode.` | The game started in safe mode. | ゲームはセーフモードで起動しました。 |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | 今すぐ、または後から「設定」の「ビルド」で通常モードに戻せます。 |

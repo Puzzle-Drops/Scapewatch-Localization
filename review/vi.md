@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Nhạc công |
 | Discover | Khám phá |
 
-## Lines to review (452)
+## Lines to review (463)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,14 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Không thể dùng card đồ họa trong lần khởi động này, nên game đang được vẽ bằng CPU. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Đã tắt: game không vẽ được gì khi bật tính năng này. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Game đang được vẽ bằng CPU. |
+| `Graphics Mode` | Graphics Mode | Chế độ đồ họa |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | Chế độ an toàn: game được vẽ bằng card đồ họa, lớp phủ Steam đang tắt. |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | Chế độ an toàn: game được vẽ bằng CPU thay vì card đồ họa, nên chậm hơn rất nhiều. |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | Game đã chuyển sang chế độ an toàn vì trong một lần khởi động, màn hình vẫn đen. |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | Game đã chuyển sang chế độ an toàn vì một lần khởi động đã bị đóng trước khi có gì hiện lên màn hình. |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | Tùy chọn khởi chạy Steam của bạn có --safe-mode. Hãy xóa tùy chọn đó trong Steam để quay lại chế độ bình thường. |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | Game sẽ thử khởi động bình thường lại sau {0}. |
+| `Back to normal` | Back to normal | Quay lại chế độ bình thường |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | Khởi động lại game ở chế độ bình thường. Nếu màn hình lại bị đen, game sẽ tự chuyển về chế độ an toàn. |
+| `The game started in safe mode.` | The game started in safe mode. | Game đã khởi động ở chế độ an toàn. |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | Bạn có thể quay lại chế độ bình thường ngay bây giờ hoặc sau này trong Cài đặt, mục "Bản dựng". |

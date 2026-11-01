@@ -10986,5 +10986,16 @@
   "Turned off: the game did not draw with it on.": "已关闭：开启时游戏没有显示画面。",
   "The game is drawing on the CPU.": "游戏正在使用处理器绘制。",
   "@invited_raid_world": "{0}邀请你参加世界{1}的团本。请查看角色名下方的“邀请”。",
-  "@invited_fortress_world": "{0}邀请你加入世界{1}的要塞队伍。请查看角色名下方的“邀请”。"
+  "@invited_fortress_world": "{0}邀请你加入世界{1}的要塞队伍。请查看角色名下方的“邀请”。",
+  "Graphics Mode": "图形模式",
+  "Safe mode: drawing on your graphics card with the Steam overlay off.": "安全模式：由显卡绘制游戏，Steam 覆盖界面已关闭。",
+  "Safe mode: drawing on the CPU instead of your graphics card, which is much slower.": "安全模式：由处理器代替显卡绘制游戏，运行会慢很多。",
+  "The game switched to safe mode because a launch showed a black screen.": "由于某次启动时画面一直是黑的，游戏已切换到安全模式。",
+  "The game switched to safe mode because a launch closed before anything appeared on screen.": "由于某次启动在画面显示任何内容之前就关闭了，游戏已切换到安全模式。",
+  "Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.": "你的 Steam 启动选项中包含 --safe-mode。在 Steam 中删除该选项即可恢复正常模式。",
+  "@safe_mode_until": "将在{0}之后再次尝试正常启动。",
+  "Back to normal": "恢复正常模式",
+  "Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.": "以正常模式重启游戏。如果画面再次变黑，游戏会自动切回安全模式。",
+  "The game started in safe mode.": "游戏已以安全模式启动。",
+  "You can go back to normal now, or later in Settings under Build.": "你可以现在或稍后在“设置”的“构建”部分恢复正常模式。"
 }

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 음유 |
 | Discover | 탐험 |
 
-## Lines to review (452)
+## Lines to review (463)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,14 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | 이번 실행에서는 그래픽 카드를 사용할 수 없어 CPU로 게임을 그리고 있습니다. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | 꺼짐: 켠 상태에서 게임이 화면을 그리지 못했습니다. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | CPU로 게임을 그리고 있습니다. |
+| `Graphics Mode` | Graphics Mode | 그래픽 모드 |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | 안전 모드: 그래픽 카드로 게임을 그리며, Steam 오버레이는 꺼져 있습니다. |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | 안전 모드: 그래픽 카드 대신 CPU로 게임을 그리므로 훨씬 느립니다. |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | 한 번의 실행에서 화면이 검게 유지되어 게임이 안전 모드로 전환되었습니다. |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | 화면에 아무것도 나타나기 전에 실행이 종료되어 게임이 안전 모드로 전환되었습니다. |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | Steam 실행 옵션에 --safe-mode가 포함되어 있습니다. 일반 모드로 돌아가려면 Steam에서 이 옵션을 제거하세요. |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | {0} 이후에 일반 실행을 다시 시도합니다. |
+| `Back to normal` | Back to normal | 일반 모드로 돌아가기 |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | 게임을 일반 모드로 다시 시작합니다. 화면이 다시 검게 되면 게임이 자동으로 안전 모드로 돌아갑니다. |
+| `The game started in safe mode.` | The game started in safe mode. | 게임이 안전 모드로 시작되었습니다. |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | 지금 또는 나중에 설정의 '빌드' 항목에서 일반 모드로 돌아갈 수 있습니다. |

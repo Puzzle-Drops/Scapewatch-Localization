@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (452)
+## Lines to review (463)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,14 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | 本次啟動無法使用顯示卡，遊戲正在使用處理器繪製。 |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | 已關閉：開啟時遊戲沒有顯示畫面。 |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | 遊戲正在使用處理器繪製。 |
+| `Graphics Mode` | Graphics Mode | 圖形模式 |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | 安全模式：由顯示卡繪製遊戲，Steam 覆蓋介面已關閉。 |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | 安全模式：由處理器代替顯示卡繪製遊戲，執行會慢很多。 |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | 由於某次啟動時畫面一直是黑的，遊戲已切換至安全模式。 |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | 由於某次啟動在畫面顯示任何內容之前就關閉了，遊戲已切換至安全模式。 |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | 你的 Steam 啟動選項包含 --safe-mode。在 Steam 中移除該選項即可恢復正常模式。 |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | 將在{0}之後再次嘗試正常啟動。 |
+| `Back to normal` | Back to normal | 恢復正常模式 |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | 以正常模式重新啟動遊戲。若畫面再次變黑，遊戲會自動切回安全模式。 |
+| `The game started in safe mode.` | The game started in safe mode. | 遊戲已以安全模式啟動。 |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | 你可以現在或稍後在「設定」的「建置」部分恢復正常模式。 |

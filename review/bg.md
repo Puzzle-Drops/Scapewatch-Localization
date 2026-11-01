@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бард |
 | Discover | Откритие |
 
-## Lines to review (452)
+## Lines to review (463)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,14 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Видеокартата не можа да се използва при това стартиране, затова играта се изобразява с процесора. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Изключено: играта не изобрази нищо, докато беше включено. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Играта се изобразява с процесора. |
+| `Graphics Mode` | Graphics Mode | Графичен режим |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | Безопасен режим: играта се изобразява с видеокартата, а Steam overlay е изключен. |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | Безопасен режим: играта се изобразява с процесора вместо с видеокартата, което е много по-бавно. |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | Играта премина в безопасен режим, защото при едно стартиране екранът остана черен. |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | Играта премина в безопасен режим, защото едно стартиране беше затворено, преди нещо да се появи на екрана. |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | Опциите ти за стартиране в Steam съдържат --safe-mode. Премахни тази опция в Steam, за да се върнеш към нормален режим. |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | Ще бъде опитано отново нормално стартиране след {0}. |
+| `Back to normal` | Back to normal | Към нормален режим |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | Рестартира играта нормално. Ако екранът отново стане черен, играта сама превключва обратно в безопасен режим. |
+| `The game started in safe mode.` | The game started in safe mode. | Играта стартира в безопасен режим. |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | Можеш да се върнеш към нормален режим сега или по-късно от „Настройки“, раздел „Билд“. |

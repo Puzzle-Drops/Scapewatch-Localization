@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Découverte |
 
-## Lines to review (452)
+## Lines to review (463)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,14 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | La carte graphique n'a pas pu être utilisée à ce lancement, le jeu est donc affiché par le processeur. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Désactivée : le jeu n'affichait rien quand elle était activée. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Le jeu est affiché par le processeur. |
+| `Graphics Mode` | Graphics Mode | Mode graphique |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | Mode sans échec : la carte graphique affiche le jeu, avec la superposition Steam désactivée. |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | Mode sans échec : le processeur affiche le jeu à la place de la carte graphique, ce qui est beaucoup plus lent. |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | Le jeu est passé en mode sans échec parce qu'un lancement est resté sur un écran noir. |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | Le jeu est passé en mode sans échec parce qu'un lancement a été fermé avant que quoi que ce soit n'apparaisse à l'écran. |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | Vos options de lancement Steam contiennent --safe-mode. Retirez cette option dans Steam pour revenir au mode normal. |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | Un lancement normal sera de nouveau tenté après le {0}. |
+| `Back to normal` | Back to normal | Revenir au mode normal |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | Redémarre le jeu normalement. Si l'écran redevient noir, le jeu repasse de lui-même en mode sans échec. |
+| `The game started in safe mode.` | The game started in safe mode. | Le jeu a démarré en mode sans échec. |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | Vous pouvez revenir au mode normal maintenant, ou plus tard dans Paramètres, section « Version ». |

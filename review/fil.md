@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Tuklasin |
 
-## Lines to review (452)
+## Lines to review (463)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,14 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Hindi magamit ang graphics card sa launch na ito, kaya iginuguhit ang laro gamit ang CPU. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Pinatay: walang naiguhit ang laro habang naka-on ang setting na ito. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Iginuguhit ang laro gamit ang CPU. |
+| `Graphics Mode` | Graphics Mode | Graphics Mode |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | Safe mode: ang graphics card ang gumuguhit ng laro, at naka-off ang Steam overlay. |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | Safe mode: ang CPU ang gumuguhit ng laro sa halip na ang graphics card, kaya mas mabagal ito nang husto. |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | Lumipat ang laro sa safe mode dahil nanatiling itim ang screen sa isang pag-launch. |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | Lumipat ang laro sa safe mode dahil nagsara ang isang pag-launch bago may lumabas sa screen. |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | May --safe-mode sa iyong Steam launch options. Alisin ang option na iyon sa Steam para bumalik sa normal mode. |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | Susubukang muli ang normal na pag-launch pagkalipas ng {0}. |
+| `Back to normal` | Back to normal | Bumalik sa normal mode |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | Ire-restart ang laro nang normal. Kapag naging itim ulit ang screen, kusang babalik ang laro sa safe mode. |
+| `The game started in safe mode.` | The game started in safe mode. | Nagsimula ang laro sa safe mode. |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | Puwede kang bumalik sa normal mode ngayon o mamaya sa Mga Setting, sa ilalim ng "Build". |

@@ -10986,5 +10986,16 @@
   "Turned off: the game did not draw with it on.": "ปิดแล้ว เกมไม่แสดงภาพขณะเปิดใช้",
   "The game is drawing on the CPU.": "เกมกำลังวาดด้วย CPU",
   "@invited_raid_world": "{0} เชิญคุณเข้าร่วม Raid ในโลก {1} ดูคำเชิญได้ใต้ชื่อของคุณ",
-  "@invited_fortress_world": "{0} เชิญคุณเข้าร่วมปาร์ตี้ด่านประลองในโลก {1} ดูคำเชิญได้ใต้ชื่อของคุณ"
+  "@invited_fortress_world": "{0} เชิญคุณเข้าร่วมปาร์ตี้ด่านประลองในโลก {1} ดูคำเชิญได้ใต้ชื่อของคุณ",
+  "Graphics Mode": "โหมดกราฟิก",
+  "Safe mode: drawing on your graphics card with the Steam overlay off.": "เซฟโหมด: เกมวาดด้วยการ์ดจอ และปิดโอเวอร์เลย์ของ Steam อยู่",
+  "Safe mode: drawing on the CPU instead of your graphics card, which is much slower.": "เซฟโหมด: เกมวาดด้วย CPU แทนการ์ดจอ ซึ่งช้ากว่ามาก",
+  "The game switched to safe mode because a launch showed a black screen.": "เกมเปลี่ยนไปใช้เซฟโหมด เพราะในการเปิดเกมครั้งหนึ่งหน้าจอยังดำอยู่",
+  "The game switched to safe mode because a launch closed before anything appeared on screen.": "เกมเปลี่ยนไปใช้เซฟโหมด เพราะการเปิดเกมครั้งหนึ่งถูกปิดไปก่อนที่จะมีอะไรขึ้นบนหน้าจอ",
+  "Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.": "ตัวเลือกการเปิดใช้ของ Steam ของคุณมี --safe-mode อยู่ ให้ลบตัวเลือกนั้นใน Steam เพื่อกลับสู่โหมดปกติ",
+  "@safe_mode_until": "เกมจะลองเปิดแบบปกติอีกครั้งหลังวันที่ {0}",
+  "Back to normal": "กลับสู่โหมดปกติ",
+  "Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.": "รีสตาร์ทเกมแบบปกติ หากหน้าจอดำอีก เกมจะกลับไปใช้เซฟโหมดเองโดยอัตโนมัติ",
+  "The game started in safe mode.": "เกมเริ่มทำงานในเซฟโหมด",
+  "You can go back to normal now, or later in Settings under Build.": "คุณกลับสู่โหมดปกติได้ทันที หรือภายหลังที่การตั้งค่า ในส่วน \"Build\""
 }

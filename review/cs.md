@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Objevování |
 
-## Lines to review (452)
+## Lines to review (463)
 
 | Key | English | Current |
 |---|---|---|
@@ -522,3 +522,14 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | Grafickou kartu se při tomto spuštění nepodařilo použít, proto se hra vykresluje na procesoru. |
 | `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | Vypnuto: se zapnutou akcelerací hra nic nevykreslila. |
 | `The game is drawing on the CPU.` | The game is drawing on the CPU. | Hra se vykresluje na procesoru. |
+| `Graphics Mode` | Graphics Mode | Grafický režim |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | Nouzový režim: hru vykresluje grafická karta, překryvná vrstva Steamu je vypnutá. |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | Nouzový režim: hru vykresluje procesor místo grafické karty, což je mnohem pomalejší. |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | Hra přešla do nouzového režimu, protože při jednom spuštění zůstala obrazovka černá. |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | Hra přešla do nouzového režimu, protože se jedno spuštění zavřelo dřív, než se na obrazovce něco objevilo. |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | Tvoje možnosti spuštění ve Steamu obsahují --safe-mode. Pro návrat do normálního režimu tuto možnost ve Steamu odeber. |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | Po {0} se znovu zkusí normální spuštění. |
+| `Back to normal` | Back to normal | Zpět na normální režim |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | Restartuje hru normálně. Pokud obrazovka znovu zčerná, hra se sama přepne zpět do nouzového režimu. |
+| `The game started in safe mode.` | The game started in safe mode. | Hra se spustila v nouzovém režimu. |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | Do normálního režimu se můžeš vrátit teď, nebo později v Nastavení v části „Sestavení“. |

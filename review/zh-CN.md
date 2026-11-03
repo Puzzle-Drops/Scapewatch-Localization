@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟游 |
 | Discover | 探索 |
 
-## Lines to review (463)
+## Lines to review (521)
 
 | Key | English | Current |
 |---|---|---|
@@ -445,7 +445,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@xp_on_fail` | XP on Fail: {0} XP | 失败经验：{0} |
 | `@reset_skill_levers` | Set every {0} activity, quantity, and node lever back to 0. | 将{0}的活动、数量及地点滑块全部重置为0。 |
 | `@diaries_pct` | {0} / {1} Diaries ({2}%) | 成就日志：{0}/{1}（{2}%） |
-| `@respawn_each` | -1s each, base {0}s (×2 off slay task), min {1}s | 每项减少1秒，基础{0}秒（非猎杀委托时翻倍），最短{1}秒 |
+| `@respawn_each` | -1s each, base {0}s, min 2s | 每项-1秒，基础{0}秒，最短2秒 |
 | `@task_rows` | Task Rows {0}/{1} | 委托队列行数：{0}/{1} |
 | `@queue_rows_desc` | Queued tasks below the one you are doing. {0} to start, +1 per {1} total levels to {2}, +1 from the Auditor's Docket | 可排在当前委托下方的待执行委托。初始{0}行，每提升{1}总等级增加1行，最多增至{2}行；审计员案卷额外增加1行。 |
 | `@lucky_roll_unlock` | Unlocked from a lucky roll on {0} XP gained. | 获得{0}经验时，通过幸运判定解锁。 |
@@ -533,3 +533,61 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | 以正常模式重启游戏。如果画面再次变黑，游戏会自动切回安全模式。 |
 | `The game started in safe mode.` | The game started in safe mode. | 游戏已以安全模式启动。 |
 | `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | 你可以现在或稍后在“设置”的“构建”部分恢复正常模式。 |
+| `Wave defense: {n}` | Wave defense: {n} | 波次防御：{n} |
+| `Cuts your army's damage by {pct}%` | Cuts your army's damage by {pct}% | 己方军队造成的伤害降低{pct}% |
+| `Each round your army deals Melee + Range + Magic Force, minus this cut. The cut is defense / (defense + {k}).` | Each round your army deals Melee + Range + Magic Force, minus this cut. The cut is defense / (defense + {k}). | 每回合己方军队造成近战之力+远程之力+魔法之力的伤害，再扣除这部分削减。削减比例=防御/（防御+{k}）。 |
+| `Enemy melee attack: {n}` | Enemy melee attack: {n} | 敌方近战攻击：{n} |
+| `Enemy range attack: {n}` | Enemy range attack: {n} | 敌方远程攻击：{n} |
+| `Enemy magic attack: {n}` | Enemy magic attack: {n} | 敌方魔法攻击：{n} |
+| `Your shield: {n}` | Your shield: {n} | 己方护盾：{n} |
+| `Blocks {pct}% of this lane's damage` | Blocks {pct}% of this lane's damage | 抵挡这一路{pct}%的伤害 |
+| `Shield = Defense × {w} + Melee Force. With no melee player the lane is walled by Defense alone.` | Shield = Defense × {w} + Melee Force. With no melee player the lane is walled by Defense alone. | 护盾=防御×{w}+近战之力。没有负责近战的玩家时，这一路只靠防御抵挡。 |
+| `Shield = Defense × {w} + Range Force. With no range player the lane is walled by Defense alone.` | Shield = Defense × {w} + Range Force. With no range player the lane is walled by Defense alone. | 护盾=防御×{w}+远程之力。没有负责远程的玩家时，这一路只靠防御抵挡。 |
+| `Shield = Defense × {w} + Magic Force. With no magic player the lane is walled by Defense alone.` | Shield = Defense × {w} + Magic Force. With no magic player the lane is walled by Defense alone. | 护盾=防御×{w}+魔法之力。没有负责魔法的玩家时，这一路只靠防御抵挡。 |
+| `Melee Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's melee lane: that lane's shield is Defense × {w} + Melee Force. With no melee player, the enemy's melee lane is walled by Defense alone.` | Melee Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's melee lane: that lane's shield is Defense × {w} + Melee Force. With no melee player, the enemy's melee lane is walled by Defense alone. | 近战之力，由{role}负责补给。它既是攻击（三支部队合计即为己方军队的伤害），也是抵挡敌方近战这一路的城墙：这一路的护盾=防御×{w}+近战之力。没有负责近战的玩家时，敌方近战这一路只靠防御抵挡。 |
+| `Range Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's range lane: that lane's shield is Defense × {w} + Range Force. With no range player, the enemy's range lane is walled by Defense alone.` | Range Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's range lane: that lane's shield is Defense × {w} + Range Force. With no range player, the enemy's range lane is walled by Defense alone. | 远程之力，由{role}负责补给。它既是攻击（三支部队合计即为己方军队的伤害），也是抵挡敌方远程这一路的城墙：这一路的护盾=防御×{w}+远程之力。没有负责远程的玩家时，敌方远程这一路只靠防御抵挡。 |
+| `Magic Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's magic lane: that lane's shield is Defense × {w} + Magic Force. With no magic player, the enemy's magic lane is walled by Defense alone.` | Magic Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's magic lane: that lane's shield is Defense × {w} + Magic Force. With no magic player, the enemy's magic lane is walled by Defense alone. | 魔法之力，由{role}负责补给。它既是攻击（三支部队合计即为己方军队的伤害），也是抵挡敌方魔法这一路的城墙：这一路的护盾=防御×{w}+魔法之力。没有负责魔法的玩家时，敌方魔法这一路只靠防御抵挡。 |
+| `Defense, fed by {role}. Pure protection with no attack value. Each point adds {w} shield to ALL three enemy lanes (melee, range and magic), so it softens every hit the army takes.` | Defense, fed by {role}. Pure protection with no attack value. Each point adds {w} shield to ALL three enemy lanes (melee, range and magic), so it softens every hit the army takes. | 防御，由{role}负责补给。纯防护属性，不增加攻击力。每点防御会为抵挡敌方近战、远程和魔法三路进攻的护盾各增加{w}，从而减轻己方军队受到的每次攻击。 |
+| `+0.25% XP, +1% Quest chance, +0.05% Luck chance, +0.5% move speed each (shiny: +0.5% XP, +1% move speed)` | +0.25% XP, +1% Quest chance, +0.05% Luck chance, +0.5% move speed each (shiny: +0.5% XP, +1% move speed) | 每个提供+0.25%经验、+1%剧情任务出现概率、+0.05%幸运几率及+0.5%移动速度（闪光：+0.5%经验、+1%移动速度） |
+| `+1 to task-completion rewards` | +1 to task-completion rewards | +1 委托完成奖励 |
+| `Adds +1 to task-completion rewards` | Adds +1 to task-completion rewards | 使委托完成奖励+1 |
+| `+1 reroll credit, skill credit and bloodcoin per task` | +1 reroll credit, skill credit and bloodcoin per task | 每个委托+1重抽点数、技能点数和血币 |
+| `+1 barter reroll credit on Barter tasks` | +1 barter reroll credit on Barter tasks | +1 贸易重抽点数（贸易委托） |
+| `+1 Task Automater and Telescope roll per task` | +1 Task Automater and Telescope roll per task | 每个委托+1次委托自动选择器和望远镜掉落判定 |
+| `Spirit per charge` | Spirit per charge | 精神（每次充能） |
+| `Rare drop from slay mobs.` | Rare drop from slay mobs. | 猎杀怪物的稀有掉落。 |
+| `Rare drop from slay mobs. Each mob drops it once.` | Rare drop from slay mobs. Each mob drops it once. | 猎杀怪物的稀有掉落，每种怪物限一次。 |
+| `Drops from the Chaos Dungeon.` | Drops from the Chaos Dungeon. | 从混沌地牢掉落。 |
+| `Unlocked from a lucky roll on any XP gained.` | Unlocked from a lucky roll on any XP gained. | 获得任意经验时，通过幸运判定解锁。 |
+| `Requires the T1-T4 amulets of this style obtained first.` | Requires the T1-T4 amulets of this style obtained first. | 需先获得此风格的T1-T4护符。 |
+| `You need to obtain the T1-T4 amulets of this style first.` | You need to obtain the T1-T4 amulets of this style first. | 你需要先获得此风格的T1-T4护符。 |
+| `Common Drops (2x quantity)` | Common Drops (2x quantity) | 普通掉落（2x数量） |
+| `Drops once per mob` | Drops once per mob | 每种怪物掉落一次 |
+| `Rolls every kill` | Rolls every kill | 每次击杀都判定 |
+| `Lucky skilling tasks: 2x XP, 2x rewards, no fails. Lucky slay tasks: 2x Slay and focus XP. Lucky XP also goes to Luck.` | Lucky skilling tasks: 2x XP, 2x rewards, no fails. Lucky slay tasks: 2x Slay and focus XP. Lucky XP also goes to Luck. | 幸运技能委托：2x经验、2x奖励、不会失败。幸运猎杀委托：2x猎杀经验和训练重点经验。幸运委托的经验也会计入幸运。 |
+| `40% chance a hit strikes again for 40% damage. The extra strike rolls to hit.` | 40% chance a hit strikes again for 40% damage. The extra strike rolls to hit. | 每次命中有40%几率以40%伤害再次打击。额外打击需进行命中判定。 |
+| `45% chance a hit strikes again for 55% damage. The extra strike rolls to hit.` | 45% chance a hit strikes again for 55% damage. The extra strike rolls to hit. | 每次命中有45%几率以55%伤害再次打击。额外打击需进行命中判定。 |
+| `50% chance a hit strikes again for 70% damage. The extra strike rolls to hit.` | 50% chance a hit strikes again for 70% damage. The extra strike rolls to hit. | 每次命中有50%几率以70%伤害再次打击。额外打击需进行命中判定。 |
+| `60% chance a hit strikes again for 85% damage. The extra strike rolls to hit.` | 60% chance a hit strikes again for 85% damage. The extra strike rolls to hit. | 每次命中有60%几率以85%伤害再次打击。额外打击需进行命中判定。 |
+| `70% chance a hit strikes again for 100% damage. The extra strike rolls to hit.` | 70% chance a hit strikes again for 100% damage. The extra strike rolls to hit. | 每次命中有70%几率以100%伤害再次打击。额外打击需进行命中判定。 |
+| `70% chance a hit strikes again for 100% damage. The extra strike rolls to hit. The extra strike can strike again once.` | 70% chance a hit strikes again for 100% damage. The extra strike rolls to hit. The extra strike can strike again once. | 每次命中有70%几率以100%伤害再次打击。额外打击需进行命中判定。额外打击可再打击一次。 |
+| `Always strike the lowest slash-defence enemy. 70% chance a hit cleaves: every enemy, the target included, takes 40% of the damage.` | Always strike the lowest slash-defence enemy. 70% chance a hit cleaves: every enemy, the target included, takes 40% of the damage. | 始终攻击挥砍防御最低的敌人。命中时有70%几率触发横扫，对包括目标在内的每个敌人造成相当于本次攻击40%的伤害。 |
+| `Always strike the lowest magic-defence enemy. 70% chance a hit bursts: every enemy, the target included, takes 40% of the damage.` | Always strike the lowest magic-defence enemy. 70% chance a hit bursts: every enemy, the target included, takes 40% of the damage. | 始终攻击魔法防御最低的敌人。命中时有70%几率触发爆裂，对包括目标在内的每个敌人造成相当于本次攻击40%的伤害。 |
+| `Always strike the weakest stab-defence enemy. Each consecutive hit on the same target adds +80% damage, up to 3 stacks. Switching targets keeps half your stacks, rounded down.` | Always strike the weakest stab-defence enemy. Each consecutive hit on the same target adds +80% damage, up to 3 stacks. Switching targets keeps half your stacks, rounded down. | 始终攻击刺击防御最弱的敌人。对同一目标的每次连续命中增加+80%伤害，最多3层。切换目标时保留一半层数（向下取整）。 |
+| `Combat resource that drains 2 per attack you make and 1 per damaging hit you take. While above 0 it boosts all combat stats by 10% (up to 30% with pets and capes). Kills restore +10% of max (min 3), more with Spirit Conduit alms unlocks.` | Combat resource that drains 2 per attack you make and 1 per damaging hit you take. While above 0 it boosts all combat stats by 10% (up to 30% with pets and capes). Kills restore +10% of max (min 3), more with Spirit Conduit alms unlocks. | 一种战斗资源：每次主动攻击消耗2点，每受到一次造成伤害的命中消耗1点。剩余值大于0时，所有战斗属性提升10%（配合宠物和披风最高30%）。每次击杀恢复上限的+10%（最低3点）；施舍中解锁回灵器后可提高恢复量。 |
+| `Each action can complete a random step on one of your treasure scrolls. Pairs with Bard.` | Each action can complete a random step on one of your treasure scrolls. Pairs with Bard. | 每次行动都可能随机完成你某张宝藏卷轴上的一个步骤，适合与吟游技能搭配。 |
+| `Each rolled task has a small chance to be Lucky. Lucky skilling tasks: 2x XP, 2x rewards, no failed actions. Lucky slay tasks: 2x Slay XP and 2x combat XP for your training focus. Lucky XP also goes to Luck.` | Each rolled task has a small chance to be Lucky. Lucky skilling tasks: 2x XP, 2x rewards, no failed actions. Lucky slay tasks: 2x Slay XP and 2x combat XP for your training focus. Lucky XP also goes to Luck. | 每个抽取的委托都有小几率成为幸运委托。幸运技能委托：2x经验、2x奖励、不会有失败动作。幸运猎杀委托：2x猎杀经验，训练重点的战斗经验也为2x。幸运委托的经验也会同步计入幸运。 |
+| `Trained by dealing damage in Dungeons (combat raids): 0.5x to 1.75x the damage as XP by tier, plus a bonus for each cleared run. No other skill trains in a Dungeon.` | Trained by dealing damage in Dungeons (combat raids): 0.5x to 1.75x the damage as XP by tier, plus a bonus for each cleared run. No other skill trains in a Dungeon. | 在地牢（战斗团本）中造成伤害可提升地牢技能：按阶位获得相当于伤害值0.5x至1.75x的经验，每通关一轮还有额外奖励。其他技能不会在地牢中获得经验。 |
+| `A shop of six slots, rerolled with barter reroll credits. A reroll costs 10. You earn 2 credits for every Barter task you finish.` | A shop of six slots, rerolled with barter reroll credits. A reroll costs 10. You earn 2 credits for every Barter task you finish. | 商店共有六个货位，可用贸易重抽点数重抽，每次消耗10点。每完成一项贸易委托获得2点。 |
+| `Extra healing from each food item eaten and each successful skilling action.` | Extra healing from each food item eaten and each successful skilling action. | 每次食用食物及每次成功的技能动作获得的额外治疗。 |
+| `Slay tasks reward slay skill credits and bloodcoins on completion.` | Slay tasks reward slay skill credits and bloodcoins on completion. | 完成猎杀委托可获得猎杀技能点数和血币。 |
+| `@spirit_mod_base` | (base {0}x with any spirit, {1}x at 0 spirit) | （有精神时基础{0}x，精神为0时{1}x） |
+| `@spirit_pot_when` | Used below {0}% Spirit in combat | 战斗中精神低于{0}%时使用 |
+| `@potion_eff_levels` | effective {0} levels | {0}有效等级 |
+| `@effect_qty_range` | Effect: {0} per task | 效果：每个委托{0} |
+| `@effect_luck_lever` | Effect: Lucky chance (skilling tasks only; slay tasks ignore this lever): {0} → {1} | 效果：幸运几率（仅限技能委托；猎杀委托不受此滑杆影响）：{0} → {1} |
+| `@b:eff_lv_atk_move` | +{0} effective level (attack + move speed) | 有效等级+{0}（影响攻击与移动速度） |
+| `@b:spirit_mod` | +{0}x spirit modifier | 精神加成+{0}x |
+| `@b:hp_food_action` | +1 HP per food and skilling action | 每份食物和每次技能动作+1生命值 |
+| `@f:runs` | runs | 次通关 |
+| `@f:run` | run | 次通关 |

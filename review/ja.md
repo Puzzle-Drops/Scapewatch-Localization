@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (463)
+## Lines to review (521)
 
 | Key | English | Current |
 |---|---|---|
@@ -445,7 +445,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@xp_on_fail` | XP on Fail: {0} XP | 失敗時の経験値：{0} |
 | `@reset_skill_levers` | Set every {0} activity, quantity, and node lever back to 0. | {0}のアクティビティ・数量・ノードのレバーをすべて0に戻します。 |
 | `@diaries_pct` | {0} / {1} Diaries ({2}%) | 日記 {0} / {1}（{2}%） |
-| `@respawn_each` | -1s each, base {0}s (×2 off slay task), min {1}s | -1秒ずつ、基本{0}秒（討伐タスク以外は×2）、最小{1}秒 |
+| `@respawn_each` | -1s each, base {0}s, min 2s | -1秒ずつ、基本{0}秒、最小2秒 |
 | `@task_rows` | Task Rows {0}/{1} | タスク行数 {0}/{1} |
 | `@queue_rows_desc` | Queued tasks below the one you are doing. {0} to start, +1 per {1} total levels to {2}, +1 from the Auditor's Docket | 実行中のタスクの下に並ぶ予約タスク。初期{0}行、合計レベル{1}ごとに+1行（最大{2}行）、監査人の帳簿で+1行 |
 | `@lucky_roll_unlock` | Unlocked from a lucky roll on {0} XP gained. | {0}の経験値獲得時の幸運判定で解放されました。 |
@@ -533,3 +533,61 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | ゲームを通常モードで再起動します。再び画面が真っ黒になった場合は、ゲームが自動でセーフモードに戻ります。 |
 | `The game started in safe mode.` | The game started in safe mode. | ゲームはセーフモードで起動しました。 |
 | `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | 今すぐ、または後から「設定」の「ビルド」で通常モードに戻せます。 |
+| `Wave defense: {n}` | Wave defense: {n} | ウェーブ防御：{n} |
+| `Cuts your army's damage by {pct}%` | Cuts your army's damage by {pct}% | 軍のダメージを{pct}%軽減 |
+| `Each round your army deals Melee + Range + Magic Force, minus this cut. The cut is defense / (defense + {k}).` | Each round your army deals Melee + Range + Magic Force, minus this cut. The cut is defense / (defense + {k}). | 毎ラウンド、軍は近接フォース＋遠隔フォース＋マジックフォースから、この軽減分を差し引いたダメージを与えます。軽減率は 防御 ／（防御 ＋ {k}）です。 |
+| `Enemy melee attack: {n}` | Enemy melee attack: {n} | 敵の近接攻撃：{n} |
+| `Enemy range attack: {n}` | Enemy range attack: {n} | 敵の遠隔攻撃：{n} |
+| `Enemy magic attack: {n}` | Enemy magic attack: {n} | 敵の魔法攻撃：{n} |
+| `Your shield: {n}` | Your shield: {n} | 軍のシールド：{n} |
+| `Blocks {pct}% of this lane's damage` | Blocks {pct}% of this lane's damage | このレーンのダメージを{pct}%ブロック |
+| `Shield = Defense × {w} + Melee Force. With no melee player the lane is walled by Defense alone.` | Shield = Defense × {w} + Melee Force. With no melee player the lane is walled by Defense alone. | シールド ＝ 防御 × {w} ＋ 近接フォース。近接担当のプレイヤーがいない場合、このレーンは防御だけで守られます。 |
+| `Shield = Defense × {w} + Range Force. With no range player the lane is walled by Defense alone.` | Shield = Defense × {w} + Range Force. With no range player the lane is walled by Defense alone. | シールド ＝ 防御 × {w} ＋ 遠隔フォース。遠隔担当のプレイヤーがいない場合、このレーンは防御だけで守られます。 |
+| `Shield = Defense × {w} + Magic Force. With no magic player the lane is walled by Defense alone.` | Shield = Defense × {w} + Magic Force. With no magic player the lane is walled by Defense alone. | シールド ＝ 防御 × {w} ＋ マジックフォース。魔法担当のプレイヤーがいない場合、このレーンは防御だけで守られます。 |
+| `Melee Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's melee lane: that lane's shield is Defense × {w} + Melee Force. With no melee player, the enemy's melee lane is walled by Defense alone.` | Melee Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's melee lane: that lane's shield is Defense × {w} + Melee Force. With no melee player, the enemy's melee lane is walled by Defense alone. | 近接フォース。{role}で増加。攻撃（三つのフォースの合計が軍のダメージになる）と、敵の近接レーンに対する壁の両方を担います。そのレーンのシールドは 防御 × {w} ＋ 近接フォースです。近接担当のプレイヤーがいない場合、敵の近接レーンは防御だけで守られます。 |
+| `Range Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's range lane: that lane's shield is Defense × {w} + Range Force. With no range player, the enemy's range lane is walled by Defense alone.` | Range Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's range lane: that lane's shield is Defense × {w} + Range Force. With no range player, the enemy's range lane is walled by Defense alone. | 遠隔フォース。{role}で増加。攻撃（三つのフォースの合計が軍のダメージになる）と、敵の遠隔レーンに対する壁の両方を担います。そのレーンのシールドは 防御 × {w} ＋ 遠隔フォースです。遠隔担当のプレイヤーがいない場合、敵の遠隔レーンは防御だけで守られます。 |
+| `Magic Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's magic lane: that lane's shield is Defense × {w} + Magic Force. With no magic player, the enemy's magic lane is walled by Defense alone.` | Magic Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's magic lane: that lane's shield is Defense × {w} + Magic Force. With no magic player, the enemy's magic lane is walled by Defense alone. | マジックフォース。{role}で増加。攻撃（三つのフォースの合計が軍のダメージになる）と、敵の魔法レーンに対する壁の両方を担います。そのレーンのシールドは 防御 × {w} ＋ マジックフォースです。魔法担当のプレイヤーがいない場合、敵の魔法レーンは防御だけで守られます。 |
+| `Defense, fed by {role}. Pure protection with no attack value. Each point adds {w} shield to ALL three enemy lanes (melee, range and magic), so it softens every hit the army takes.` | Defense, fed by {role}. Pure protection with no attack value. Each point adds {w} shield to ALL three enemy lanes (melee, range and magic), so it softens every hit the army takes. | 防御。{role}で増加。攻撃力を持たない純粋な保護。1ポイントごとに敵の三つのレーン（近接、遠隔、魔法）すべてのシールドが{w}増えるため、軍が受けるすべてのヒットを和らげます。 |
+| `+0.25% XP, +1% Quest chance, +0.05% Luck chance, +0.5% move speed each (shiny: +0.5% XP, +1% move speed)` | +0.25% XP, +1% Quest chance, +0.05% Luck chance, +0.5% move speed each (shiny: +0.5% XP, +1% move speed) | それぞれ XP +0.25%、クエスト確率 +1%、幸運確率 +0.05%、移動速度 +0.5%（光輝：XP +0.5%、移動速度 +1%） |
+| `+1 to task-completion rewards` | +1 to task-completion rewards | タスク完了報酬 +1 |
+| `Adds +1 to task-completion rewards` | Adds +1 to task-completion rewards | タスク完了報酬に+1を加えます |
+| `+1 reroll credit, skill credit and bloodcoin per task` | +1 reroll credit, skill credit and bloodcoin per task | タスクごとにリロールクレジット、スキルクレジット、ブラッドコインが+1 |
+| `+1 barter reroll credit on Barter tasks` | +1 barter reroll credit on Barter tasks | 交易タスクで交易リロールクレジット +1 |
+| `+1 Task Automater and Telescope roll per task` | +1 Task Automater and Telescope roll per task | タスクごとにタスク自動化と望遠鏡の抽選 +1 |
+| `Spirit per charge` | Spirit per charge | チャージごとの精神 |
+| `Rare drop from slay mobs.` | Rare drop from slay mobs. | 討伐モブからのレアドロップ。 |
+| `Rare drop from slay mobs. Each mob drops it once.` | Rare drop from slay mobs. Each mob drops it once. | 討伐モブからのレアドロップ。各モブから一度ドロップします。 |
+| `Drops from the Chaos Dungeon.` | Drops from the Chaos Dungeon. | 混沌のダンジョンでドロップします。 |
+| `Unlocked from a lucky roll on any XP gained.` | Unlocked from a lucky roll on any XP gained. | あらゆる経験値獲得時の幸運判定で解放されました。 |
+| `Requires the T1-T4 amulets of this style obtained first.` | Requires the T1-T4 amulets of this style obtained first. | 先にこのスタイルのT1-T4アミュレットを入手している必要があります。 |
+| `You need to obtain the T1-T4 amulets of this style first.` | You need to obtain the T1-T4 amulets of this style first. | 先にこのスタイルのT1-T4アミュレットを入手する必要があります。 |
+| `Common Drops (2x quantity)` | Common Drops (2x quantity) | コモンドロップ（数量2x） |
+| `Drops once per mob` | Drops once per mob | モブごとに一度ドロップ |
+| `Rolls every kill` | Rolls every kill | キルごとに抽選 |
+| `Lucky skilling tasks: 2x XP, 2x rewards, no fails. Lucky slay tasks: 2x Slay and focus XP. Lucky XP also goes to Luck.` | Lucky skilling tasks: 2x XP, 2x rewards, no fails. Lucky slay tasks: 2x Slay and focus XP. Lucky XP also goes to Luck. | 幸運スキルタスク：経験値2x、報酬2x、失敗なし。幸運討伐タスク：討伐と鍛える対象の経験値2x。幸運タスクの経験値は幸運にも加算されます。 |
+| `40% chance a hit strikes again for 40% damage. The extra strike rolls to hit.` | 40% chance a hit strikes again for 40% damage. The extra strike rolls to hit. | 40%の確率でヒットが40%ダメージで再度攻撃する。追加の攻撃は命中判定を行う。 |
+| `45% chance a hit strikes again for 55% damage. The extra strike rolls to hit.` | 45% chance a hit strikes again for 55% damage. The extra strike rolls to hit. | 45%の確率でヒットが55%ダメージで再度攻撃する。追加の攻撃は命中判定を行う。 |
+| `50% chance a hit strikes again for 70% damage. The extra strike rolls to hit.` | 50% chance a hit strikes again for 70% damage. The extra strike rolls to hit. | 50%の確率でヒットが70%ダメージで再度攻撃する。追加の攻撃は命中判定を行う。 |
+| `60% chance a hit strikes again for 85% damage. The extra strike rolls to hit.` | 60% chance a hit strikes again for 85% damage. The extra strike rolls to hit. | 60%の確率でヒットが85%ダメージで再度攻撃する。追加の攻撃は命中判定を行う。 |
+| `70% chance a hit strikes again for 100% damage. The extra strike rolls to hit.` | 70% chance a hit strikes again for 100% damage. The extra strike rolls to hit. | 70%の確率でヒットが100%ダメージで再度攻撃する。追加の攻撃は命中判定を行う。 |
+| `70% chance a hit strikes again for 100% damage. The extra strike rolls to hit. The extra strike can strike again once.` | 70% chance a hit strikes again for 100% damage. The extra strike rolls to hit. The extra strike can strike again once. | 70%の確率でヒットが100%ダメージで再度攻撃する。追加の攻撃は命中判定を行う。追加の攻撃はさらに1回再度攻撃できる。 |
+| `Always strike the lowest slash-defence enemy. 70% chance a hit cleaves: every enemy, the target included, takes 40% of the damage.` | Always strike the lowest slash-defence enemy. 70% chance a hit cleaves: every enemy, the target included, takes 40% of the damage. | 常に斬撃防御が最も低い敵を攻撃する。70%の確率でヒットがなぎ払いとなり、対象を含むすべての敵がダメージの40%を受ける。 |
+| `Always strike the lowest magic-defence enemy. 70% chance a hit bursts: every enemy, the target included, takes 40% of the damage.` | Always strike the lowest magic-defence enemy. 70% chance a hit bursts: every enemy, the target included, takes 40% of the damage. | 常に魔法防御が最も低い敵を攻撃する。70%の確率でヒットが炸裂し、対象を含むすべての敵がダメージの40%を受ける。 |
+| `Always strike the weakest stab-defence enemy. Each consecutive hit on the same target adds +80% damage, up to 3 stacks. Switching targets keeps half your stacks, rounded down.` | Always strike the weakest stab-defence enemy. Each consecutive hit on the same target adds +80% damage, up to 3 stacks. Switching targets keeps half your stacks, rounded down. | 常に刺突防御が最も弱い敵を攻撃する。同じ対象への連続ヒットごとにダメージ+80%を得る。最大3スタック。対象を切り替えるとスタックの半分（切り捨て）が残る。 |
+| `Combat resource that drains 2 per attack you make and 1 per damaging hit you take. While above 0 it boosts all combat stats by 10% (up to 30% with pets and capes). Kills restore +10% of max (min 3), more with Spirit Conduit alms unlocks.` | Combat resource that drains 2 per attack you make and 1 per damaging hit you take. While above 0 it boosts all combat stats by 10% (up to 30% with pets and capes). Kills restore +10% of max (min 3), more with Spirit Conduit alms unlocks. | 攻撃するたびに2、被ダメージを受けるたびに1減少する戦闘リソース。0を超えている間、すべての戦闘ステータスを10%上昇させます（ペットとケープで最大30%）。キルで最大値の+10%（最低3）回復し、精神導管の施し解放でさらに増加します。 |
+| `Each action can complete a random step on one of your treasure scrolls. Pairs with Bard.` | Each action can complete a random step on one of your treasure scrolls. Pairs with Bard. | アクションごとに、トレジャースクロールのいずれかのステップをランダムに完了できる。吟遊と相性が良い。 |
+| `Each rolled task has a small chance to be Lucky. Lucky skilling tasks: 2x XP, 2x rewards, no failed actions. Lucky slay tasks: 2x Slay XP and 2x combat XP for your training focus. Lucky XP also goes to Luck.` | Each rolled task has a small chance to be Lucky. Lucky skilling tasks: 2x XP, 2x rewards, no failed actions. Lucky slay tasks: 2x Slay XP and 2x combat XP for your training focus. Lucky XP also goes to Luck. | ロールされた各タスクにはわずかに幸運になる可能性があります。幸運スキルタスク：経験値2x、報酬2x、失敗アクションなし。幸運討伐タスク：討伐経験値2x、鍛える対象の戦闘経験値2x。幸運タスクの経験値は幸運にも加算されます。 |
+| `Trained by dealing damage in Dungeons (combat raids): 0.5x to 1.75x the damage as XP by tier, plus a bonus for each cleared run. No other skill trains in a Dungeon.` | Trained by dealing damage in Dungeons (combat raids): 0.5x to 1.75x the damage as XP by tier, plus a bonus for each cleared run. No other skill trains in a Dungeon. | ダンジョン（戦闘レイド）内でダメージを与えて鍛えます。ティアに応じて与えたダメージの0.5x～1.75xが経験値になり、クリアしたランごとにボーナスも得られます。ダンジョンで鍛えられるスキルは他にありません。 |
+| `A shop of six slots, rerolled with barter reroll credits. A reroll costs 10. You earn 2 credits for every Barter task you finish.` | A shop of six slots, rerolled with barter reroll credits. A reroll costs 10. You earn 2 credits for every Barter task you finish. | 6枠の店で、交易リロールクレジットで振り直せます。振り直しは10かかります。交易タスクを1つ終えるごとに2クレジットもらえます。 |
+| `Extra healing from each food item eaten and each successful skilling action.` | Extra healing from each food item eaten and each successful skilling action. | 食べた食料ごと、および成功したスキルアクションごとの追加回復。 |
+| `Slay tasks reward slay skill credits and bloodcoins on completion.` | Slay tasks reward slay skill credits and bloodcoins on completion. | 討伐タスクは完了時に討伐スキルクレジットとブラッドコインを報酬として与えます。 |
+| `@spirit_mod_base` | (base {0}x with any spirit, {1}x at 0 spirit) | （精神があれば基本{0}x、精神0では{1}x） |
+| `@spirit_pot_when` | Used below {0}% Spirit in combat | 戦闘中、精神が{0}%を下回ると使用 |
+| `@potion_eff_levels` | effective {0} levels | {0}の実効レベル |
+| `@effect_qty_range` | Effect: {0} per task | 効果：タスクごとに{0} |
+| `@effect_luck_lever` | Effect: Lucky chance (skilling tasks only; slay tasks ignore this lever): {0} → {1} | 効果：幸運確率（スキルタスクのみ。討伐タスクはこのレバーの影響を受けません）：{0} → {1} |
+| `@b:eff_lv_atk_move` | +{0} effective level (attack + move speed) | 実効レベル+{0}（攻撃速度＋移動速度） |
+| `@b:spirit_mod` | +{0}x spirit modifier | 精神補正+{0}x |
+| `@b:hp_food_action` | +1 HP per food and skilling action | 食料とスキルアクションごとにHP+1 |
+| `@f:runs` | runs | 回 |
+| `@f:run` | run | 回 |

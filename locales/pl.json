@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "+{0}x modyfikatora ducha",
   "@b:hp_food_action": "+1 PŻ za posiłek i akcję umiejętności",
   "@f:runs": "przejść",
-  "@f:run": "przejście"
+  "@f:run": "przejście",
+  "Waiting in line": "Oczekiwanie w kolejce"
 }

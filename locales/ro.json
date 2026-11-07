@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "+{0}x modificator de spirit",
   "@b:hp_food_action": "+1 HP per hrană și acțiune de abilitate",
   "@f:runs": "runde",
-  "@f:run": "rundă"
+  "@f:run": "rundă",
+  "Waiting in line": "Se așteaptă la coadă"
 }

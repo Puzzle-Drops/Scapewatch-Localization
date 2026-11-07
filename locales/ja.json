@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "精神補正+{0}x",
   "@b:hp_food_action": "食料とスキルアクションごとにHP+1",
   "@f:runs": "回",
-  "@f:run": "回"
+  "@f:run": "回",
+  "Waiting in line": "順番待ち中"
 }

@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "+{0}x de modificador de espíritu",
   "@b:hp_food_action": "+1 HP por comida y acción de habilidad",
   "@f:runs": "ejecuciones",
-  "@f:run": "ejecución"
+  "@f:run": "ejecución",
+  "Waiting in line": "Esperando en la cola"
 }

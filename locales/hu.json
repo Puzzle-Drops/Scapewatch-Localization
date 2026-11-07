@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "+{0}x szellem módosító",
   "@b:hp_food_action": "+1 HP ételenként és képességcselekvésenként",
   "@f:runs": "futam",
-  "@f:run": "futam"
+  "@f:run": "futam",
+  "Waiting in line": "Várakozás a sorban"
 }

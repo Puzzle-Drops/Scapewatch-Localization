@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "+{0}x ruh değiştirici",
   "@b:hp_food_action": "yiyecek ve yetenek aksiyonu başına +1 HP",
   "@f:runs": "tur",
-  "@f:run": "tur"
+  "@f:run": "tur",
+  "Waiting in line": "Sırada bekleniyor"
 }

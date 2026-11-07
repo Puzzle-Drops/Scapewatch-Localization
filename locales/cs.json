@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "+{0}x modifikátor ducha",
   "@b:hp_food_action": "+1 ŽB za jídlo a akci dovednosti",
   "@f:runs": "běhů",
-  "@f:run": "běh"
+  "@f:run": "běh",
+  "Waiting in line": "Čekání ve frontě"
 }

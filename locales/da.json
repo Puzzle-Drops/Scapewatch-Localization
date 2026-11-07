@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "+{0}x Ånde-modifikator",
   "@b:hp_food_action": "+1 HP pr. mad og færdighedshandling",
   "@f:runs": "løb",
-  "@f:run": "løb"
+  "@f:run": "løb",
+  "Waiting in line": "Venter i kø"
 }

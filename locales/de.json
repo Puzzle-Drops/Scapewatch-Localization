@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "+{0}x Geist-Modifikator",
   "@b:hp_food_action": "+1 HP pro Nahrung und Fertigkeitsaktion",
   "@f:runs": "Durchläufe",
-  "@f:run": "Durchlauf"
+  "@f:run": "Durchlauf",
+  "Waiting in line": "In der Warteschlange"
 }

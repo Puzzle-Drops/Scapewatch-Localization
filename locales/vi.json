@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "+{0}x hệ số linh thể",
   "@b:hp_food_action": "+1 HP mỗi món ăn và hành động kỹ năng",
   "@f:runs": "lượt",
-  "@f:run": "lượt"
+  "@f:run": "lượt",
+  "Waiting in line": "Đang chờ trong hàng"
 }

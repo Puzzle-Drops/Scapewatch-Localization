@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "정신력 보정 +{0}x",
   "@b:hp_food_action": "음식 및 스킬 행동당 HP +1",
   "@f:runs": "회 완료",
-  "@f:run": "회 완료"
+  "@f:run": "회 완료",
+  "Waiting in line": "대기열에서 대기 중"
 }

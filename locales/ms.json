@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "+{0}x pengubah roh",
   "@b:hp_food_action": "+1 HP setiap makanan dan tindakan kemahiran",
   "@f:runs": "larian",
-  "@f:run": "larian"
+  "@f:run": "larian",
+  "Waiting in line": "Menunggu giliran"
 }

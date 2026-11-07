@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "+{0}x 精神加成",
   "@b:hp_food_action": "每次進食與技能動作 +1 生命值",
   "@f:runs": "次通關",
-  "@f:run": "次通關"
+  "@f:run": "次通關",
+  "Waiting in line": "排隊等候中"
 }

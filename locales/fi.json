@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "+{0}x henkimuuntaja",
   "@b:hp_food_action": "+1 HP per ruoka ja taitotoiminto",
   "@f:runs": "suoritusta",
-  "@f:run": "suoritus"
+  "@f:run": "suoritus",
+  "Waiting in line": "Jonossa"
 }

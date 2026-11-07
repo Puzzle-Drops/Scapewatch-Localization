@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "+{0}x Geest-Modificator",
   "@b:hp_food_action": "+1 HP per voedsel en vaardigheidsactie",
   "@f:runs": "runs",
-  "@f:run": "run"
+  "@f:run": "run",
+  "Waiting in line": "In de wachtrij"
 }

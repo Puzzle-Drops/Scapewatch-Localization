@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "+{0}x de modificateur d'esprit",
   "@b:hp_food_action": "+1 PV par nourriture et action de compétence",
   "@f:runs": "parties",
-  "@f:run": "partie"
+  "@f:run": "partie",
+  "Waiting in line": "En file d'attente"
 }

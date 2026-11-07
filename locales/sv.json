@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "+{0}x Ande-modifierare",
   "@b:hp_food_action": "+1 HP per mat och färdighetshandling",
   "@f:runs": "körningar",
-  "@f:run": "körning"
+  "@f:run": "körning",
+  "Waiting in line": "Väntar i kö"
 }

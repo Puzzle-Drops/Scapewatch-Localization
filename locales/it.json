@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "+{0}x modificatore spirito",
   "@b:hp_food_action": "+1 HP per cibo e azione di abilità",
   "@f:runs": "corse",
-  "@f:run": "corsa"
+  "@f:run": "corsa",
+  "Waiting in line": "In coda"
 }

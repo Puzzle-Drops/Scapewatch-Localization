@@ -11055,5 +11055,6 @@
   "@b:spirit_mod": "+{0}x modifier ng espiritu",
   "@b:hp_food_action": "+1 HP kada pagkain at aksyon ng skilling",
   "@f:runs": "run",
-  "@f:run": "run"
+  "@f:run": "run",
+  "Waiting in line": "Naghihintay sa pila"
 }

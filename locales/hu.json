@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 HP ételenként és képességcselekvésenként",
   "@f:runs": "futam",
   "@f:run": "futam",
-  "Waiting in line": "Várakozás a sorban"
+  "Waiting in line": "Várakozás a sorban",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Ezek a mészárlás-mesterek. Koppints Valthorra, hogy a szörnylistát az általa kiosztottakra szűkítsd, mert ez kapcsolja be az esélyszázalékokat.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Koppints a kiemelt gyógynövényre, abból készül a harci bájitalod.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "A Csomópontok fül magától leszűkül azokra a csomópontokra, ahol az a tevékenység elérhető, mindegyiknél a dobás esélyével.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Ezek ugyanazok a súlyok, mint a Tevékenységek fülön, csak helyszínekre, nem tevékenységekre. Fizetni értük általában a rosszabb üzlet: a tevékenység vagy a mennyiség súlyozása többet ér. Van azonban mód arra, hogy ingyen súlyozz helyszíneket."
 }

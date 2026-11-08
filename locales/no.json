@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 HP per mat og ferdighetshandling",
   "@f:runs": "runder",
   "@f:run": "runde",
-  "Waiting in line": "Venter i kø"
+  "Waiting in line": "Venter i kø",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Dette er slakt-mesterne. Trykk på Valthor for å filtrere moblisten til dem han tildeler, som er det som slår på sjanseprosentene.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Trykk på den uthevede urten, den som kampeliksiren din brygges av.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "Fanen Knuter filtrerer seg ned til nodene som har den aktiviteten, med sjansen for å rulle hver av dem.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Dette er de samme vektene som i fanen Aktiviteter, men for steder i stedet for aktiviteter. Å betale for dem er vanligvis den dårligere avtalen: å vekte aktiviteten eller mengden dens gjør mer. Det finnes likevel en måte å vekte steder gratis på."
 }

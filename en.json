@@ -10575,5 +10575,9 @@
   "A shop of six slots, rerolled with barter reroll credits. A reroll costs 10. You earn 2 credits for every Barter task you finish.": "A shop of six slots, rerolled with barter reroll credits. A reroll costs 10. You earn 2 credits for every Barter task you finish.",
   "Extra healing from each food item eaten and each successful skilling action.": "Extra healing from each food item eaten and each successful skilling action.",
   "Slay tasks reward slay skill credits and bloodcoins on completion.": "Slay tasks reward slay skill credits and bloodcoins on completion.",
-  "Waiting in line": "Waiting in line"
+  "Waiting in line": "Waiting in line",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Tap the highlighted herb, the one your combat potions are brewed from.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though."
 }

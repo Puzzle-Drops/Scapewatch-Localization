@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 HP pro Nahrung und Fertigkeitsaktion",
   "@f:runs": "Durchläufe",
   "@f:run": "Durchlauf",
-  "Waiting in line": "In der Warteschlange"
+  "Waiting in line": "In der Warteschlange",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Das sind die Erlegen-Meister. Tippe auf Valthor, um die Gegnerliste auf die zu filtern, die er zuweist, denn das schaltet die Chancenprozente ein.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Tippe auf das hervorgehobene Kraut, aus dem dein Kampftrank gebraut wird.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "Der Reiter „Knoten“ filtert sich auf die Knoten herunter, an denen diese Aktivität stattfindet, samt der Chance, dass der jeweilige Knoten ausgelost wird.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Das sind dieselben Gewichte wie im Reiter „Aktivitäten“, nur für Orte statt für Aktivitäten. Dafür zu bezahlen lohnt sich meist weniger: Die Aktivität oder ihre Menge zu gewichten bringt mehr. Es gibt aber einen Weg, Orte kostenlos zu gewichten."
 }

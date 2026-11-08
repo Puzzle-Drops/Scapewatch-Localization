@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "yiyecek ve yetenek aksiyonu başına +1 HP",
   "@f:runs": "tur",
   "@f:run": "tur",
-  "Waiting in line": "Sırada bekleniyor"
+  "Waiting in line": "Sırada bekleniyor",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Bunlar avlama ustaları. Yaratık listesini onun verdiklerine göre süzmek için Valthor'a dokun, şans yüzdelerini açan şey budur.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Vurgulanan bitkiye dokun, savaş iksirin bundan yapılır.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "Düğümler sekmesi kendini, o etkinliği barındıran düğümlere indirger ve her birinin gelme şansını gösterir.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Bunlar Etkinlikler sekmesindekiyle aynı ağırlıklar ama etkinlikler yerine yerler için. Bunlara ödemek genelde daha kötü bir anlaşmadır: etkinliği ya da miktarını ağırlıklandırmak daha çok işe yarar. Yine de konumları bedava ağırlıklandırmanın bir yolu var."
 }

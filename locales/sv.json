@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 HP per mat och färdighetshandling",
   "@f:runs": "körningar",
   "@f:run": "körning",
-  "Waiting in line": "Väntar i kö"
+  "Waiting in line": "Väntar i kö",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Det här är dräp-mästarna. Tryck på Valthor för att filtrera fiendelistan till dem han delar ut, vilket är det som sätter igång chansprocenten.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Tryck på den markerade örten, den som din stridsdryck görs av.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "Fliken Noder filtrerar sig själv ner till noderna som rymmer aktiviteten, med chansen att få var och en.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Det här är samma vikter som under fliken Aktiviteter, fast för platser i stället för aktiviteter. Att betala för dem är oftast sämre affär: att vikta aktiviteten eller dess mängd ger mer. Men det finns ett sätt att vikta platser gratis."
 }

@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "음식 및 스킬 행동당 HP +1",
   "@f:runs": "회 완료",
   "@f:run": "회 완료",
-  "Waiting in line": "대기열에서 대기 중"
+  "Waiting in line": "대기열에서 대기 중",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "이들이 처치 마스터입니다. 발토르를 탭하면 몹 목록이 그가 맡기는 것들로 걸러지고, 그때 확률 퍼센트가 켜집니다.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "강조 표시된 약초를 탭하세요. 전투 물약은 이 약초로 만듭니다.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "노드 탭이 그 활동이 있는 노드만 남기고 걸러지며, 각각이 뽑힐 확률도 함께 보여 줍니다.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "이것은 활동 탭과 같은 가중치이지만, 활동이 아니라 장소에 대한 것입니다. 여기에 크레딧을 쓰는 것은 대개 손해입니다. 활동이나 수량에 가중치를 주는 편이 더 효과적입니다. 다만 장소에 공짜로 가중치를 주는 방법이 있습니다."
 }

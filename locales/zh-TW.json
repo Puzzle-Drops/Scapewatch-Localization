@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "每次進食與技能動作 +1 生命值",
   "@f:runs": "次通關",
   "@f:run": "次通關",
-  "Waiting in line": "排隊等候中"
+  "Waiting in line": "排隊等候中",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "這些是獵殺大師。點按瓦爾索爾，把怪物清單篩成他會指派的那些，這樣機率百分比才會啟用。",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "點按醒目標示的草藥，你的戰鬥藥水就是用它做的。",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "「節點」分頁會自動篩成有這個活動的節點，並顯示骰到各節點的機率。",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "這些和「活動」分頁的權重是同一種，只是作用在地點而不是活動上。花點數在這上面通常比較不划算：加權活動或它的數量效果更好。不過有一個免費為地點加權的辦法。"
 }

@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 HP mỗi món ăn và hành động kỹ năng",
   "@f:runs": "lượt",
   "@f:run": "lượt",
-  "Waiting in line": "Đang chờ trong hàng"
+  "Waiting in line": "Đang chờ trong hàng",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Đây là các Bậc thầy diệt quái. Chạm vào Valthor để lọc danh sách quái xuống còn những con ông ta giao, chính thao tác đó bật các tỷ lệ phần trăm lên.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Chạm vào loại thảo dược được tô sáng, loại dùng để làm thuốc chiến đấu của bạn.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "Thẻ Node tự thu lại chỉ còn những nút có hoạt động đó, kèm theo tỷ lệ bốc trúng từng nút.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Đây vẫn là những trọng số như ở thẻ Hoạt động, nhưng dành cho địa điểm chứ không phải hoạt động. Bỏ điểm vào đây thường là món hời kém hơn: đặt trọng số cho hoạt động hoặc số lượng của nó có tác dụng hơn. Tuy vậy vẫn có cách đặt trọng số cho địa điểm mà không tốn gì."
 }

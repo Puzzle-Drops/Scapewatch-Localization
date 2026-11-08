@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 PŻ za posiłek i akcję umiejętności",
   "@f:runs": "przejść",
   "@f:run": "przejście",
-  "Waiting in line": "Oczekiwanie w kolejce"
+  "Waiting in line": "Oczekiwanie w kolejce",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "To są mistrzowie ubijania. Dotknij Valthora, aby zawęzić listę mobów do tych, które przydziela, co włącza procenty szans.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Dotknij podświetlonego ziela, z którego powstaje twoja mikstura bojowa.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "Karta Węzły sama zawęża się do węzłów, w których jest ta aktywność, wraz z szansą na wylosowanie każdego z nich.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "To te same wagi co na karcie Aktywności, ale dla miejsc, a nie aktywności. Płacenie za nie zwykle jest gorszym interesem: ważenie aktywności albo jej ilości daje więcej. Jest jednak sposób, aby ważyć lokacje za darmo."
 }

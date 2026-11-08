@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 HP per hrană și acțiune de abilitate",
   "@f:runs": "runde",
   "@f:run": "rundă",
-  "Waiting in line": "Se așteaptă la coadă"
+  "Waiting in line": "Se așteaptă la coadă",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Aceștia sunt maeștrii de vânătoare. Atinge Valthor ca să filtrezi lista de creaturi la cele pe care le atribuie el, ceea ce aprinde procentele de șansă.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Atinge planta evidențiată, cea din care se face poțiunea ta de luptă.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "Fila Noduri se filtrează singură la nodurile care găzduiesc acea activitate, cu șansa de a ieși fiecare.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Acestea sunt aceleași ponderi ca în fila Activități, dar pentru locuri, nu pentru activități. De obicei nu merită să plătești pentru ele: ponderea activității sau a cantității face mai mult. Există totuși o cale de a pondera locațiile gratis."
 }

@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 ХП на храна и действие за трениране",
   "@f:runs": "забега",
   "@f:run": "забег",
-  "Waiting in line": "Изчакване на опашка"
+  "Waiting in line": "Изчакване на опашка",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Това са майсторите на изтребването. Докосни Valthor, за да филтрираш списъка със съществата до тези, които той възлага, което включва и процентите за шанс.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Докосни отбелязаната билка, от която се прави бойната ти отвара.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "Разделът „Възли“ се филтрира сам до възлите, където е тази дейност, заедно с шанса всеки от тях да се завърти.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Това са същите тегла като в раздела „Занимания“, но за места, а не за дейности. Да плащаш за тях обикновено е по-лошата сделка: теглото на дейността или количеството ѝ дава повече. Има обаче начин да теглиш локации безплатно."
 }

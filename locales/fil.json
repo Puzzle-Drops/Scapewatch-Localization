@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 HP kada pagkain at aksyon ng skilling",
   "@f:runs": "run",
   "@f:run": "run",
-  "Waiting in line": "Naghihintay sa pila"
+  "Waiting in line": "Naghihintay sa pila",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Ito ang mga Slay Master. I-tap si Valthor para salain ang listahan ng mob papunta sa mga ibinibigay niya, na siyang nagbubukas ng mga porsyento ng tsansa.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "I-tap ang naka-highlight na halaman, ang ginagamit sa combat potion mo.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "Kusang sinasala ang tab na Mga Node papunta sa mga node na may ganoong aktibidad, kasama ang tsansang lumabas ang bawat isa.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Pareho ang mga timbang na ito sa tab na Mga Aktibidad, pero para sa mga lugar sa halip na aktibidad. Karaniwang mas malugi ang pagbabayad para dito: mas malaki ang naitutulong ng pagtitimbang sa aktibidad o sa dami nito. Pero may paraan para timbangin ang mga lokasyon nang libre."
 }

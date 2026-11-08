@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 ОЗ за їжу та навичкову дію",
   "@f:runs": "забігів",
   "@f:run": "забіг",
-  "Waiting in line": "Очікування в черзі"
+  "Waiting in line": "Очікування в черзі",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Це майстри винищення. Торкнись Valthor, щоб звузити список мобів до тих, кого він видає, саме це вмикає відсотки шансів.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Торкнись виділеної трави, з якої вариться твоє бойове зілля.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "Вкладка «Вузли» сама звужується до вузлів, де є це заняття, і показує шанс випадання кожного з них.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Це ті самі ваги, що й на вкладці «Активності», тільки для місць, а не для занять. Платити за них зазвичай гірша угода: вага заняття чи його кількості дає більше. Але є спосіб зважувати місця безкоштовно."
 }

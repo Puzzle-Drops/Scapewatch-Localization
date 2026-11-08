@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "每份食物和每次技能动作+1生命值",
   "@f:runs": "次通关",
   "@f:run": "次通关",
-  "Waiting in line": "排队等候中"
+  "Waiting in line": "排队等候中",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "这些是猎杀导师。点按瓦尔索尔，怪物列表就会筛选为他能分派的怪物，并显示各怪物的抽取概率。",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "点按高亮的草药，你的战斗药水就是用它酿制的。",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "“节点”标签页会自动筛选出包含该活动的地点，并显示抽到各地点的概率。",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "这里的权重和“活动”标签页是同一套，只不过调整对象是地点而不是活动。把点数花在这里通常不划算：加活动权重或数量效果更明显。不过，地点权重也有免费获得的方式。"
 }

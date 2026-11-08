@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 HP ต่ออาหารและการกระทำทักษะ",
   "@f:runs": "รอบ",
   "@f:run": "รอบ",
-  "Waiting in line": "กำลังรอคิว"
+  "Waiting in line": "กำลังรอคิว",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "นี่คือรายชื่ออาจารย์ แตะ Valthor เพื่อกรองรายชื่อมอนสเตอร์ให้เหลือเฉพาะตัวที่เขามอบหมาย ซึ่งจะทำให้เปอร์เซ็นต์โอกาสเปิดขึ้นมา",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "แตะสมุนไพรที่ไฮไลต์ไว้ ซึ่งเป็นสมุนไพรที่ใช้ปรุงยาต่อสู้ของคุณ",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "แท็บโหนดจะกรองตัวเองให้เหลือเฉพาะโหนดที่มีกิจกรรมนั้น พร้อมโอกาสที่แต่ละโหนดจะถูกสุ่มได้",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "นี่คือน้ำหนักแบบเดียวกับแท็บกิจกรรม แต่ใช้กับสถานที่แทนกิจกรรม การจ่ายเครดิตให้มันมักไม่คุ้มเท่า การใส่น้ำหนักให้กิจกรรมหรือจำนวนได้ผลมากกว่า แต่ก็มีวิธีใส่น้ำหนักให้สถานที่แบบฟรี ๆ อยู่"
 }

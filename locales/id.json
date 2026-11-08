@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 HP per makanan dan aksi keahlian",
   "@f:runs": "run",
   "@f:run": "run",
-  "Waiting in line": "Menunggu dalam antrean"
+  "Waiting in line": "Menunggu dalam antrean",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Ini para Master Bantai. Ketuk Valthor untuk menyaring daftar mob menjadi yang dia tugaskan, dan itulah yang menyalakan persentase peluangnya.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Ketuk herba yang disorot, yang dipakai untuk membuat ramuan tempurmu.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "Tab Node menyaring dirinya sendiri sampai tersisa simpul yang memuat aktivitas itu, lengkap dengan peluang munculnya masing-masing.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Ini bobot yang sama dengan tab Aktivitas, tapi untuk tempat, bukan aktivitas. Membayarnya biasanya kurang menguntungkan: memberi bobot pada aktivitas atau jumlahnya lebih berdampak. Tapi ada cara memberi bobot pada lokasi secara gratis."
 }

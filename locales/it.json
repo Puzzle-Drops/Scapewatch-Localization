@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 HP per cibo e azione di abilità",
   "@f:runs": "corse",
   "@f:run": "corsa",
-  "Waiting in line": "In coda"
+  "Waiting in line": "In coda",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Questi sono i Maestri di Sterminio. Tocca Valthor per ridurre l'elenco dei mostri a quelli che assegna lui, ed è questo ad accendere le percentuali di probabilità.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Tocca l'erba evidenziata, quella con cui si prepara la tua pozione da combattimento.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "La scheda Nodi si filtra da sola lasciando solo i nodi che ospitano quell'attività, con la probabilità che esca ciascuno.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Sono gli stessi pesi della scheda Attività, ma per i luoghi invece che per le attività. Pagarli di solito conviene meno: dare peso all'attività o alla sua quantità rende di più. C'è però un modo per dare peso ai luoghi gratis."
 }

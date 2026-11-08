@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 de HP por comida e ação de habilidade",
   "@f:runs": "corridas",
   "@f:run": "corrida",
-  "Waiting in line": "Aguardando na fila"
+  "Waiting in line": "Aguardando na fila",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Estes são os mestres de caçada. Toque em Valthor para filtrar a lista de mobs para os que ele designa, que é o que liga as porcentagens de chance.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Toque na erva destacada, a que é usada na sua poção de combate.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "A aba Nós se filtra sozinha para os nós que têm aquela atividade, com a chance de sortear cada um.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Estes são os mesmos pesos da aba Atividades, mas para lugares em vez de atividades. Pagar por eles costuma ser o pior negócio: dar peso à atividade ou à quantidade dela rende mais. Mas existe um jeito de dar peso a locais de graça."
 }

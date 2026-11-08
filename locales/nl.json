@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 HP per voedsel en vaardigheidsactie",
   "@f:runs": "runs",
   "@f:run": "run",
-  "Waiting in line": "In de wachtrij"
+  "Waiting in line": "In de wachtrij",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Dit zijn de slacht-meesters. Tik op Valthor om de vijandenlijst te beperken tot die hij toewijst, want dat zet de kanspercentages aan.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Tik op het gemarkeerde kruid, het kruid waarvan je gevechtsdrankje wordt gebrouwen.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "Het tabblad Knopen filtert zichzelf terug naar de knopen waar die activiteit voorkomt, met de kans om elk daarvan te gooien.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Dit zijn dezelfde gewichten als op het tabblad Activiteiten, maar dan voor plekken in plaats van activiteiten. Ervoor betalen is meestal de slechtere deal: de activiteit of de hoeveelheid gewicht geven doet meer. Er is wel een manier om locaties gratis gewicht te geven."
 }

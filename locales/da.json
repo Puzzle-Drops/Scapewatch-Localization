@@ -5172,7 +5172,7 @@
   "Mob spirit bars now drain correctly during raid fights": "Mob-sjælebjælker tømmes nu korrekt under raid-kampe",
   "Mob spirit values bumped to roughly match slay level with thematic noise (casters higher, mundane mobs lower) so mob spirit modifier actually matters during longer fights": "Mob-sjæleværdier er hævet, så de groft matcher drabsniveauet med tematisk spredning (besværgere højere, almindelige mobs lavere), så mob-sjælemodifikatoren rent faktisk betyder noget under længere kampe",
   "Mob sprite on the map": "Mob-sprite på kortet",
-  "Mobs": "Mobs",
+  "Mobs": "Monstre",
   "Mod": "Mod",
   "Mod Badge": "Mod-mærke",
   "Mod Tool": "Mod-værktøj",
@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 HP pr. mad og færdighedshandling",
   "@f:runs": "løb",
   "@f:run": "løb",
-  "Waiting in line": "Venter i kø"
+  "Waiting in line": "Venter i kø",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Det er drabsmestrene. Tryk på Valthor for at filtrere monsterlisten ned til dem, han uddeler, hvilket er det, der tænder chanceprocenterne.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Tryk på den fremhævede urt, den som din kampeliksir brygges af.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "Fanen Knuder filtrerer sig selv ned til de knuder, der har den aktivitet, med chancen for at rulle hver enkelt.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Det er de samme vægte som under fanen Aktiviteter, bare for steder frem for aktiviteter. At betale for dem er som regel den dårligste handel: at vægte aktiviteten eller dens mængde giver mere. Der findes dog en måde at vægte steder gratis på."
 }

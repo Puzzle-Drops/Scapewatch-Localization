@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "食料とスキルアクションごとにHP+1",
   "@f:runs": "回",
   "@f:run": "回",
-  "Waiting in line": "順番待ち中"
+  "Waiting in line": "順番待ち中",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "これが討伐マスターです。ヴァルソーをタップすると、彼が割り当てるモブだけにリストが絞られ、確率のパーセンテージが表示されるようになります。",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "ハイライトされた薬草をタップしてください。戦闘用ポーションはこの薬草から作られます。",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "「ノード」タブが、そのアクティビティのあるノードだけに絞り込まれ、それぞれの抽選確率も表示されます。",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "これは「アクティビティ」タブと同じ重みですが、アクティビティではなく場所に対するものです。ここにクレジットを払うのは、たいてい損です。アクティビティか数量に重みをつけるほうが効きます。ただし、場所に無料で重みをつける方法があります。"
 }

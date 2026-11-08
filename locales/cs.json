@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 ŽB za jídlo a akci dovednosti",
   "@f:runs": "běhů",
   "@f:run": "běh",
-  "Waiting in line": "Čekání ve frontě"
+  "Waiting in line": "Čekání ve frontě",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Tohle jsou mistři pohromy. Klepni na Valthor a seznam nestvůr se zúží na ty, které zadává, čímž se zapnou procenta šancí.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Klepni na zvýrazněnou bylinu, tu, ze které se vaří tvůj bojový lektvar.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "Karta Uzly se sama zúží na uzly, kde se ta činnost dá dělat, i se šancí, že padne každý z nich.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Tohle jsou stejné váhy jako na kartě Aktivity, jen pro místa místo činností. Platit za ně je obvykle horší obchod: váha činnosti nebo jejího množství udělá víc. Existuje ale způsob, jak vážit místa zdarma."
 }

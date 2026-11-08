@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 HP per ruoka ja taitotoiminto",
   "@f:runs": "suoritusta",
   "@f:run": "suoritus",
-  "Waiting in line": "Jonossa"
+  "Waiting in line": "Jonossa",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Nämä ovat surmausmestarit. Napauta Valthoria suodattaaksesi vastustajalistan niihin, joita hän antaa, mikä myös kytkee todennäköisyysprosentit päälle.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Napauta korostettua yrttiä, sitä josta taistelujuomasi valmistetaan.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "Solmut-välilehti suodattuu itsestään niihin solmuihin, joissa tuo toiminto on, ja näyttää kunkin arpoutumistodennäköisyyden.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Nämä ovat samoja painoja kuin Aktiviteetit-välilehdellä, mutta paikoille toimintojen sijaan. Niistä maksaminen on yleensä huonompi diili: toiminnon tai sen määrän painottaminen tuottaa enemmän. Sijainteja voi kuitenkin painottaa myös ilmaiseksi."
 }

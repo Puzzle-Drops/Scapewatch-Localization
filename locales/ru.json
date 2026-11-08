@@ -11056,5 +11056,9 @@
   "@b:hp_food_action": "+1 HP за еду и действие прокачки",
   "@f:runs": "забегов",
   "@f:run": "забег",
-  "Waiting in line": "Ожидание в очереди"
+  "Waiting in line": "Ожидание в очереди",
+  "These are the slay masters. Tap Valthor to filter the mob list to the ones he assigns, which is what turns the chance percentages on.": "Это мастера истребления. Нажмите на Valthor, чтобы оставить в списке только тех противников, которых он выдаёт, и тогда включатся проценты шансов.",
+  "Tap the highlighted herb, the one your combat potions are brewed from.": "Нажмите на выделенную траву: из неё варится ваше боевое зелье.",
+  "The Nodes tab filters itself down to the nodes that host that activity, with the chance of rolling each one.": "Вкладка «Узлы» сама отфильтровывается до узлов, где доступно это занятие, с шансом выпадения каждого из них.",
+  "These are the same weights as the Activities tab, but for places rather than activities. Paying for them is usually the worse deal: weighting the activity or its quantity does more. There is a way to weight locations for free though.": "Это те же веса, что и на вкладке «Занятия», только для мест, а не для занятий. Платить за них обычно невыгодно: вес занятия или его количества даёт больше. Но есть способ задавать вес местам бесплатно."
 }

@@ -532,7 +532,7 @@
   "@xp_on_fail": "XP on Fail: {0} XP",
   "@reset_skill_levers": "Set every {0} activity, quantity, and node lever back to 0.",
   "@diaries_pct": "{0} / {1} Diaries ({2}%)",
-  "@respawn_each": "-1s each, base {0}s (×2 off slay task), min {1}s",
+  "@respawn_each": "-1s each, base {0}s, min 2s",
   "@task_rows": "Task Rows {0}/{1}",
   "@queue_rows_desc": "Queued tasks below the one you are doing. {0} to start, +1 per {1} total levels to {2}, +1 from the Auditor's Docket",
   "@lucky_roll_unlock": "Unlocked from a lucky roll on {0} XP gained.",
@@ -597,5 +597,18 @@
   "@lobby_role_next_run": "{0} will play {1} from the next run",
   "@lobby_role_swap_next": "{0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3}",
   "@lobby_role_swap": "{0} swapped roles with {1}: {0} plays {2}, {1} plays {3}",
-  "@lobby_role_swap_now": "{0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3}"
+  "@lobby_role_swap_now": "{0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3}",
+  "@invited_raid_world": "{0} invited you to a raid on World {1}. See Invites under your name.",
+  "@invited_fortress_world": "{0} invited you to a Fortress party on World {1}. See Invites under your name.",
+  "@safe_mode_until": "A normal launch is tried again after {0}.",
+  "@spirit_mod_base": "(base {0}x with any spirit, {1}x at 0 spirit)",
+  "@spirit_pot_when": "Used below {0}% Spirit in combat",
+  "@potion_eff_levels": "effective {0} levels",
+  "@effect_qty_range": "Effect: {0} per task",
+  "@effect_luck_lever": "Effect: Lucky chance (skilling tasks only; slay tasks ignore this lever): {0} → {1}",
+  "@b:eff_lv_atk_move": "+{0} effective level (attack + move speed)",
+  "@b:spirit_mod": "+{0}x spirit modifier",
+  "@b:hp_food_action": "+1 HP per food and skilling action",
+  "@f:runs": "runs",
+  "@f:run": "run"
 }

@@ -41,11 +41,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Life | 生命 |
 | Spirit | 精神 |
 | Strike | 精准 |
-| Heft | 重击 |
+| Heft | 武技 |
 | Sight | 瞄准 |
-| Draw | 强弓 |
+| Draw | 射术 |
 | Focus | 专注 |
-| Surge | 法强 |
+| Surge | 法力 |
 | Dodge | 闪避 |
 | Defend | 防御 |
 | Vigor | 体能 |
@@ -66,37 +66,37 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟游 |
 | Discover | 探索 |
 
-## Lines to review (444)
+## Lines to review (521)
 
 | Key | English | Current |
 |---|---|---|
 | `(Active) · View on Steam` | (Active) · View on Steam | （激活中） · 在 Steam 上查看 |
 | `(Right-click: show queue path)` | (Right-click: show queue path) | （右键：显示队列路径） |
-| `(Shiny Lucky)` | (Shiny Lucky) | （幸运闪光） |
+| `(Shiny Lucky)` | (Shiny Lucky) | （闪光幸运） |
 | `(rate maxed)` | (rate maxed) | （已达上限） |
-| `+1% chance to corrupt a slain slay mob each (solo slay only), max +7%` | +1% chance to corrupt a slain slay mob each (solo slay only), max +7% | 每个使猎杀怪物死亡后的腐化概率+1%（仅限单人猎杀），最多+7% |
-| `+10% spirit regen per kill +3 to the minimum regen` | +10% spirit regen per kill +3 to the minimum regen | 每次击杀 +10% 精神回复，最低回复 +3 |
-| `+20% HP healed per food eaten each (max +140%)` | +20% HP healed per food eaten each (max +140%) | 每个使食物恢复的生命值+20%（最多+140%） |
+| `+1% chance to corrupt a slain slay mob each (solo slay only), max +7%` | +1% chance to corrupt a slain slay mob each (solo slay only), max +7% | 每个使已击杀猎杀怪物的腐化概率+1%，仅限单人猎杀，最高+7% |
+| `+10% spirit regen per kill +3 to the minimum regen` | +10% spirit regen per kill +3 to the minimum regen | 每次击杀提供+10%精神回复，最低回复量+3 |
+| `+20% HP healed per food eaten each (max +140%)` | +20% HP healed per food eaten each (max +140%) | 每个使每份食物恢复的生命值+20%，最高+140% |
 | `+25% common loot` | +25% common loot | 普通战利品+25% |
-| `+4 carried-bag slots each (overworld + Fortress), max +28` | +4 carried-bag slots each (overworld + Fortress), max +28 | 每个增加4个随身背包格（大世界与要塞），最多增加28格 |
-| `-0.25s food auto-eat cooldown each (base 5s), max -1.75s` | -0.25s food auto-eat cooldown each (base 5s), max -1.75s | 每个使自动进食冷却时间-0.25秒（基础5秒），最多减少1.75秒 |
+| `+4 carried-bag slots each (overworld + Fortress), max +28` | +4 carried-bag slots each (overworld + Fortress), max +28 | 每个增加4格随身背包容量，适用于世界地图和要塞，最多+28格 |
+| `-0.25s food auto-eat cooldown each (base 5s), max -1.75s` | -0.25s food auto-eat cooldown each (base 5s), max -1.75s | 每个使食物自动进食冷却减少0.25秒，基础5秒，最多减少1.75秒 |
 | `1v1 PvP` | 1v1 PvP | 1v1 PvP |
 | `2× task rewards` | 2× task rewards | 2× 委托奖励 |
-| `A picked fighter has the same weapon type in Clan 1 and Clan 2.` | A picked fighter has the same weapon type in Clan 1 and Clan 2. | 有参战成员的公会1与公会2配装使用了相同类型的武器。 |
-| `A picked fighter is busy.` | A picked fighter is busy. | 有参战成员正忙。 |
-| `A picked fighter is in a raid lobby.` | A picked fighter is in a raid lobby. | 有参战成员正处于团本大厅中。 |
-| `A picked fighter is missing weapons in Clan 1 / Clan 2.` | A picked fighter is missing weapons in Clan 1 / Clan 2. | 有参战成员的公会1或公会2配装未装备武器。 |
-| `A picked fighter is unavailable (offline too long).` | A picked fighter is unavailable (offline too long). | 有参战成员无法出战（离线时间过长）。 |
+| `A picked fighter has the same weapon type in Clan 1 and Clan 2.` | A picked fighter has the same weapon type in Clan 1 and Clan 2. | 有参战成员的氏族1与氏族2配装使用了相同类型的武器。 |
+| `A picked fighter is busy.` | A picked fighter is busy. | 选定的参战成员正忙。 |
+| `A picked fighter is in a raid lobby.` | A picked fighter is in a raid lobby. | 选定的参战成员正处于团本大厅中。 |
+| `A picked fighter is missing weapons in Clan 1 / Clan 2.` | A picked fighter is missing weapons in Clan 1 / Clan 2. | 有参战成员的氏族1或氏族2配装未装备武器。 |
+| `A picked fighter is unavailable (offline too long).` | A picked fighter is unavailable (offline too long). | 选定的参战成员无法出战（离线时间过长）。 |
 | `About` | About | 关于 |
 | `Active potions` | Active potions | 生效中的药水 |
 | `Add or remove them from your friends list` | Add or remove them from your friends list | 将对方加入好友列表或从中移除 |
 | `Adds 10 × your Barter level to the XP paid when a barter panel is fully used.` | Adds 10 × your Barter level to the XP paid when a barter panel is fully used. | 贸易面板次数全部用完时，结算的经验额外增加 10 × 你的贸易等级。 |
 | `Advanced Metrics` | Advanced Metrics | 高级数据 |
-| `Allocate the connecting node first` | Allocate the connecting node first | 请先点亮相连的天赋节点 |
-| `Allocate the connecting node first.` | Allocate the connecting node first. | 请先点亮相连的天赋节点。 |
+| `Allocate the connecting node first` | Allocate the connecting node first | 请先点亮与之相连的节点 |
+| `Allocate the connecting node first.` | Allocate the connecting node first. | 请先点亮与之相连的节点。 |
 | `Amount` | Amount | 数量 |
 | `Ancient Shard` | Ancient Shard | 远古碎片 |
-| `Ancient · slay 90+` | Ancient · slay 90+ | 远古 · 猎杀90级以上 |
+| `Ancient · slay 90+` | Ancient · slay 90+ | 远古 · 猎杀 90 级以上 |
 | `And Please Review Scapewatch now:` | And Please Review Scapewatch now: | 也请现在为 Scapewatch 写评测： |
 | `Any body, any human face, all hair, everyday clothes and glasses.` | Any body, any human face, all hair, everyday clothes and glasses. | 任意体型、任意人类面孔、全部发型、日常服装和眼镜。 |
 | `Any role` | Any role | 职责不限 |
@@ -105,8 +105,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Apply to all Mobs` | Apply to all Mobs | 应用至所有怪物 |
 | `Armour, hats, capes, jackets, jewellery, cosmetic weapons, monster heads, tails and horns.` | Armour, hats, capes, jackets, jewellery, cosmetic weapons, monster heads, tails and horns. | 护甲、帽子、披风、夹克、首饰、装饰武器、怪物头、尾巴和角。 |
 | `Attacks:` | Attacks: | 攻击类型： |
-| `Auto Loadout — Right click for settings` | Auto Loadout — Right click for settings | 自动配装——右键打开设置 |
-| `Available once the tutorial is done` | Available once the tutorial is done | 完成教学后可用 |
+| `Auto Loadout — Right click for settings` | Auto Loadout — Right click for settings | 自动装备配置——右键打开设置 |
+| `Available once the tutorial is done` | Available once the tutorial is done | 完成教程后可用 |
 | `Back to skilling here` | Back to skilling here | 从此处恢复技能委托 |
 | `Back to world` | Back to world | 返回世界 |
 | `Bag` | Bag | 背包 |
@@ -114,28 +114,28 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank Gold:` | Bank Gold: | 银行金币： |
 | `Barding Notes and the first Treasure Scroll of each tier from Bard actions` | Barding Notes and the first Treasure Scroll of each tier from Bard actions | 吟游乐谱和每阶的第一张宝藏卷轴均来自吟游行动 |
 | `Be kind.` | Be kind. | 友善待人。 |
-| `Bloodcoffer` | Bloodcoffer | 血币金库 |
-| `Bloodcoffer Leaderboard` | Bloodcoffer Leaderboard | 公会血币金库排行榜 |
+| `Bloodcoffer` | Bloodcoffer | 氏族金库 |
+| `Bloodcoffer Leaderboard` | Bloodcoffer Leaderboard | 氏族金库排行榜 |
 | `Bloodcoins Leaderboard` | Bloodcoins Leaderboard | 血币排行榜 |
-| `Brew (unf)` | Brew (unf) | 酿造（未完成） |
+| `Brew (unf)` | Brew (unf) | 酿造（半成品） |
 | `Brew with Barding Notes to make a Potion of Discovery` | Brew with Barding Notes to make a Potion of Discovery | 与吟游乐谱一起酿造，可制成探索药水 |
-| `Brew with a Jar of Dirt to make a Potion of Discovery` | Brew with a Jar of Dirt to make a Potion of Discovery | 与一罐泥土一起酿造，可制成探索药水 |
+| `Brew with a Jar of Dirt to make a Potion of Discovery` | Brew with a Jar of Dirt to make a Potion of Discovery | 与泥土罐一起酿造，可制成探索药水 |
 | `Can't skip during a raid, Fortress run or PvP fight` | Can't skip during a raid, Fortress run or PvP fight | 在团本、要塞挑战或 PvP 战斗中无法跳过 |
 | `Cancel leaving at end` | Cancel leaving at end | 取消结束后离开 |
 | `Chaos (C6)` | Chaos (C6) | 混沌（C6） |
 | `Chaos (C7)` | Chaos (C7) | 混沌（C7） |
 | `Chaos Shard` | Chaos Shard | 混沌碎片 |
-| `Chaos · slay 75+` | Chaos · slay 75+ | 混沌 · 猎杀75级以上 |
+| `Chaos · slay 75+` | Chaos · slay 75+ | 混沌 · 猎杀 75 级以上 |
 | `Character` | Character | 角色 |
 | `Choose what shows here` | Choose what shows here | 选择此处显示的内容 |
-| `Clan PvP` | Clan PvP | 公会PvP |
-| `Clan defeat.` | Clan defeat. | 公会战败。 |
-| `Clan victory!` | Clan victory! | 公会胜利！ |
+| `Clan PvP` | Clan PvP | 氏族对战 |
+| `Clan defeat.` | Clan defeat. | 氏族战败。 |
+| `Clan victory!` | Clan victory! | 氏族获胜！ |
 | `Clans are optional. They are for hiscores and for having people to talk to, and nothing is locked behind one. No faster movement, no better attacks. You can finish the entire game without ever joining. Ask in chat or in the Discord if you want one. Now open Hiscores.` | Clans are optional. They are for hiscores and for having people to talk to, and nothing is locked behind one. No faster movement, no better attacks. You can finish the entire game without ever joining. Ask in chat or in the Discord if you want one. Now open Hiscores. | 加入氏族完全自愿。你可以参与氏族排行榜，也可以结识聊天伙伴；没有任何游戏内容要求必须加入氏族，也不会因此提高移动速度或攻击能力。你可以独自完成全部游戏内容。想寻找氏族，可以在聊天频道或 Discord 中询问。现在打开排行榜。 |
 | `Click here whenever you want to change your look.` | Click here whenever you want to change your look. | 随时点击此处更改外观。 |
-| `Click to open • Right-click for more` | Click to open • Right-click for more | 点击打开 · 右键查看更多 |
+| `Click to open • Right-click for more` | Click to open • Right-click for more | 点击打开 • 右键查看更多 |
 | `Click to set this clone role` | Click to set this clone role | 点击为分身设定此职责 |
-| `Click to use • Right-click for more` | Click to use • Right-click for more | 点击使用 · 右键查看更多 |
+| `Click to use • Right-click for more` | Click to use • Right-click for more | 点击使用 • 右键查看更多 |
 | `Clone Self` | Clone Self | 添加分身 |
 | `Coin Purse Unlock` | Coin Purse Unlock | 解锁钱袋 |
 | `Coins` | Coins | 金币 |
@@ -151,28 +151,28 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Customize your character` | Customize your character | 自定义角色外观 |
 | `Defeat.` | Defeat. | 战败。 |
 | `Desktop layout` | Desktop layout | 桌面版布局 |
-| `Dire · slay 30-50` | Dire · slay 30-50 | 凶险 · 猎杀30—50级 |
+| `Dire · slay 30-50` | Dire · slay 30-50 | 凶险 · 猎杀 30-50 级 |
 | `Discovery` | Discovery | 探索 |
-| `Donate to Coffer` | Donate to Coffer | 捐入公会金库 |
-| `Donations are one-way. Only clan PvP losses ever draw the coffer down. The coffer also automatically matches every bloodcoin members earn.` | Donations are one-way. Only clan PvP losses ever draw the coffer down. The coffer also automatically matches every bloodcoin members earn. | 捐献后无法取回；金库仅会因公会PvP战败而减少。成员每获得一枚血币，金库也会自动获得一枚。 |
+| `Donate to Coffer` | Donate to Coffer | 捐入氏族金库 |
+| `Donations are one-way. Only clan PvP losses ever draw the coffer down. The coffer also automatically matches every bloodcoin members earn.` | Donations are one-way. Only clan PvP losses ever draw the coffer down. The coffer also automatically matches every bloodcoin members earn. | 捐入的血币无法取回；只有氏族对战失败才会扣除金库血币。成员每获得一枚血币，氏族金库也会自动增加一枚。 |
 | `Double Gather` | Double Gather | 双倍采集 |
 | `Doubles task-completion rewards` | Doubles task-completion rewards | 委托完成奖励翻倍 |
 | `Drag and pinch the map any time, without tapping Roam Map first. Recenter Camera shows while you roam. A pinch on the map zooms the map, not the page` | Drag and pinch the map any time, without tapping Roam Map first. Recenter Camera shows while you roam. A pinch on the map zooms the map, not the page | 随时拖动和双指缩放地图，无需先点按「浏览地图」。浏览时会显示「重新居中镜头」。在地图上双指缩放会缩放地图，而不是页面 |
 | `Drops from Dungeons (combat raids). Requires over 5% damage contribution.` | Drops from Dungeons (combat raids). Requires over 5% damage contribution. | 由地牢（战斗团本）掉落，需要伤害贡献超过5%。 |
-| `Drops from the Fortress (skilling raid). Requires over 5% deposit contribution.` | Drops from the Fortress (skilling raid). Requires over 5% deposit contribution. | 由要塞（技能团本）掉落，需要交付贡献超过5%。 |
+| `Drops from the Fortress (skilling raid). Requires over 5% deposit contribution.` | Drops from the Fortress (skilling raid). Requires over 5% deposit contribution. | 由要塞（生活技能团本）掉落，需要交付贡献超过5%。 |
 | `Eleven wing sets, plus the Monarch decoration layers.` | Eleven wing sets, plus the Monarch decoration layers. | 十一套翅膀，外加君主装饰图层。 |
 | `Empty` | Empty | 空栏 |
-| `End raid now (everyone)` | End raid now (everyone) | 立即结束副本（全员） |
+| `End raid now (everyone)` | End raid now (everyone) | 立即结束团本（全员） |
 | `End run now (everyone)` | End run now (everyone) | 立即结束本轮挑战（全员） |
 | `Endless skilling raid. Feed your army, survive the waves` | Endless skilling raid. Feed your army, survive the waves | 无尽生活技能团本。为军队提供补给，抵挡一波波敌人 |
 | `Enjoy your Scapewatch journey and thank you!` | Enjoy your Scapewatch journey and thank you! | 感谢你的支持，祝你在Scapewatch玩得愉快！ |
-| `Equip weapons and armor onto these loadouts from the Bank. Attacker 1 & 2 (and Clan 1 & 2) must wield different weapon types.` | Equip weapons and armor onto these loadouts from the Bank. Attacker 1 & 2 (and Clan 1 & 2) must wield different weapon types. | 在银行中为这些配装装备武器与护甲。进攻1和2（以及公会1和2）必须使用不同类型的武器。 |
-| `Feeble · slay 1-30` | Feeble · slay 1-30 | 孱弱 · 猎杀1—30级 |
-| `Fell · slay 70-90` | Fell · slay 70-90 | 残暴 · 猎杀70—90级 |
+| `Equip weapons and armor onto these loadouts from the Bank. Attacker 1 & 2 (and Clan 1 & 2) must wield different weapon types.` | Equip weapons and armor onto these loadouts from the Bank. Attacker 1 & 2 (and Clan 1 & 2) must wield different weapon types. | 在银行中为这些配装装备武器与护甲。进攻1和2（以及氏族1和2）必须使用不同类型的武器。 |
+| `Feeble · slay 1-30` | Feeble · slay 1-30 | 孱弱 · 猎杀 1-30 级 |
+| `Fell · slay 70-90` | Fell · slay 70-90 | 残暴 · 猎杀 70-90 级 |
 | `Fills your best open role` | Fills your best open role | 填入你最强的空缺职责 |
 | `Filter loot...` | Filter loot... | 筛选战利品… |
-| `Filter...` | Filter... | 筛选…… |
-| `Finished in the Brew modal` | Finished in the Brew modal | 在酿造界面完成制作 |
+| `Filter...` | Filter... | 筛选… |
+| `Finished in the Brew modal` | Finished in the Brew modal | 在酿造弹窗中完成 |
 | `Fit` | Fit | 适应窗口 |
 | `Fortress invite sent to` | Fortress invite sent to | 要塞邀请已发送给 |
 | `From Vigor actions only` | From Vigor actions only | 仅通过体能行动获得 |
@@ -194,19 +194,19 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Hold` | Hold | 长按 |
 | `If you don’t follow the rules we do have mods that can temporarily mute you. If you are a constant troublemaker you may receive a permanent mute, or a ban in extreme cases. If you feel you have been treated unfairly please reach out in Discord.` | If you don’t follow the rules we do have mods that can temporarily mute you. If you are a constant troublemaker you may receive a permanent mute, or a ban in extreme cases. If you feel you have been treated unfairly please reach out in Discord. | 违反规则可能被管理员暂时禁言。屡次滋事可能被永久禁言，情节严重时会被封禁。如认为处理不公，请在Discord联系我们。 |
 | `In combat ·` | In combat · | 战斗中 · |
-| `Include in clan attacks` | Include in clan attacks | 参加公会进攻 |
+| `Include in clan attacks` | Include in clan attacks | 参加氏族进攻 |
 | `Jar of Dirt from Discover actions; a chest when you complete a Treasure Scroll` | Jar of Dirt from Discover actions; a chest when you complete a Treasure Scroll | 泥土罐来自探索行动；完成宝藏卷轴时获得宝箱 |
-| `Join a clan to take part in clan PvP.` | Join a clan to take part in clan PvP. | 加入公会后即可参与公会PvP。 |
+| `Join a clan to take part in clan PvP.` | Join a clan to take part in clan PvP. | 加入氏族后即可参与氏族对战。 |
 | `Lamps` | Lamps | 经验灯 |
 | `Layout` | Layout | 布局 |
 | `Leave now` | Leave now | 立即离开 |
-| `Leave when this raid ends` | Leave when this raid ends | 本轮副本结束后离开 |
+| `Leave when this raid ends` | Leave when this raid ends | 本轮团本结束后离开 |
 | `Leave your raid lobby first.` | Leave your raid lobby first. | 请先离开团本大厅。 |
 | `Left` | Left | 左键 |
 | `Legal` | Legal | 法律信息 |
 | `Liberated Pixel Cup (LPC) Universal Character Generator. Sprites contributed by many artists as part of the LPC project on OpenGameArt.org. Licensed under CC-BY-SA 3.0, CC-BY 4.0, OGA-BY 3.0, and GPL 3.0 (varies per asset).` | Liberated Pixel Cup (LPC) Universal Character Generator. Sprites contributed by many artists as part of the LPC project on OpenGameArt.org. Licensed under CC-BY-SA 3.0, CC-BY 4.0, OGA-BY 3.0, and GPL 3.0 (varies per asset). | Liberated Pixel Cup（LPC）通用角色生成器。精灵图由众多美术师作为 OpenGameArt.org 上 LPC 项目的一部分贡献。以 CC-BY-SA 3.0、CC-BY 4.0、OGA-BY 3.0 和 GPL 3.0 授权（因素材而异）。 |
-| `Loading clan info...` | Loading clan info... | 正在加载公会信息… |
-| `Loading tree…` | Loading tree… | 正在加载天赋树… |
+| `Loading clan info...` | Loading clan info... | 正在加载氏族信息… |
+| `Loading tree…` | Loading tree… | 正在加载技能树… |
 | `Loadout` | Loadout | 装备配置 |
 | `Looter's Sack Unlock` | Looter's Sack Unlock | 解锁掠夺者麻袋 |
 | `LucyMoth: inspiration and base implementation, from her Scapewatch Mobile app` | LucyMoth: inspiration and base implementation, from her Scapewatch Mobile app | LucyMoth：灵感与基础实现，来自她的 Scapewatch Mobile 应用 |
@@ -223,11 +223,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Monsters` | Monsters | 怪物 |
 | `Mup: inspiration and base implementation, from SWDash` | Mup: inspiration and base implementation, from SWDash | Mup：灵感与基础实现，来自 SWDash |
 | `Mute or unmute their chat for yourself` | Mute or unmute their chat for yourself | 只在你这边屏蔽或取消屏蔽对方的聊天 |
-| `Nearby nodes` | Nearby nodes | 附近地点 |
+| `Nearby nodes` | Nearby nodes | 附近节点 |
 | `Need a full party of 5 to start (clones count)` | Need a full party of 5 to start (clones count) | 需要满 5 人队伍才能开始（分身也计入） |
 | `Next fight ·` | Next fight · | 下一场战斗 · |
 | `No AI was used to make any of the art in game or in promotional content or anywhere else. All art is paid for by me to real, breathing human artists.` | No AI was used to make any of the art in game or in promotional content or anywhere else. All art is paid for by me to real, breathing human artists. | 游戏内、宣传内容及其他地方的全部美术均未使用AI生成。我为所有美术作品付费委托了真实的人类画师。 |
-| `No clan has coffer bloodcoins yet.` | No clan has coffer bloodcoins yet. | 目前还没有公会在金库中存有血币。 |
+| `No clan has coffer bloodcoins yet.` | No clan has coffer bloodcoins yet. | 目前还没有氏族在金库中存有血币。 |
 | `No contentious topics.` | No contentious topics. | 不谈易引起争执的话题。 |
 | `No difficulty picked yet` | No difficulty picked yet | 尚未选择难度 |
 | `No fights queued yet — this takes effect on the first one` | No fights queued yet — this takes effect on the first one | 尚未排入战斗，将从第一场战斗起生效 |
@@ -242,26 +242,26 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `No spam.` | No spam. | 禁止刷屏或发布垃圾信息。 |
 | `Nobody has bloodcoins yet.` | Nobody has bloodcoins yet. | 目前还没有玩家获得血币。 |
 | `Not enough credits` | Not enough credits | 点数不足 |
-| `Not enough reroll credits to refund.` | Not enough reroll credits to refund. | 重抽点数不足，无法重置。 |
+| `Not enough reroll credits to refund.` | Not enough reroll credits to refund. | 重抽点数不足，无法返还。 |
 | `Now` | Now | 当前 |
-| `Off - Continue using the manually selected combat loadout or the last one used` | Off - Continue using the manually selected combat loadout or the last one used | 关闭：继续使用手动选择或上次使用的战斗配装 |
-| `On - Automatically use the loadout assigned in the mob selection tool or combat default settings` | On - Automatically use the loadout assigned in the mob selection tool or combat default settings | 开启：自动使用怪物选择工具中指定的配装，或战斗默认配装 |
+| `Off - Continue using the manually selected combat loadout or the last one used` | Off - Continue using the manually selected combat loadout or the last one used | 关闭：继续使用手动选择的战斗装备配置，或上次使用的那一套 |
+| `On - Automatically use the loadout assigned in the mob selection tool or combat default settings` | On - Automatically use the loadout assigned in the mob selection tool or combat default settings | 开启：自动使用怪物选择工具中指定的装备配置，或战斗默认设置中的那一套 |
 | `One more task queued below the one you are doing` | One more task queued below the one you are doing | 当前委托下方可多排入一个待执行委托 |
-| `Only ever shown to a clan leader with room to spare` | Only ever shown to a clan leader with room to spare | 仅在你是氏族会长且氏族尚有空位时显示 |
+| `Only ever shown to a clan leader with room to spare` | Only ever shown to a clan leader with room to spare | 仅在你是族长且氏族尚有空位时显示 |
 | `Only ever shown while you host a raid lobby with room` | Only ever shown while you host a raid lobby with room | 仅在你主持的团本大厅尚有空位时显示 |
-| `Only the clan leader can start clan fights.` | Only the clan leader can start clan fights. | 只有会长能发起公会战。 |
+| `Only the clan leader can start clan fights.` | Only the clan leader can start clan fights. | 只有族长能发起氏族对战。 |
 | `Open Chat to carry on.` | Open Chat to carry on. | 打开聊天以继续。 |
 | `Open Menu, then {TAB}, to carry on.` | Open Menu, then {TAB}, to carry on. | 打开菜单，再打开{TAB}以继续。 |
 | `Open PvP` | Open PvP | 打开PvP |
 | `Open their clan, when they are in one` | Open their clan, when they are in one | 打开对方的氏族（若对方有氏族） |
 | `Open their hiscores profile` | Open their hiscores profile | 打开对方的排行榜资料 |
 | `Other gear` | Other gear | 其他装备 |
-| `Our chat has typically been kind and a joy to be in. Please don’t be the reason that changes. Our rules are simple.` | Our chat has typically been kind and a joy to be in. Please don’t be the reason that changes. Our rules are simple. | 这里的聊天氛围一直友善而愉快，请共同维护。规则很简单： |
-| `PVP Attacker 1` | PVP Attacker 1 | PvP进攻1 |
-| `PVP Attacker 1 and 2 must wield different weapon types.` | PVP Attacker 1 and 2 must wield different weapon types. | PvP进攻1和2必须使用不同类型的武器。 |
-| `PVP Attacker 2` | PVP Attacker 2 | PvP进攻2 |
-| `PVP Defender 1` | PVP Defender 1 | PvP防守1 |
-| `PVP Defender 2` | PVP Defender 2 | PvP防守2 |
+| `Our chat has typically been kind and a joy to be in. Please don’t be the reason that changes. Our rules are simple.` | Our chat has typically been kind and a joy to be in. Please don’t be the reason that changes. Our rules are simple. | 这里的聊天氛围一直友善而愉快，请不要成为改变这一切的那个人。规则很简单： |
+| `PVP Attacker 1` | PVP Attacker 1 | PvP 进攻方 1 |
+| `PVP Attacker 1 and 2 must wield different weapon types.` | PVP Attacker 1 and 2 must wield different weapon types. | PvP 进攻方1和进攻方2必须使用不同类型的武器。 |
+| `PVP Attacker 2` | PVP Attacker 2 | PvP 进攻方 2 |
+| `PVP Defender 1` | PVP Defender 1 | PvP 防守方 1 |
+| `PVP Defender 2` | PVP Defender 2 | PvP 防守方 2 |
 | `Patch notes` | Patch notes | 更新日志 |
 | `Paused: one of the new options is worth a look` | Paused: one of the new options is worth a look | 已暂停：新选项中有一个值得一看 |
 | `Phone layout` | Phone layout | 手机版布局 |
@@ -278,24 +278,24 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Raid invite sent to` | Raid invite sent to | 团本邀请已发送给 |
 | `Ranged equipment` | Ranged equipment | 远程装备 |
 | `Ranged weapons` | Ranged weapons | 远程武器 |
-| `Raws from Farm actions, brewed at a cauldron (Brew node)` | Raws from Farm actions, brewed at a cauldron (Brew node) | 原料通过种植获得，在炼药釜（酿造地点）酿制 |
+| `Raws from Farm actions, brewed at a cauldron (Brew node)` | Raws from Farm actions, brewed at a cauldron (Brew node) | 原料来自种植行动，在酿造大锅（酿造节点）处酿制 |
 | `Recenter Map` | Recenter Map | 地图回中 |
 | `Recipe` | Recipe | 配方 |
 | `Recipes` | Recipes | 配方 |
-| `Refund the outer nodes first.` | Refund the outer nodes first. | 请先重置外侧节点。 |
+| `Refund the outer nodes first.` | Refund the outer nodes first. | 请先返还外侧节点。 |
 | `Remove pack items` | Remove pack items | 移除包内物品 |
 | `Rerolls and new rows roll mobs from your master` | Rerolls and new rows roll mobs from your master | 重抽与新增行均从当前猎杀导师处抽取怪物 |
 | `Rerolls and new rows roll skilling tasks` | Rerolls and new rows roll skilling tasks | 重抽与新增行均抽取技能委托 |
 | `Right` | Right | 右键 |
 | `Roam Map by Default` | Roam Map by Default | 默认浏览地图 |
-| `Route` | Route | 路程 |
-| `SW DASH` | SW DASH | SW DASH |
+| `Route` | Route | 路线 |
+| `SW DASH` | SW DASH | SWDash |
 | `Same weapon type` | Same weapon type | 武器类型重复 |
-| `Savage · slay 50-70` | Savage · slay 50-70 | 野蛮 · 猎杀50—70级 |
+| `Savage · slay 50-70` | Savage · slay 50-70 | 野蛮 · 猎杀 50-70 级 |
 | `Save Defence Order` | Save Defence Order | 保存防守顺序 |
 | `Scraps` | Scraps | 废料 |
 | `Search an item...` | Search an item... | 搜索物品… |
-| `Select the loadouts you would like to use` | Select the loadouts you would like to use | 选择要使用的配装 |
+| `Select the loadouts you would like to use` | Select the loadouts you would like to use | 选择要使用的装备配置 |
 | `Set the XP you would like to focus (balanced if you don't know)` | Set the XP you would like to focus (balanced if you don't know) | 选择优先获取的经验类型（不确定时可选“均衡”） |
 | `Shard` | Shard | 碎片 |
 | `Show Add Friend` | Show Add Friend | 显示「添加好友」 |
@@ -309,7 +309,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Show all` | Show all | 显示全部 |
 | `Show on map` | Show on map | 在地图上显示 |
 | `Show task details` | Show task details | 显示委托详情 |
-| `Skill Tree` | Skill Tree | 技能树 |
+| `Skill Tree` | Skill Tree | 天赋树 |
 | `Skill setup` | Skill setup | 技能设置 |
 | `Skip this fight` | Skip this fight | 跳过这场战斗 |
 | `Skip this task` | Skip this task | 跳过这项委托 |
@@ -327,9 +327,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Thank you` | Thank you | 感谢 |
 | `Thank you {0} for help with mobile gui!` | Thank you {0} for help with mobile gui! | 感谢 {0} 对手机版界面的帮助！ |
 | `Thanks Mup!` | Thanks Mup! | 感谢 Mup！ |
-| `That clan cannot be fought right now.` | That clan cannot be fought right now. | 当前无法与该公会开战。 |
-| `That clan has no bloodcoins in its coffer.` | That clan has no bloodcoins in its coffer. | 该公会金库中没有血币。 |
-| `That clan has no members.` | That clan has no members. | 该公会没有成员。 |
+| `That clan cannot be fought right now.` | That clan cannot be fought right now. | 当前无法与该氏族开战。 |
+| `That clan has no bloodcoins in its coffer.` | That clan has no bloodcoins in its coffer. | 该氏族金库中没有血币。 |
+| `That clan has no members.` | That clan has no members. | 该氏族没有成员。 |
 | `That player cannot be attacked right now.` | That player cannot be attacked right now. | 当前无法进攻该玩家。 |
 | `That player is already in a PvP fight.` | That player is already in a PvP fight. | 该玩家正在进行PvP战斗。 |
 | `That player is too far away.` | That player is too far away. | 该玩家距离太远。 |
@@ -338,19 +338,19 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The challenge expired. Try again.` | The challenge expired. Try again. | 挑战已过期，请重试。 |
 | `They are renamed live — no kick or logout needed.` | They are renamed live — no kick or logout needed. | 改名立即生效，无须踢出或退出登录。 |
 | `This button switches the queue to compact rows: one line per task, so more of it fits on screen. Press it again for full rows. Give it a try, or carry on.` | This button switches the queue to compact rows: one line per task, so more of it fits on screen. Press it again for full rows. Give it a try, or carry on. | 这个按钮会把队列切换为紧凑行：每个委托一行，屏幕上能显示更多。再按一次即可恢复完整行。试一下，或者继续往下走。 |
-| `This will set your loadouts for all mobs.` | This will set your loadouts for all mobs. | 这会设置所有怪物对应的配装。 |
+| `This will set your loadouts for all mobs.` | This will set your loadouts for all mobs. | 这会设置所有怪物对应的装备配置。 |
 | `Tick the members who will fight, then press Attack on a clan in the leaderboard. The match size is the smaller side (attacking a 2-member clan with 5 picked = 2v2).` | Tick the members who will fight, then press Attack on a clan in the leaderboard. The match size is the smaller side (attacking a 2-member clan with 5 picked = 2v2). | 勾选要出战的成员，然后在排行榜上对某个氏族点「攻击」。对战人数以人数较少的一方为准（选了 5 人去攻击只有 2 名成员的氏族 = 2v2）。 |
 | `Tiered Rares: one roll per cleared wave, chance rising with depth. Each band unlocks deeper in (T1 from wave 1, a new band every 20 waves to C6 at wave 101 and C7 at wave 121). Pick a band to see its drops.` | Tiered Rares: one roll per cleared wave, chance rising with depth. Each band unlocks deeper in (T1 from wave 1, a new band every 20 waves to C6 at wave 101 and C7 at wave 121). Pick a band to see its drops. | 分阶稀有掉落：每通关一波进行一次判定，几率随波次提高。各档位会随深入逐步解锁：第1波为T1，此后每20波解锁新一档，第101波解锁C6，第121波解锁C7。选择档位可查看对应掉落。 |
 | `Total route distance` | Total route distance | 总路线距离 |
 | `Training` | Training | 训练 |
-| `Trimmed Cape 100M XP` | Trimmed Cape 100M XP | 镶边披风 100M 经验 |
+| `Trimmed Cape 100M XP` | Trimmed Cape 100M XP | 镶边披风 1亿经验 |
 | `Try again in a moment.` | Try again in a moment. | 请稍后再试。 |
 | `Turn on Advanced Metrics in Settings to use the Dashboard.` | Turn on Advanced Metrics in Settings to use the Dashboard. | 请在设置中开启「高级数据」以使用仪表盘。 |
-| `Tutorials are now hidden. You can toggle them back on in settings.` | Tutorials are now hidden. You can toggle them back on in settings. | 教学已隐藏，可随时在设置中重新开启。 |
+| `Tutorials are now hidden. You can toggle them back on in settings.` | Tutorials are now hidden. You can toggle them back on in settings. | 教程已隐藏，可随时在设置中重新开启。 |
 | `Unique roles` | Unique roles | 职责不重复 |
 | `Unique roles: joiners need a free qualifying role and each role is held by one player. Click to allow any role.` | Unique roles: joiners need a free qualifying role and each role is held by one player. Click to allow any role. | 职责不重复：加入者需要有一个空缺且达标的职责，每个职责只能由一名玩家担任。点击切换为职责不限。 |
 | `Use` | Use | 使用 |
-| `Used when Auto Loadout is on and this mob comes up` | Used when Auto Loadout is on and this mob comes up | 开启自动配装后，此怪物出现时使用此设置 |
+| `Used when Auto Loadout is on and this mob comes up` | Used when Auto Loadout is on and this mob comes up | 开启自动装备配置后，遇到这只怪物时使用它 |
 | `Victory!` | Victory! | 胜利！ |
 | `Website` | Website | 官网 |
 | `Which mobs the slay lane rolls` | Which mobs the slay lane rolls | 猎杀队列会抽取的怪物范围 |
@@ -363,10 +363,10 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You cannot start a PvP fight right now.` | You cannot start a PvP fight right now. | 当前无法发起PvP战斗。 |
 | `You have used all 3 leaderboard attacks today.` | You have used all 3 leaderboard attacks today. | 你今日3次排行榜进攻机会均已用完。 |
 | `You need at least 10 bloodcoins to attack.` | You need at least 10 bloodcoins to attack. | 至少拥有10枚血币才能发起进攻。 |
-| `You need weapons in both PVP Attacker 1 and PVP Attacker 2.` | You need weapons in both PVP Attacker 1 and PVP Attacker 2. | PvP进攻1和PvP进攻2均须装备武器。 |
-| `Your PvP Loadouts` | Your PvP Loadouts | 你的PvP配装 |
-| `Your clan coffer needs at least 10 bloodcoins to attack.` | Your clan coffer needs at least 10 bloodcoins to attack. | 公会金库中至少有10枚血币才能发起进攻。 |
-| `Your clan has used all 3 attacks today.` | Your clan has used all 3 attacks today. | 公会今日3次进攻机会均已用完。 |
+| `You need weapons in both PVP Attacker 1 and PVP Attacker 2.` | You need weapons in both PVP Attacker 1 and PVP Attacker 2. | PvP 进攻方1和进攻方2都必须装备武器。 |
+| `Your PvP Loadouts` | Your PvP Loadouts | 你的 PvP 装备配置 |
+| `Your clan coffer needs at least 10 bloodcoins to attack.` | Your clan coffer needs at least 10 bloodcoins to attack. | 氏族金库中至少有10枚血币才能发起进攻。 |
+| `Your clan has used all 3 attacks today.` | Your clan has used all 3 attacks today. | 氏族今日3次进攻机会均已用完。 |
 | `Your current task, plus every step between the tasks queued after it` | Your current task, plus every step between the tasks queued after it | 包含当前委托，以及后续排队委托之间的全部路程 |
 | `Your moderator access has been removed.` | Your moderator access has been removed. | 你的版主权限已被移除。 |
 | `Zoom in` | Zoom in | 放大 |
@@ -375,15 +375,15 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Chat has a screen of its own. Tap Chat to open it.` | Chat has a screen of its own. Tap Chat to open it. | 聊天有单独的一个界面。点按「聊天」打开它。 |
 | `Every row holds 3 tasks. Tap a row to see all 3, then tap the one you want.` | Every row holds 3 tasks. Tap a row to see all 3, then tap the one you want. | 每行有3项委托。点按某一行即可展开全部3项，然后点按想接取的委托。 |
 | `Every skill carries these five. Tap any of them to see exactly what it does.` | Every skill carries these five. Tap any of them to see exactly what it does. | 每个技能都带着这五项。点按任意一项，就能看到它具体做什么。 |
-| `Gone from the menu you get by holding a player. Settings, Players, Right-Click Context Menu.` | Gone from the menu you get by holding a player. Settings, Players, Right-Click Context Menu. | 已从长按玩家弹出的菜单中隐藏。可前往“设置 → 玩家 → 右键上下文菜单”调整。 |
+| `Gone from the menu you get by holding a player. Settings, Players, Right-Click Context Menu.` | Gone from the menu you get by holding a player. Settings, Players, Right-Click Context Menu. | 已从长按玩家弹出的菜单中移除。可在设置、玩家、右键菜单里恢复。 |
 | `Hold a name` | Hold a name | 长按一个名字 |
 | `Items are deposited here for storage. Food is eaten automatically from your bank. Potions need to be drunk to be used. Tap a potion to see it, then tap it again to drink it. Press and hold to drink many.` | Items are deposited here for storage. Food is eaten automatically from your bank. Potions need to be drunk to be used. Tap a potion to see it, then tap it again to drink it. Press and hold to drink many. | 物品会存放在这里。食物会自动从银行里取用。药水必须喝下去才会生效。点按一瓶药水查看它，再点按一次即可饮用。长按则可一次喝多瓶。 |
 | `On a phone chat gets the whole screen, so there is nothing to resize. The Chat button opens it and puts it away.` | On a phone chat gets the whole screen, so there is nothing to resize. The Chat button opens it and puts it away. | 在手机上，聊天会占满整个屏幕，所以不需要调整大小。「聊天」按钮负责打开和收起它。 |
 | `Press and hold` | Press and hold | 长按 |
-| `Press and hold a player on the map and choose Attack. They have to be nearby, you need at least 10 bloodcoins, and your two attacker loadouts need different weapons. You can attack once every 10 minutes, and whoever you hit is shielded for 10 minutes afterwards.` | Press and hold a player on the map and choose Attack. They have to be nearby, you need at least 10 bloodcoins, and your two attacker loadouts need different weapons. You can attack once every 10 minutes, and whoever you hit is shielded for 10 minutes afterwards. | 在地图上长按一名玩家，然后选攻击。对方必须在附近，你至少要有 10 枚血币，而且你的两套进攻配置要用不同的武器。你每 10 分钟能攻击一次，被你打过的人之后会有 10 分钟的保护。 |
+| `Press and hold a player on the map and choose Attack. They have to be nearby, you need at least 10 bloodcoins, and your two attacker loadouts need different weapons. You can attack once every 10 minutes, and whoever you hit is shielded for 10 minutes afterwards.` | Press and hold a player on the map and choose Attack. They have to be nearby, you need at least 10 bloodcoins, and your two attacker loadouts need different weapons. You can attack once every 10 minutes, and whoever you hit is shielded for 10 minutes afterwards. | 在地图上长按一名玩家，然后选攻击。对方必须在附近，你至少要有10枚血币，而且你的两套进攻装备配置必须用不同的武器。你每10分钟才能攻击一次，被你攻击过的人之后会获得10分钟保护。 |
 | `Press and hold anyone's message in chat to interact with them, including adding them as a friend.` | Press and hold anyone's message in chat to interact with them, including adding them as a friend. | 在聊天里长按任何人的消息都能与其互动，包括把对方加为好友。 |
 | `Press and hold the panel to open its filters and set how low your health gets before your hero eats.` | Press and hold the panel to open its filters and set how low your health gets before your hero eats. | 长按这个面板可以打开筛选，并设置生命值低到什么程度时英雄才进食。 |
-| `Put together, that is one task. Tap any task in your queue to see it.` | Put together, that is one task. Tap any task in your queue to see it. | 这四部分合起来，就是一项完整的委托。点按队列中的任意委托，即可查看详情。 |
+| `Put together, that is one task. Tap any task in your queue to see it.` | Put together, that is one task. Tap any task in your queue to see it. | 拼起来就是一项委托。点按队列中的任意委托即可查看。 |
 | `Reroll swaps the other tasks in this row for fresh ones. Each reroll costs {REROLL_COST} reroll credits, and you earn {REROLL_CREDIT_PER_TASK} credit per task you complete.` | Reroll swaps the other tasks in this row for fresh ones. Each reroll costs {REROLL_COST} reroll credits, and you earn {REROLL_CREDIT_PER_TASK} credit per task you complete. | 重抽会把这一行里的其他委托换成新的。每次重抽消耗 {REROLL_COST} 点重抽点数；每完成一项委托，获得 {REROLL_CREDIT_PER_TASK} 点。 |
 | `Strike 55 + Stab attack 94 = 215. Dodge 66 + Stab defence 5 = 137.` | Strike 55 + Stab attack 94 = 215. Dodge 66 + Stab defence 5 = 137. | 精准 55 + 刺击攻击 94 = 215。闪避 66 + 刺击防御 5 = 137。 |
 | `Tap a channel to show just that one, and All to show them all again. Nothing is lost while a channel is hidden. Press and hold a channel to choose exactly what you see in it. Too many pets in Global? Turn them off.` | Tap a channel to show just that one, and All to show them all again. Nothing is lost while a channel is hidden. Press and hold a channel to choose exactly what you see in it. Too many pets in Global? Turn them off. | 点按一个频道就只显示它，点按「全部」则重新显示所有频道。频道隐藏期间什么都不会丢。长按一个频道，可以精确选择你在里面看到什么。全局里宠物刷屏太多？把它们关掉。 |
@@ -405,10 +405,10 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:double` | +{0}% double | 双倍采集概率+{0}% |
 | `@reroll_the_other` | Reroll the other {0} | 重抽其余 {0} 个 |
 | `@hold_to_refund` | Hold to refund ({0} reroll credits) | 长按退还（{0} 重抽点数） |
-| `Skipping a slay task costs 10 reroll credits.` | Skipping a slay task costs 10 reroll credits. | 跳过当前猎杀委托需消耗10点重抽点。 |
+| `Skipping a slay task costs 10 reroll credits.` | Skipping a slay task costs 10 reroll credits. | 跳过猎杀委托需消耗10个重抽点数。 |
 | `Drops this task and starts the next one` | Drops this task and starts the next one | 放弃此委托，开始下一项 |
-| `Drops this fight and starts the next one` | Drops this fight and starts the next one | 放弃此战斗，开始下一场 |
-| `PvP Loadouts` | PvP Loadouts | PvP配装 |
+| `Drops this fight and starts the next one` | Drops this fight and starts the next one | 放弃这场战斗，开始下一场 |
+| `PvP Loadouts` | PvP Loadouts | PvP装备配置 |
 | `Shortha` | Shortha | 短哈 |
 | `Grove` | Grove | 树丛 |
 | `Acid Slime` | Acid Slime | 酸液史莱姆 |
@@ -421,7 +421,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Spark Slime` | Spark Slime | 火花史莱姆 |
 | `Lesser Demon` | Lesser Demon | 低阶恶魔 |
 | `Greater Demon` | Greater Demon | 高阶恶魔 |
-| `Furious Slime` | Furious Slime | 狂怒史莱姆 |
+| `Furious Slime` | Furious Slime | 暴怒史莱姆 |
 | `Warden` | Warden | 守卫 |
 | `@qty` | Qty: {0} | 数量：{0} |
 | `@chest_tier_qty` | Tier {0} (Qty: {1}) | {0}阶（数量：{1}） |
@@ -445,7 +445,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@xp_on_fail` | XP on Fail: {0} XP | 失败经验：{0} |
 | `@reset_skill_levers` | Set every {0} activity, quantity, and node lever back to 0. | 将{0}的活动、数量及地点滑块全部重置为0。 |
 | `@diaries_pct` | {0} / {1} Diaries ({2}%) | 成就日志：{0}/{1}（{2}%） |
-| `@respawn_each` | -1s each, base {0}s (×2 off slay task), min {1}s | 每项减少1秒，基础{0}秒（非猎杀委托时翻倍），最短{1}秒 |
+| `@respawn_each` | -1s each, base {0}s, min 2s | 每项-1秒，基础{0}秒，最短2秒 |
 | `@task_rows` | Task Rows {0}/{1} | 委托队列行数：{0}/{1} |
 | `@queue_rows_desc` | Queued tasks below the one you are doing. {0} to start, +1 per {1} total levels to {2}, +1 from the Auditor's Docket | 可排在当前委托下方的待执行委托。初始{0}行，每提升{1}总等级增加1行，最多增至{2}行；审计员案卷额外增加1行。 |
 | `@lucky_roll_unlock` | Unlocked from a lucky roll on {0} XP gained. | 获得{0}经验时，通过幸运判定解锁。 |
@@ -514,3 +514,80 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0}与{1}交换了职责，从下一轮起生效：{0}负责{2}，{1}负责{3} |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0}与{1}交换了职责：{0}负责{2}，{1}负责{3} |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0}与{1}交换了职责：{0}现在负责{2}，{1}现在负责{3} |
+| `Hardware Acceleration` | Hardware Acceleration | 硬件加速 |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | 用显卡而不是处理器绘制游戏，大幅降低处理器占用。开启后如果画面一直是黑的，游戏会自动将其关闭。 |
+| `Restart the game to apply.` | Restart the game to apply. | 重启游戏后生效。 |
+| `Restart now` | Restart now | 立即重启 |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | 游戏正在使用显卡绘制。 |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | 本次启动无法使用显卡，游戏正在使用处理器绘制。 |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | 已关闭：开启时游戏没有显示画面。 |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | 游戏正在使用处理器绘制。 |
+| `Graphics Mode` | Graphics Mode | 图形模式 |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | 安全模式：由显卡绘制游戏，Steam 覆盖界面已关闭。 |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | 安全模式：由处理器代替显卡绘制游戏，运行会慢很多。 |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | 由于某次启动时画面一直是黑的，游戏已切换到安全模式。 |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | 由于某次启动在画面显示任何内容之前就关闭了，游戏已切换到安全模式。 |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | 你的 Steam 启动选项中包含 --safe-mode。在 Steam 中删除该选项即可恢复正常模式。 |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | 将在{0}之后再次尝试正常启动。 |
+| `Back to normal` | Back to normal | 恢复正常模式 |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | 以正常模式重启游戏。如果画面再次变黑，游戏会自动切回安全模式。 |
+| `The game started in safe mode.` | The game started in safe mode. | 游戏已以安全模式启动。 |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | 你可以现在或稍后在“设置”的“构建”部分恢复正常模式。 |
+| `Wave defense: {n}` | Wave defense: {n} | 波次防御：{n} |
+| `Cuts your army's damage by {pct}%` | Cuts your army's damage by {pct}% | 己方军队造成的伤害降低{pct}% |
+| `Each round your army deals Melee + Range + Magic Force, minus this cut. The cut is defense / (defense + {k}).` | Each round your army deals Melee + Range + Magic Force, minus this cut. The cut is defense / (defense + {k}). | 每回合己方军队造成近战之力+远程之力+魔法之力的伤害，再扣除这部分削减。削减比例=防御/（防御+{k}）。 |
+| `Enemy melee attack: {n}` | Enemy melee attack: {n} | 敌方近战攻击：{n} |
+| `Enemy range attack: {n}` | Enemy range attack: {n} | 敌方远程攻击：{n} |
+| `Enemy magic attack: {n}` | Enemy magic attack: {n} | 敌方魔法攻击：{n} |
+| `Your shield: {n}` | Your shield: {n} | 己方护盾：{n} |
+| `Blocks {pct}% of this lane's damage` | Blocks {pct}% of this lane's damage | 抵挡这一路{pct}%的伤害 |
+| `Shield = Defense × {w} + Melee Force. With no melee player the lane is walled by Defense alone.` | Shield = Defense × {w} + Melee Force. With no melee player the lane is walled by Defense alone. | 护盾=防御×{w}+近战之力。没有负责近战的玩家时，这一路只靠防御抵挡。 |
+| `Shield = Defense × {w} + Range Force. With no range player the lane is walled by Defense alone.` | Shield = Defense × {w} + Range Force. With no range player the lane is walled by Defense alone. | 护盾=防御×{w}+远程之力。没有负责远程的玩家时，这一路只靠防御抵挡。 |
+| `Shield = Defense × {w} + Magic Force. With no magic player the lane is walled by Defense alone.` | Shield = Defense × {w} + Magic Force. With no magic player the lane is walled by Defense alone. | 护盾=防御×{w}+魔法之力。没有负责魔法的玩家时，这一路只靠防御抵挡。 |
+| `Melee Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's melee lane: that lane's shield is Defense × {w} + Melee Force. With no melee player, the enemy's melee lane is walled by Defense alone.` | Melee Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's melee lane: that lane's shield is Defense × {w} + Melee Force. With no melee player, the enemy's melee lane is walled by Defense alone. | 近战之力，由{role}负责补给。它既是攻击（三支部队合计即为己方军队的伤害），也是抵挡敌方近战这一路的城墙：这一路的护盾=防御×{w}+近战之力。没有负责近战的玩家时，敌方近战这一路只靠防御抵挡。 |
+| `Range Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's range lane: that lane's shield is Defense × {w} + Range Force. With no range player, the enemy's range lane is walled by Defense alone.` | Range Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's range lane: that lane's shield is Defense × {w} + Range Force. With no range player, the enemy's range lane is walled by Defense alone. | 远程之力，由{role}负责补给。它既是攻击（三支部队合计即为己方军队的伤害），也是抵挡敌方远程这一路的城墙：这一路的护盾=防御×{w}+远程之力。没有负责远程的玩家时，敌方远程这一路只靠防御抵挡。 |
+| `Magic Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's magic lane: that lane's shield is Defense × {w} + Magic Force. With no magic player, the enemy's magic lane is walled by Defense alone.` | Magic Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's magic lane: that lane's shield is Defense × {w} + Magic Force. With no magic player, the enemy's magic lane is walled by Defense alone. | 魔法之力，由{role}负责补给。它既是攻击（三支部队合计即为己方军队的伤害），也是抵挡敌方魔法这一路的城墙：这一路的护盾=防御×{w}+魔法之力。没有负责魔法的玩家时，敌方魔法这一路只靠防御抵挡。 |
+| `Defense, fed by {role}. Pure protection with no attack value. Each point adds {w} shield to ALL three enemy lanes (melee, range and magic), so it softens every hit the army takes.` | Defense, fed by {role}. Pure protection with no attack value. Each point adds {w} shield to ALL three enemy lanes (melee, range and magic), so it softens every hit the army takes. | 防御，由{role}负责补给。纯防护属性，不增加攻击力。每点防御会为抵挡敌方近战、远程和魔法三路进攻的护盾各增加{w}，从而减轻己方军队受到的每次攻击。 |
+| `+0.25% XP, +1% Quest chance, +0.05% Luck chance, +0.5% move speed each (shiny: +0.5% XP, +1% move speed)` | +0.25% XP, +1% Quest chance, +0.05% Luck chance, +0.5% move speed each (shiny: +0.5% XP, +1% move speed) | 每个提供+0.25%经验、+1%剧情任务出现概率、+0.05%幸运几率及+0.5%移动速度（闪光：+0.5%经验、+1%移动速度） |
+| `+1 to task-completion rewards` | +1 to task-completion rewards | +1 委托完成奖励 |
+| `Adds +1 to task-completion rewards` | Adds +1 to task-completion rewards | 使委托完成奖励+1 |
+| `+1 reroll credit, skill credit and bloodcoin per task` | +1 reroll credit, skill credit and bloodcoin per task | 每个委托+1重抽点数、技能点数和血币 |
+| `+1 barter reroll credit on Barter tasks` | +1 barter reroll credit on Barter tasks | +1 贸易重抽点数（贸易委托） |
+| `+1 Task Automater and Telescope roll per task` | +1 Task Automater and Telescope roll per task | 每个委托+1次委托自动选择器和望远镜掉落判定 |
+| `Spirit per charge` | Spirit per charge | 精神（每次充能） |
+| `Rare drop from slay mobs.` | Rare drop from slay mobs. | 猎杀怪物的稀有掉落。 |
+| `Rare drop from slay mobs. Each mob drops it once.` | Rare drop from slay mobs. Each mob drops it once. | 猎杀怪物的稀有掉落，每种怪物限一次。 |
+| `Drops from the Chaos Dungeon.` | Drops from the Chaos Dungeon. | 从混沌地牢掉落。 |
+| `Unlocked from a lucky roll on any XP gained.` | Unlocked from a lucky roll on any XP gained. | 获得任意经验时，通过幸运判定解锁。 |
+| `Requires the T1-T4 amulets of this style obtained first.` | Requires the T1-T4 amulets of this style obtained first. | 需先获得此风格的T1-T4护符。 |
+| `You need to obtain the T1-T4 amulets of this style first.` | You need to obtain the T1-T4 amulets of this style first. | 你需要先获得此风格的T1-T4护符。 |
+| `Common Drops (2x quantity)` | Common Drops (2x quantity) | 普通掉落（2x数量） |
+| `Drops once per mob` | Drops once per mob | 每种怪物掉落一次 |
+| `Rolls every kill` | Rolls every kill | 每次击杀都判定 |
+| `Lucky skilling tasks: 2x XP, 2x rewards, no fails. Lucky slay tasks: 2x Slay and focus XP. Lucky XP also goes to Luck.` | Lucky skilling tasks: 2x XP, 2x rewards, no fails. Lucky slay tasks: 2x Slay and focus XP. Lucky XP also goes to Luck. | 幸运技能委托：2x经验、2x奖励、不会失败。幸运猎杀委托：2x猎杀经验和训练重点经验。幸运委托的经验也会计入幸运。 |
+| `40% chance a hit strikes again for 40% damage. The extra strike rolls to hit.` | 40% chance a hit strikes again for 40% damage. The extra strike rolls to hit. | 每次命中有40%几率以40%伤害再次打击。额外打击需进行命中判定。 |
+| `45% chance a hit strikes again for 55% damage. The extra strike rolls to hit.` | 45% chance a hit strikes again for 55% damage. The extra strike rolls to hit. | 每次命中有45%几率以55%伤害再次打击。额外打击需进行命中判定。 |
+| `50% chance a hit strikes again for 70% damage. The extra strike rolls to hit.` | 50% chance a hit strikes again for 70% damage. The extra strike rolls to hit. | 每次命中有50%几率以70%伤害再次打击。额外打击需进行命中判定。 |
+| `60% chance a hit strikes again for 85% damage. The extra strike rolls to hit.` | 60% chance a hit strikes again for 85% damage. The extra strike rolls to hit. | 每次命中有60%几率以85%伤害再次打击。额外打击需进行命中判定。 |
+| `70% chance a hit strikes again for 100% damage. The extra strike rolls to hit.` | 70% chance a hit strikes again for 100% damage. The extra strike rolls to hit. | 每次命中有70%几率以100%伤害再次打击。额外打击需进行命中判定。 |
+| `70% chance a hit strikes again for 100% damage. The extra strike rolls to hit. The extra strike can strike again once.` | 70% chance a hit strikes again for 100% damage. The extra strike rolls to hit. The extra strike can strike again once. | 每次命中有70%几率以100%伤害再次打击。额外打击需进行命中判定。额外打击可再打击一次。 |
+| `Always strike the lowest slash-defence enemy. 70% chance a hit cleaves: every enemy, the target included, takes 40% of the damage.` | Always strike the lowest slash-defence enemy. 70% chance a hit cleaves: every enemy, the target included, takes 40% of the damage. | 始终攻击挥砍防御最低的敌人。命中时有70%几率触发横扫，对包括目标在内的每个敌人造成相当于本次攻击40%的伤害。 |
+| `Always strike the lowest magic-defence enemy. 70% chance a hit bursts: every enemy, the target included, takes 40% of the damage.` | Always strike the lowest magic-defence enemy. 70% chance a hit bursts: every enemy, the target included, takes 40% of the damage. | 始终攻击魔法防御最低的敌人。命中时有70%几率触发爆裂，对包括目标在内的每个敌人造成相当于本次攻击40%的伤害。 |
+| `Always strike the weakest stab-defence enemy. Each consecutive hit on the same target adds +80% damage, up to 3 stacks. Switching targets keeps half your stacks, rounded down.` | Always strike the weakest stab-defence enemy. Each consecutive hit on the same target adds +80% damage, up to 3 stacks. Switching targets keeps half your stacks, rounded down. | 始终攻击刺击防御最弱的敌人。对同一目标的每次连续命中增加+80%伤害，最多3层。切换目标时保留一半层数（向下取整）。 |
+| `Combat resource that drains 2 per attack you make and 1 per damaging hit you take. While above 0 it boosts all combat stats by 10% (up to 30% with pets and capes). Kills restore +10% of max (min 3), more with Spirit Conduit alms unlocks.` | Combat resource that drains 2 per attack you make and 1 per damaging hit you take. While above 0 it boosts all combat stats by 10% (up to 30% with pets and capes). Kills restore +10% of max (min 3), more with Spirit Conduit alms unlocks. | 一种战斗资源：每次主动攻击消耗2点，每受到一次造成伤害的命中消耗1点。剩余值大于0时，所有战斗属性提升10%（配合宠物和披风最高30%）。每次击杀恢复上限的+10%（最低3点）；施舍中解锁回灵器后可提高恢复量。 |
+| `Each action can complete a random step on one of your treasure scrolls. Pairs with Bard.` | Each action can complete a random step on one of your treasure scrolls. Pairs with Bard. | 每次行动都可能随机完成你某张宝藏卷轴上的一个步骤，适合与吟游技能搭配。 |
+| `Each rolled task has a small chance to be Lucky. Lucky skilling tasks: 2x XP, 2x rewards, no failed actions. Lucky slay tasks: 2x Slay XP and 2x combat XP for your training focus. Lucky XP also goes to Luck.` | Each rolled task has a small chance to be Lucky. Lucky skilling tasks: 2x XP, 2x rewards, no failed actions. Lucky slay tasks: 2x Slay XP and 2x combat XP for your training focus. Lucky XP also goes to Luck. | 每个抽取的委托都有小几率成为幸运委托。幸运技能委托：2x经验、2x奖励、不会有失败动作。幸运猎杀委托：2x猎杀经验，训练重点的战斗经验也为2x。幸运委托的经验也会同步计入幸运。 |
+| `Trained by dealing damage in Dungeons (combat raids): 0.5x to 1.75x the damage as XP by tier, plus a bonus for each cleared run. No other skill trains in a Dungeon.` | Trained by dealing damage in Dungeons (combat raids): 0.5x to 1.75x the damage as XP by tier, plus a bonus for each cleared run. No other skill trains in a Dungeon. | 在地牢（战斗团本）中造成伤害可提升地牢技能：按阶位获得相当于伤害值0.5x至1.75x的经验，每通关一轮还有额外奖励。其他技能不会在地牢中获得经验。 |
+| `A shop of six slots, rerolled with barter reroll credits. A reroll costs 10. You earn 2 credits for every Barter task you finish.` | A shop of six slots, rerolled with barter reroll credits. A reroll costs 10. You earn 2 credits for every Barter task you finish. | 商店共有六个货位，可用贸易重抽点数重抽，每次消耗10点。每完成一项贸易委托获得2点。 |
+| `Extra healing from each food item eaten and each successful skilling action.` | Extra healing from each food item eaten and each successful skilling action. | 每次食用食物及每次成功的技能动作获得的额外治疗。 |
+| `Slay tasks reward slay skill credits and bloodcoins on completion.` | Slay tasks reward slay skill credits and bloodcoins on completion. | 完成猎杀委托可获得猎杀技能点数和血币。 |
+| `@spirit_mod_base` | (base {0}x with any spirit, {1}x at 0 spirit) | （有精神时基础{0}x，精神为0时{1}x） |
+| `@spirit_pot_when` | Used below {0}% Spirit in combat | 战斗中精神低于{0}%时使用 |
+| `@potion_eff_levels` | effective {0} levels | {0}有效等级 |
+| `@effect_qty_range` | Effect: {0} per task | 效果：每个委托{0} |
+| `@effect_luck_lever` | Effect: Lucky chance (skilling tasks only; slay tasks ignore this lever): {0} → {1} | 效果：幸运几率（仅限技能委托；猎杀委托不受此滑杆影响）：{0} → {1} |
+| `@b:eff_lv_atk_move` | +{0} effective level (attack + move speed) | 有效等级+{0}（影响攻击与移动速度） |
+| `@b:spirit_mod` | +{0}x spirit modifier | 精神加成+{0}x |
+| `@b:hp_food_action` | +1 HP per food and skilling action | 每份食物和每次技能动作+1生命值 |
+| `@f:runs` | runs | 次通关 |
+| `@f:run` | run | 次通关 |

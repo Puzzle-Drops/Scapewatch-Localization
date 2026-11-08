@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | กวี |
 | Discover | ค้นพบ |
 
-## Lines to review (444)
+## Lines to review (521)
 
 | Key | English | Current |
 |---|---|---|
@@ -445,7 +445,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@xp_on_fail` | XP on Fail: {0} XP | XP เมื่อล้มเหลว: {0} |
 | `@reset_skill_levers` | Set every {0} activity, quantity, and node lever back to 0. | ตั้งคันโยกกิจกรรม จำนวน และโหนดทุกอันของ {0} กลับเป็น 0 |
 | `@diaries_pct` | {0} / {1} Diaries ({2}%) | ไดอารี {0} / {1} ({2}%) |
-| `@respawn_each` | -1s each, base {0}s (×2 off slay task), min {1}s | -1 วินาทีต่ออัน ฐาน {0} วินาที (×2 เมื่อไม่ได้ทำภารกิจสังหารมาร) ต่ำสุด {1} วินาที |
+| `@respawn_each` | -1s each, base {0}s, min 2s | -1 วินาทีต่ออัน ฐาน {0} วินาที ต่ำสุด 2 วินาที |
 | `@task_rows` | Task Rows {0}/{1} | แถวภารกิจ {0}/{1} |
 | `@queue_rows_desc` | Queued tasks below the one you are doing. {0} to start, +1 per {1} total levels to {2}, +1 from the Auditor's Docket | ภารกิจในคิวที่ต่อจากภารกิจที่คุณกำลังทำ เริ่มต้น {0} แถว +1 แถวทุกเลเวลรวม {1} สูงสุด {2} แถว และ +1 แถวจากสมุดผู้ตรวจสอบ |
 | `@lucky_roll_unlock` | Unlocked from a lucky roll on {0} XP gained. | ปลดล็อกจากการสุ่มนำโชคเมื่อได้รับ XP {0} |
@@ -514,3 +514,80 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0} สลับบทบาทกับ {1} ตั้งแต่รอบถัดไป: {0} รับบท {2} และ {1} รับบท {3} |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0} สลับบทบาทกับ {1}: {0} รับบท {2} และ {1} รับบท {3} |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0} สลับบทบาทกับ {1}: ตอนนี้ {0} รับบท {2} และ {1} รับบท {3} |
+| `Hardware Acceleration` | Hardware Acceleration | การเร่งด้วยฮาร์ดแวร์ |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | วาดเกมด้วยการ์ดจอแทน CPU ทำให้ใช้ CPU น้อยลงมาก หากหน้าจอยังดำอยู่ขณะเปิดใช้ เกมจะปิดการตั้งค่านี้ให้โดยอัตโนมัติ |
+| `Restart the game to apply.` | Restart the game to apply. | รีสตาร์ทเกมเพื่อให้มีผล |
+| `Restart now` | Restart now | รีสตาร์ททันที |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | เกมกำลังวาดด้วยการ์ดจอ |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | ไม่สามารถใช้การ์ดจอในการเปิดเกมครั้งนี้ได้ เกมจึงวาดด้วย CPU |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | ปิดแล้ว เกมไม่แสดงภาพขณะเปิดใช้ |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | เกมกำลังวาดด้วย CPU |
+| `Graphics Mode` | Graphics Mode | โหมดกราฟิก |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | เซฟโหมด: เกมวาดด้วยการ์ดจอ และปิดโอเวอร์เลย์ของ Steam อยู่ |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | เซฟโหมด: เกมวาดด้วย CPU แทนการ์ดจอ ซึ่งช้ากว่ามาก |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | เกมเปลี่ยนไปใช้เซฟโหมด เพราะในการเปิดเกมครั้งหนึ่งหน้าจอยังดำอยู่ |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | เกมเปลี่ยนไปใช้เซฟโหมด เพราะการเปิดเกมครั้งหนึ่งถูกปิดไปก่อนที่จะมีอะไรขึ้นบนหน้าจอ |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | ตัวเลือกการเปิดใช้ของ Steam ของคุณมี --safe-mode อยู่ ให้ลบตัวเลือกนั้นใน Steam เพื่อกลับสู่โหมดปกติ |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | เกมจะลองเปิดแบบปกติอีกครั้งหลังวันที่ {0} |
+| `Back to normal` | Back to normal | กลับสู่โหมดปกติ |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | รีสตาร์ทเกมแบบปกติ หากหน้าจอดำอีก เกมจะกลับไปใช้เซฟโหมดเองโดยอัตโนมัติ |
+| `The game started in safe mode.` | The game started in safe mode. | เกมเริ่มทำงานในเซฟโหมด |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | คุณกลับสู่โหมดปกติได้ทันที หรือภายหลังที่การตั้งค่า ในส่วน "Build" |
+| `Wave defense: {n}` | Wave defense: {n} | ป้องกันระลอก: {n} |
+| `Cuts your army's damage by {pct}%` | Cuts your army's damage by {pct}% | ลดความเสียหายของกองทัพคุณ {pct}% |
+| `Each round your army deals Melee + Range + Magic Force, minus this cut. The cut is defense / (defense + {k}).` | Each round your army deals Melee + Range + Magic Force, minus this cut. The cut is defense / (defense + {k}). | ในแต่ละรอบ กองทัพของคุณสร้างความเสียหายเท่ากับ พลังประชิด + พลังระยะไกล + พลังเวทมนตร์ หักด้วยส่วนที่ลดนี้ ส่วนที่ลดคือ ป้องกัน / (ป้องกัน + {k}) |
+| `Enemy melee attack: {n}` | Enemy melee attack: {n} | การโจมตีประชิดของศัตรู: {n} |
+| `Enemy range attack: {n}` | Enemy range attack: {n} | การโจมตีระยะไกลของศัตรู: {n} |
+| `Enemy magic attack: {n}` | Enemy magic attack: {n} | การโจมตีเวทมนตร์ของศัตรู: {n} |
+| `Your shield: {n}` | Your shield: {n} | โล่ของคุณ: {n} |
+| `Blocks {pct}% of this lane's damage` | Blocks {pct}% of this lane's damage | กันความเสียหายของช่องทางนี้ได้ {pct}% |
+| `Shield = Defense × {w} + Melee Force. With no melee player the lane is walled by Defense alone.` | Shield = Defense × {w} + Melee Force. With no melee player the lane is walled by Defense alone. | โล่ = ป้องกัน × {w} + พลังประชิด หากไม่มีผู้เล่นสายประชิด ช่องทางนี้จะมีเพียงป้องกันเป็นกำแพง |
+| `Shield = Defense × {w} + Range Force. With no range player the lane is walled by Defense alone.` | Shield = Defense × {w} + Range Force. With no range player the lane is walled by Defense alone. | โล่ = ป้องกัน × {w} + พลังระยะไกล หากไม่มีผู้เล่นสายระยะไกล ช่องทางนี้จะมีเพียงป้องกันเป็นกำแพง |
+| `Shield = Defense × {w} + Magic Force. With no magic player the lane is walled by Defense alone.` | Shield = Defense × {w} + Magic Force. With no magic player the lane is walled by Defense alone. | โล่ = ป้องกัน × {w} + พลังเวทมนตร์ หากไม่มีผู้เล่นสายเวทมนตร์ ช่องทางนี้จะมีเพียงป้องกันเป็นกำแพง |
+| `Melee Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's melee lane: that lane's shield is Defense × {w} + Melee Force. With no melee player, the enemy's melee lane is walled by Defense alone.` | Melee Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's melee lane: that lane's shield is Defense × {w} + Melee Force. With no melee player, the enemy's melee lane is walled by Defense alone. | พลังประชิด ขับเคลื่อนโดย {role} เป็นทั้งการโจมตี (พลังทั้งสามของคุณรวมกันเป็นความเสียหายของกองทัพ) และกำแพงกั้นช่องทางประชิดของศัตรู: โล่ของช่องทางนั้นคือ ป้องกัน × {w} + พลังประชิด หากไม่มีผู้เล่นสายประชิด ช่องทางประชิดของศัตรูจะมีเพียงป้องกันเป็นกำแพง |
+| `Range Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's range lane: that lane's shield is Defense × {w} + Range Force. With no range player, the enemy's range lane is walled by Defense alone.` | Range Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's range lane: that lane's shield is Defense × {w} + Range Force. With no range player, the enemy's range lane is walled by Defense alone. | พลังระยะไกล ขับเคลื่อนโดย {role} เป็นทั้งการโจมตี (พลังทั้งสามของคุณรวมกันเป็นความเสียหายของกองทัพ) และกำแพงกั้นช่องทางระยะไกลของศัตรู: โล่ของช่องทางนั้นคือ ป้องกัน × {w} + พลังระยะไกล หากไม่มีผู้เล่นสายระยะไกล ช่องทางระยะไกลของศัตรูจะมีเพียงป้องกันเป็นกำแพง |
+| `Magic Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's magic lane: that lane's shield is Defense × {w} + Magic Force. With no magic player, the enemy's magic lane is walled by Defense alone.` | Magic Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's magic lane: that lane's shield is Defense × {w} + Magic Force. With no magic player, the enemy's magic lane is walled by Defense alone. | พลังเวทมนตร์ ขับเคลื่อนโดย {role} เป็นทั้งการโจมตี (พลังทั้งสามของคุณรวมกันเป็นความเสียหายของกองทัพ) และกำแพงกั้นช่องทางเวทมนตร์ของศัตรู: โล่ของช่องทางนั้นคือ ป้องกัน × {w} + พลังเวทมนตร์ หากไม่มีผู้เล่นสายเวทมนตร์ ช่องทางเวทมนตร์ของศัตรูจะมีเพียงป้องกันเป็นกำแพง |
+| `Defense, fed by {role}. Pure protection with no attack value. Each point adds {w} shield to ALL three enemy lanes (melee, range and magic), so it softens every hit the army takes.` | Defense, fed by {role}. Pure protection with no attack value. Each point adds {w} shield to ALL three enemy lanes (melee, range and magic), so it softens every hit the army takes. | ป้องกัน ขับเคลื่อนโดย {role} เป็นการคุ้มกันล้วน ไม่มีค่าโจมตี แต่ละแต้มเพิ่มโล่ {w} ให้กับช่องทางศัตรูทั้งสาม (ประชิด ระยะไกล และเวทมนตร์) จึงลดทอนการโจมตีทุกครั้งที่กองทัพได้รับ |
+| `+0.25% XP, +1% Quest chance, +0.05% Luck chance, +0.5% move speed each (shiny: +0.5% XP, +1% move speed)` | +0.25% XP, +1% Quest chance, +0.05% Luck chance, +0.5% move speed each (shiny: +0.5% XP, +1% move speed) | +0.25% XP, +1% โอกาสเควสต์, +0.05% โอกาสนำโชค, +0.5% ความเร็วเคลื่อนที่ต่ออย่าง (แวววาว: +0.5% XP, +1% ความเร็วเคลื่อนที่) |
+| `+1 to task-completion rewards` | +1 to task-completion rewards | รางวัลเมื่อทำภารกิจสำเร็จ +1 |
+| `Adds +1 to task-completion rewards` | Adds +1 to task-completion rewards | เพิ่ม +1 ให้กับรางวัลเมื่อทำภารกิจสำเร็จ |
+| `+1 reroll credit, skill credit and bloodcoin per task` | +1 reroll credit, skill credit and bloodcoin per task | +1 เครดิตสุ่มใหม่ เครดิตทักษะ และเหรียญเลือดต่อภารกิจ |
+| `+1 barter reroll credit on Barter tasks` | +1 barter reroll credit on Barter tasks | +1 เครดิตสุ่มใหม่ต่อรองในภารกิจต่อรอง |
+| `+1 Task Automater and Telescope roll per task` | +1 Task Automater and Telescope roll per task | +1 การสุ่มเครื่องทำงานอัตโนมัติและกล้องส่องทางไกลต่อภารกิจ |
+| `Spirit per charge` | Spirit per charge | ภูตต่อประจุ |
+| `Rare drop from slay mobs.` | Rare drop from slay mobs. | ของดรอปหายากจากมอนสเตอร์สังหาร |
+| `Rare drop from slay mobs. Each mob drops it once.` | Rare drop from slay mobs. Each mob drops it once. | ของดรอปหายากจากมอนสเตอร์สังหาร มอนสเตอร์แต่ละตัวดรอปครั้งเดียว |
+| `Drops from the Chaos Dungeon.` | Drops from the Chaos Dungeon. | ดรอปจากดันเจียนวิปริต |
+| `Unlocked from a lucky roll on any XP gained.` | Unlocked from a lucky roll on any XP gained. | ปลดล็อกจากการสุ่มนำโชคเมื่อได้รับ XP ใดก็ได้ |
+| `Requires the T1-T4 amulets of this style obtained first.` | Requires the T1-T4 amulets of this style obtained first. | ต้องได้รับสร้อยคอ T1-T4 ของสไตล์นี้ก่อน |
+| `You need to obtain the T1-T4 amulets of this style first.` | You need to obtain the T1-T4 amulets of this style first. | คุณต้องได้รับสร้อยคอ T1-T4 ของสไตล์นี้ก่อน |
+| `Common Drops (2x quantity)` | Common Drops (2x quantity) | ของดรอปทั่วไป (จำนวน 2x) |
+| `Drops once per mob` | Drops once per mob | ดรอปหนึ่งครั้งต่อมอนสเตอร์ |
+| `Rolls every kill` | Rolls every kill | สุ่มทุกการสังหาร |
+| `Lucky skilling tasks: 2x XP, 2x rewards, no fails. Lucky slay tasks: 2x Slay and focus XP. Lucky XP also goes to Luck.` | Lucky skilling tasks: 2x XP, 2x rewards, no fails. Lucky slay tasks: 2x Slay and focus XP. Lucky XP also goes to Luck. | ภารกิจฝึกทักษะนำโชค: XP 2x, รางวัล 2x, ไม่มีพลาด ภารกิจสังหารมารนำโชค: 2x XP สังหารและ XP ทักษะที่เน้นฝึก ส่วน XP นำโชคยังเข้าสู่โชคด้วย |
+| `40% chance a hit strikes again for 40% damage. The extra strike rolls to hit.` | 40% chance a hit strikes again for 40% damage. The extra strike rolls to hit. | มีโอกาส 40% ที่การโจมตีจะโจมตีอีกครั้งที่ความเสียหาย 40% การโจมตีเสริมต้องสุ่มว่าจะโดนเป้าหรือไม่ |
+| `45% chance a hit strikes again for 55% damage. The extra strike rolls to hit.` | 45% chance a hit strikes again for 55% damage. The extra strike rolls to hit. | มีโอกาส 45% ที่การโจมตีจะโจมตีอีกครั้งที่ความเสียหาย 55% การโจมตีเสริมต้องสุ่มว่าจะโดนเป้าหรือไม่ |
+| `50% chance a hit strikes again for 70% damage. The extra strike rolls to hit.` | 50% chance a hit strikes again for 70% damage. The extra strike rolls to hit. | มีโอกาส 50% ที่การโจมตีจะโจมตีอีกครั้งที่ความเสียหาย 70% การโจมตีเสริมต้องสุ่มว่าจะโดนเป้าหรือไม่ |
+| `60% chance a hit strikes again for 85% damage. The extra strike rolls to hit.` | 60% chance a hit strikes again for 85% damage. The extra strike rolls to hit. | มีโอกาส 60% ที่การโจมตีจะโจมตีอีกครั้งที่ความเสียหาย 85% การโจมตีเสริมต้องสุ่มว่าจะโดนเป้าหรือไม่ |
+| `70% chance a hit strikes again for 100% damage. The extra strike rolls to hit.` | 70% chance a hit strikes again for 100% damage. The extra strike rolls to hit. | มีโอกาส 70% ที่การโจมตีจะโจมตีอีกครั้งที่ความเสียหาย 100% การโจมตีเสริมต้องสุ่มว่าจะโดนเป้าหรือไม่ |
+| `70% chance a hit strikes again for 100% damage. The extra strike rolls to hit. The extra strike can strike again once.` | 70% chance a hit strikes again for 100% damage. The extra strike rolls to hit. The extra strike can strike again once. | มีโอกาส 70% ที่การโจมตีจะโจมตีอีกครั้งที่ความเสียหาย 100% การโจมตีเสริมต้องสุ่มว่าจะโดนเป้าหรือไม่ การโจมตีเสริมนั้นสามารถโจมตีอีกครั้งได้อีกหนึ่งครั้ง |
+| `Always strike the lowest slash-defence enemy. 70% chance a hit cleaves: every enemy, the target included, takes 40% of the damage.` | Always strike the lowest slash-defence enemy. 70% chance a hit cleaves: every enemy, the target included, takes 40% of the damage. | โจมตีศัตรูที่มีค่าป้องกันการฟันต่ำสุดเสมอ มีโอกาส 70% ที่การโจมตีจะฟันทะลวง: ศัตรูทุกตัว รวมถึงเป้าหมาย จะได้รับความเสียหาย 40% |
+| `Always strike the lowest magic-defence enemy. 70% chance a hit bursts: every enemy, the target included, takes 40% of the damage.` | Always strike the lowest magic-defence enemy. 70% chance a hit bursts: every enemy, the target included, takes 40% of the damage. | โจมตีศัตรูที่มีค่าป้องกันเวทมนตร์ต่ำสุดเสมอ มีโอกาส 70% ที่การโจมตีจะระเบิด: ศัตรูทุกตัว รวมถึงเป้าหมาย จะได้รับความเสียหาย 40% |
+| `Always strike the weakest stab-defence enemy. Each consecutive hit on the same target adds +80% damage, up to 3 stacks. Switching targets keeps half your stacks, rounded down.` | Always strike the weakest stab-defence enemy. Each consecutive hit on the same target adds +80% damage, up to 3 stacks. Switching targets keeps half your stacks, rounded down. | โจมตีศัตรูที่มีค่าป้องกันการแทงต่ำสุดเสมอ การโจมตีต่อเนื่องแต่ละครั้งบนเป้าหมายเดียวกันเพิ่มความเสียหาย +80% สูงสุด 3 ชั้น การเปลี่ยนเป้าหมายจะคงชั้นสะสมของคุณไว้ครึ่งหนึ่ง (ปัดลง) |
+| `Combat resource that drains 2 per attack you make and 1 per damaging hit you take. While above 0 it boosts all combat stats by 10% (up to 30% with pets and capes). Kills restore +10% of max (min 3), more with Spirit Conduit alms unlocks.` | Combat resource that drains 2 per attack you make and 1 per damaging hit you take. While above 0 it boosts all combat stats by 10% (up to 30% with pets and capes). Kills restore +10% of max (min 3), more with Spirit Conduit alms unlocks. | ทรัพยากรการต่อสู้ที่ลด 2 ต่อการโจมตีที่คุณทำและ 1 ต่อการโดนโจมตีที่ได้รับความเสียหาย ขณะที่สูงกว่า 0 มันจะเพิ่มค่าสถานะการต่อสู้ทั้งหมด 10% (สูงสุด 30% ด้วยสัตว์เลี้ยงและผ้าคลุม) การสังหารฟื้น +10% ของค่าสูงสุด (ต่ำสุด 3) และมากขึ้นด้วยการปลดล็อกทานบุญท่อนำพลังภูต |
+| `Each action can complete a random step on one of your treasure scrolls. Pairs with Bard.` | Each action can complete a random step on one of your treasure scrolls. Pairs with Bard. | การกระทำแต่ละครั้งสามารถทำขั้นตอนแบบสุ่มของม้วนสมบัติม้วนหนึ่งของคุณให้สำเร็จได้ จับคู่กับกวี |
+| `Each rolled task has a small chance to be Lucky. Lucky skilling tasks: 2x XP, 2x rewards, no failed actions. Lucky slay tasks: 2x Slay XP and 2x combat XP for your training focus. Lucky XP also goes to Luck.` | Each rolled task has a small chance to be Lucky. Lucky skilling tasks: 2x XP, 2x rewards, no failed actions. Lucky slay tasks: 2x Slay XP and 2x combat XP for your training focus. Lucky XP also goes to Luck. | ภารกิจที่สุ่มได้แต่ละอันมีโอกาสเล็กน้อยที่จะเป็นภารกิจนำโชค ภารกิจฝึกทักษะนำโชค: XP 2x, รางวัล 2x, ไม่มีการกระทำที่ล้มเหลว ภารกิจสังหารมารนำโชค: XP สังหาร 2x และ XP การต่อสู้ 2x สำหรับทักษะที่เน้นฝึก ส่วน XP นำโชคยังเข้าสู่โชคด้วย |
+| `Trained by dealing damage in Dungeons (combat raids): 0.5x to 1.75x the damage as XP by tier, plus a bonus for each cleared run. No other skill trains in a Dungeon.` | Trained by dealing damage in Dungeons (combat raids): 0.5x to 1.75x the damage as XP by tier, plus a bonus for each cleared run. No other skill trains in a Dungeon. | ฝึกด้วยการสร้างความเสียหายภายในดันเจียน (เรดต่อสู้): ได้ XP 0.5x ถึง 1.75x ของความเสียหายตามระดับ พร้อมโบนัสสำหรับแต่ละรอบที่เคลียร์ ไม่มีทักษะอื่นที่ฝึกได้ในดันเจียน |
+| `A shop of six slots, rerolled with barter reroll credits. A reroll costs 10. You earn 2 credits for every Barter task you finish.` | A shop of six slots, rerolled with barter reroll credits. A reroll costs 10. You earn 2 credits for every Barter task you finish. | ร้านค้าหกช่อง สุ่มใหม่ได้ด้วยเครดิตสุ่มใหม่ต่อรอง การสุ่มใหม่ครั้งละ 10 คุณได้ 2 เครดิตต่อภารกิจต่อรองหนึ่งงานที่ทำสำเร็จ |
+| `Extra healing from each food item eaten and each successful skilling action.` | Extra healing from each food item eaten and each successful skilling action. | การฟื้นฟูเพิ่มเติมจากอาหารแต่ละชิ้นที่กินและการกระทำทักษะที่สำเร็จแต่ละครั้ง |
+| `Slay tasks reward slay skill credits and bloodcoins on completion.` | Slay tasks reward slay skill credits and bloodcoins on completion. | ภารกิจสังหารมารให้รางวัลเป็นเครดิตทักษะสังหารมารและเหรียญเลือดเมื่อทำสำเร็จ |
+| `@spirit_mod_base` | (base {0}x with any spirit, {1}x at 0 spirit) | (ฐาน {0}x เมื่อมีภูต, {1}x เมื่อภูตเป็น 0) |
+| `@spirit_pot_when` | Used below {0}% Spirit in combat | ใช้เมื่อภูตต่ำกว่า {0}% ระหว่างการต่อสู้ |
+| `@potion_eff_levels` | effective {0} levels | เลเวลที่มีผลของ {0} |
+| `@effect_qty_range` | Effect: {0} per task | ผล: {0} ต่อภารกิจ |
+| `@effect_luck_lever` | Effect: Lucky chance (skilling tasks only; slay tasks ignore this lever): {0} → {1} | ผล: โอกาสนำโชค (เฉพาะภารกิจฝึกทักษะ; ภารกิจสังหารมารไม่ได้รับผลจากคันโยกนี้): {0} → {1} |
+| `@b:eff_lv_atk_move` | +{0} effective level (attack + move speed) | +{0} เลเวลที่มีผล (ความเร็วการโจมตี + ความเร็วการเคลื่อนที่) |
+| `@b:spirit_mod` | +{0}x spirit modifier | +{0}x ตัวปรับค่าภูต |
+| `@b:hp_food_action` | +1 HP per food and skilling action | +1 HP ต่ออาหารและการกระทำทักษะ |
+| `@f:runs` | runs | รอบ |
+| `@f:run` | run | รอบ |

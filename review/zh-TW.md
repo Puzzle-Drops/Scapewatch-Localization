@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (444)
+## Lines to review (521)
 
 | Key | English | Current |
 |---|---|---|
@@ -445,7 +445,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@xp_on_fail` | XP on Fail: {0} XP | 失敗經驗：{0} |
 | `@reset_skill_levers` | Set every {0} activity, quantity, and node lever back to 0. | 將{0}的活動、數量及節點拉桿全部設回0。 |
 | `@diaries_pct` | {0} / {1} Diaries ({2}%) | 日誌：{0}/{1}（{2}%） |
-| `@respawn_each` | -1s each, base {0}s (×2 off slay task), min {1}s | 每項 -1秒，基礎{0}秒（非獵殺差事時 ×2），最短{1}秒 |
+| `@respawn_each` | -1s each, base {0}s, min 2s | 每項 -1秒，基礎{0}秒，最短2秒 |
 | `@task_rows` | Task Rows {0}/{1} | 差事列數：{0}/{1} |
 | `@queue_rows_desc` | Queued tasks below the one you are doing. {0} to start, +1 per {1} total levels to {2}, +1 from the Auditor's Docket | 排在當前差事下方的待執行差事。初始{0}列，每{1}總等級 +1列，最多{2}列；稽核員的帳冊再 +1列。 |
 | `@lucky_roll_unlock` | Unlocked from a lucky roll on {0} XP gained. | 獲得{0}經驗時，透過幸運判定解鎖。 |
@@ -514,3 +514,80 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@lobby_role_swap_next` | {0} swapped roles with {1} from the next run: {0} plays {2}, {1} plays {3} | {0}與{1}交換了角色，從下一輪起生效：{0}負責{2}，{1}負責{3} |
 | `@lobby_role_swap` | {0} swapped roles with {1}: {0} plays {2}, {1} plays {3} | {0}與{1}交換了角色：{0}負責{2}，{1}負責{3} |
 | `@lobby_role_swap_now` | {0} swapped roles with {1}: {0} now plays {2}, {1} now plays {3} | {0}與{1}交換了角色：{0}現在負責{2}，{1}現在負責{3} |
+| `Hardware Acceleration` | Hardware Acceleration | 硬體加速 |
+| `Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off.` | Draw the game on your graphics card instead of the CPU, for much lower CPU use. If the screen stays black with it on, the game turns it back off. | 用顯示卡而非處理器繪製遊戲，大幅降低處理器使用率。開啟後若畫面一直是黑的，遊戲會自動將其關閉。 |
+| `Restart the game to apply.` | Restart the game to apply. | 重新啟動遊戲後生效。 |
+| `Restart now` | Restart now | 立即重新啟動 |
+| `The game is drawing on your graphics card.` | The game is drawing on your graphics card. | 遊戲正在使用顯示卡繪製。 |
+| `Your graphics card could not be used this launch, so the game is drawing on the CPU.` | Your graphics card could not be used this launch, so the game is drawing on the CPU. | 本次啟動無法使用顯示卡，遊戲正在使用處理器繪製。 |
+| `Turned off: the game did not draw with it on.` | Turned off: the game did not draw with it on. | 已關閉：開啟時遊戲沒有顯示畫面。 |
+| `The game is drawing on the CPU.` | The game is drawing on the CPU. | 遊戲正在使用處理器繪製。 |
+| `Graphics Mode` | Graphics Mode | 圖形模式 |
+| `Safe mode: drawing on your graphics card with the Steam overlay off.` | Safe mode: drawing on your graphics card with the Steam overlay off. | 安全模式：由顯示卡繪製遊戲，Steam 覆蓋介面已關閉。 |
+| `Safe mode: drawing on the CPU instead of your graphics card, which is much slower.` | Safe mode: drawing on the CPU instead of your graphics card, which is much slower. | 安全模式：由處理器代替顯示卡繪製遊戲，執行會慢很多。 |
+| `The game switched to safe mode because a launch showed a black screen.` | The game switched to safe mode because a launch showed a black screen. | 由於某次啟動時畫面一直是黑的，遊戲已切換至安全模式。 |
+| `The game switched to safe mode because a launch closed before anything appeared on screen.` | The game switched to safe mode because a launch closed before anything appeared on screen. | 由於某次啟動在畫面顯示任何內容之前就關閉了，遊戲已切換至安全模式。 |
+| `Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal.` | Your Steam launch options include --safe-mode. Remove that option in Steam to go back to normal. | 你的 Steam 啟動選項包含 --safe-mode。在 Steam 中移除該選項即可恢復正常模式。 |
+| `@safe_mode_until` | A normal launch is tried again after {0}. | 將在{0}之後再次嘗試正常啟動。 |
+| `Back to normal` | Back to normal | 恢復正常模式 |
+| `Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself.` | Restarts the game normally. If the screen goes black again, the game switches back to safe mode by itself. | 以正常模式重新啟動遊戲。若畫面再次變黑，遊戲會自動切回安全模式。 |
+| `The game started in safe mode.` | The game started in safe mode. | 遊戲已以安全模式啟動。 |
+| `You can go back to normal now, or later in Settings under Build.` | You can go back to normal now, or later in Settings under Build. | 你可以現在或稍後在「設定」的「建置」部分恢復正常模式。 |
+| `Wave defense: {n}` | Wave defense: {n} | 波次防禦：{n} |
+| `Cuts your army's damage by {pct}%` | Cuts your army's damage by {pct}% | 你軍隊的傷害被削減{pct}% |
+| `Each round your army deals Melee + Range + Magic Force, minus this cut. The cut is defense / (defense + {k}).` | Each round your army deals Melee + Range + Magic Force, minus this cut. The cut is defense / (defense + {k}). | 每回合你的軍隊造成近戰之力+遠程之力+魔法之力的傷害，再扣除此削減。削減比例 = 防禦 /（防禦 + {k}）。 |
+| `Enemy melee attack: {n}` | Enemy melee attack: {n} | 敵方近戰攻擊：{n} |
+| `Enemy range attack: {n}` | Enemy range attack: {n} | 敵方遠程攻擊：{n} |
+| `Enemy magic attack: {n}` | Enemy magic attack: {n} | 敵方魔法攻擊：{n} |
+| `Your shield: {n}` | Your shield: {n} | 你的盾牌：{n} |
+| `Blocks {pct}% of this lane's damage` | Blocks {pct}% of this lane's damage | 擋下此戰線{pct}%的傷害 |
+| `Shield = Defense × {w} + Melee Force. With no melee player the lane is walled by Defense alone.` | Shield = Defense × {w} + Melee Force. With no melee player the lane is walled by Defense alone. | 盾牌 = 防禦 × {w} + 近戰之力。沒有近戰玩家時，此戰線只靠防禦阻擋。 |
+| `Shield = Defense × {w} + Range Force. With no range player the lane is walled by Defense alone.` | Shield = Defense × {w} + Range Force. With no range player the lane is walled by Defense alone. | 盾牌 = 防禦 × {w} + 遠程之力。沒有遠程玩家時，此戰線只靠防禦阻擋。 |
+| `Shield = Defense × {w} + Magic Force. With no magic player the lane is walled by Defense alone.` | Shield = Defense × {w} + Magic Force. With no magic player the lane is walled by Defense alone. | 盾牌 = 防禦 × {w} + 魔法之力。沒有魔法玩家時，此戰線只靠防禦阻擋。 |
+| `Melee Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's melee lane: that lane's shield is Defense × {w} + Melee Force. With no melee player, the enemy's melee lane is walled by Defense alone.` | Melee Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's melee lane: that lane's shield is Defense × {w} + Melee Force. With no melee player, the enemy's melee lane is walled by Defense alone. | 近戰之力，由{role}供給。它同時是攻擊（你的三股力量相加即為軍隊的傷害）以及敵方近戰戰線的城牆：該戰線的盾牌 = 防禦 × {w} + 近戰之力。沒有近戰玩家時，敵方近戰戰線只靠防禦阻擋。 |
+| `Range Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's range lane: that lane's shield is Defense × {w} + Range Force. With no range player, the enemy's range lane is walled by Defense alone.` | Range Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's range lane: that lane's shield is Defense × {w} + Range Force. With no range player, the enemy's range lane is walled by Defense alone. | 遠程之力，由{role}供給。它同時是攻擊（你的三股力量相加即為軍隊的傷害）以及敵方遠程戰線的城牆：該戰線的盾牌 = 防禦 × {w} + 遠程之力。沒有遠程玩家時，敵方遠程戰線只靠防禦阻擋。 |
+| `Magic Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's magic lane: that lane's shield is Defense × {w} + Magic Force. With no magic player, the enemy's magic lane is walled by Defense alone.` | Magic Force, fed by {role}. It is BOTH attack (your three Forces sum into the army's damage) and the wall for the enemy's magic lane: that lane's shield is Defense × {w} + Magic Force. With no magic player, the enemy's magic lane is walled by Defense alone. | 魔法之力，由{role}供給。它同時是攻擊（你的三股力量相加即為軍隊的傷害）以及敵方魔法戰線的城牆：該戰線的盾牌 = 防禦 × {w} + 魔法之力。沒有魔法玩家時，敵方魔法戰線只靠防禦阻擋。 |
+| `Defense, fed by {role}. Pure protection with no attack value. Each point adds {w} shield to ALL three enemy lanes (melee, range and magic), so it softens every hit the army takes.` | Defense, fed by {role}. Pure protection with no attack value. Each point adds {w} shield to ALL three enemy lanes (melee, range and magic), so it softens every hit the army takes. | 防禦，由{role}供給。純粹的防護，沒有攻擊值。每點防禦會為全部三條敵方戰線（近戰、遠程和魔法）的盾牌各增加 {w}，因此能減輕軍隊受到的每一次打擊。 |
+| `+0.25% XP, +1% Quest chance, +0.05% Luck chance, +0.5% move speed each (shiny: +0.5% XP, +1% move speed)` | +0.25% XP, +1% Quest chance, +0.05% Luck chance, +0.5% move speed each (shiny: +0.5% XP, +1% move speed) | 每個 +0.25% 經驗、+1% 任務機率、+0.05% 幸運機率、+0.5% 移動速度（閃光：+0.5% 經驗、+1% 移動速度） |
+| `+1 to task-completion rewards` | +1 to task-completion rewards | +1 差事完成獎勵 |
+| `Adds +1 to task-completion rewards` | Adds +1 to task-completion rewards | 使差事完成獎勵 +1 |
+| `+1 reroll credit, skill credit and bloodcoin per task` | +1 reroll credit, skill credit and bloodcoin per task | 每個差事 +1 重抽點數、技能點數和血幣 |
+| `+1 barter reroll credit on Barter tasks` | +1 barter reroll credit on Barter tasks | +1 交易重抽點數（交易差事） |
+| `+1 Task Automater and Telescope roll per task` | +1 Task Automater and Telescope roll per task | 每個差事 +1 次差事自動器和望遠鏡判定 |
+| `Spirit per charge` | Spirit per charge | 精神（每次充能） |
+| `Rare drop from slay mobs.` | Rare drop from slay mobs. | 來自獵殺怪物的稀有掉落。 |
+| `Rare drop from slay mobs. Each mob drops it once.` | Rare drop from slay mobs. Each mob drops it once. | 來自獵殺怪物的稀有掉落。每隻怪掉落一次。 |
+| `Drops from the Chaos Dungeon.` | Drops from the Chaos Dungeon. | 從混沌地牢掉落。 |
+| `Unlocked from a lucky roll on any XP gained.` | Unlocked from a lucky roll on any XP gained. | 獲得任意經驗時，透過幸運判定解鎖。 |
+| `Requires the T1-T4 amulets of this style obtained first.` | Requires the T1-T4 amulets of this style obtained first. | 須先獲得此風格的T1-T4護符。 |
+| `You need to obtain the T1-T4 amulets of this style first.` | You need to obtain the T1-T4 amulets of this style first. | 你需要先獲得此風格的T1-T4護符。 |
+| `Common Drops (2x quantity)` | Common Drops (2x quantity) | 普通掉落（2x數量） |
+| `Drops once per mob` | Drops once per mob | 每種怪物掉落一次 |
+| `Rolls every kill` | Rolls every kill | 每次擊殺都判定 |
+| `Lucky skilling tasks: 2x XP, 2x rewards, no fails. Lucky slay tasks: 2x Slay and focus XP. Lucky XP also goes to Luck.` | Lucky skilling tasks: 2x XP, 2x rewards, no fails. Lucky slay tasks: 2x Slay and focus XP. Lucky XP also goes to Luck. | 幸運技能差事：2x經驗、2x獎勵、不會失敗。幸運獵殺差事：2x獵殺與練功重點經驗。幸運差事的經驗也會計入幸運。 |
+| `40% chance a hit strikes again for 40% damage. The extra strike rolls to hit.` | 40% chance a hit strikes again for 40% damage. The extra strike rolls to hit. | 每次命中有40%機率以40%傷害再次打擊。額外打擊需進行命中判定。 |
+| `45% chance a hit strikes again for 55% damage. The extra strike rolls to hit.` | 45% chance a hit strikes again for 55% damage. The extra strike rolls to hit. | 每次命中有45%機率以55%傷害再次打擊。額外打擊需進行命中判定。 |
+| `50% chance a hit strikes again for 70% damage. The extra strike rolls to hit.` | 50% chance a hit strikes again for 70% damage. The extra strike rolls to hit. | 每次命中有50%機率以70%傷害再次打擊。額外打擊需進行命中判定。 |
+| `60% chance a hit strikes again for 85% damage. The extra strike rolls to hit.` | 60% chance a hit strikes again for 85% damage. The extra strike rolls to hit. | 每次命中有60%機率以85%傷害再次打擊。額外打擊需進行命中判定。 |
+| `70% chance a hit strikes again for 100% damage. The extra strike rolls to hit.` | 70% chance a hit strikes again for 100% damage. The extra strike rolls to hit. | 每次命中有70%機率以100%傷害再次打擊。額外打擊需進行命中判定。 |
+| `70% chance a hit strikes again for 100% damage. The extra strike rolls to hit. The extra strike can strike again once.` | 70% chance a hit strikes again for 100% damage. The extra strike rolls to hit. The extra strike can strike again once. | 每次命中有70%機率以100%傷害再次打擊。額外打擊需進行命中判定。額外打擊可再觸發一次。 |
+| `Always strike the lowest slash-defence enemy. 70% chance a hit cleaves: every enemy, the target included, takes 40% of the damage.` | Always strike the lowest slash-defence enemy. 70% chance a hit cleaves: every enemy, the target included, takes 40% of the damage. | 始終打擊揮砍防禦最低的敵人。每次命中有70%機率劈砍：包括目標在內的每個敵人受到40%的傷害。 |
+| `Always strike the lowest magic-defence enemy. 70% chance a hit bursts: every enemy, the target included, takes 40% of the damage.` | Always strike the lowest magic-defence enemy. 70% chance a hit bursts: every enemy, the target included, takes 40% of the damage. | 始終打擊魔法防禦最低的敵人。每次命中有70%機率爆裂：包括目標在內的每個敵人受到40%的傷害。 |
+| `Always strike the weakest stab-defence enemy. Each consecutive hit on the same target adds +80% damage, up to 3 stacks. Switching targets keeps half your stacks, rounded down.` | Always strike the weakest stab-defence enemy. Each consecutive hit on the same target adds +80% damage, up to 3 stacks. Switching targets keeps half your stacks, rounded down. | 始終打擊刺擊防禦最弱的敵人。對同一目標的每次連續命中增加+80%傷害，最多3層。切換目標時保留一半層數（無條件捨去）。 |
+| `Combat resource that drains 2 per attack you make and 1 per damaging hit you take. While above 0 it boosts all combat stats by 10% (up to 30% with pets and capes). Kills restore +10% of max (min 3), more with Spirit Conduit alms unlocks.` | Combat resource that drains 2 per attack you make and 1 per damaging hit you take. While above 0 it boosts all combat stats by 10% (up to 30% with pets and capes). Kills restore +10% of max (min 3), more with Spirit Conduit alms unlocks. | 一種戰鬥資源，你每次攻擊消耗2點，每受到一次傷害命中消耗1點。高於0時使所有戰鬥屬性提升10%（搭配寵物和披風最高30%）。擊殺可恢復最大值的+10%（最低3點），通過精神導管施捨解鎖後恢復更多。 |
+| `Each action can complete a random step on one of your treasure scrolls. Pairs with Bard.` | Each action can complete a random step on one of your treasure scrolls. Pairs with Bard. | 每次行動都可能隨機完成你某張藏寶卷軸上的一個步驟。與吟遊搭配。 |
+| `Each rolled task has a small chance to be Lucky. Lucky skilling tasks: 2x XP, 2x rewards, no failed actions. Lucky slay tasks: 2x Slay XP and 2x combat XP for your training focus. Lucky XP also goes to Luck.` | Each rolled task has a small chance to be Lucky. Lucky skilling tasks: 2x XP, 2x rewards, no failed actions. Lucky slay tasks: 2x Slay XP and 2x combat XP for your training focus. Lucky XP also goes to Luck. | 每個抽取的差事都有小機率成為幸運差事。幸運技能差事：2x經驗、2x獎勵、不會有失敗動作。幸運獵殺差事：2x獵殺經驗及2x練功重點的戰鬥經驗。幸運差事的經驗也會計入幸運。 |
+| `Trained by dealing damage in Dungeons (combat raids): 0.5x to 1.75x the damage as XP by tier, plus a bonus for each cleared run. No other skill trains in a Dungeon.` | Trained by dealing damage in Dungeons (combat raids): 0.5x to 1.75x the damage as XP by tier, plus a bonus for each cleared run. No other skill trains in a Dungeon. | 透過在地牢（戰鬥團本）內造成傷害來訓練：依階位獲得所造成傷害0.5x至1.75x的經驗，每通關一輪還有額外獎勵。沒有其他技能能在地牢中訓練。 |
+| `A shop of six slots, rerolled with barter reroll credits. A reroll costs 10. You earn 2 credits for every Barter task you finish.` | A shop of six slots, rerolled with barter reroll credits. A reroll costs 10. You earn 2 credits for every Barter task you finish. | 一間有六個欄位的商店，用交易重抽點數重抽。一次重抽花費 10 點。你每完成一個交易差事得 2 點。 |
+| `Extra healing from each food item eaten and each successful skilling action.` | Extra healing from each food item eaten and each successful skilling action. | 每次進食及每次成功的技能動作獲得的額外治療。 |
+| `Slay tasks reward slay skill credits and bloodcoins on completion.` | Slay tasks reward slay skill credits and bloodcoins on completion. | 獵殺差事完成時獎勵獵殺技能點數和血幣。 |
+| `@spirit_mod_base` | (base {0}x with any spirit, {1}x at 0 spirit) | （有任何精神時基礎{0}x，精神為0時{1}x） |
+| `@spirit_pot_when` | Used below {0}% Spirit in combat | 戰鬥中精神低於{0}%時使用 |
+| `@potion_eff_levels` | effective {0} levels | {0}有效等級 |
+| `@effect_qty_range` | Effect: {0} per task | 效果：每個差事 {0} |
+| `@effect_luck_lever` | Effect: Lucky chance (skilling tasks only; slay tasks ignore this lever): {0} → {1} | 效果：幸運機率（僅限技能差事；獵殺差事不受此拉桿影響）：{0} → {1} |
+| `@b:eff_lv_atk_move` | +{0} effective level (attack + move speed) | +{0}有效等級（攻擊速度+移動速度） |
+| `@b:spirit_mod` | +{0}x spirit modifier | +{0}x 精神加成 |
+| `@b:hp_food_action` | +1 HP per food and skilling action | 每次進食與技能動作 +1 生命值 |
+| `@f:runs` | runs | 次通關 |
+| `@f:run` | run | 次通關 |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Tuklasin |
 
-## Lines to review (521)
+## Lines to review (697)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,179 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | +1 HP kada pagkain at aksyon ng skilling |
 | `@f:runs` | runs | run |
 | `@f:run` | run | run |
+| `3D World` | 3D World | 3D na Mundo |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | Available ang 3D sa Steam kasama ang Supporter Pack. I-click para makita ito sa Steam. |
+| `Switch to 2D` | Switch to 2D | Lumipat sa 2D |
+| `Go back to the 2D map.` | Go back to the 2D map. | Bumalik sa 2D na mapa. |
+| `Switch to 3D` | Switch to 3D | Lumipat sa 3D |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | Ipakita ang mundo at kombat sa 3D (beta). |
+| `2D / 3D Button` | 2D / 3D Button | Button na 2D / 3D |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | Ipakita ang button na nagpapalipat sa pagitan ng 2D na mapa at ng 3D na Mundo. |
+| `View the roadmap` | View the roadmap | Tingnan ang roadmap |
+| `Click anywhere to close` | Click anywhere to close | I-click kahit saan para isara |
+| `Tap anywhere to close` | Tap anywhere to close | I-tap kahit saan para isara |
+| `Roadmap` | Roadmap | Roadmap |
+| `3D World (beta)` | 3D World (beta) | 3D na Mundo (beta) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Kailangan ang Supporter Pack sa Steam. Ipinapakita ang mundo at kombat sa 3D. |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | Ipakita ang mundo at kombat sa 3D. I-drag o gamitin ang mga arrow key para iikot at ikiling ang kamera, mag-scroll o pindutin ang W at S para mag-zoom. |
+| `2D Sprite` | 2D Sprite | 2D na Sprite |
+| `3D Character` | 3D Character | 3D na Karakter |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | Nilo-load ang 3D character creator... |
+| `The 3D creator could not load.` | The 3D creator could not load. | Hindi ma-load ang 3D creator. |
+| `Loading the 3D character…` | Loading the 3D character… | Nilo-load ang 3D na karakter… |
+| `Run` | Run | Tumakbo |
+| `↩ Revert` | ↩ Revert | ↩ Ibalik |
+| `✔ Saved` | ✔ Saved | ✔ Na-save |
+| `Saving…` | Saving… | Sine-save… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | Makikita ang iyong 3D na itsura sa 3D na mundo (Mga Setting > 3D na Mundo). I-drag ang preview para iikot ito. |
+| `Male` | Male | Lalaki |
+| `Female` | Female | Babae |
+| `Clothes` | Clothes | Damit |
+| `Get the Supporter Pack` | Get the Supporter Pack | Kunin ang Supporter Pack |
+| `Get the Wings Pack` | Get the Wings Pack | Kunin ang Wings Pack |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | Sinusubukan ang mga item ng Supporter Pack. Kailangan ang pack para mag-save. |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | Sinusubukan ang mga item ng Wings Pack. Kailangan ang pack para mag-save. |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | Sinusubukan ang mga item ng Supporter Pack at Wings Pack. Kailangan ang parehong pack para mag-save. |
+| `Skin` | Skin | Balat |
+| `Eyes` | Eyes | Mata |
+| `Beard` | Beard | Balbas |
+| `Brows` | Brows | Kilay |
+| `Underclothes` | Underclothes | Damit-panloob |
+| `Shoulders` | Shoulders | Balikat |
+| `Chest` | Chest | Dibdib |
+| `Shirt` | Shirt | Kamiseta |
+| `Hand wraps` | Hand wraps | Balot sa kamay |
+| `Trousers` | Trousers | Pantalon |
+| `Boots` | Boots | Bota |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | Nilo-load ang lahat bago magbukas ang mundo |
+| `Back to 2D` | Back to 2D | Bumalik sa 2D |
+| `The 3D world could not load.` | The 3D world could not load. | Hindi ma-load ang 3D na mundo. |
+| `Reading the map` | Reading the map | Binabasa ang mapa |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | Nilo-load ang mga 3D model ng mundo |
+| `Loading characters` | Loading characters | Nilo-load ang mga karakter |
+| `Loading creatures` | Loading creatures | Nilo-load ang mga nilalang |
+| `Loading water and weather` | Loading water and weather | Nilo-load ang tubig at panahon |
+| `Building the area around you` | Building the area around you | Binubuo ang lugar sa paligid mo |
+| `Preparing shaders` | Preparing shaders | Inihahanda ang mga shader |
+| `Loading the area around you…` | Loading the area around you… | Nilo-load ang lugar sa paligid mo… |
+| `Blue` | Blue | Asul |
+| `Brown` | Brown | Kayumanggi |
+| `Green` | Green | Berde |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | Mandirigmang Nordiko, Asul |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | Mandirigmang Nordiko, Berde |
+| `Nordic Warrior, White` | Nordic Warrior, White | Mandirigmang Nordiko, Puti |
+| `Peasant 1, Blue` | Peasant 1, Blue | Magsasaka 1, Asul |
+| `Peasant 1, Brown` | Peasant 1, Brown | Magsasaka 1, Kayumanggi |
+| `Peasant 1, Red` | Peasant 1, Red | Magsasaka 1, Pula |
+| `Peasant 2, Blue` | Peasant 2, Blue | Magsasaka 2, Asul |
+| `Peasant 2, Brown` | Peasant 2, Brown | Magsasaka 2, Kayumanggi |
+| `Peasant 2, Red` | Peasant 2, Red | Magsasaka 2, Pula |
+| `Peasant 3, Blue` | Peasant 3, Blue | Magsasaka 3, Asul |
+| `Peasant 3, Brown` | Peasant 3, Brown | Magsasaka 3, Kayumanggi |
+| `Peasant 3, Red` | Peasant 3, Red | Magsasaka 3, Pula |
+| `Peasant, Blue` | Peasant, Blue | Magsasaka, Asul |
+| `Peasant, Brown` | Peasant, Brown | Magsasaka, Kayumanggi |
+| `Peasant, Red` | Peasant, Red | Magsasaka, Pula |
+| `Plain trousers` | Plain trousers | Simpleng pantalon |
+| `Purple` | Purple | Lila |
+| `Reaper, Blue` | Reaper, Blue | Tagagapas ng Kaluluwa, Asul |
+| `Reaper, Cyan` | Reaper, Cyan | Tagagapas ng Kaluluwa, Cyan |
+| `Reaper, Green` | Reaper, Green | Tagagapas ng Kaluluwa, Berde |
+| `Sentinel, Gold` | Sentinel, Gold | Bantay, Ginto |
+| `Sentinel, Green` | Sentinel, Green | Bantay, Berde |
+| `Sentinel, Grey` | Sentinel, Grey | Bantay, Kulay-abo |
+| `Sentinel, Red` | Sentinel, Red | Bantay, Pula |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | Salamangkero ng Anino 1, Asul |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | Salamangkero ng Anino 1, Cyan |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | Salamangkero ng Anino 1, Pula |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | Salamangkero ng Anino 2, Asul |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | Salamangkero ng Anino 2, Cyan |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | Salamangkero ng Anino 2, Pula |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | Salamangkero ng Anino 3, Asul |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | Salamangkero ng Anino 3, Cyan |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | Salamangkero ng Anino 3, Pula |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | Salamangkero ng Anino, Asul |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | Salamangkero ng Anino, Cyan |
+| `Shadow Mage, Red` | Shadow Mage, Red | Salamangkero ng Anino, Pula |
+| `Style 1` | Style 1 | Estilo 1 |
+| `Style 1, Black` | Style 1, Black | Estilo 1, Itim |
+| `Style 1, Blond` | Style 1, Blond | Estilo 1, Blonde |
+| `Style 1, Brown` | Style 1, Brown | Estilo 1, Kayumanggi |
+| `Style 1, Grey` | Style 1, Grey | Estilo 1, Kulay-abo |
+| `Style 10, Black` | Style 10, Black | Estilo 10, Itim |
+| `Style 10, Blond` | Style 10, Blond | Estilo 10, Blonde |
+| `Style 10, Brown` | Style 10, Brown | Estilo 10, Kayumanggi |
+| `Style 10, Grey` | Style 10, Grey | Estilo 10, Kulay-abo |
+| `Style 2` | Style 2 | Estilo 2 |
+| `Style 2, Black` | Style 2, Black | Estilo 2, Itim |
+| `Style 2, Blond` | Style 2, Blond | Estilo 2, Blonde |
+| `Style 2, Brown` | Style 2, Brown | Estilo 2, Kayumanggi |
+| `Style 2, Grey` | Style 2, Grey | Estilo 2, Kulay-abo |
+| `Style 3` | Style 3 | Estilo 3 |
+| `Style 3, Black` | Style 3, Black | Estilo 3, Itim |
+| `Style 3, Blond` | Style 3, Blond | Estilo 3, Blonde |
+| `Style 3, Brown` | Style 3, Brown | Estilo 3, Kayumanggi |
+| `Style 3, Grey` | Style 3, Grey | Estilo 3, Kulay-abo |
+| `Style 4` | Style 4 | Estilo 4 |
+| `Style 4, Black` | Style 4, Black | Estilo 4, Itim |
+| `Style 4, Blond` | Style 4, Blond | Estilo 4, Blonde |
+| `Style 4, Brown` | Style 4, Brown | Estilo 4, Kayumanggi |
+| `Style 4, Grey` | Style 4, Grey | Estilo 4, Kulay-abo |
+| `Style 5` | Style 5 | Estilo 5 |
+| `Style 5, Black` | Style 5, Black | Estilo 5, Itim |
+| `Style 5, Blond` | Style 5, Blond | Estilo 5, Blonde |
+| `Style 5, Brown` | Style 5, Brown | Estilo 5, Kayumanggi |
+| `Style 5, Grey` | Style 5, Grey | Estilo 5, Kulay-abo |
+| `Style 6, Black` | Style 6, Black | Estilo 6, Itim |
+| `Style 6, Blond` | Style 6, Blond | Estilo 6, Blonde |
+| `Style 6, Brown` | Style 6, Brown | Estilo 6, Kayumanggi |
+| `Style 6, Grey` | Style 6, Grey | Estilo 6, Kulay-abo |
+| `Style 7, Black` | Style 7, Black | Estilo 7, Itim |
+| `Style 7, Blond` | Style 7, Blond | Estilo 7, Blonde |
+| `Style 7, Brown` | Style 7, Brown | Estilo 7, Kayumanggi |
+| `Style 7, Grey` | Style 7, Grey | Estilo 7, Kulay-abo |
+| `Style 8, Black` | Style 8, Black | Estilo 8, Itim |
+| `Style 8, Blond` | Style 8, Blond | Estilo 8, Blonde |
+| `Style 8, Brown` | Style 8, Brown | Estilo 8, Kayumanggi |
+| `Style 8, Grey` | Style 8, Grey | Estilo 8, Kulay-abo |
+| `Style 9, Black` | Style 9, Black | Estilo 9, Itim |
+| `Style 9, Blond` | Style 9, Blond | Estilo 9, Blonde |
+| `Style 9, Brown` | Style 9, Brown | Estilo 9, Kayumanggi |
+| `Style 9, Grey` | Style 9, Grey | Estilo 9, Kulay-abo |
+| `Thief 1, Black` | Thief 1, Black | Magnanakaw 1, Itim |
+| `Thief 1, Brown` | Thief 1, Brown | Magnanakaw 1, Kayumanggi |
+| `Thief 1, Green` | Thief 1, Green | Magnanakaw 1, Berde |
+| `Thief 1, Red` | Thief 1, Red | Magnanakaw 1, Pula |
+| `Thief 2, Black` | Thief 2, Black | Magnanakaw 2, Itim |
+| `Thief 2, Brown` | Thief 2, Brown | Magnanakaw 2, Kayumanggi |
+| `Thief 2, Green` | Thief 2, Green | Magnanakaw 2, Berde |
+| `Thief 2, Red` | Thief 2, Red | Magnanakaw 2, Pula |
+| `Thief 3, Black` | Thief 3, Black | Magnanakaw 3, Itim |
+| `Thief 3, Brown` | Thief 3, Brown | Magnanakaw 3, Kayumanggi |
+| `Thief 3, Green` | Thief 3, Green | Magnanakaw 3, Berde |
+| `Thief 3, Red` | Thief 3, Red | Magnanakaw 3, Pula |
+| `Thief, Black` | Thief, Black | Magnanakaw, Itim |
+| `Thief, Brown` | Thief, Brown | Magnanakaw, Kayumanggi |
+| `Thief, Green` | Thief, Green | Magnanakaw, Berde |
+| `Thief, Red` | Thief, Red | Magnanakaw, Pula |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | Mangangaso ng Libingan 1, Berde |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | Mangangaso ng Libingan 1, Lila |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | Mangangaso ng Libingan 1, Pula |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | Mangangaso ng Libingan 1, Puti |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | Mangangaso ng Libingan 2, Berde |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | Mangangaso ng Libingan 2, Lila |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | Mangangaso ng Libingan 2, Pula |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | Mangangaso ng Libingan 2, Puti |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | Mangangaso ng Libingan, Berde |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | Mangangaso ng Libingan, Lila |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | Mangangaso ng Libingan, Pula |
+| `Tomb Seeker, White` | Tomb Seeker, White | Mangangaso ng Libingan, Puti |
+| `Tone 1` | Tone 1 | Tono 1 |
+| `Tone 2` | Tone 2 | Tono 2 |
+| `Tone 3` | Tone 3 | Tono 3 |
+| `Tone 4` | Tone 4 | Tono 4 |
+| `Tone 5` | Tone 5 | Tono 5 |
+| `Tone 6` | Tone 6 | Tono 6 |
+| `Wave hello` | Wave hello | Kumaway |
+| `Body and face` | Body and face | Katawan at Mukha |

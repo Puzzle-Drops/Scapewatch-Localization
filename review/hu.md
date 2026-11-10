@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bárd |
 | Discover | Felfedezés |
 
-## Lines to review (521)
+## Lines to review (697)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,179 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | +1 HP ételenként és képességcselekvésenként |
 | `@f:runs` | runs | futam |
 | `@f:run` | run | futam |
+| `3D World` | 3D World | 3D világ |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | A 3D a Steamen, a Támogatói csomaggal érhető el. Kattints, hogy megnézd a Steamen. |
+| `Switch to 2D` | Switch to 2D | Váltás 2D-re |
+| `Go back to the 2D map.` | Go back to the 2D map. | Vissza a 2D térképre. |
+| `Switch to 3D` | Switch to 3D | Váltás 3D-re |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | A világ és a harcok megjelenítése 3D-ben (béta). |
+| `2D / 3D Button` | 2D / 3D Button | 2D / 3D gomb |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | A 2D térkép és a 3D világ között váltó gomb megjelenítése. |
+| `View the roadmap` | View the roadmap | Ütemterv megtekintése |
+| `Click anywhere to close` | Click anywhere to close | Kattints bárhová a bezáráshoz |
+| `Tap anywhere to close` | Tap anywhere to close | Koppints bárhová a bezáráshoz |
+| `Roadmap` | Roadmap | Ütemterv |
+| `3D World (beta)` | 3D World (beta) | 3D világ (béta) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Támogatói csomag szükséges a Steamen. 3D-ben mutatja a világot és a harcokat. |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | A világ és a harcok megjelenítése 3D-ben. Húzással vagy a nyílbillentyűkkel forgathatod és döntheted a kamerát, görgetéssel vagy a W és S billentyűkkel nagyíthatsz. |
+| `2D Sprite` | 2D Sprite | 2D sprite |
+| `3D Character` | 3D Character | 3D karakter |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | 3D karakterkészítő betöltése... |
+| `The 3D creator could not load.` | The 3D creator could not load. | A 3D karakterkészítőt nem sikerült betölteni. |
+| `Loading the 3D character…` | Loading the 3D character… | 3D karakter betöltése… |
+| `Run` | Run | Futás |
+| `↩ Revert` | ↩ Revert | ↩ Visszaállítás |
+| `✔ Saved` | ✔ Saved | ✔ Mentve |
+| `Saving…` | Saving… | Mentés… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | A 3D megjelenésed a 3D világban látszik (Beállítások > 3D világ). Húzd az előnézetet a forgatáshoz. |
+| `Male` | Male | Férfi |
+| `Female` | Female | Nő |
+| `Clothes` | Clothes | Ruházat |
+| `Get the Supporter Pack` | Get the Supporter Pack | Támogatói csomag beszerzése |
+| `Get the Wings Pack` | Get the Wings Pack | Szárny csomag beszerzése |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | A Támogatói csomag tárgyait próbálod. A mentéshez kell a csomag. |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | A Szárny csomag tárgyait próbálod. A mentéshez kell a csomag. |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | A Támogatói csomag és a Szárny csomag tárgyait próbálod. A mentéshez mindkét csomag kell. |
+| `Skin` | Skin | Bőr |
+| `Eyes` | Eyes | Szem |
+| `Beard` | Beard | Szakáll |
+| `Brows` | Brows | Szemöldök |
+| `Underclothes` | Underclothes | Alsóruha |
+| `Shoulders` | Shoulders | Váll |
+| `Chest` | Chest | Törzs |
+| `Shirt` | Shirt | Ing |
+| `Hand wraps` | Hand wraps | Kézpólya |
+| `Trousers` | Trousers | Nadrág |
+| `Boots` | Boots | Csizma |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | Minden betöltése a világ megnyitása előtt |
+| `Back to 2D` | Back to 2D | Vissza a 2D-hez |
+| `The 3D world could not load.` | The 3D world could not load. | A 3D világot nem sikerült betölteni. |
+| `Reading the map` | Reading the map | Térkép beolvasása |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | A világ 3D modelljeinek betöltése |
+| `Loading characters` | Loading characters | Karakterek betöltése |
+| `Loading creatures` | Loading creatures | Lények betöltése |
+| `Loading water and weather` | Loading water and weather | Víz és időjárás betöltése |
+| `Building the area around you` | Building the area around you | A környezeted felépítése |
+| `Preparing shaders` | Preparing shaders | Shaderek előkészítése |
+| `Loading the area around you…` | Loading the area around you… | A környezeted betöltése… |
+| `Blue` | Blue | Kék |
+| `Brown` | Brown | Barna |
+| `Green` | Green | Zöld |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | Északi harcos, kék |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | Északi harcos, zöld |
+| `Nordic Warrior, White` | Nordic Warrior, White | Északi harcos, fehér |
+| `Peasant 1, Blue` | Peasant 1, Blue | Paraszt 1, kék |
+| `Peasant 1, Brown` | Peasant 1, Brown | Paraszt 1, barna |
+| `Peasant 1, Red` | Peasant 1, Red | Paraszt 1, piros |
+| `Peasant 2, Blue` | Peasant 2, Blue | Paraszt 2, kék |
+| `Peasant 2, Brown` | Peasant 2, Brown | Paraszt 2, barna |
+| `Peasant 2, Red` | Peasant 2, Red | Paraszt 2, piros |
+| `Peasant 3, Blue` | Peasant 3, Blue | Paraszt 3, kék |
+| `Peasant 3, Brown` | Peasant 3, Brown | Paraszt 3, barna |
+| `Peasant 3, Red` | Peasant 3, Red | Paraszt 3, piros |
+| `Peasant, Blue` | Peasant, Blue | Paraszt, kék |
+| `Peasant, Brown` | Peasant, Brown | Paraszt, barna |
+| `Peasant, Red` | Peasant, Red | Paraszt, piros |
+| `Plain trousers` | Plain trousers | Egyszerű nadrág |
+| `Purple` | Purple | Lila |
+| `Reaper, Blue` | Reaper, Blue | Kaszás, kék |
+| `Reaper, Cyan` | Reaper, Cyan | Kaszás, cián |
+| `Reaper, Green` | Reaper, Green | Kaszás, zöld |
+| `Sentinel, Gold` | Sentinel, Gold | Őrszem, arany |
+| `Sentinel, Green` | Sentinel, Green | Őrszem, zöld |
+| `Sentinel, Grey` | Sentinel, Grey | Őrszem, szürke |
+| `Sentinel, Red` | Sentinel, Red | Őrszem, piros |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | Árnyékmágus 1, kék |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | Árnyékmágus 1, cián |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | Árnyékmágus 1, piros |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | Árnyékmágus 2, kék |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | Árnyékmágus 2, cián |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | Árnyékmágus 2, piros |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | Árnyékmágus 3, kék |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | Árnyékmágus 3, cián |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | Árnyékmágus 3, piros |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | Árnyékmágus, kék |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | Árnyékmágus, cián |
+| `Shadow Mage, Red` | Shadow Mage, Red | Árnyékmágus, piros |
+| `Style 1` | Style 1 | 1. stílus |
+| `Style 1, Black` | Style 1, Black | 1. stílus, fekete |
+| `Style 1, Blond` | Style 1, Blond | 1. stílus, szőke |
+| `Style 1, Brown` | Style 1, Brown | 1. stílus, barna |
+| `Style 1, Grey` | Style 1, Grey | 1. stílus, szürke |
+| `Style 10, Black` | Style 10, Black | 10. stílus, fekete |
+| `Style 10, Blond` | Style 10, Blond | 10. stílus, szőke |
+| `Style 10, Brown` | Style 10, Brown | 10. stílus, barna |
+| `Style 10, Grey` | Style 10, Grey | 10. stílus, szürke |
+| `Style 2` | Style 2 | 2. stílus |
+| `Style 2, Black` | Style 2, Black | 2. stílus, fekete |
+| `Style 2, Blond` | Style 2, Blond | 2. stílus, szőke |
+| `Style 2, Brown` | Style 2, Brown | 2. stílus, barna |
+| `Style 2, Grey` | Style 2, Grey | 2. stílus, szürke |
+| `Style 3` | Style 3 | 3. stílus |
+| `Style 3, Black` | Style 3, Black | 3. stílus, fekete |
+| `Style 3, Blond` | Style 3, Blond | 3. stílus, szőke |
+| `Style 3, Brown` | Style 3, Brown | 3. stílus, barna |
+| `Style 3, Grey` | Style 3, Grey | 3. stílus, szürke |
+| `Style 4` | Style 4 | 4. stílus |
+| `Style 4, Black` | Style 4, Black | 4. stílus, fekete |
+| `Style 4, Blond` | Style 4, Blond | 4. stílus, szőke |
+| `Style 4, Brown` | Style 4, Brown | 4. stílus, barna |
+| `Style 4, Grey` | Style 4, Grey | 4. stílus, szürke |
+| `Style 5` | Style 5 | 5. stílus |
+| `Style 5, Black` | Style 5, Black | 5. stílus, fekete |
+| `Style 5, Blond` | Style 5, Blond | 5. stílus, szőke |
+| `Style 5, Brown` | Style 5, Brown | 5. stílus, barna |
+| `Style 5, Grey` | Style 5, Grey | 5. stílus, szürke |
+| `Style 6, Black` | Style 6, Black | 6. stílus, fekete |
+| `Style 6, Blond` | Style 6, Blond | 6. stílus, szőke |
+| `Style 6, Brown` | Style 6, Brown | 6. stílus, barna |
+| `Style 6, Grey` | Style 6, Grey | 6. stílus, szürke |
+| `Style 7, Black` | Style 7, Black | 7. stílus, fekete |
+| `Style 7, Blond` | Style 7, Blond | 7. stílus, szőke |
+| `Style 7, Brown` | Style 7, Brown | 7. stílus, barna |
+| `Style 7, Grey` | Style 7, Grey | 7. stílus, szürke |
+| `Style 8, Black` | Style 8, Black | 8. stílus, fekete |
+| `Style 8, Blond` | Style 8, Blond | 8. stílus, szőke |
+| `Style 8, Brown` | Style 8, Brown | 8. stílus, barna |
+| `Style 8, Grey` | Style 8, Grey | 8. stílus, szürke |
+| `Style 9, Black` | Style 9, Black | 9. stílus, fekete |
+| `Style 9, Blond` | Style 9, Blond | 9. stílus, szőke |
+| `Style 9, Brown` | Style 9, Brown | 9. stílus, barna |
+| `Style 9, Grey` | Style 9, Grey | 9. stílus, szürke |
+| `Thief 1, Black` | Thief 1, Black | Tolvaj 1, fekete |
+| `Thief 1, Brown` | Thief 1, Brown | Tolvaj 1, barna |
+| `Thief 1, Green` | Thief 1, Green | Tolvaj 1, zöld |
+| `Thief 1, Red` | Thief 1, Red | Tolvaj 1, piros |
+| `Thief 2, Black` | Thief 2, Black | Tolvaj 2, fekete |
+| `Thief 2, Brown` | Thief 2, Brown | Tolvaj 2, barna |
+| `Thief 2, Green` | Thief 2, Green | Tolvaj 2, zöld |
+| `Thief 2, Red` | Thief 2, Red | Tolvaj 2, piros |
+| `Thief 3, Black` | Thief 3, Black | Tolvaj 3, fekete |
+| `Thief 3, Brown` | Thief 3, Brown | Tolvaj 3, barna |
+| `Thief 3, Green` | Thief 3, Green | Tolvaj 3, zöld |
+| `Thief 3, Red` | Thief 3, Red | Tolvaj 3, piros |
+| `Thief, Black` | Thief, Black | Tolvaj, fekete |
+| `Thief, Brown` | Thief, Brown | Tolvaj, barna |
+| `Thief, Green` | Thief, Green | Tolvaj, zöld |
+| `Thief, Red` | Thief, Red | Tolvaj, piros |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | Sírkutató 1, zöld |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | Sírkutató 1, lila |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | Sírkutató 1, piros |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | Sírkutató 1, fehér |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | Sírkutató 2, zöld |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | Sírkutató 2, lila |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | Sírkutató 2, piros |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | Sírkutató 2, fehér |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | Sírkutató, zöld |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | Sírkutató, lila |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | Sírkutató, piros |
+| `Tomb Seeker, White` | Tomb Seeker, White | Sírkutató, fehér |
+| `Tone 1` | Tone 1 | 1. árnyalat |
+| `Tone 2` | Tone 2 | 2. árnyalat |
+| `Tone 3` | Tone 3 | 3. árnyalat |
+| `Tone 4` | Tone 4 | 4. árnyalat |
+| `Tone 5` | Tone 5 | 5. árnyalat |
+| `Tone 6` | Tone 6 | 6. árnyalat |
+| `Wave hello` | Wave hello | Integetés |
+| `Body and face` | Body and face | Test és arc |

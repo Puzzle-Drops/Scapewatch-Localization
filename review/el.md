@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Βάρδος |
 | Discover | Ανακάλυψη |
 
-## Lines to review (521)
+## Lines to review (697)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,179 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | +1 HP ανά τρόφιμο και ενέργεια εξάσκησης |
 | `@f:runs` | runs | διαδρομές |
 | `@f:run` | run | διαδρομή |
+| `3D World` | 3D World | 3D κόσμος |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | Το 3D είναι διαθέσιμο στο Steam με το Πακέτο Υποστηρικτή. Κάνε κλικ για να το δεις στο Steam. |
+| `Switch to 2D` | Switch to 2D | Αλλαγή σε 2D |
+| `Go back to the 2D map.` | Go back to the 2D map. | Επιστροφή στον χάρτη 2D. |
+| `Switch to 3D` | Switch to 3D | Αλλαγή σε 3D |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | Εμφάνιση του κόσμου και των μαχών σε 3D (beta). |
+| `2D / 3D Button` | 2D / 3D Button | Κουμπί 2D / 3D |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | Εμφάνιση του κουμπιού εναλλαγής ανάμεσα στον χάρτη 2D και τον 3D κόσμο. |
+| `View the roadmap` | View the roadmap | Δες τον οδικό χάρτη |
+| `Click anywhere to close` | Click anywhere to close | Κάνε κλικ οπουδήποτε για κλείσιμο |
+| `Tap anywhere to close` | Tap anywhere to close | Πάτησε οπουδήποτε για κλείσιμο |
+| `Roadmap` | Roadmap | Οδικός χάρτης |
+| `3D World (beta)` | 3D World (beta) | 3D κόσμος (beta) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Απαιτείται το Πακέτο Υποστηρικτή στο Steam. Δείχνει τον κόσμο και τις μάχες σε 3D. |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | Εμφάνιση του κόσμου και των μαχών σε 3D. Σύρε ή χρησιμοποίησε τα βελάκια για να περιστρέψεις και να γείρεις την κάμερα, κύλισε ή πάτησε W και S για ζουμ. |
+| `2D Sprite` | 2D Sprite | 2D sprite |
+| `3D Character` | 3D Character | 3D χαρακτήρας |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | Φόρτωση του 3D δημιουργού χαρακτήρα... |
+| `The 3D creator could not load.` | The 3D creator could not load. | Δεν ήταν δυνατή η φόρτωση του 3D δημιουργού. |
+| `Loading the 3D character…` | Loading the 3D character… | Φόρτωση του 3D χαρακτήρα… |
+| `Run` | Run | Τρέξιμο |
+| `↩ Revert` | ↩ Revert | ↩ Αναίρεση |
+| `✔ Saved` | ✔ Saved | ✔ Αποθηκεύτηκε |
+| `Saving…` | Saving… | Αποθήκευση… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | Η 3D εμφάνισή σου φαίνεται στον 3D κόσμο (Ρυθμίσεις > 3D κόσμος). Σύρε την προεπισκόπηση για να την περιστρέψεις. |
+| `Male` | Male | Άντρας |
+| `Female` | Female | Γυναίκα |
+| `Clothes` | Clothes | Ρούχα |
+| `Get the Supporter Pack` | Get the Supporter Pack | Απόκτησε το Πακέτο Υποστηρικτή |
+| `Get the Wings Pack` | Get the Wings Pack | Απόκτησε το Πακέτο Φτερών |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | Δοκιμάζεις αντικείμενα του Πακέτου Υποστηρικτή. Για αποθήκευση χρειάζεται το πακέτο. |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | Δοκιμάζεις αντικείμενα του Πακέτου Φτερών. Για αποθήκευση χρειάζεται το πακέτο. |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | Δοκιμάζεις αντικείμενα του Πακέτου Υποστηρικτή και του Πακέτου Φτερών. Για αποθήκευση χρειάζονται και τα δύο πακέτα. |
+| `Skin` | Skin | Δέρμα |
+| `Eyes` | Eyes | Μάτια |
+| `Beard` | Beard | Γένια |
+| `Brows` | Brows | Φρύδια |
+| `Underclothes` | Underclothes | Εσώρουχα |
+| `Shoulders` | Shoulders | Ώμοι |
+| `Chest` | Chest | Στήθος |
+| `Shirt` | Shirt | Πουκάμισο |
+| `Hand wraps` | Hand wraps | Επίδεσμοι χεριών |
+| `Trousers` | Trousers | Παντελόνι |
+| `Boots` | Boots | Μπότες |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | Φόρτωση όλων πριν ανοίξει ο κόσμος |
+| `Back to 2D` | Back to 2D | Πίσω στο 2D |
+| `The 3D world could not load.` | The 3D world could not load. | Δεν ήταν δυνατή η φόρτωση του 3D κόσμου. |
+| `Reading the map` | Reading the map | Ανάγνωση του χάρτη |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | Φόρτωση των 3D μοντέλων του κόσμου |
+| `Loading characters` | Loading characters | Φόρτωση χαρακτήρων |
+| `Loading creatures` | Loading creatures | Φόρτωση πλασμάτων |
+| `Loading water and weather` | Loading water and weather | Φόρτωση νερού και καιρού |
+| `Building the area around you` | Building the area around you | Κατασκευή της περιοχής γύρω σου |
+| `Preparing shaders` | Preparing shaders | Προετοιμασία shaders |
+| `Loading the area around you…` | Loading the area around you… | Φόρτωση της περιοχής γύρω σου… |
+| `Blue` | Blue | Μπλε |
+| `Brown` | Brown | Καφέ |
+| `Green` | Green | Πράσινο |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | Βόρειος πολεμιστής, μπλε |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | Βόρειος πολεμιστής, πράσινο |
+| `Nordic Warrior, White` | Nordic Warrior, White | Βόρειος πολεμιστής, λευκό |
+| `Peasant 1, Blue` | Peasant 1, Blue | Χωρικός 1, μπλε |
+| `Peasant 1, Brown` | Peasant 1, Brown | Χωρικός 1, καφέ |
+| `Peasant 1, Red` | Peasant 1, Red | Χωρικός 1, κόκκινο |
+| `Peasant 2, Blue` | Peasant 2, Blue | Χωρικός 2, μπλε |
+| `Peasant 2, Brown` | Peasant 2, Brown | Χωρικός 2, καφέ |
+| `Peasant 2, Red` | Peasant 2, Red | Χωρικός 2, κόκκινο |
+| `Peasant 3, Blue` | Peasant 3, Blue | Χωρικός 3, μπλε |
+| `Peasant 3, Brown` | Peasant 3, Brown | Χωρικός 3, καφέ |
+| `Peasant 3, Red` | Peasant 3, Red | Χωρικός 3, κόκκινο |
+| `Peasant, Blue` | Peasant, Blue | Χωρικός, μπλε |
+| `Peasant, Brown` | Peasant, Brown | Χωρικός, καφέ |
+| `Peasant, Red` | Peasant, Red | Χωρικός, κόκκινο |
+| `Plain trousers` | Plain trousers | Απλό παντελόνι |
+| `Purple` | Purple | Μωβ |
+| `Reaper, Blue` | Reaper, Blue | Θεριστής, μπλε |
+| `Reaper, Cyan` | Reaper, Cyan | Θεριστής, κυανό |
+| `Reaper, Green` | Reaper, Green | Θεριστής, πράσινο |
+| `Sentinel, Gold` | Sentinel, Gold | Φρουρός, χρυσό |
+| `Sentinel, Green` | Sentinel, Green | Φρουρός, πράσινο |
+| `Sentinel, Grey` | Sentinel, Grey | Φρουρός, γκρι |
+| `Sentinel, Red` | Sentinel, Red | Φρουρός, κόκκινο |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | Μάγος σκιών 1, μπλε |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | Μάγος σκιών 1, κυανό |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | Μάγος σκιών 1, κόκκινο |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | Μάγος σκιών 2, μπλε |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | Μάγος σκιών 2, κυανό |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | Μάγος σκιών 2, κόκκινο |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | Μάγος σκιών 3, μπλε |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | Μάγος σκιών 3, κυανό |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | Μάγος σκιών 3, κόκκινο |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | Μάγος σκιών, μπλε |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | Μάγος σκιών, κυανό |
+| `Shadow Mage, Red` | Shadow Mage, Red | Μάγος σκιών, κόκκινο |
+| `Style 1` | Style 1 | Στιλ 1 |
+| `Style 1, Black` | Style 1, Black | Στιλ 1, μαύρο |
+| `Style 1, Blond` | Style 1, Blond | Στιλ 1, ξανθό |
+| `Style 1, Brown` | Style 1, Brown | Στιλ 1, καφέ |
+| `Style 1, Grey` | Style 1, Grey | Στιλ 1, γκρι |
+| `Style 10, Black` | Style 10, Black | Στιλ 10, μαύρο |
+| `Style 10, Blond` | Style 10, Blond | Στιλ 10, ξανθό |
+| `Style 10, Brown` | Style 10, Brown | Στιλ 10, καφέ |
+| `Style 10, Grey` | Style 10, Grey | Στιλ 10, γκρι |
+| `Style 2` | Style 2 | Στιλ 2 |
+| `Style 2, Black` | Style 2, Black | Στιλ 2, μαύρο |
+| `Style 2, Blond` | Style 2, Blond | Στιλ 2, ξανθό |
+| `Style 2, Brown` | Style 2, Brown | Στιλ 2, καφέ |
+| `Style 2, Grey` | Style 2, Grey | Στιλ 2, γκρι |
+| `Style 3` | Style 3 | Στιλ 3 |
+| `Style 3, Black` | Style 3, Black | Στιλ 3, μαύρο |
+| `Style 3, Blond` | Style 3, Blond | Στιλ 3, ξανθό |
+| `Style 3, Brown` | Style 3, Brown | Στιλ 3, καφέ |
+| `Style 3, Grey` | Style 3, Grey | Στιλ 3, γκρι |
+| `Style 4` | Style 4 | Στιλ 4 |
+| `Style 4, Black` | Style 4, Black | Στιλ 4, μαύρο |
+| `Style 4, Blond` | Style 4, Blond | Στιλ 4, ξανθό |
+| `Style 4, Brown` | Style 4, Brown | Στιλ 4, καφέ |
+| `Style 4, Grey` | Style 4, Grey | Στιλ 4, γκρι |
+| `Style 5` | Style 5 | Στιλ 5 |
+| `Style 5, Black` | Style 5, Black | Στιλ 5, μαύρο |
+| `Style 5, Blond` | Style 5, Blond | Στιλ 5, ξανθό |
+| `Style 5, Brown` | Style 5, Brown | Στιλ 5, καφέ |
+| `Style 5, Grey` | Style 5, Grey | Στιλ 5, γκρι |
+| `Style 6, Black` | Style 6, Black | Στιλ 6, μαύρο |
+| `Style 6, Blond` | Style 6, Blond | Στιλ 6, ξανθό |
+| `Style 6, Brown` | Style 6, Brown | Στιλ 6, καφέ |
+| `Style 6, Grey` | Style 6, Grey | Στιλ 6, γκρι |
+| `Style 7, Black` | Style 7, Black | Στιλ 7, μαύρο |
+| `Style 7, Blond` | Style 7, Blond | Στιλ 7, ξανθό |
+| `Style 7, Brown` | Style 7, Brown | Στιλ 7, καφέ |
+| `Style 7, Grey` | Style 7, Grey | Στιλ 7, γκρι |
+| `Style 8, Black` | Style 8, Black | Στιλ 8, μαύρο |
+| `Style 8, Blond` | Style 8, Blond | Στιλ 8, ξανθό |
+| `Style 8, Brown` | Style 8, Brown | Στιλ 8, καφέ |
+| `Style 8, Grey` | Style 8, Grey | Στιλ 8, γκρι |
+| `Style 9, Black` | Style 9, Black | Στιλ 9, μαύρο |
+| `Style 9, Blond` | Style 9, Blond | Στιλ 9, ξανθό |
+| `Style 9, Brown` | Style 9, Brown | Στιλ 9, καφέ |
+| `Style 9, Grey` | Style 9, Grey | Στιλ 9, γκρι |
+| `Thief 1, Black` | Thief 1, Black | Κλέφτης 1, μαύρο |
+| `Thief 1, Brown` | Thief 1, Brown | Κλέφτης 1, καφέ |
+| `Thief 1, Green` | Thief 1, Green | Κλέφτης 1, πράσινο |
+| `Thief 1, Red` | Thief 1, Red | Κλέφτης 1, κόκκινο |
+| `Thief 2, Black` | Thief 2, Black | Κλέφτης 2, μαύρο |
+| `Thief 2, Brown` | Thief 2, Brown | Κλέφτης 2, καφέ |
+| `Thief 2, Green` | Thief 2, Green | Κλέφτης 2, πράσινο |
+| `Thief 2, Red` | Thief 2, Red | Κλέφτης 2, κόκκινο |
+| `Thief 3, Black` | Thief 3, Black | Κλέφτης 3, μαύρο |
+| `Thief 3, Brown` | Thief 3, Brown | Κλέφτης 3, καφέ |
+| `Thief 3, Green` | Thief 3, Green | Κλέφτης 3, πράσινο |
+| `Thief 3, Red` | Thief 3, Red | Κλέφτης 3, κόκκινο |
+| `Thief, Black` | Thief, Black | Κλέφτης, μαύρο |
+| `Thief, Brown` | Thief, Brown | Κλέφτης, καφέ |
+| `Thief, Green` | Thief, Green | Κλέφτης, πράσινο |
+| `Thief, Red` | Thief, Red | Κλέφτης, κόκκινο |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | Αναζητητής τάφων 1, πράσινο |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | Αναζητητής τάφων 1, μωβ |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | Αναζητητής τάφων 1, κόκκινο |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | Αναζητητής τάφων 1, λευκό |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | Αναζητητής τάφων 2, πράσινο |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | Αναζητητής τάφων 2, μωβ |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | Αναζητητής τάφων 2, κόκκινο |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | Αναζητητής τάφων 2, λευκό |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | Αναζητητής τάφων, πράσινο |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | Αναζητητής τάφων, μωβ |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | Αναζητητής τάφων, κόκκινο |
+| `Tomb Seeker, White` | Tomb Seeker, White | Αναζητητής τάφων, λευκό |
+| `Tone 1` | Tone 1 | Τόνος 1 |
+| `Tone 2` | Tone 2 | Τόνος 2 |
+| `Tone 3` | Tone 3 | Τόνος 3 |
+| `Tone 4` | Tone 4 | Τόνος 4 |
+| `Tone 5` | Tone 5 | Τόνος 5 |
+| `Tone 6` | Tone 6 | Τόνος 6 |
+| `Wave hello` | Wave hello | Χαιρετισμός |
+| `Body and face` | Body and face | Σώμα και πρόσωπο |

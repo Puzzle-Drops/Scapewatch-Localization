@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Nhạc công |
 | Discover | Khám phá |
 
-## Lines to review (521)
+## Lines to review (697)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,179 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | +1 HP mỗi món ăn và hành động kỹ năng |
 | `@f:runs` | runs | lượt |
 | `@f:run` | run | lượt |
+| `3D World` | 3D World | Thế giới 3D |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | 3D có trên Steam cùng Gói Người ủng hộ. Nhấp để xem trên Steam. |
+| `Switch to 2D` | Switch to 2D | Chuyển sang 2D |
+| `Go back to the 2D map.` | Go back to the 2D map. | Quay lại bản đồ 2D. |
+| `Switch to 3D` | Switch to 3D | Chuyển sang 3D |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | Hiển thị thế giới và chiến đấu ở dạng 3D (beta). |
+| `2D / 3D Button` | 2D / 3D Button | Nút 2D / 3D |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | Hiển thị nút chuyển đổi giữa bản đồ 2D và Thế giới 3D. |
+| `View the roadmap` | View the roadmap | Xem lộ trình phát triển |
+| `Click anywhere to close` | Click anywhere to close | Nhấp vào bất kỳ đâu để đóng |
+| `Tap anywhere to close` | Tap anywhere to close | Chạm vào bất kỳ đâu để đóng |
+| `Roadmap` | Roadmap | Lộ trình |
+| `3D World (beta)` | 3D World (beta) | Thế giới 3D (beta) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Yêu cầu Gói Người ủng hộ trên Steam. Hiển thị thế giới và chiến đấu ở dạng 3D. |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | Hiển thị thế giới và chiến đấu ở dạng 3D. Kéo hoặc dùng phím mũi tên để xoay và nghiêng máy quay, cuộn chuột hoặc dùng W và S để thu phóng. |
+| `2D Sprite` | 2D Sprite | Sprite 2D |
+| `3D Character` | 3D Character | Nhân vật 3D |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | Đang tải trình tạo nhân vật 3D... |
+| `The 3D creator could not load.` | The 3D creator could not load. | Không thể tải trình tạo 3D. |
+| `Loading the 3D character…` | Loading the 3D character… | Đang tải nhân vật 3D… |
+| `Run` | Run | Chạy |
+| `↩ Revert` | ↩ Revert | ↩ Hoàn tác |
+| `✔ Saved` | ✔ Saved | ✔ Đã lưu |
+| `Saving…` | Saving… | Đang lưu… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | Ngoại hình 3D của bạn hiển thị trong thế giới 3D (Cài đặt > Thế giới 3D). Kéo bản xem trước để xoay. |
+| `Male` | Male | Nam |
+| `Female` | Female | Nữ |
+| `Clothes` | Clothes | Quần áo |
+| `Get the Supporter Pack` | Get the Supporter Pack | Nhận Gói Người ủng hộ |
+| `Get the Wings Pack` | Get the Wings Pack | Nhận Gói Đôi cánh |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | Đang thử đồ của Gói Người ủng hộ. Cần có gói này để lưu. |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | Đang thử đồ của Gói Đôi cánh. Cần có gói này để lưu. |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | Đang thử đồ của Gói Người ủng hộ và Gói Đôi cánh. Cần có cả hai gói để lưu. |
+| `Skin` | Skin | Da |
+| `Eyes` | Eyes | Mắt |
+| `Beard` | Beard | Râu |
+| `Brows` | Brows | Lông mày |
+| `Underclothes` | Underclothes | Đồ mặc trong |
+| `Shoulders` | Shoulders | Giáp vai |
+| `Chest` | Chest | Giáp ngực |
+| `Shirt` | Shirt | Áo |
+| `Hand wraps` | Hand wraps | Băng quấn tay |
+| `Trousers` | Trousers | Quần |
+| `Boots` | Boots | Ủng |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | Đang tải mọi thứ trước khi mở thế giới |
+| `Back to 2D` | Back to 2D | Quay lại 2D |
+| `The 3D world could not load.` | The 3D world could not load. | Không thể tải thế giới 3D. |
+| `Reading the map` | Reading the map | Đang đọc bản đồ |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | Đang tải mô hình 3D của thế giới |
+| `Loading characters` | Loading characters | Đang tải nhân vật |
+| `Loading creatures` | Loading creatures | Đang tải sinh vật |
+| `Loading water and weather` | Loading water and weather | Đang tải nước và thời tiết |
+| `Building the area around you` | Building the area around you | Đang dựng khu vực quanh bạn |
+| `Preparing shaders` | Preparing shaders | Đang chuẩn bị shader |
+| `Loading the area around you…` | Loading the area around you… | Đang tải khu vực quanh bạn… |
+| `Blue` | Blue | Xanh dương |
+| `Brown` | Brown | Nâu |
+| `Green` | Green | Xanh lá |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | Chiến binh Bắc Âu, Xanh dương |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | Chiến binh Bắc Âu, Xanh lá |
+| `Nordic Warrior, White` | Nordic Warrior, White | Chiến binh Bắc Âu, Trắng |
+| `Peasant 1, Blue` | Peasant 1, Blue | Nông dân 1, Xanh dương |
+| `Peasant 1, Brown` | Peasant 1, Brown | Nông dân 1, Nâu |
+| `Peasant 1, Red` | Peasant 1, Red | Nông dân 1, Đỏ |
+| `Peasant 2, Blue` | Peasant 2, Blue | Nông dân 2, Xanh dương |
+| `Peasant 2, Brown` | Peasant 2, Brown | Nông dân 2, Nâu |
+| `Peasant 2, Red` | Peasant 2, Red | Nông dân 2, Đỏ |
+| `Peasant 3, Blue` | Peasant 3, Blue | Nông dân 3, Xanh dương |
+| `Peasant 3, Brown` | Peasant 3, Brown | Nông dân 3, Nâu |
+| `Peasant 3, Red` | Peasant 3, Red | Nông dân 3, Đỏ |
+| `Peasant, Blue` | Peasant, Blue | Nông dân, Xanh dương |
+| `Peasant, Brown` | Peasant, Brown | Nông dân, Nâu |
+| `Peasant, Red` | Peasant, Red | Nông dân, Đỏ |
+| `Plain trousers` | Plain trousers | Quần trơn |
+| `Purple` | Purple | Tím |
+| `Reaper, Blue` | Reaper, Blue | Thần Chết, Xanh dương |
+| `Reaper, Cyan` | Reaper, Cyan | Thần Chết, Lục lam |
+| `Reaper, Green` | Reaper, Green | Thần Chết, Xanh lá |
+| `Sentinel, Gold` | Sentinel, Gold | Lính canh, Vàng kim |
+| `Sentinel, Green` | Sentinel, Green | Lính canh, Xanh lá |
+| `Sentinel, Grey` | Sentinel, Grey | Lính canh, Xám |
+| `Sentinel, Red` | Sentinel, Red | Lính canh, Đỏ |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | Pháp sư Bóng tối 1, Xanh dương |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | Pháp sư Bóng tối 1, Lục lam |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | Pháp sư Bóng tối 1, Đỏ |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | Pháp sư Bóng tối 2, Xanh dương |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | Pháp sư Bóng tối 2, Lục lam |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | Pháp sư Bóng tối 2, Đỏ |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | Pháp sư Bóng tối 3, Xanh dương |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | Pháp sư Bóng tối 3, Lục lam |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | Pháp sư Bóng tối 3, Đỏ |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | Pháp sư Bóng tối, Xanh dương |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | Pháp sư Bóng tối, Lục lam |
+| `Shadow Mage, Red` | Shadow Mage, Red | Pháp sư Bóng tối, Đỏ |
+| `Style 1` | Style 1 | Kiểu 1 |
+| `Style 1, Black` | Style 1, Black | Kiểu 1, Đen |
+| `Style 1, Blond` | Style 1, Blond | Kiểu 1, Vàng hoe |
+| `Style 1, Brown` | Style 1, Brown | Kiểu 1, Nâu |
+| `Style 1, Grey` | Style 1, Grey | Kiểu 1, Xám |
+| `Style 10, Black` | Style 10, Black | Kiểu 10, Đen |
+| `Style 10, Blond` | Style 10, Blond | Kiểu 10, Vàng hoe |
+| `Style 10, Brown` | Style 10, Brown | Kiểu 10, Nâu |
+| `Style 10, Grey` | Style 10, Grey | Kiểu 10, Xám |
+| `Style 2` | Style 2 | Kiểu 2 |
+| `Style 2, Black` | Style 2, Black | Kiểu 2, Đen |
+| `Style 2, Blond` | Style 2, Blond | Kiểu 2, Vàng hoe |
+| `Style 2, Brown` | Style 2, Brown | Kiểu 2, Nâu |
+| `Style 2, Grey` | Style 2, Grey | Kiểu 2, Xám |
+| `Style 3` | Style 3 | Kiểu 3 |
+| `Style 3, Black` | Style 3, Black | Kiểu 3, Đen |
+| `Style 3, Blond` | Style 3, Blond | Kiểu 3, Vàng hoe |
+| `Style 3, Brown` | Style 3, Brown | Kiểu 3, Nâu |
+| `Style 3, Grey` | Style 3, Grey | Kiểu 3, Xám |
+| `Style 4` | Style 4 | Kiểu 4 |
+| `Style 4, Black` | Style 4, Black | Kiểu 4, Đen |
+| `Style 4, Blond` | Style 4, Blond | Kiểu 4, Vàng hoe |
+| `Style 4, Brown` | Style 4, Brown | Kiểu 4, Nâu |
+| `Style 4, Grey` | Style 4, Grey | Kiểu 4, Xám |
+| `Style 5` | Style 5 | Kiểu 5 |
+| `Style 5, Black` | Style 5, Black | Kiểu 5, Đen |
+| `Style 5, Blond` | Style 5, Blond | Kiểu 5, Vàng hoe |
+| `Style 5, Brown` | Style 5, Brown | Kiểu 5, Nâu |
+| `Style 5, Grey` | Style 5, Grey | Kiểu 5, Xám |
+| `Style 6, Black` | Style 6, Black | Kiểu 6, Đen |
+| `Style 6, Blond` | Style 6, Blond | Kiểu 6, Vàng hoe |
+| `Style 6, Brown` | Style 6, Brown | Kiểu 6, Nâu |
+| `Style 6, Grey` | Style 6, Grey | Kiểu 6, Xám |
+| `Style 7, Black` | Style 7, Black | Kiểu 7, Đen |
+| `Style 7, Blond` | Style 7, Blond | Kiểu 7, Vàng hoe |
+| `Style 7, Brown` | Style 7, Brown | Kiểu 7, Nâu |
+| `Style 7, Grey` | Style 7, Grey | Kiểu 7, Xám |
+| `Style 8, Black` | Style 8, Black | Kiểu 8, Đen |
+| `Style 8, Blond` | Style 8, Blond | Kiểu 8, Vàng hoe |
+| `Style 8, Brown` | Style 8, Brown | Kiểu 8, Nâu |
+| `Style 8, Grey` | Style 8, Grey | Kiểu 8, Xám |
+| `Style 9, Black` | Style 9, Black | Kiểu 9, Đen |
+| `Style 9, Blond` | Style 9, Blond | Kiểu 9, Vàng hoe |
+| `Style 9, Brown` | Style 9, Brown | Kiểu 9, Nâu |
+| `Style 9, Grey` | Style 9, Grey | Kiểu 9, Xám |
+| `Thief 1, Black` | Thief 1, Black | Kẻ trộm 1, Đen |
+| `Thief 1, Brown` | Thief 1, Brown | Kẻ trộm 1, Nâu |
+| `Thief 1, Green` | Thief 1, Green | Kẻ trộm 1, Xanh lá |
+| `Thief 1, Red` | Thief 1, Red | Kẻ trộm 1, Đỏ |
+| `Thief 2, Black` | Thief 2, Black | Kẻ trộm 2, Đen |
+| `Thief 2, Brown` | Thief 2, Brown | Kẻ trộm 2, Nâu |
+| `Thief 2, Green` | Thief 2, Green | Kẻ trộm 2, Xanh lá |
+| `Thief 2, Red` | Thief 2, Red | Kẻ trộm 2, Đỏ |
+| `Thief 3, Black` | Thief 3, Black | Kẻ trộm 3, Đen |
+| `Thief 3, Brown` | Thief 3, Brown | Kẻ trộm 3, Nâu |
+| `Thief 3, Green` | Thief 3, Green | Kẻ trộm 3, Xanh lá |
+| `Thief 3, Red` | Thief 3, Red | Kẻ trộm 3, Đỏ |
+| `Thief, Black` | Thief, Black | Kẻ trộm, Đen |
+| `Thief, Brown` | Thief, Brown | Kẻ trộm, Nâu |
+| `Thief, Green` | Thief, Green | Kẻ trộm, Xanh lá |
+| `Thief, Red` | Thief, Red | Kẻ trộm, Đỏ |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | Thợ săn Lăng mộ 1, Xanh lá |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | Thợ săn Lăng mộ 1, Tím |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | Thợ săn Lăng mộ 1, Đỏ |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | Thợ săn Lăng mộ 1, Trắng |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | Thợ săn Lăng mộ 2, Xanh lá |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | Thợ săn Lăng mộ 2, Tím |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | Thợ săn Lăng mộ 2, Đỏ |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | Thợ săn Lăng mộ 2, Trắng |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | Thợ săn Lăng mộ, Xanh lá |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | Thợ săn Lăng mộ, Tím |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | Thợ săn Lăng mộ, Đỏ |
+| `Tomb Seeker, White` | Tomb Seeker, White | Thợ săn Lăng mộ, Trắng |
+| `Tone 1` | Tone 1 | Tông 1 |
+| `Tone 2` | Tone 2 | Tông 2 |
+| `Tone 3` | Tone 3 | Tông 3 |
+| `Tone 4` | Tone 4 | Tông 4 |
+| `Tone 5` | Tone 5 | Tông 5 |
+| `Tone 6` | Tone 6 | Tông 6 |
+| `Wave hello` | Wave hello | Vẫy tay chào |
+| `Body and face` | Body and face | Thân hình và khuôn mặt |

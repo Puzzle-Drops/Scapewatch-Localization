@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Upptäck |
 
-## Lines to review (521)
+## Lines to review (697)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,179 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | +1 HP per mat och färdighetshandling |
 | `@f:runs` | runs | körningar |
 | `@f:run` | run | körning |
+| `3D World` | 3D World | 3D-värld |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | 3D finns på Steam med Supporterpaketet. Klicka för att visa det på Steam. |
+| `Switch to 2D` | Switch to 2D | Byt till 2D |
+| `Go back to the 2D map.` | Go back to the 2D map. | Gå tillbaka till 2D-kartan. |
+| `Switch to 3D` | Switch to 3D | Byt till 3D |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | Visa världen och striderna i 3D (beta). |
+| `2D / 3D Button` | 2D / 3D Button | 2D / 3D-knapp |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | Visa knappen som växlar mellan 2D-kartan och 3D-världen. |
+| `View the roadmap` | View the roadmap | Visa färdplanen |
+| `Click anywhere to close` | Click anywhere to close | Klicka var som helst för att stänga |
+| `Tap anywhere to close` | Tap anywhere to close | Tryck var som helst för att stänga |
+| `Roadmap` | Roadmap | Färdplan |
+| `3D World (beta)` | 3D World (beta) | 3D-värld (beta) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Kräver Supporterpaketet på Steam. Visar världen och striderna i 3D. |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | Visa världen och striderna i 3D. Dra eller använd piltangenterna för att vrida och luta kameran, skrolla eller använd W och S för att zooma. |
+| `2D Sprite` | 2D Sprite | 2D-sprite |
+| `3D Character` | 3D Character | 3D-karaktär |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | Laddar 3D-karaktärsskaparen... |
+| `The 3D creator could not load.` | The 3D creator could not load. | 3D-skaparen kunde inte laddas. |
+| `Loading the 3D character…` | Loading the 3D character… | Laddar 3D-karaktären… |
+| `Run` | Run | Spring |
+| `↩ Revert` | ↩ Revert | ↩ Ångra |
+| `✔ Saved` | ✔ Saved | ✔ Sparat |
+| `Saving…` | Saving… | Sparar… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | Ditt 3D-utseende visas i 3D-världen (Inställningar > 3D-värld). Dra förhandsvisningen för att vrida den. |
+| `Male` | Male | Man |
+| `Female` | Female | Kvinna |
+| `Clothes` | Clothes | Kläder |
+| `Get the Supporter Pack` | Get the Supporter Pack | Skaffa Supporterpaketet |
+| `Get the Wings Pack` | Get the Wings Pack | Skaffa Vingpaketet |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | Provar föremål från Supporterpaketet. Paketet krävs för att spara. |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | Provar föremål från Vingpaketet. Paketet krävs för att spara. |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | Provar föremål från Supporterpaketet och Vingpaketet. Båda paketen krävs för att spara. |
+| `Skin` | Skin | Hud |
+| `Eyes` | Eyes | Ögon |
+| `Beard` | Beard | Skägg |
+| `Brows` | Brows | Ögonbryn |
+| `Underclothes` | Underclothes | Underkläder |
+| `Shoulders` | Shoulders | Axlar |
+| `Chest` | Chest | Bröst |
+| `Shirt` | Shirt | Skjorta |
+| `Hand wraps` | Hand wraps | Handlindor |
+| `Trousers` | Trousers | Byxor |
+| `Boots` | Boots | Stövlar |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | Laddar allt innan världen öppnas |
+| `Back to 2D` | Back to 2D | Tillbaka till 2D |
+| `The 3D world could not load.` | The 3D world could not load. | 3D-världen kunde inte laddas. |
+| `Reading the map` | Reading the map | Läser kartan |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | Laddar världens 3D-modeller |
+| `Loading characters` | Loading characters | Laddar karaktärer |
+| `Loading creatures` | Loading creatures | Laddar varelser |
+| `Loading water and weather` | Loading water and weather | Laddar vatten och väder |
+| `Building the area around you` | Building the area around you | Bygger området runt dig |
+| `Preparing shaders` | Preparing shaders | Förbereder shaders |
+| `Loading the area around you…` | Loading the area around you… | Laddar området runt dig… |
+| `Blue` | Blue | Blå |
+| `Brown` | Brown | Brun |
+| `Green` | Green | Grön |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | Nordisk krigare, blå |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | Nordisk krigare, grön |
+| `Nordic Warrior, White` | Nordic Warrior, White | Nordisk krigare, vit |
+| `Peasant 1, Blue` | Peasant 1, Blue | Bonde 1, blå |
+| `Peasant 1, Brown` | Peasant 1, Brown | Bonde 1, brun |
+| `Peasant 1, Red` | Peasant 1, Red | Bonde 1, röd |
+| `Peasant 2, Blue` | Peasant 2, Blue | Bonde 2, blå |
+| `Peasant 2, Brown` | Peasant 2, Brown | Bonde 2, brun |
+| `Peasant 2, Red` | Peasant 2, Red | Bonde 2, röd |
+| `Peasant 3, Blue` | Peasant 3, Blue | Bonde 3, blå |
+| `Peasant 3, Brown` | Peasant 3, Brown | Bonde 3, brun |
+| `Peasant 3, Red` | Peasant 3, Red | Bonde 3, röd |
+| `Peasant, Blue` | Peasant, Blue | Bonde, blå |
+| `Peasant, Brown` | Peasant, Brown | Bonde, brun |
+| `Peasant, Red` | Peasant, Red | Bonde, röd |
+| `Plain trousers` | Plain trousers | Enkla byxor |
+| `Purple` | Purple | Lila |
+| `Reaper, Blue` | Reaper, Blue | Lieman, blå |
+| `Reaper, Cyan` | Reaper, Cyan | Lieman, cyan |
+| `Reaper, Green` | Reaper, Green | Lieman, grön |
+| `Sentinel, Gold` | Sentinel, Gold | Väktare, guld |
+| `Sentinel, Green` | Sentinel, Green | Väktare, grön |
+| `Sentinel, Grey` | Sentinel, Grey | Väktare, grå |
+| `Sentinel, Red` | Sentinel, Red | Väktare, röd |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | Skuggmagiker 1, blå |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | Skuggmagiker 1, cyan |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | Skuggmagiker 1, röd |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | Skuggmagiker 2, blå |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | Skuggmagiker 2, cyan |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | Skuggmagiker 2, röd |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | Skuggmagiker 3, blå |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | Skuggmagiker 3, cyan |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | Skuggmagiker 3, röd |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | Skuggmagiker, blå |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | Skuggmagiker, cyan |
+| `Shadow Mage, Red` | Shadow Mage, Red | Skuggmagiker, röd |
+| `Style 1` | Style 1 | Stil 1 |
+| `Style 1, Black` | Style 1, Black | Stil 1, svart |
+| `Style 1, Blond` | Style 1, Blond | Stil 1, blond |
+| `Style 1, Brown` | Style 1, Brown | Stil 1, brun |
+| `Style 1, Grey` | Style 1, Grey | Stil 1, grå |
+| `Style 10, Black` | Style 10, Black | Stil 10, svart |
+| `Style 10, Blond` | Style 10, Blond | Stil 10, blond |
+| `Style 10, Brown` | Style 10, Brown | Stil 10, brun |
+| `Style 10, Grey` | Style 10, Grey | Stil 10, grå |
+| `Style 2` | Style 2 | Stil 2 |
+| `Style 2, Black` | Style 2, Black | Stil 2, svart |
+| `Style 2, Blond` | Style 2, Blond | Stil 2, blond |
+| `Style 2, Brown` | Style 2, Brown | Stil 2, brun |
+| `Style 2, Grey` | Style 2, Grey | Stil 2, grå |
+| `Style 3` | Style 3 | Stil 3 |
+| `Style 3, Black` | Style 3, Black | Stil 3, svart |
+| `Style 3, Blond` | Style 3, Blond | Stil 3, blond |
+| `Style 3, Brown` | Style 3, Brown | Stil 3, brun |
+| `Style 3, Grey` | Style 3, Grey | Stil 3, grå |
+| `Style 4` | Style 4 | Stil 4 |
+| `Style 4, Black` | Style 4, Black | Stil 4, svart |
+| `Style 4, Blond` | Style 4, Blond | Stil 4, blond |
+| `Style 4, Brown` | Style 4, Brown | Stil 4, brun |
+| `Style 4, Grey` | Style 4, Grey | Stil 4, grå |
+| `Style 5` | Style 5 | Stil 5 |
+| `Style 5, Black` | Style 5, Black | Stil 5, svart |
+| `Style 5, Blond` | Style 5, Blond | Stil 5, blond |
+| `Style 5, Brown` | Style 5, Brown | Stil 5, brun |
+| `Style 5, Grey` | Style 5, Grey | Stil 5, grå |
+| `Style 6, Black` | Style 6, Black | Stil 6, svart |
+| `Style 6, Blond` | Style 6, Blond | Stil 6, blond |
+| `Style 6, Brown` | Style 6, Brown | Stil 6, brun |
+| `Style 6, Grey` | Style 6, Grey | Stil 6, grå |
+| `Style 7, Black` | Style 7, Black | Stil 7, svart |
+| `Style 7, Blond` | Style 7, Blond | Stil 7, blond |
+| `Style 7, Brown` | Style 7, Brown | Stil 7, brun |
+| `Style 7, Grey` | Style 7, Grey | Stil 7, grå |
+| `Style 8, Black` | Style 8, Black | Stil 8, svart |
+| `Style 8, Blond` | Style 8, Blond | Stil 8, blond |
+| `Style 8, Brown` | Style 8, Brown | Stil 8, brun |
+| `Style 8, Grey` | Style 8, Grey | Stil 8, grå |
+| `Style 9, Black` | Style 9, Black | Stil 9, svart |
+| `Style 9, Blond` | Style 9, Blond | Stil 9, blond |
+| `Style 9, Brown` | Style 9, Brown | Stil 9, brun |
+| `Style 9, Grey` | Style 9, Grey | Stil 9, grå |
+| `Thief 1, Black` | Thief 1, Black | Tjuv 1, svart |
+| `Thief 1, Brown` | Thief 1, Brown | Tjuv 1, brun |
+| `Thief 1, Green` | Thief 1, Green | Tjuv 1, grön |
+| `Thief 1, Red` | Thief 1, Red | Tjuv 1, röd |
+| `Thief 2, Black` | Thief 2, Black | Tjuv 2, svart |
+| `Thief 2, Brown` | Thief 2, Brown | Tjuv 2, brun |
+| `Thief 2, Green` | Thief 2, Green | Tjuv 2, grön |
+| `Thief 2, Red` | Thief 2, Red | Tjuv 2, röd |
+| `Thief 3, Black` | Thief 3, Black | Tjuv 3, svart |
+| `Thief 3, Brown` | Thief 3, Brown | Tjuv 3, brun |
+| `Thief 3, Green` | Thief 3, Green | Tjuv 3, grön |
+| `Thief 3, Red` | Thief 3, Red | Tjuv 3, röd |
+| `Thief, Black` | Thief, Black | Tjuv, svart |
+| `Thief, Brown` | Thief, Brown | Tjuv, brun |
+| `Thief, Green` | Thief, Green | Tjuv, grön |
+| `Thief, Red` | Thief, Red | Tjuv, röd |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | Gravsökare 1, grön |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | Gravsökare 1, lila |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | Gravsökare 1, röd |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | Gravsökare 1, vit |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | Gravsökare 2, grön |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | Gravsökare 2, lila |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | Gravsökare 2, röd |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | Gravsökare 2, vit |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | Gravsökare, grön |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | Gravsökare, lila |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | Gravsökare, röd |
+| `Tomb Seeker, White` | Tomb Seeker, White | Gravsökare, vit |
+| `Tone 1` | Tone 1 | Ton 1 |
+| `Tone 2` | Tone 2 | Ton 2 |
+| `Tone 3` | Tone 3 | Ton 3 |
+| `Tone 4` | Tone 4 | Ton 4 |
+| `Tone 5` | Tone 5 | Ton 5 |
+| `Tone 6` | Tone 6 | Ton 6 |
+| `Wave hello` | Wave hello | Vinka |
+| `Body and face` | Body and face | Kropp och ansikte |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Ontdekken |
 
-## Lines to review (521)
+## Lines to review (697)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,179 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | +1 HP per voedsel en vaardigheidsactie |
 | `@f:runs` | runs | runs |
 | `@f:run` | run | run |
+| `3D World` | 3D World | 3D-wereld |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | 3D is beschikbaar op Steam met het Supporterspakket. Klik om het op Steam te bekijken. |
+| `Switch to 2D` | Switch to 2D | Naar 2D wisselen |
+| `Go back to the 2D map.` | Go back to the 2D map. | Terug naar de 2D-kaart. |
+| `Switch to 3D` | Switch to 3D | Naar 3D wisselen |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | Toon de wereld en gevechten in 3D (bèta). |
+| `2D / 3D Button` | 2D / 3D Button | 2D / 3D-knop |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | Toon de knop die wisselt tussen de 2D-kaart en de 3D-wereld. |
+| `View the roadmap` | View the roadmap | Bekijk de roadmap |
+| `Click anywhere to close` | Click anywhere to close | Klik ergens om te sluiten |
+| `Tap anywhere to close` | Tap anywhere to close | Tik ergens om te sluiten |
+| `Roadmap` | Roadmap | Roadmap |
+| `3D World (beta)` | 3D World (beta) | 3D-wereld (bèta) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Vereist het Supporterspakket op Steam. Toont de wereld en gevechten in 3D. |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | Toon de wereld en gevechten in 3D. Sleep of gebruik de pijltjestoetsen om de camera te draaien en te kantelen, scrol of gebruik W en S om te zoomen. |
+| `2D Sprite` | 2D Sprite | 2D-sprite |
+| `3D Character` | 3D Character | 3D-personage |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | Bezig met laden van de 3D-personage-editor... |
+| `The 3D creator could not load.` | The 3D creator could not load. | De 3D-editor kon niet worden geladen. |
+| `Loading the 3D character…` | Loading the 3D character… | Bezig met laden van het 3D-personage… |
+| `Run` | Run | Rennen |
+| `↩ Revert` | ↩ Revert | ↩ Terugdraaien |
+| `✔ Saved` | ✔ Saved | ✔ Opgeslagen |
+| `Saving…` | Saving… | Bezig met opslaan… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | Je 3D-uiterlijk is te zien in de 3D-wereld (Instellingen > 3D-wereld). Sleep het voorbeeld om het te draaien. |
+| `Male` | Male | Mannelijk |
+| `Female` | Female | Vrouwelijk |
+| `Clothes` | Clothes | Kleding |
+| `Get the Supporter Pack` | Get the Supporter Pack | Haal het Supporterspakket |
+| `Get the Wings Pack` | Get the Wings Pack | Haal het Vleugelpakket |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | Je past voorwerpen uit het Supporterspakket. Om op te slaan heb je het pakket nodig. |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | Je past voorwerpen uit het Vleugelpakket. Om op te slaan heb je het pakket nodig. |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | Je past voorwerpen uit het Supporterspakket en het Vleugelpakket. Om op te slaan heb je beide pakketten nodig. |
+| `Skin` | Skin | Huid |
+| `Eyes` | Eyes | Ogen |
+| `Beard` | Beard | Baard |
+| `Brows` | Brows | Wenkbrauwen |
+| `Underclothes` | Underclothes | Ondergoed |
+| `Shoulders` | Shoulders | Schouders |
+| `Chest` | Chest | Borst |
+| `Shirt` | Shirt | Shirt |
+| `Hand wraps` | Hand wraps | Handbandages |
+| `Trousers` | Trousers | Broek |
+| `Boots` | Boots | Laarzen |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | Alles wordt geladen voordat de wereld opent |
+| `Back to 2D` | Back to 2D | Terug naar 2D |
+| `The 3D world could not load.` | The 3D world could not load. | De 3D-wereld kon niet worden geladen. |
+| `Reading the map` | Reading the map | De kaart lezen |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | De 3D-modellen van de wereld laden |
+| `Loading characters` | Loading characters | Personages laden |
+| `Loading creatures` | Loading creatures | Wezens laden |
+| `Loading water and weather` | Loading water and weather | Water en weer laden |
+| `Building the area around you` | Building the area around you | Het gebied om je heen opbouwen |
+| `Preparing shaders` | Preparing shaders | Shaders voorbereiden |
+| `Loading the area around you…` | Loading the area around you… | Bezig met laden van het gebied om je heen… |
+| `Blue` | Blue | Blauw |
+| `Brown` | Brown | Bruin |
+| `Green` | Green | Groen |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | Noordse krijger, Blauw |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | Noordse krijger, Groen |
+| `Nordic Warrior, White` | Nordic Warrior, White | Noordse krijger, Wit |
+| `Peasant 1, Blue` | Peasant 1, Blue | Boer 1, Blauw |
+| `Peasant 1, Brown` | Peasant 1, Brown | Boer 1, Bruin |
+| `Peasant 1, Red` | Peasant 1, Red | Boer 1, Rood |
+| `Peasant 2, Blue` | Peasant 2, Blue | Boer 2, Blauw |
+| `Peasant 2, Brown` | Peasant 2, Brown | Boer 2, Bruin |
+| `Peasant 2, Red` | Peasant 2, Red | Boer 2, Rood |
+| `Peasant 3, Blue` | Peasant 3, Blue | Boer 3, Blauw |
+| `Peasant 3, Brown` | Peasant 3, Brown | Boer 3, Bruin |
+| `Peasant 3, Red` | Peasant 3, Red | Boer 3, Rood |
+| `Peasant, Blue` | Peasant, Blue | Boer, Blauw |
+| `Peasant, Brown` | Peasant, Brown | Boer, Bruin |
+| `Peasant, Red` | Peasant, Red | Boer, Rood |
+| `Plain trousers` | Plain trousers | Eenvoudige broek |
+| `Purple` | Purple | Paars |
+| `Reaper, Blue` | Reaper, Blue | Maaier, Blauw |
+| `Reaper, Cyan` | Reaper, Cyan | Maaier, Cyaan |
+| `Reaper, Green` | Reaper, Green | Maaier, Groen |
+| `Sentinel, Gold` | Sentinel, Gold | Schildwacht, Goud |
+| `Sentinel, Green` | Sentinel, Green | Schildwacht, Groen |
+| `Sentinel, Grey` | Sentinel, Grey | Schildwacht, Grijs |
+| `Sentinel, Red` | Sentinel, Red | Schildwacht, Rood |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | Schaduwmagiër 1, Blauw |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | Schaduwmagiër 1, Cyaan |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | Schaduwmagiër 1, Rood |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | Schaduwmagiër 2, Blauw |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | Schaduwmagiër 2, Cyaan |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | Schaduwmagiër 2, Rood |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | Schaduwmagiër 3, Blauw |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | Schaduwmagiër 3, Cyaan |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | Schaduwmagiër 3, Rood |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | Schaduwmagiër, Blauw |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | Schaduwmagiër, Cyaan |
+| `Shadow Mage, Red` | Shadow Mage, Red | Schaduwmagiër, Rood |
+| `Style 1` | Style 1 | Stijl 1 |
+| `Style 1, Black` | Style 1, Black | Stijl 1, Zwart |
+| `Style 1, Blond` | Style 1, Blond | Stijl 1, Blond |
+| `Style 1, Brown` | Style 1, Brown | Stijl 1, Bruin |
+| `Style 1, Grey` | Style 1, Grey | Stijl 1, Grijs |
+| `Style 10, Black` | Style 10, Black | Stijl 10, Zwart |
+| `Style 10, Blond` | Style 10, Blond | Stijl 10, Blond |
+| `Style 10, Brown` | Style 10, Brown | Stijl 10, Bruin |
+| `Style 10, Grey` | Style 10, Grey | Stijl 10, Grijs |
+| `Style 2` | Style 2 | Stijl 2 |
+| `Style 2, Black` | Style 2, Black | Stijl 2, Zwart |
+| `Style 2, Blond` | Style 2, Blond | Stijl 2, Blond |
+| `Style 2, Brown` | Style 2, Brown | Stijl 2, Bruin |
+| `Style 2, Grey` | Style 2, Grey | Stijl 2, Grijs |
+| `Style 3` | Style 3 | Stijl 3 |
+| `Style 3, Black` | Style 3, Black | Stijl 3, Zwart |
+| `Style 3, Blond` | Style 3, Blond | Stijl 3, Blond |
+| `Style 3, Brown` | Style 3, Brown | Stijl 3, Bruin |
+| `Style 3, Grey` | Style 3, Grey | Stijl 3, Grijs |
+| `Style 4` | Style 4 | Stijl 4 |
+| `Style 4, Black` | Style 4, Black | Stijl 4, Zwart |
+| `Style 4, Blond` | Style 4, Blond | Stijl 4, Blond |
+| `Style 4, Brown` | Style 4, Brown | Stijl 4, Bruin |
+| `Style 4, Grey` | Style 4, Grey | Stijl 4, Grijs |
+| `Style 5` | Style 5 | Stijl 5 |
+| `Style 5, Black` | Style 5, Black | Stijl 5, Zwart |
+| `Style 5, Blond` | Style 5, Blond | Stijl 5, Blond |
+| `Style 5, Brown` | Style 5, Brown | Stijl 5, Bruin |
+| `Style 5, Grey` | Style 5, Grey | Stijl 5, Grijs |
+| `Style 6, Black` | Style 6, Black | Stijl 6, Zwart |
+| `Style 6, Blond` | Style 6, Blond | Stijl 6, Blond |
+| `Style 6, Brown` | Style 6, Brown | Stijl 6, Bruin |
+| `Style 6, Grey` | Style 6, Grey | Stijl 6, Grijs |
+| `Style 7, Black` | Style 7, Black | Stijl 7, Zwart |
+| `Style 7, Blond` | Style 7, Blond | Stijl 7, Blond |
+| `Style 7, Brown` | Style 7, Brown | Stijl 7, Bruin |
+| `Style 7, Grey` | Style 7, Grey | Stijl 7, Grijs |
+| `Style 8, Black` | Style 8, Black | Stijl 8, Zwart |
+| `Style 8, Blond` | Style 8, Blond | Stijl 8, Blond |
+| `Style 8, Brown` | Style 8, Brown | Stijl 8, Bruin |
+| `Style 8, Grey` | Style 8, Grey | Stijl 8, Grijs |
+| `Style 9, Black` | Style 9, Black | Stijl 9, Zwart |
+| `Style 9, Blond` | Style 9, Blond | Stijl 9, Blond |
+| `Style 9, Brown` | Style 9, Brown | Stijl 9, Bruin |
+| `Style 9, Grey` | Style 9, Grey | Stijl 9, Grijs |
+| `Thief 1, Black` | Thief 1, Black | Dief 1, Zwart |
+| `Thief 1, Brown` | Thief 1, Brown | Dief 1, Bruin |
+| `Thief 1, Green` | Thief 1, Green | Dief 1, Groen |
+| `Thief 1, Red` | Thief 1, Red | Dief 1, Rood |
+| `Thief 2, Black` | Thief 2, Black | Dief 2, Zwart |
+| `Thief 2, Brown` | Thief 2, Brown | Dief 2, Bruin |
+| `Thief 2, Green` | Thief 2, Green | Dief 2, Groen |
+| `Thief 2, Red` | Thief 2, Red | Dief 2, Rood |
+| `Thief 3, Black` | Thief 3, Black | Dief 3, Zwart |
+| `Thief 3, Brown` | Thief 3, Brown | Dief 3, Bruin |
+| `Thief 3, Green` | Thief 3, Green | Dief 3, Groen |
+| `Thief 3, Red` | Thief 3, Red | Dief 3, Rood |
+| `Thief, Black` | Thief, Black | Dief, Zwart |
+| `Thief, Brown` | Thief, Brown | Dief, Bruin |
+| `Thief, Green` | Thief, Green | Dief, Groen |
+| `Thief, Red` | Thief, Red | Dief, Rood |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | Grafzoeker 1, Groen |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | Grafzoeker 1, Paars |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | Grafzoeker 1, Rood |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | Grafzoeker 1, Wit |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | Grafzoeker 2, Groen |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | Grafzoeker 2, Paars |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | Grafzoeker 2, Rood |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | Grafzoeker 2, Wit |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | Grafzoeker, Groen |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | Grafzoeker, Paars |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | Grafzoeker, Rood |
+| `Tomb Seeker, White` | Tomb Seeker, White | Grafzoeker, Wit |
+| `Tone 1` | Tone 1 | Tint 1 |
+| `Tone 2` | Tone 2 | Tint 2 |
+| `Tone 3` | Tone 3 | Tint 3 |
+| `Tone 4` | Tone 4 | Tint 4 |
+| `Tone 5` | Tone 5 | Tint 5 |
+| `Tone 6` | Tone 6 | Tint 6 |
+| `Wave hello` | Wave hello | Zwaaien |
+| `Body and face` | Body and face | Lichaam en gezicht |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 음유 |
 | Discover | 탐험 |
 
-## Lines to review (521)
+## Lines to review (697)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,179 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | 음식 및 스킬 행동당 HP +1 |
 | `@f:runs` | runs | 회 완료 |
 | `@f:run` | run | 회 완료 |
+| `3D World` | 3D World | 3D 월드 |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | 3D는 Steam의 서포터 팩으로 이용할 수 있습니다. 클릭하면 Steam에서 확인할 수 있습니다. |
+| `Switch to 2D` | Switch to 2D | 2D로 전환 |
+| `Go back to the 2D map.` | Go back to the 2D map. | 2D 지도로 돌아갑니다. |
+| `Switch to 3D` | Switch to 3D | 3D로 전환 |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | 월드와 전투를 3D로 표시합니다(베타). |
+| `2D / 3D Button` | 2D / 3D Button | 2D / 3D 버튼 |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | 2D 지도와 3D 월드를 전환하는 버튼을 표시합니다. |
+| `View the roadmap` | View the roadmap | 로드맵 보기 |
+| `Click anywhere to close` | Click anywhere to close | 아무 곳이나 클릭하여 닫기 |
+| `Tap anywhere to close` | Tap anywhere to close | 아무 곳이나 탭하여 닫기 |
+| `Roadmap` | Roadmap | 로드맵 |
+| `3D World (beta)` | 3D World (beta) | 3D 월드(베타) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Steam의 서포터 팩이 필요합니다. 월드와 전투를 3D로 표시합니다. |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | 월드와 전투를 3D로 표시합니다. 드래그하거나 방향키로 카메라를 회전하고 기울이며, 스크롤하거나 W와 S로 확대/축소합니다. |
+| `2D Sprite` | 2D Sprite | 2D 스프라이트 |
+| `3D Character` | 3D Character | 3D 캐릭터 |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | 3D 캐릭터 생성기를 불러오는 중... |
+| `The 3D creator could not load.` | The 3D creator could not load. | 3D 캐릭터 생성기를 불러올 수 없습니다. |
+| `Loading the 3D character…` | Loading the 3D character… | 3D 캐릭터를 불러오는 중… |
+| `Run` | Run | 달리기 |
+| `↩ Revert` | ↩ Revert | ↩ 되돌리기 |
+| `✔ Saved` | ✔ Saved | ✔ 저장됨 |
+| `Saving…` | Saving… | 저장 중… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | 3D 외형은 3D 월드에 표시됩니다(설정 > 3D 월드). 미리보기를 드래그하면 회전합니다. |
+| `Male` | Male | 남성 |
+| `Female` | Female | 여성 |
+| `Clothes` | Clothes | 의상 |
+| `Get the Supporter Pack` | Get the Supporter Pack | 서포터 팩 구매 |
+| `Get the Wings Pack` | Get the Wings Pack | 날개 팩 구매 |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | 서포터 팩 아이템을 착용해 보는 중입니다. 저장하려면 팩이 필요합니다. |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | 날개 팩 아이템을 착용해 보는 중입니다. 저장하려면 팩이 필요합니다. |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | 서포터 팩과 날개 팩 아이템을 착용해 보는 중입니다. 저장하려면 두 팩이 모두 필요합니다. |
+| `Skin` | Skin | 피부 |
+| `Eyes` | Eyes | 눈 |
+| `Beard` | Beard | 수염 |
+| `Brows` | Brows | 눈썹 |
+| `Underclothes` | Underclothes | 속옷 |
+| `Shoulders` | Shoulders | 어깨 |
+| `Chest` | Chest | 가슴 |
+| `Shirt` | Shirt | 셔츠 |
+| `Hand wraps` | Hand wraps | 손 붕대 |
+| `Trousers` | Trousers | 바지 |
+| `Boots` | Boots | 부츠 |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | 월드를 열기 전에 모든 것을 불러오는 중 |
+| `Back to 2D` | Back to 2D | 2D로 돌아가기 |
+| `The 3D world could not load.` | The 3D world could not load. | 3D 월드를 불러올 수 없습니다. |
+| `Reading the map` | Reading the map | 지도 읽는 중 |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | 월드 3D 모델 불러오는 중 |
+| `Loading characters` | Loading characters | 캐릭터 불러오는 중 |
+| `Loading creatures` | Loading creatures | 생물 불러오는 중 |
+| `Loading water and weather` | Loading water and weather | 물과 날씨 불러오는 중 |
+| `Building the area around you` | Building the area around you | 주변 지역 구성 중 |
+| `Preparing shaders` | Preparing shaders | 셰이더 준비 중 |
+| `Loading the area around you…` | Loading the area around you… | 주변 지역을 불러오는 중… |
+| `Blue` | Blue | 파란색 |
+| `Brown` | Brown | 갈색 |
+| `Green` | Green | 초록색 |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | 북방 전사, 파란색 |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | 북방 전사, 초록색 |
+| `Nordic Warrior, White` | Nordic Warrior, White | 북방 전사, 흰색 |
+| `Peasant 1, Blue` | Peasant 1, Blue | 농민 1, 파란색 |
+| `Peasant 1, Brown` | Peasant 1, Brown | 농민 1, 갈색 |
+| `Peasant 1, Red` | Peasant 1, Red | 농민 1, 빨간색 |
+| `Peasant 2, Blue` | Peasant 2, Blue | 농민 2, 파란색 |
+| `Peasant 2, Brown` | Peasant 2, Brown | 농민 2, 갈색 |
+| `Peasant 2, Red` | Peasant 2, Red | 농민 2, 빨간색 |
+| `Peasant 3, Blue` | Peasant 3, Blue | 농민 3, 파란색 |
+| `Peasant 3, Brown` | Peasant 3, Brown | 농민 3, 갈색 |
+| `Peasant 3, Red` | Peasant 3, Red | 농민 3, 빨간색 |
+| `Peasant, Blue` | Peasant, Blue | 농민, 파란색 |
+| `Peasant, Brown` | Peasant, Brown | 농민, 갈색 |
+| `Peasant, Red` | Peasant, Red | 농민, 빨간색 |
+| `Plain trousers` | Plain trousers | 기본 바지 |
+| `Purple` | Purple | 보라색 |
+| `Reaper, Blue` | Reaper, Blue | 사신, 파란색 |
+| `Reaper, Cyan` | Reaper, Cyan | 사신, 청록색 |
+| `Reaper, Green` | Reaper, Green | 사신, 초록색 |
+| `Sentinel, Gold` | Sentinel, Gold | 파수꾼, 금색 |
+| `Sentinel, Green` | Sentinel, Green | 파수꾼, 초록색 |
+| `Sentinel, Grey` | Sentinel, Grey | 파수꾼, 회색 |
+| `Sentinel, Red` | Sentinel, Red | 파수꾼, 빨간색 |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | 그림자 마법사 1, 파란색 |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | 그림자 마법사 1, 청록색 |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | 그림자 마법사 1, 빨간색 |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | 그림자 마법사 2, 파란색 |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | 그림자 마법사 2, 청록색 |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | 그림자 마법사 2, 빨간색 |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | 그림자 마법사 3, 파란색 |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | 그림자 마법사 3, 청록색 |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | 그림자 마법사 3, 빨간색 |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | 그림자 마법사, 파란색 |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | 그림자 마법사, 청록색 |
+| `Shadow Mage, Red` | Shadow Mage, Red | 그림자 마법사, 빨간색 |
+| `Style 1` | Style 1 | 스타일 1 |
+| `Style 1, Black` | Style 1, Black | 스타일 1, 검은색 |
+| `Style 1, Blond` | Style 1, Blond | 스타일 1, 금발 |
+| `Style 1, Brown` | Style 1, Brown | 스타일 1, 갈색 |
+| `Style 1, Grey` | Style 1, Grey | 스타일 1, 회색 |
+| `Style 10, Black` | Style 10, Black | 스타일 10, 검은색 |
+| `Style 10, Blond` | Style 10, Blond | 스타일 10, 금발 |
+| `Style 10, Brown` | Style 10, Brown | 스타일 10, 갈색 |
+| `Style 10, Grey` | Style 10, Grey | 스타일 10, 회색 |
+| `Style 2` | Style 2 | 스타일 2 |
+| `Style 2, Black` | Style 2, Black | 스타일 2, 검은색 |
+| `Style 2, Blond` | Style 2, Blond | 스타일 2, 금발 |
+| `Style 2, Brown` | Style 2, Brown | 스타일 2, 갈색 |
+| `Style 2, Grey` | Style 2, Grey | 스타일 2, 회색 |
+| `Style 3` | Style 3 | 스타일 3 |
+| `Style 3, Black` | Style 3, Black | 스타일 3, 검은색 |
+| `Style 3, Blond` | Style 3, Blond | 스타일 3, 금발 |
+| `Style 3, Brown` | Style 3, Brown | 스타일 3, 갈색 |
+| `Style 3, Grey` | Style 3, Grey | 스타일 3, 회색 |
+| `Style 4` | Style 4 | 스타일 4 |
+| `Style 4, Black` | Style 4, Black | 스타일 4, 검은색 |
+| `Style 4, Blond` | Style 4, Blond | 스타일 4, 금발 |
+| `Style 4, Brown` | Style 4, Brown | 스타일 4, 갈색 |
+| `Style 4, Grey` | Style 4, Grey | 스타일 4, 회색 |
+| `Style 5` | Style 5 | 스타일 5 |
+| `Style 5, Black` | Style 5, Black | 스타일 5, 검은색 |
+| `Style 5, Blond` | Style 5, Blond | 스타일 5, 금발 |
+| `Style 5, Brown` | Style 5, Brown | 스타일 5, 갈색 |
+| `Style 5, Grey` | Style 5, Grey | 스타일 5, 회색 |
+| `Style 6, Black` | Style 6, Black | 스타일 6, 검은색 |
+| `Style 6, Blond` | Style 6, Blond | 스타일 6, 금발 |
+| `Style 6, Brown` | Style 6, Brown | 스타일 6, 갈색 |
+| `Style 6, Grey` | Style 6, Grey | 스타일 6, 회색 |
+| `Style 7, Black` | Style 7, Black | 스타일 7, 검은색 |
+| `Style 7, Blond` | Style 7, Blond | 스타일 7, 금발 |
+| `Style 7, Brown` | Style 7, Brown | 스타일 7, 갈색 |
+| `Style 7, Grey` | Style 7, Grey | 스타일 7, 회색 |
+| `Style 8, Black` | Style 8, Black | 스타일 8, 검은색 |
+| `Style 8, Blond` | Style 8, Blond | 스타일 8, 금발 |
+| `Style 8, Brown` | Style 8, Brown | 스타일 8, 갈색 |
+| `Style 8, Grey` | Style 8, Grey | 스타일 8, 회색 |
+| `Style 9, Black` | Style 9, Black | 스타일 9, 검은색 |
+| `Style 9, Blond` | Style 9, Blond | 스타일 9, 금발 |
+| `Style 9, Brown` | Style 9, Brown | 스타일 9, 갈색 |
+| `Style 9, Grey` | Style 9, Grey | 스타일 9, 회색 |
+| `Thief 1, Black` | Thief 1, Black | 도둑 1, 검은색 |
+| `Thief 1, Brown` | Thief 1, Brown | 도둑 1, 갈색 |
+| `Thief 1, Green` | Thief 1, Green | 도둑 1, 초록색 |
+| `Thief 1, Red` | Thief 1, Red | 도둑 1, 빨간색 |
+| `Thief 2, Black` | Thief 2, Black | 도둑 2, 검은색 |
+| `Thief 2, Brown` | Thief 2, Brown | 도둑 2, 갈색 |
+| `Thief 2, Green` | Thief 2, Green | 도둑 2, 초록색 |
+| `Thief 2, Red` | Thief 2, Red | 도둑 2, 빨간색 |
+| `Thief 3, Black` | Thief 3, Black | 도둑 3, 검은색 |
+| `Thief 3, Brown` | Thief 3, Brown | 도둑 3, 갈색 |
+| `Thief 3, Green` | Thief 3, Green | 도둑 3, 초록색 |
+| `Thief 3, Red` | Thief 3, Red | 도둑 3, 빨간색 |
+| `Thief, Black` | Thief, Black | 도둑, 검은색 |
+| `Thief, Brown` | Thief, Brown | 도둑, 갈색 |
+| `Thief, Green` | Thief, Green | 도둑, 초록색 |
+| `Thief, Red` | Thief, Red | 도둑, 빨간색 |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | 무덤 탐색자 1, 초록색 |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | 무덤 탐색자 1, 보라색 |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | 무덤 탐색자 1, 빨간색 |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | 무덤 탐색자 1, 흰색 |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | 무덤 탐색자 2, 초록색 |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | 무덤 탐색자 2, 보라색 |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | 무덤 탐색자 2, 빨간색 |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | 무덤 탐색자 2, 흰색 |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | 무덤 탐색자, 초록색 |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | 무덤 탐색자, 보라색 |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | 무덤 탐색자, 빨간색 |
+| `Tomb Seeker, White` | Tomb Seeker, White | 무덤 탐색자, 흰색 |
+| `Tone 1` | Tone 1 | 톤 1 |
+| `Tone 2` | Tone 2 | 톤 2 |
+| `Tone 3` | Tone 3 | 톤 3 |
+| `Tone 4` | Tone 4 | 톤 4 |
+| `Tone 5` | Tone 5 | 톤 5 |
+| `Tone 6` | Tone 6 | 톤 6 |
+| `Wave hello` | Wave hello | 손 흔들기 |
+| `Body and face` | Body and face | 신체와 얼굴 |

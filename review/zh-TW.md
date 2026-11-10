@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (521)
+## Lines to review (697)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,179 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | 每次進食與技能動作 +1 生命值 |
 | `@f:runs` | runs | 次通關 |
 | `@f:run` | run | 次通關 |
+| `3D World` | 3D World | 3D 世界 |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | 在 Steam 上擁有支持者包即可使用 3D。點擊前往 Steam 查看。 |
+| `Switch to 2D` | Switch to 2D | 切換至 2D |
+| `Go back to the 2D map.` | Go back to the 2D map. | 返回 2D 地圖。 |
+| `Switch to 3D` | Switch to 3D | 切換至 3D |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | 以 3D 顯示世界與戰鬥（測試版）。 |
+| `2D / 3D Button` | 2D / 3D Button | 2D / 3D 按鈕 |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | 顯示在 2D 地圖與 3D 世界之間切換的按鈕。 |
+| `View the roadmap` | View the roadmap | 查看路線圖 |
+| `Click anywhere to close` | Click anywhere to close | 點擊任意位置關閉 |
+| `Tap anywhere to close` | Tap anywhere to close | 輕觸任意位置關閉 |
+| `Roadmap` | Roadmap | 路線圖 |
+| `3D World (beta)` | 3D World (beta) | 3D 世界（測試版） |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | 需要 Steam 上的支持者包。以 3D 顯示世界與戰鬥。 |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | 以 3D 顯示世界與戰鬥。拖曳或使用方向鍵旋轉及傾斜鏡頭，捲動滾輪或按 W 和 S 縮放。 |
+| `2D Sprite` | 2D Sprite | 2D 精靈圖 |
+| `3D Character` | 3D Character | 3D 角色 |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | 正在載入 3D 角色建立器... |
+| `The 3D creator could not load.` | The 3D creator could not load. | 3D 角色建立器無法載入。 |
+| `Loading the 3D character…` | Loading the 3D character… | 正在載入 3D 角色… |
+| `Run` | Run | 奔跑 |
+| `↩ Revert` | ↩ Revert | ↩ 還原 |
+| `✔ Saved` | ✔ Saved | ✔ 已儲存 |
+| `Saving…` | Saving… | 儲存中… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | 你的 3D 外觀會顯示在 3D 世界中（設定 > 3D 世界）。拖曳預覽即可旋轉角色。 |
+| `Male` | Male | 男性 |
+| `Female` | Female | 女性 |
+| `Clothes` | Clothes | 服裝 |
+| `Get the Supporter Pack` | Get the Supporter Pack | 取得支持者包 |
+| `Get the Wings Pack` | Get the Wings Pack | 取得翅膀包 |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | 正在試穿支持者包物品。需擁有此包才能儲存。 |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | 正在試穿翅膀包物品。需擁有此包才能儲存。 |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | 正在試穿支持者包與翅膀包物品。需同時擁有兩個包才能儲存。 |
+| `Skin` | Skin | 皮膚 |
+| `Eyes` | Eyes | 眼睛 |
+| `Beard` | Beard | 鬍鬚 |
+| `Brows` | Brows | 眉毛 |
+| `Underclothes` | Underclothes | 內襯 |
+| `Shoulders` | Shoulders | 肩部 |
+| `Chest` | Chest | 胸部 |
+| `Shirt` | Shirt | 襯衫 |
+| `Hand wraps` | Hand wraps | 纏手布 |
+| `Trousers` | Trousers | 長褲 |
+| `Boots` | Boots | 靴子 |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | 世界開啟前，正在載入所有內容 |
+| `Back to 2D` | Back to 2D | 返回 2D |
+| `The 3D world could not load.` | The 3D world could not load. | 3D 世界無法載入。 |
+| `Reading the map` | Reading the map | 讀取地圖 |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | 載入世界的 3D 模型 |
+| `Loading characters` | Loading characters | 載入角色 |
+| `Loading creatures` | Loading creatures | 載入生物 |
+| `Loading water and weather` | Loading water and weather | 載入水體與天氣 |
+| `Building the area around you` | Building the area around you | 建構你周圍的區域 |
+| `Preparing shaders` | Preparing shaders | 準備著色器 |
+| `Loading the area around you…` | Loading the area around you… | 正在載入你周圍的區域… |
+| `Blue` | Blue | 藍色 |
+| `Brown` | Brown | 棕色 |
+| `Green` | Green | 綠色 |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | 北境戰士，藍色 |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | 北境戰士，綠色 |
+| `Nordic Warrior, White` | Nordic Warrior, White | 北境戰士，白色 |
+| `Peasant 1, Blue` | Peasant 1, Blue | 農民 1，藍色 |
+| `Peasant 1, Brown` | Peasant 1, Brown | 農民 1，棕色 |
+| `Peasant 1, Red` | Peasant 1, Red | 農民 1，紅色 |
+| `Peasant 2, Blue` | Peasant 2, Blue | 農民 2，藍色 |
+| `Peasant 2, Brown` | Peasant 2, Brown | 農民 2，棕色 |
+| `Peasant 2, Red` | Peasant 2, Red | 農民 2，紅色 |
+| `Peasant 3, Blue` | Peasant 3, Blue | 農民 3，藍色 |
+| `Peasant 3, Brown` | Peasant 3, Brown | 農民 3，棕色 |
+| `Peasant 3, Red` | Peasant 3, Red | 農民 3，紅色 |
+| `Peasant, Blue` | Peasant, Blue | 農民，藍色 |
+| `Peasant, Brown` | Peasant, Brown | 農民，棕色 |
+| `Peasant, Red` | Peasant, Red | 農民，紅色 |
+| `Plain trousers` | Plain trousers | 素面長褲 |
+| `Purple` | Purple | 紫色 |
+| `Reaper, Blue` | Reaper, Blue | 死神，藍色 |
+| `Reaper, Cyan` | Reaper, Cyan | 死神，青色 |
+| `Reaper, Green` | Reaper, Green | 死神，綠色 |
+| `Sentinel, Gold` | Sentinel, Gold | 哨衛，金色 |
+| `Sentinel, Green` | Sentinel, Green | 哨衛，綠色 |
+| `Sentinel, Grey` | Sentinel, Grey | 哨衛，灰色 |
+| `Sentinel, Red` | Sentinel, Red | 哨衛，紅色 |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | 暗影法師 1，藍色 |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | 暗影法師 1，青色 |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | 暗影法師 1，紅色 |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | 暗影法師 2，藍色 |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | 暗影法師 2，青色 |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | 暗影法師 2，紅色 |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | 暗影法師 3，藍色 |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | 暗影法師 3，青色 |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | 暗影法師 3，紅色 |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | 暗影法師，藍色 |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | 暗影法師，青色 |
+| `Shadow Mage, Red` | Shadow Mage, Red | 暗影法師，紅色 |
+| `Style 1` | Style 1 | 樣式 1 |
+| `Style 1, Black` | Style 1, Black | 樣式 1，黑色 |
+| `Style 1, Blond` | Style 1, Blond | 樣式 1，淺金色 |
+| `Style 1, Brown` | Style 1, Brown | 樣式 1，棕色 |
+| `Style 1, Grey` | Style 1, Grey | 樣式 1，灰色 |
+| `Style 10, Black` | Style 10, Black | 樣式 10，黑色 |
+| `Style 10, Blond` | Style 10, Blond | 樣式 10，淺金色 |
+| `Style 10, Brown` | Style 10, Brown | 樣式 10，棕色 |
+| `Style 10, Grey` | Style 10, Grey | 樣式 10，灰色 |
+| `Style 2` | Style 2 | 樣式 2 |
+| `Style 2, Black` | Style 2, Black | 樣式 2，黑色 |
+| `Style 2, Blond` | Style 2, Blond | 樣式 2，淺金色 |
+| `Style 2, Brown` | Style 2, Brown | 樣式 2，棕色 |
+| `Style 2, Grey` | Style 2, Grey | 樣式 2，灰色 |
+| `Style 3` | Style 3 | 樣式 3 |
+| `Style 3, Black` | Style 3, Black | 樣式 3，黑色 |
+| `Style 3, Blond` | Style 3, Blond | 樣式 3，淺金色 |
+| `Style 3, Brown` | Style 3, Brown | 樣式 3，棕色 |
+| `Style 3, Grey` | Style 3, Grey | 樣式 3，灰色 |
+| `Style 4` | Style 4 | 樣式 4 |
+| `Style 4, Black` | Style 4, Black | 樣式 4，黑色 |
+| `Style 4, Blond` | Style 4, Blond | 樣式 4，淺金色 |
+| `Style 4, Brown` | Style 4, Brown | 樣式 4，棕色 |
+| `Style 4, Grey` | Style 4, Grey | 樣式 4，灰色 |
+| `Style 5` | Style 5 | 樣式 5 |
+| `Style 5, Black` | Style 5, Black | 樣式 5，黑色 |
+| `Style 5, Blond` | Style 5, Blond | 樣式 5，淺金色 |
+| `Style 5, Brown` | Style 5, Brown | 樣式 5，棕色 |
+| `Style 5, Grey` | Style 5, Grey | 樣式 5，灰色 |
+| `Style 6, Black` | Style 6, Black | 樣式 6，黑色 |
+| `Style 6, Blond` | Style 6, Blond | 樣式 6，淺金色 |
+| `Style 6, Brown` | Style 6, Brown | 樣式 6，棕色 |
+| `Style 6, Grey` | Style 6, Grey | 樣式 6，灰色 |
+| `Style 7, Black` | Style 7, Black | 樣式 7，黑色 |
+| `Style 7, Blond` | Style 7, Blond | 樣式 7，淺金色 |
+| `Style 7, Brown` | Style 7, Brown | 樣式 7，棕色 |
+| `Style 7, Grey` | Style 7, Grey | 樣式 7，灰色 |
+| `Style 8, Black` | Style 8, Black | 樣式 8，黑色 |
+| `Style 8, Blond` | Style 8, Blond | 樣式 8，淺金色 |
+| `Style 8, Brown` | Style 8, Brown | 樣式 8，棕色 |
+| `Style 8, Grey` | Style 8, Grey | 樣式 8，灰色 |
+| `Style 9, Black` | Style 9, Black | 樣式 9，黑色 |
+| `Style 9, Blond` | Style 9, Blond | 樣式 9，淺金色 |
+| `Style 9, Brown` | Style 9, Brown | 樣式 9，棕色 |
+| `Style 9, Grey` | Style 9, Grey | 樣式 9，灰色 |
+| `Thief 1, Black` | Thief 1, Black | 盜賊 1，黑色 |
+| `Thief 1, Brown` | Thief 1, Brown | 盜賊 1，棕色 |
+| `Thief 1, Green` | Thief 1, Green | 盜賊 1，綠色 |
+| `Thief 1, Red` | Thief 1, Red | 盜賊 1，紅色 |
+| `Thief 2, Black` | Thief 2, Black | 盜賊 2，黑色 |
+| `Thief 2, Brown` | Thief 2, Brown | 盜賊 2，棕色 |
+| `Thief 2, Green` | Thief 2, Green | 盜賊 2，綠色 |
+| `Thief 2, Red` | Thief 2, Red | 盜賊 2，紅色 |
+| `Thief 3, Black` | Thief 3, Black | 盜賊 3，黑色 |
+| `Thief 3, Brown` | Thief 3, Brown | 盜賊 3，棕色 |
+| `Thief 3, Green` | Thief 3, Green | 盜賊 3，綠色 |
+| `Thief 3, Red` | Thief 3, Red | 盜賊 3，紅色 |
+| `Thief, Black` | Thief, Black | 盜賊，黑色 |
+| `Thief, Brown` | Thief, Brown | 盜賊，棕色 |
+| `Thief, Green` | Thief, Green | 盜賊，綠色 |
+| `Thief, Red` | Thief, Red | 盜賊，紅色 |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | 探墓者 1，綠色 |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | 探墓者 1，紫色 |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | 探墓者 1，紅色 |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | 探墓者 1，白色 |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | 探墓者 2，綠色 |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | 探墓者 2，紫色 |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | 探墓者 2，紅色 |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | 探墓者 2，白色 |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | 探墓者，綠色 |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | 探墓者，紫色 |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | 探墓者，紅色 |
+| `Tomb Seeker, White` | Tomb Seeker, White | 探墓者，白色 |
+| `Tone 1` | Tone 1 | 膚色 1 |
+| `Tone 2` | Tone 2 | 膚色 2 |
+| `Tone 3` | Tone 3 | 膚色 3 |
+| `Tone 4` | Tone 4 | 膚色 4 |
+| `Tone 5` | Tone 5 | 膚色 5 |
+| `Tone 6` | Tone 6 | 膚色 6 |
+| `Wave hello` | Wave hello | 揮手 |
+| `Body and face` | Body and face | 身體與臉部 |

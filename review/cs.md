@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Objevování |
 
-## Lines to review (521)
+## Lines to review (697)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,179 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | +1 ŽB za jídlo a akci dovednosti |
 | `@f:runs` | runs | běhů |
 | `@f:run` | run | běh |
+| `3D World` | 3D World | 3D svět |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | Režim 3D je dostupný na Steamu s Balíčkem podporovatele. Klikni pro zobrazení na Steamu. |
+| `Switch to 2D` | Switch to 2D | Přepnout na 2D |
+| `Go back to the 2D map.` | Go back to the 2D map. | Návrat na 2D mapu. |
+| `Switch to 3D` | Switch to 3D | Přepnout na 3D |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | Zobrazí svět a boje ve 3D (beta). |
+| `2D / 3D Button` | 2D / 3D Button | Tlačítko 2D / 3D |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | Zobrazí tlačítko pro přepínání mezi 2D mapou a 3D světem. |
+| `View the roadmap` | View the roadmap | Zobrazit plán vývoje |
+| `Click anywhere to close` | Click anywhere to close | Klikni kamkoli pro zavření |
+| `Tap anywhere to close` | Tap anywhere to close | Klepni kamkoli pro zavření |
+| `Roadmap` | Roadmap | Plán vývoje |
+| `3D World (beta)` | 3D World (beta) | 3D svět (beta) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Vyžaduje Balíček podporovatele na Steamu. Zobrazí svět a boje ve 3D. |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | Zobrazí svět a boje ve 3D. Tažením nebo šipkami otáčíš a nakláníš kameru, kolečkem myši nebo klávesami W a S přibližuješ. |
+| `2D Sprite` | 2D Sprite | 2D sprite |
+| `3D Character` | 3D Character | 3D postava |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | Načítání 3D editoru postavy... |
+| `The 3D creator could not load.` | The 3D creator could not load. | 3D editor se nepodařilo načíst. |
+| `Loading the 3D character…` | Loading the 3D character… | Načítání 3D postavy… |
+| `Run` | Run | Běh |
+| `↩ Revert` | ↩ Revert | ↩ Vrátit |
+| `✔ Saved` | ✔ Saved | ✔ Uloženo |
+| `Saving…` | Saving… | Ukládání… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | Tvůj 3D vzhled se zobrazuje ve 3D světě (Nastavení > 3D svět). Tažením náhledu postavu otočíš. |
+| `Male` | Male | Mužský |
+| `Female` | Female | Ženský |
+| `Clothes` | Clothes | Oblečení |
+| `Get the Supporter Pack` | Get the Supporter Pack | Získat Balíček podporovatele |
+| `Get the Wings Pack` | Get the Wings Pack | Získat Balíček křídel |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | Zkoušíš si předměty z Balíčku podporovatele. Uložení vyžaduje balíček. |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | Zkoušíš si předměty z Balíčku křídel. Uložení vyžaduje balíček. |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | Zkoušíš si předměty z Balíčku podporovatele a Balíčku křídel. Uložení vyžaduje oba balíčky. |
+| `Skin` | Skin | Pleť |
+| `Eyes` | Eyes | Oči |
+| `Beard` | Beard | Vousy |
+| `Brows` | Brows | Obočí |
+| `Underclothes` | Underclothes | Spodní prádlo |
+| `Shoulders` | Shoulders | Ramena |
+| `Chest` | Chest | Hruď |
+| `Shirt` | Shirt | Košile |
+| `Hand wraps` | Hand wraps | Omotávky na ruce |
+| `Trousers` | Trousers | Kalhoty |
+| `Boots` | Boots | Boty |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | Načítáme vše, než se svět otevře |
+| `Back to 2D` | Back to 2D | Zpět do 2D |
+| `The 3D world could not load.` | The 3D world could not load. | 3D svět se nepodařilo načíst. |
+| `Reading the map` | Reading the map | Čtení mapy |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | Načítání 3D modelů světa |
+| `Loading characters` | Loading characters | Načítání postav |
+| `Loading creatures` | Loading creatures | Načítání tvorů |
+| `Loading water and weather` | Loading water and weather | Načítání vody a počasí |
+| `Building the area around you` | Building the area around you | Sestavování okolí |
+| `Preparing shaders` | Preparing shaders | Příprava shaderů |
+| `Loading the area around you…` | Loading the area around you… | Načítání okolí… |
+| `Blue` | Blue | Modrá |
+| `Brown` | Brown | Hnědá |
+| `Green` | Green | Zelená |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | Severský válečník, modrá |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | Severský válečník, zelená |
+| `Nordic Warrior, White` | Nordic Warrior, White | Severský válečník, bílá |
+| `Peasant 1, Blue` | Peasant 1, Blue | Sedlák 1, modrá |
+| `Peasant 1, Brown` | Peasant 1, Brown | Sedlák 1, hnědá |
+| `Peasant 1, Red` | Peasant 1, Red | Sedlák 1, červená |
+| `Peasant 2, Blue` | Peasant 2, Blue | Sedlák 2, modrá |
+| `Peasant 2, Brown` | Peasant 2, Brown | Sedlák 2, hnědá |
+| `Peasant 2, Red` | Peasant 2, Red | Sedlák 2, červená |
+| `Peasant 3, Blue` | Peasant 3, Blue | Sedlák 3, modrá |
+| `Peasant 3, Brown` | Peasant 3, Brown | Sedlák 3, hnědá |
+| `Peasant 3, Red` | Peasant 3, Red | Sedlák 3, červená |
+| `Peasant, Blue` | Peasant, Blue | Sedlák, modrá |
+| `Peasant, Brown` | Peasant, Brown | Sedlák, hnědá |
+| `Peasant, Red` | Peasant, Red | Sedlák, červená |
+| `Plain trousers` | Plain trousers | Obyčejné kalhoty |
+| `Purple` | Purple | Fialová |
+| `Reaper, Blue` | Reaper, Blue | Žnec, modrá |
+| `Reaper, Cyan` | Reaper, Cyan | Žnec, azurová |
+| `Reaper, Green` | Reaper, Green | Žnec, zelená |
+| `Sentinel, Gold` | Sentinel, Gold | Strážce, zlatá |
+| `Sentinel, Green` | Sentinel, Green | Strážce, zelená |
+| `Sentinel, Grey` | Sentinel, Grey | Strážce, šedá |
+| `Sentinel, Red` | Sentinel, Red | Strážce, červená |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | Mág stínů 1, modrá |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | Mág stínů 1, azurová |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | Mág stínů 1, červená |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | Mág stínů 2, modrá |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | Mág stínů 2, azurová |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | Mág stínů 2, červená |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | Mág stínů 3, modrá |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | Mág stínů 3, azurová |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | Mág stínů 3, červená |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | Mág stínů, modrá |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | Mág stínů, azurová |
+| `Shadow Mage, Red` | Shadow Mage, Red | Mág stínů, červená |
+| `Style 1` | Style 1 | Styl 1 |
+| `Style 1, Black` | Style 1, Black | Styl 1, černá |
+| `Style 1, Blond` | Style 1, Blond | Styl 1, blond |
+| `Style 1, Brown` | Style 1, Brown | Styl 1, hnědá |
+| `Style 1, Grey` | Style 1, Grey | Styl 1, šedá |
+| `Style 10, Black` | Style 10, Black | Styl 10, černá |
+| `Style 10, Blond` | Style 10, Blond | Styl 10, blond |
+| `Style 10, Brown` | Style 10, Brown | Styl 10, hnědá |
+| `Style 10, Grey` | Style 10, Grey | Styl 10, šedá |
+| `Style 2` | Style 2 | Styl 2 |
+| `Style 2, Black` | Style 2, Black | Styl 2, černá |
+| `Style 2, Blond` | Style 2, Blond | Styl 2, blond |
+| `Style 2, Brown` | Style 2, Brown | Styl 2, hnědá |
+| `Style 2, Grey` | Style 2, Grey | Styl 2, šedá |
+| `Style 3` | Style 3 | Styl 3 |
+| `Style 3, Black` | Style 3, Black | Styl 3, černá |
+| `Style 3, Blond` | Style 3, Blond | Styl 3, blond |
+| `Style 3, Brown` | Style 3, Brown | Styl 3, hnědá |
+| `Style 3, Grey` | Style 3, Grey | Styl 3, šedá |
+| `Style 4` | Style 4 | Styl 4 |
+| `Style 4, Black` | Style 4, Black | Styl 4, černá |
+| `Style 4, Blond` | Style 4, Blond | Styl 4, blond |
+| `Style 4, Brown` | Style 4, Brown | Styl 4, hnědá |
+| `Style 4, Grey` | Style 4, Grey | Styl 4, šedá |
+| `Style 5` | Style 5 | Styl 5 |
+| `Style 5, Black` | Style 5, Black | Styl 5, černá |
+| `Style 5, Blond` | Style 5, Blond | Styl 5, blond |
+| `Style 5, Brown` | Style 5, Brown | Styl 5, hnědá |
+| `Style 5, Grey` | Style 5, Grey | Styl 5, šedá |
+| `Style 6, Black` | Style 6, Black | Styl 6, černá |
+| `Style 6, Blond` | Style 6, Blond | Styl 6, blond |
+| `Style 6, Brown` | Style 6, Brown | Styl 6, hnědá |
+| `Style 6, Grey` | Style 6, Grey | Styl 6, šedá |
+| `Style 7, Black` | Style 7, Black | Styl 7, černá |
+| `Style 7, Blond` | Style 7, Blond | Styl 7, blond |
+| `Style 7, Brown` | Style 7, Brown | Styl 7, hnědá |
+| `Style 7, Grey` | Style 7, Grey | Styl 7, šedá |
+| `Style 8, Black` | Style 8, Black | Styl 8, černá |
+| `Style 8, Blond` | Style 8, Blond | Styl 8, blond |
+| `Style 8, Brown` | Style 8, Brown | Styl 8, hnědá |
+| `Style 8, Grey` | Style 8, Grey | Styl 8, šedá |
+| `Style 9, Black` | Style 9, Black | Styl 9, černá |
+| `Style 9, Blond` | Style 9, Blond | Styl 9, blond |
+| `Style 9, Brown` | Style 9, Brown | Styl 9, hnědá |
+| `Style 9, Grey` | Style 9, Grey | Styl 9, šedá |
+| `Thief 1, Black` | Thief 1, Black | Zloděj 1, černá |
+| `Thief 1, Brown` | Thief 1, Brown | Zloděj 1, hnědá |
+| `Thief 1, Green` | Thief 1, Green | Zloděj 1, zelená |
+| `Thief 1, Red` | Thief 1, Red | Zloděj 1, červená |
+| `Thief 2, Black` | Thief 2, Black | Zloděj 2, černá |
+| `Thief 2, Brown` | Thief 2, Brown | Zloděj 2, hnědá |
+| `Thief 2, Green` | Thief 2, Green | Zloděj 2, zelená |
+| `Thief 2, Red` | Thief 2, Red | Zloděj 2, červená |
+| `Thief 3, Black` | Thief 3, Black | Zloděj 3, černá |
+| `Thief 3, Brown` | Thief 3, Brown | Zloděj 3, hnědá |
+| `Thief 3, Green` | Thief 3, Green | Zloděj 3, zelená |
+| `Thief 3, Red` | Thief 3, Red | Zloděj 3, červená |
+| `Thief, Black` | Thief, Black | Zloděj, černá |
+| `Thief, Brown` | Thief, Brown | Zloděj, hnědá |
+| `Thief, Green` | Thief, Green | Zloděj, zelená |
+| `Thief, Red` | Thief, Red | Zloděj, červená |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | Hledač hrobek 1, zelená |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | Hledač hrobek 1, fialová |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | Hledač hrobek 1, červená |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | Hledač hrobek 1, bílá |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | Hledač hrobek 2, zelená |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | Hledač hrobek 2, fialová |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | Hledač hrobek 2, červená |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | Hledač hrobek 2, bílá |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | Hledač hrobek, zelená |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | Hledač hrobek, fialová |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | Hledač hrobek, červená |
+| `Tomb Seeker, White` | Tomb Seeker, White | Hledač hrobek, bílá |
+| `Tone 1` | Tone 1 | Odstín 1 |
+| `Tone 2` | Tone 2 | Odstín 2 |
+| `Tone 3` | Tone 3 | Odstín 3 |
+| `Tone 4` | Tone 4 | Odstín 4 |
+| `Tone 5` | Tone 5 | Odstín 5 |
+| `Tone 6` | Tone 6 | Odstín 6 |
+| `Wave hello` | Wave hello | Pozdrav |
+| `Body and face` | Body and face | Tělo a obličej |

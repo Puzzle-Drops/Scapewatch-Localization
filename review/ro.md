@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cântă |
 | Discover | Descoperire |
 
-## Lines to review (521)
+## Lines to review (697)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,179 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | +1 HP per hrană și acțiune de abilitate |
 | `@f:runs` | runs | runde |
 | `@f:run` | run | rundă |
+| `3D World` | 3D World | Lumea 3D |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | 3D este disponibil pe Steam cu Pachetul de susținător. Apasă pentru a-l vedea pe Steam. |
+| `Switch to 2D` | Switch to 2D | Treci la 2D |
+| `Go back to the 2D map.` | Go back to the 2D map. | Revino la harta 2D. |
+| `Switch to 3D` | Switch to 3D | Treci la 3D |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | Afișează lumea și luptele în 3D (beta). |
+| `2D / 3D Button` | 2D / 3D Button | Buton 2D / 3D |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | Afișează butonul care comută între harta 2D și Lumea 3D. |
+| `View the roadmap` | View the roadmap | Vezi foaia de parcurs |
+| `Click anywhere to close` | Click anywhere to close | Dă clic oriunde pentru a închide |
+| `Tap anywhere to close` | Tap anywhere to close | Atinge oriunde pentru a închide |
+| `Roadmap` | Roadmap | Foaie de parcurs |
+| `3D World (beta)` | 3D World (beta) | Lumea 3D (beta) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Necesită Pachetul de susținător pe Steam. Afișează lumea și luptele în 3D. |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | Afișează lumea și luptele în 3D. Trage sau folosește tastele săgeți pentru a roti și înclina camera, derulează sau folosește W și S pentru zoom. |
+| `2D Sprite` | 2D Sprite | Sprite 2D |
+| `3D Character` | 3D Character | Personaj 3D |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | Se încarcă editorul de personaj 3D... |
+| `The 3D creator could not load.` | The 3D creator could not load. | Editorul 3D nu s-a putut încărca. |
+| `Loading the 3D character…` | Loading the 3D character… | Se încarcă personajul 3D… |
+| `Run` | Run | Alergare |
+| `↩ Revert` | ↩ Revert | ↩ Anulează |
+| `✔ Saved` | ✔ Saved | ✔ Salvat |
+| `Saving…` | Saving… | Se salvează… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | Aspectul tău 3D apare în lumea 3D (Setări > Lumea 3D). Trage previzualizarea pentru a o roti. |
+| `Male` | Male | Masculin |
+| `Female` | Female | Feminin |
+| `Clothes` | Clothes | Haine |
+| `Get the Supporter Pack` | Get the Supporter Pack | Obține Pachetul de susținător |
+| `Get the Wings Pack` | Get the Wings Pack | Obține Pachetul de aripi |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | Probezi obiecte din Pachetul de susținător. Ca să salvezi, ai nevoie de pachet. |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | Probezi obiecte din Pachetul de aripi. Ca să salvezi, ai nevoie de pachet. |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | Probezi obiecte din Pachetul de susținător și din Pachetul de aripi. Ca să salvezi, ai nevoie de ambele pachete. |
+| `Skin` | Skin | Piele |
+| `Eyes` | Eyes | Ochi |
+| `Beard` | Beard | Barbă |
+| `Brows` | Brows | Sprâncene |
+| `Underclothes` | Underclothes | Lenjerie de corp |
+| `Shoulders` | Shoulders | Umeri |
+| `Chest` | Chest | Piept |
+| `Shirt` | Shirt | Cămașă |
+| `Hand wraps` | Hand wraps | Bandaje de mâini |
+| `Trousers` | Trousers | Pantaloni |
+| `Boots` | Boots | Cizme |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | Se încarcă totul înainte să se deschidă lumea |
+| `Back to 2D` | Back to 2D | Înapoi la 2D |
+| `The 3D world could not load.` | The 3D world could not load. | Lumea 3D nu s-a putut încărca. |
+| `Reading the map` | Reading the map | Se citește harta |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | Se încarcă modelele 3D ale lumii |
+| `Loading characters` | Loading characters | Se încarcă personajele |
+| `Loading creatures` | Loading creatures | Se încarcă creaturile |
+| `Loading water and weather` | Loading water and weather | Se încarcă apa și vremea |
+| `Building the area around you` | Building the area around you | Se construiește zona din jurul tău |
+| `Preparing shaders` | Preparing shaders | Se pregătesc shaderele |
+| `Loading the area around you…` | Loading the area around you… | Se încarcă zona din jurul tău… |
+| `Blue` | Blue | Albastru |
+| `Brown` | Brown | Maro |
+| `Green` | Green | Verde |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | Războinic nordic, Albastru |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | Războinic nordic, Verde |
+| `Nordic Warrior, White` | Nordic Warrior, White | Războinic nordic, Alb |
+| `Peasant 1, Blue` | Peasant 1, Blue | Țăran 1, Albastru |
+| `Peasant 1, Brown` | Peasant 1, Brown | Țăran 1, Maro |
+| `Peasant 1, Red` | Peasant 1, Red | Țăran 1, Roșu |
+| `Peasant 2, Blue` | Peasant 2, Blue | Țăran 2, Albastru |
+| `Peasant 2, Brown` | Peasant 2, Brown | Țăran 2, Maro |
+| `Peasant 2, Red` | Peasant 2, Red | Țăran 2, Roșu |
+| `Peasant 3, Blue` | Peasant 3, Blue | Țăran 3, Albastru |
+| `Peasant 3, Brown` | Peasant 3, Brown | Țăran 3, Maro |
+| `Peasant 3, Red` | Peasant 3, Red | Țăran 3, Roșu |
+| `Peasant, Blue` | Peasant, Blue | Țăran, Albastru |
+| `Peasant, Brown` | Peasant, Brown | Țăran, Maro |
+| `Peasant, Red` | Peasant, Red | Țăran, Roșu |
+| `Plain trousers` | Plain trousers | Pantaloni simpli |
+| `Purple` | Purple | Mov |
+| `Reaper, Blue` | Reaper, Blue | Secerător, Albastru |
+| `Reaper, Cyan` | Reaper, Cyan | Secerător, Cyan |
+| `Reaper, Green` | Reaper, Green | Secerător, Verde |
+| `Sentinel, Gold` | Sentinel, Gold | Santinelă, Aur |
+| `Sentinel, Green` | Sentinel, Green | Santinelă, Verde |
+| `Sentinel, Grey` | Sentinel, Grey | Santinelă, Gri |
+| `Sentinel, Red` | Sentinel, Red | Santinelă, Roșu |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | Mag al umbrelor 1, Albastru |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | Mag al umbrelor 1, Cyan |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | Mag al umbrelor 1, Roșu |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | Mag al umbrelor 2, Albastru |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | Mag al umbrelor 2, Cyan |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | Mag al umbrelor 2, Roșu |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | Mag al umbrelor 3, Albastru |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | Mag al umbrelor 3, Cyan |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | Mag al umbrelor 3, Roșu |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | Mag al umbrelor, Albastru |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | Mag al umbrelor, Cyan |
+| `Shadow Mage, Red` | Shadow Mage, Red | Mag al umbrelor, Roșu |
+| `Style 1` | Style 1 | Stil 1 |
+| `Style 1, Black` | Style 1, Black | Stil 1, Negru |
+| `Style 1, Blond` | Style 1, Blond | Stil 1, Blond |
+| `Style 1, Brown` | Style 1, Brown | Stil 1, Maro |
+| `Style 1, Grey` | Style 1, Grey | Stil 1, Gri |
+| `Style 10, Black` | Style 10, Black | Stil 10, Negru |
+| `Style 10, Blond` | Style 10, Blond | Stil 10, Blond |
+| `Style 10, Brown` | Style 10, Brown | Stil 10, Maro |
+| `Style 10, Grey` | Style 10, Grey | Stil 10, Gri |
+| `Style 2` | Style 2 | Stil 2 |
+| `Style 2, Black` | Style 2, Black | Stil 2, Negru |
+| `Style 2, Blond` | Style 2, Blond | Stil 2, Blond |
+| `Style 2, Brown` | Style 2, Brown | Stil 2, Maro |
+| `Style 2, Grey` | Style 2, Grey | Stil 2, Gri |
+| `Style 3` | Style 3 | Stil 3 |
+| `Style 3, Black` | Style 3, Black | Stil 3, Negru |
+| `Style 3, Blond` | Style 3, Blond | Stil 3, Blond |
+| `Style 3, Brown` | Style 3, Brown | Stil 3, Maro |
+| `Style 3, Grey` | Style 3, Grey | Stil 3, Gri |
+| `Style 4` | Style 4 | Stil 4 |
+| `Style 4, Black` | Style 4, Black | Stil 4, Negru |
+| `Style 4, Blond` | Style 4, Blond | Stil 4, Blond |
+| `Style 4, Brown` | Style 4, Brown | Stil 4, Maro |
+| `Style 4, Grey` | Style 4, Grey | Stil 4, Gri |
+| `Style 5` | Style 5 | Stil 5 |
+| `Style 5, Black` | Style 5, Black | Stil 5, Negru |
+| `Style 5, Blond` | Style 5, Blond | Stil 5, Blond |
+| `Style 5, Brown` | Style 5, Brown | Stil 5, Maro |
+| `Style 5, Grey` | Style 5, Grey | Stil 5, Gri |
+| `Style 6, Black` | Style 6, Black | Stil 6, Negru |
+| `Style 6, Blond` | Style 6, Blond | Stil 6, Blond |
+| `Style 6, Brown` | Style 6, Brown | Stil 6, Maro |
+| `Style 6, Grey` | Style 6, Grey | Stil 6, Gri |
+| `Style 7, Black` | Style 7, Black | Stil 7, Negru |
+| `Style 7, Blond` | Style 7, Blond | Stil 7, Blond |
+| `Style 7, Brown` | Style 7, Brown | Stil 7, Maro |
+| `Style 7, Grey` | Style 7, Grey | Stil 7, Gri |
+| `Style 8, Black` | Style 8, Black | Stil 8, Negru |
+| `Style 8, Blond` | Style 8, Blond | Stil 8, Blond |
+| `Style 8, Brown` | Style 8, Brown | Stil 8, Maro |
+| `Style 8, Grey` | Style 8, Grey | Stil 8, Gri |
+| `Style 9, Black` | Style 9, Black | Stil 9, Negru |
+| `Style 9, Blond` | Style 9, Blond | Stil 9, Blond |
+| `Style 9, Brown` | Style 9, Brown | Stil 9, Maro |
+| `Style 9, Grey` | Style 9, Grey | Stil 9, Gri |
+| `Thief 1, Black` | Thief 1, Black | Hoț 1, Negru |
+| `Thief 1, Brown` | Thief 1, Brown | Hoț 1, Maro |
+| `Thief 1, Green` | Thief 1, Green | Hoț 1, Verde |
+| `Thief 1, Red` | Thief 1, Red | Hoț 1, Roșu |
+| `Thief 2, Black` | Thief 2, Black | Hoț 2, Negru |
+| `Thief 2, Brown` | Thief 2, Brown | Hoț 2, Maro |
+| `Thief 2, Green` | Thief 2, Green | Hoț 2, Verde |
+| `Thief 2, Red` | Thief 2, Red | Hoț 2, Roșu |
+| `Thief 3, Black` | Thief 3, Black | Hoț 3, Negru |
+| `Thief 3, Brown` | Thief 3, Brown | Hoț 3, Maro |
+| `Thief 3, Green` | Thief 3, Green | Hoț 3, Verde |
+| `Thief 3, Red` | Thief 3, Red | Hoț 3, Roșu |
+| `Thief, Black` | Thief, Black | Hoț, Negru |
+| `Thief, Brown` | Thief, Brown | Hoț, Maro |
+| `Thief, Green` | Thief, Green | Hoț, Verde |
+| `Thief, Red` | Thief, Red | Hoț, Roșu |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | Căutător de morminte 1, Verde |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | Căutător de morminte 1, Mov |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | Căutător de morminte 1, Roșu |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | Căutător de morminte 1, Alb |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | Căutător de morminte 2, Verde |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | Căutător de morminte 2, Mov |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | Căutător de morminte 2, Roșu |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | Căutător de morminte 2, Alb |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | Căutător de morminte, Verde |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | Căutător de morminte, Mov |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | Căutător de morminte, Roșu |
+| `Tomb Seeker, White` | Tomb Seeker, White | Căutător de morminte, Alb |
+| `Tone 1` | Tone 1 | Nuanță 1 |
+| `Tone 2` | Tone 2 | Nuanță 2 |
+| `Tone 3` | Tone 3 | Nuanță 3 |
+| `Tone 4` | Tone 4 | Nuanță 4 |
+| `Tone 5` | Tone 5 | Nuanță 5 |
+| `Tone 6` | Tone 6 | Nuanță 6 |
+| `Wave hello` | Wave hello | Salutare |
+| `Body and face` | Body and face | Corp și față |

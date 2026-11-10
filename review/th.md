@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | กวี |
 | Discover | ค้นพบ |
 
-## Lines to review (521)
+## Lines to review (697)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,179 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | +1 HP ต่ออาหารและการกระทำทักษะ |
 | `@f:runs` | runs | รอบ |
 | `@f:run` | run | รอบ |
+| `3D World` | 3D World | โลก 3D |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | ใช้ 3D ได้บน Steam เมื่อมีแพ็คผู้สนับสนุน คลิกเพื่อดูบน Steam |
+| `Switch to 2D` | Switch to 2D | สลับเป็น 2D |
+| `Go back to the 2D map.` | Go back to the 2D map. | กลับไปที่แผนที่ 2D |
+| `Switch to 3D` | Switch to 3D | สลับเป็น 3D |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | แสดงโลกและการต่อสู้แบบ 3D (เบต้า) |
+| `2D / 3D Button` | 2D / 3D Button | ปุ่ม 2D / 3D |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | แสดงปุ่มสลับระหว่างแผนที่ 2D และโลก 3D |
+| `View the roadmap` | View the roadmap | ดูโรดแมป |
+| `Click anywhere to close` | Click anywhere to close | คลิกที่ใดก็ได้เพื่อปิด |
+| `Tap anywhere to close` | Tap anywhere to close | แตะที่ใดก็ได้เพื่อปิด |
+| `Roadmap` | Roadmap | โรดแมป |
+| `3D World (beta)` | 3D World (beta) | โลก 3D (เบต้า) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | ต้องมีแพ็คผู้สนับสนุนบน Steam แสดงโลกและการต่อสู้แบบ 3D |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | แสดงโลกและการต่อสู้แบบ 3D ลากหรือใช้ปุ่มลูกศรเพื่อหมุนและเอียงกล้อง เลื่อนล้อเมาส์หรือกด W และ S เพื่อซูม |
+| `2D Sprite` | 2D Sprite | สไปรท์ 2D |
+| `3D Character` | 3D Character | ตัวละคร 3D |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | กำลังโหลดระบบสร้างตัวละคร 3D... |
+| `The 3D creator could not load.` | The 3D creator could not load. | ไม่สามารถโหลดระบบสร้างตัวละคร 3D ได้ |
+| `Loading the 3D character…` | Loading the 3D character… | กำลังโหลดตัวละคร 3D… |
+| `Run` | Run | วิ่ง |
+| `↩ Revert` | ↩ Revert | ↩ ย้อนกลับ |
+| `✔ Saved` | ✔ Saved | ✔ บันทึกแล้ว |
+| `Saving…` | Saving… | กำลังบันทึก… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | รูปลักษณ์ 3D ของคุณจะแสดงในโลก 3D (การตั้งค่า > โลก 3D) ลากภาพตัวอย่างเพื่อหมุน |
+| `Male` | Male | ชาย |
+| `Female` | Female | หญิง |
+| `Clothes` | Clothes | เสื้อผ้า |
+| `Get the Supporter Pack` | Get the Supporter Pack | รับแพ็คผู้สนับสนุน |
+| `Get the Wings Pack` | Get the Wings Pack | รับแพ็คปีก |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | กำลังลองสวมไอเทมจากแพ็คผู้สนับสนุน ต้องมีแพ็คนี้จึงจะบันทึกได้ |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | กำลังลองสวมไอเทมจากแพ็คปีก ต้องมีแพ็คนี้จึงจะบันทึกได้ |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | กำลังลองสวมไอเทมจากแพ็คผู้สนับสนุนและแพ็คปีก ต้องมีทั้งสองแพ็คจึงจะบันทึกได้ |
+| `Skin` | Skin | ผิว |
+| `Eyes` | Eyes | ดวงตา |
+| `Beard` | Beard | เครา |
+| `Brows` | Brows | คิ้ว |
+| `Underclothes` | Underclothes | ชุดชั้นใน |
+| `Shoulders` | Shoulders | ไหล่ |
+| `Chest` | Chest | ลำตัว |
+| `Shirt` | Shirt | เสื้อ |
+| `Hand wraps` | Hand wraps | ผ้าพันมือ |
+| `Trousers` | Trousers | กางเกง |
+| `Boots` | Boots | รองเท้าบูท |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | กำลังโหลดทุกอย่างก่อนเปิดโลก |
+| `Back to 2D` | Back to 2D | กลับไป 2D |
+| `The 3D world could not load.` | The 3D world could not load. | ไม่สามารถโหลดโลก 3D ได้ |
+| `Reading the map` | Reading the map | กำลังอ่านแผนที่ |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | กำลังโหลดโมเดล 3D ของโลก |
+| `Loading characters` | Loading characters | กำลังโหลดตัวละคร |
+| `Loading creatures` | Loading creatures | กำลังโหลดสิ่งมีชีวิต |
+| `Loading water and weather` | Loading water and weather | กำลังโหลดน้ำและสภาพอากาศ |
+| `Building the area around you` | Building the area around you | กำลังสร้างพื้นที่รอบตัวคุณ |
+| `Preparing shaders` | Preparing shaders | กำลังเตรียมเชเดอร์ |
+| `Loading the area around you…` | Loading the area around you… | กำลังโหลดพื้นที่รอบตัวคุณ… |
+| `Blue` | Blue | สีน้ำเงิน |
+| `Brown` | Brown | สีน้ำตาล |
+| `Green` | Green | สีเขียว |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | นักรบแดนเหนือ, สีน้ำเงิน |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | นักรบแดนเหนือ, สีเขียว |
+| `Nordic Warrior, White` | Nordic Warrior, White | นักรบแดนเหนือ, สีขาว |
+| `Peasant 1, Blue` | Peasant 1, Blue | ชาวบ้าน 1, สีน้ำเงิน |
+| `Peasant 1, Brown` | Peasant 1, Brown | ชาวบ้าน 1, สีน้ำตาล |
+| `Peasant 1, Red` | Peasant 1, Red | ชาวบ้าน 1, สีแดง |
+| `Peasant 2, Blue` | Peasant 2, Blue | ชาวบ้าน 2, สีน้ำเงิน |
+| `Peasant 2, Brown` | Peasant 2, Brown | ชาวบ้าน 2, สีน้ำตาล |
+| `Peasant 2, Red` | Peasant 2, Red | ชาวบ้าน 2, สีแดง |
+| `Peasant 3, Blue` | Peasant 3, Blue | ชาวบ้าน 3, สีน้ำเงิน |
+| `Peasant 3, Brown` | Peasant 3, Brown | ชาวบ้าน 3, สีน้ำตาล |
+| `Peasant 3, Red` | Peasant 3, Red | ชาวบ้าน 3, สีแดง |
+| `Peasant, Blue` | Peasant, Blue | ชาวบ้าน, สีน้ำเงิน |
+| `Peasant, Brown` | Peasant, Brown | ชาวบ้าน, สีน้ำตาล |
+| `Peasant, Red` | Peasant, Red | ชาวบ้าน, สีแดง |
+| `Plain trousers` | Plain trousers | กางเกงธรรมดา |
+| `Purple` | Purple | สีม่วง |
+| `Reaper, Blue` | Reaper, Blue | ยมทูต, สีน้ำเงิน |
+| `Reaper, Cyan` | Reaper, Cyan | ยมทูต, สีฟ้าอมเขียว |
+| `Reaper, Green` | Reaper, Green | ยมทูต, สีเขียว |
+| `Sentinel, Gold` | Sentinel, Gold | ผู้พิทักษ์, สีทอง |
+| `Sentinel, Green` | Sentinel, Green | ผู้พิทักษ์, สีเขียว |
+| `Sentinel, Grey` | Sentinel, Grey | ผู้พิทักษ์, สีเทา |
+| `Sentinel, Red` | Sentinel, Red | ผู้พิทักษ์, สีแดง |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | จอมเวทเงา 1, สีน้ำเงิน |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | จอมเวทเงา 1, สีฟ้าอมเขียว |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | จอมเวทเงา 1, สีแดง |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | จอมเวทเงา 2, สีน้ำเงิน |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | จอมเวทเงา 2, สีฟ้าอมเขียว |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | จอมเวทเงา 2, สีแดง |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | จอมเวทเงา 3, สีน้ำเงิน |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | จอมเวทเงา 3, สีฟ้าอมเขียว |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | จอมเวทเงา 3, สีแดง |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | จอมเวทเงา, สีน้ำเงิน |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | จอมเวทเงา, สีฟ้าอมเขียว |
+| `Shadow Mage, Red` | Shadow Mage, Red | จอมเวทเงา, สีแดง |
+| `Style 1` | Style 1 | สไตล์ 1 |
+| `Style 1, Black` | Style 1, Black | สไตล์ 1, สีดำ |
+| `Style 1, Blond` | Style 1, Blond | สไตล์ 1, สีบลอนด์ |
+| `Style 1, Brown` | Style 1, Brown | สไตล์ 1, สีน้ำตาล |
+| `Style 1, Grey` | Style 1, Grey | สไตล์ 1, สีเทา |
+| `Style 10, Black` | Style 10, Black | สไตล์ 10, สีดำ |
+| `Style 10, Blond` | Style 10, Blond | สไตล์ 10, สีบลอนด์ |
+| `Style 10, Brown` | Style 10, Brown | สไตล์ 10, สีน้ำตาล |
+| `Style 10, Grey` | Style 10, Grey | สไตล์ 10, สีเทา |
+| `Style 2` | Style 2 | สไตล์ 2 |
+| `Style 2, Black` | Style 2, Black | สไตล์ 2, สีดำ |
+| `Style 2, Blond` | Style 2, Blond | สไตล์ 2, สีบลอนด์ |
+| `Style 2, Brown` | Style 2, Brown | สไตล์ 2, สีน้ำตาล |
+| `Style 2, Grey` | Style 2, Grey | สไตล์ 2, สีเทา |
+| `Style 3` | Style 3 | สไตล์ 3 |
+| `Style 3, Black` | Style 3, Black | สไตล์ 3, สีดำ |
+| `Style 3, Blond` | Style 3, Blond | สไตล์ 3, สีบลอนด์ |
+| `Style 3, Brown` | Style 3, Brown | สไตล์ 3, สีน้ำตาล |
+| `Style 3, Grey` | Style 3, Grey | สไตล์ 3, สีเทา |
+| `Style 4` | Style 4 | สไตล์ 4 |
+| `Style 4, Black` | Style 4, Black | สไตล์ 4, สีดำ |
+| `Style 4, Blond` | Style 4, Blond | สไตล์ 4, สีบลอนด์ |
+| `Style 4, Brown` | Style 4, Brown | สไตล์ 4, สีน้ำตาล |
+| `Style 4, Grey` | Style 4, Grey | สไตล์ 4, สีเทา |
+| `Style 5` | Style 5 | สไตล์ 5 |
+| `Style 5, Black` | Style 5, Black | สไตล์ 5, สีดำ |
+| `Style 5, Blond` | Style 5, Blond | สไตล์ 5, สีบลอนด์ |
+| `Style 5, Brown` | Style 5, Brown | สไตล์ 5, สีน้ำตาล |
+| `Style 5, Grey` | Style 5, Grey | สไตล์ 5, สีเทา |
+| `Style 6, Black` | Style 6, Black | สไตล์ 6, สีดำ |
+| `Style 6, Blond` | Style 6, Blond | สไตล์ 6, สีบลอนด์ |
+| `Style 6, Brown` | Style 6, Brown | สไตล์ 6, สีน้ำตาล |
+| `Style 6, Grey` | Style 6, Grey | สไตล์ 6, สีเทา |
+| `Style 7, Black` | Style 7, Black | สไตล์ 7, สีดำ |
+| `Style 7, Blond` | Style 7, Blond | สไตล์ 7, สีบลอนด์ |
+| `Style 7, Brown` | Style 7, Brown | สไตล์ 7, สีน้ำตาล |
+| `Style 7, Grey` | Style 7, Grey | สไตล์ 7, สีเทา |
+| `Style 8, Black` | Style 8, Black | สไตล์ 8, สีดำ |
+| `Style 8, Blond` | Style 8, Blond | สไตล์ 8, สีบลอนด์ |
+| `Style 8, Brown` | Style 8, Brown | สไตล์ 8, สีน้ำตาล |
+| `Style 8, Grey` | Style 8, Grey | สไตล์ 8, สีเทา |
+| `Style 9, Black` | Style 9, Black | สไตล์ 9, สีดำ |
+| `Style 9, Blond` | Style 9, Blond | สไตล์ 9, สีบลอนด์ |
+| `Style 9, Brown` | Style 9, Brown | สไตล์ 9, สีน้ำตาล |
+| `Style 9, Grey` | Style 9, Grey | สไตล์ 9, สีเทา |
+| `Thief 1, Black` | Thief 1, Black | โจร 1, สีดำ |
+| `Thief 1, Brown` | Thief 1, Brown | โจร 1, สีน้ำตาล |
+| `Thief 1, Green` | Thief 1, Green | โจร 1, สีเขียว |
+| `Thief 1, Red` | Thief 1, Red | โจร 1, สีแดง |
+| `Thief 2, Black` | Thief 2, Black | โจร 2, สีดำ |
+| `Thief 2, Brown` | Thief 2, Brown | โจร 2, สีน้ำตาล |
+| `Thief 2, Green` | Thief 2, Green | โจร 2, สีเขียว |
+| `Thief 2, Red` | Thief 2, Red | โจร 2, สีแดง |
+| `Thief 3, Black` | Thief 3, Black | โจร 3, สีดำ |
+| `Thief 3, Brown` | Thief 3, Brown | โจร 3, สีน้ำตาล |
+| `Thief 3, Green` | Thief 3, Green | โจร 3, สีเขียว |
+| `Thief 3, Red` | Thief 3, Red | โจร 3, สีแดง |
+| `Thief, Black` | Thief, Black | โจร, สีดำ |
+| `Thief, Brown` | Thief, Brown | โจร, สีน้ำตาล |
+| `Thief, Green` | Thief, Green | โจร, สีเขียว |
+| `Thief, Red` | Thief, Red | โจร, สีแดง |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | นักสำรวจสุสาน 1, สีเขียว |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | นักสำรวจสุสาน 1, สีม่วง |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | นักสำรวจสุสาน 1, สีแดง |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | นักสำรวจสุสาน 1, สีขาว |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | นักสำรวจสุสาน 2, สีเขียว |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | นักสำรวจสุสาน 2, สีม่วง |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | นักสำรวจสุสาน 2, สีแดง |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | นักสำรวจสุสาน 2, สีขาว |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | นักสำรวจสุสาน, สีเขียว |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | นักสำรวจสุสาน, สีม่วง |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | นักสำรวจสุสาน, สีแดง |
+| `Tomb Seeker, White` | Tomb Seeker, White | นักสำรวจสุสาน, สีขาว |
+| `Tone 1` | Tone 1 | โทน 1 |
+| `Tone 2` | Tone 2 | โทน 2 |
+| `Tone 3` | Tone 3 | โทน 3 |
+| `Tone 4` | Tone 4 | โทน 4 |
+| `Tone 5` | Tone 5 | โทน 5 |
+| `Tone 6` | Tone 6 | โทน 6 |
+| `Wave hello` | Wave hello | โบกมือ |
+| `Body and face` | Body and face | ร่างกายและใบหน้า |

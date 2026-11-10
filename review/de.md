@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Entdecken |
 
-## Lines to review (521)
+## Lines to review (697)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,179 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | +1 HP pro Nahrung und Fertigkeitsaktion |
 | `@f:runs` | runs | Durchläufe |
 | `@f:run` | run | Durchlauf |
+| `3D World` | 3D World | 3D-Welt |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | 3D gibt es auf Steam mit dem Supporter-Pack. Klicke, um es auf Steam anzusehen. |
+| `Switch to 2D` | Switch to 2D | Zu 2D wechseln |
+| `Go back to the 2D map.` | Go back to the 2D map. | Zurück zur 2D-Karte. |
+| `Switch to 3D` | Switch to 3D | Zu 3D wechseln |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | Zeigt die Welt und Kämpfe in 3D (Beta). |
+| `2D / 3D Button` | 2D / 3D Button | 2D/3D-Schaltfläche |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | Zeigt die Schaltfläche, die zwischen der 2D-Karte und der 3D-Welt wechselt. |
+| `View the roadmap` | View the roadmap | Roadmap ansehen |
+| `Click anywhere to close` | Click anywhere to close | Zum Schließen irgendwo klicken |
+| `Tap anywhere to close` | Tap anywhere to close | Zum Schließen irgendwo tippen |
+| `Roadmap` | Roadmap | Roadmap |
+| `3D World (beta)` | 3D World (beta) | 3D-Welt (Beta) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Erfordert das Supporter-Pack auf Steam. Zeigt die Welt und Kämpfe in 3D. |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | Zeigt die Welt und Kämpfe in 3D. Ziehe oder nutze die Pfeiltasten, um die Kamera zu drehen und zu neigen, scrolle oder nutze W und S zum Zoomen. |
+| `2D Sprite` | 2D Sprite | 2D-Sprite |
+| `3D Character` | 3D Character | 3D-Charakter |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | Lade den 3D-Charaktereditor... |
+| `The 3D creator could not load.` | The 3D creator could not load. | Der 3D-Editor konnte nicht geladen werden. |
+| `Loading the 3D character…` | Loading the 3D character… | Lade den 3D-Charakter… |
+| `Run` | Run | Laufen |
+| `↩ Revert` | ↩ Revert | ↩ Rückgängig |
+| `✔ Saved` | ✔ Saved | ✔ Gespeichert |
+| `Saving…` | Saving… | Speichere… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | Dein 3D-Aussehen erscheint in der 3D-Welt (Einstellungen > 3D-Welt). Ziehe die Vorschau, um sie zu drehen. |
+| `Male` | Male | Männlich |
+| `Female` | Female | Weiblich |
+| `Clothes` | Clothes | Kleidung |
+| `Get the Supporter Pack` | Get the Supporter Pack | Supporter-Pack holen |
+| `Get the Wings Pack` | Get the Wings Pack | Flügel-Pack holen |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | Du probierst Gegenstände aus dem Supporter-Pack an. Zum Speichern brauchst du das Pack. |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | Du probierst Gegenstände aus dem Flügel-Pack an. Zum Speichern brauchst du das Pack. |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | Du probierst Gegenstände aus dem Supporter-Pack und dem Flügel-Pack an. Zum Speichern brauchst du beide Packs. |
+| `Skin` | Skin | Haut |
+| `Eyes` | Eyes | Augen |
+| `Beard` | Beard | Bart |
+| `Brows` | Brows | Augenbrauen |
+| `Underclothes` | Underclothes | Unterwäsche |
+| `Shoulders` | Shoulders | Schultern |
+| `Chest` | Chest | Brust |
+| `Shirt` | Shirt | Hemd |
+| `Hand wraps` | Hand wraps | Handbandagen |
+| `Trousers` | Trousers | Hose |
+| `Boots` | Boots | Stiefel |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | Lade alles, bevor sich die Welt öffnet |
+| `Back to 2D` | Back to 2D | Zurück zu 2D |
+| `The 3D world could not load.` | The 3D world could not load. | Die 3D-Welt konnte nicht geladen werden. |
+| `Reading the map` | Reading the map | Lese die Karte |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | Lade die 3D-Modelle der Welt |
+| `Loading characters` | Loading characters | Lade Charaktere |
+| `Loading creatures` | Loading creatures | Lade Kreaturen |
+| `Loading water and weather` | Loading water and weather | Lade Wasser und Wetter |
+| `Building the area around you` | Building the area around you | Baue die Umgebung auf |
+| `Preparing shaders` | Preparing shaders | Bereite Shader vor |
+| `Loading the area around you…` | Loading the area around you… | Lade die Umgebung… |
+| `Blue` | Blue | Blau |
+| `Brown` | Brown | Braun |
+| `Green` | Green | Grün |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | Nordischer Krieger, Blau |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | Nordischer Krieger, Grün |
+| `Nordic Warrior, White` | Nordic Warrior, White | Nordischer Krieger, Weiß |
+| `Peasant 1, Blue` | Peasant 1, Blue | Bauer 1, Blau |
+| `Peasant 1, Brown` | Peasant 1, Brown | Bauer 1, Braun |
+| `Peasant 1, Red` | Peasant 1, Red | Bauer 1, Rot |
+| `Peasant 2, Blue` | Peasant 2, Blue | Bauer 2, Blau |
+| `Peasant 2, Brown` | Peasant 2, Brown | Bauer 2, Braun |
+| `Peasant 2, Red` | Peasant 2, Red | Bauer 2, Rot |
+| `Peasant 3, Blue` | Peasant 3, Blue | Bauer 3, Blau |
+| `Peasant 3, Brown` | Peasant 3, Brown | Bauer 3, Braun |
+| `Peasant 3, Red` | Peasant 3, Red | Bauer 3, Rot |
+| `Peasant, Blue` | Peasant, Blue | Bauer, Blau |
+| `Peasant, Brown` | Peasant, Brown | Bauer, Braun |
+| `Peasant, Red` | Peasant, Red | Bauer, Rot |
+| `Plain trousers` | Plain trousers | Schlichte Hose |
+| `Purple` | Purple | Lila |
+| `Reaper, Blue` | Reaper, Blue | Schnitter, Blau |
+| `Reaper, Cyan` | Reaper, Cyan | Schnitter, Cyan |
+| `Reaper, Green` | Reaper, Green | Schnitter, Grün |
+| `Sentinel, Gold` | Sentinel, Gold | Wächter, Gold |
+| `Sentinel, Green` | Sentinel, Green | Wächter, Grün |
+| `Sentinel, Grey` | Sentinel, Grey | Wächter, Grau |
+| `Sentinel, Red` | Sentinel, Red | Wächter, Rot |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | Schattenmagier 1, Blau |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | Schattenmagier 1, Cyan |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | Schattenmagier 1, Rot |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | Schattenmagier 2, Blau |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | Schattenmagier 2, Cyan |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | Schattenmagier 2, Rot |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | Schattenmagier 3, Blau |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | Schattenmagier 3, Cyan |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | Schattenmagier 3, Rot |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | Schattenmagier, Blau |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | Schattenmagier, Cyan |
+| `Shadow Mage, Red` | Shadow Mage, Red | Schattenmagier, Rot |
+| `Style 1` | Style 1 | Stil 1 |
+| `Style 1, Black` | Style 1, Black | Stil 1, Schwarz |
+| `Style 1, Blond` | Style 1, Blond | Stil 1, Blond |
+| `Style 1, Brown` | Style 1, Brown | Stil 1, Braun |
+| `Style 1, Grey` | Style 1, Grey | Stil 1, Grau |
+| `Style 10, Black` | Style 10, Black | Stil 10, Schwarz |
+| `Style 10, Blond` | Style 10, Blond | Stil 10, Blond |
+| `Style 10, Brown` | Style 10, Brown | Stil 10, Braun |
+| `Style 10, Grey` | Style 10, Grey | Stil 10, Grau |
+| `Style 2` | Style 2 | Stil 2 |
+| `Style 2, Black` | Style 2, Black | Stil 2, Schwarz |
+| `Style 2, Blond` | Style 2, Blond | Stil 2, Blond |
+| `Style 2, Brown` | Style 2, Brown | Stil 2, Braun |
+| `Style 2, Grey` | Style 2, Grey | Stil 2, Grau |
+| `Style 3` | Style 3 | Stil 3 |
+| `Style 3, Black` | Style 3, Black | Stil 3, Schwarz |
+| `Style 3, Blond` | Style 3, Blond | Stil 3, Blond |
+| `Style 3, Brown` | Style 3, Brown | Stil 3, Braun |
+| `Style 3, Grey` | Style 3, Grey | Stil 3, Grau |
+| `Style 4` | Style 4 | Stil 4 |
+| `Style 4, Black` | Style 4, Black | Stil 4, Schwarz |
+| `Style 4, Blond` | Style 4, Blond | Stil 4, Blond |
+| `Style 4, Brown` | Style 4, Brown | Stil 4, Braun |
+| `Style 4, Grey` | Style 4, Grey | Stil 4, Grau |
+| `Style 5` | Style 5 | Stil 5 |
+| `Style 5, Black` | Style 5, Black | Stil 5, Schwarz |
+| `Style 5, Blond` | Style 5, Blond | Stil 5, Blond |
+| `Style 5, Brown` | Style 5, Brown | Stil 5, Braun |
+| `Style 5, Grey` | Style 5, Grey | Stil 5, Grau |
+| `Style 6, Black` | Style 6, Black | Stil 6, Schwarz |
+| `Style 6, Blond` | Style 6, Blond | Stil 6, Blond |
+| `Style 6, Brown` | Style 6, Brown | Stil 6, Braun |
+| `Style 6, Grey` | Style 6, Grey | Stil 6, Grau |
+| `Style 7, Black` | Style 7, Black | Stil 7, Schwarz |
+| `Style 7, Blond` | Style 7, Blond | Stil 7, Blond |
+| `Style 7, Brown` | Style 7, Brown | Stil 7, Braun |
+| `Style 7, Grey` | Style 7, Grey | Stil 7, Grau |
+| `Style 8, Black` | Style 8, Black | Stil 8, Schwarz |
+| `Style 8, Blond` | Style 8, Blond | Stil 8, Blond |
+| `Style 8, Brown` | Style 8, Brown | Stil 8, Braun |
+| `Style 8, Grey` | Style 8, Grey | Stil 8, Grau |
+| `Style 9, Black` | Style 9, Black | Stil 9, Schwarz |
+| `Style 9, Blond` | Style 9, Blond | Stil 9, Blond |
+| `Style 9, Brown` | Style 9, Brown | Stil 9, Braun |
+| `Style 9, Grey` | Style 9, Grey | Stil 9, Grau |
+| `Thief 1, Black` | Thief 1, Black | Dieb 1, Schwarz |
+| `Thief 1, Brown` | Thief 1, Brown | Dieb 1, Braun |
+| `Thief 1, Green` | Thief 1, Green | Dieb 1, Grün |
+| `Thief 1, Red` | Thief 1, Red | Dieb 1, Rot |
+| `Thief 2, Black` | Thief 2, Black | Dieb 2, Schwarz |
+| `Thief 2, Brown` | Thief 2, Brown | Dieb 2, Braun |
+| `Thief 2, Green` | Thief 2, Green | Dieb 2, Grün |
+| `Thief 2, Red` | Thief 2, Red | Dieb 2, Rot |
+| `Thief 3, Black` | Thief 3, Black | Dieb 3, Schwarz |
+| `Thief 3, Brown` | Thief 3, Brown | Dieb 3, Braun |
+| `Thief 3, Green` | Thief 3, Green | Dieb 3, Grün |
+| `Thief 3, Red` | Thief 3, Red | Dieb 3, Rot |
+| `Thief, Black` | Thief, Black | Dieb, Schwarz |
+| `Thief, Brown` | Thief, Brown | Dieb, Braun |
+| `Thief, Green` | Thief, Green | Dieb, Grün |
+| `Thief, Red` | Thief, Red | Dieb, Rot |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | Grabsucher 1, Grün |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | Grabsucher 1, Lila |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | Grabsucher 1, Rot |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | Grabsucher 1, Weiß |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | Grabsucher 2, Grün |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | Grabsucher 2, Lila |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | Grabsucher 2, Rot |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | Grabsucher 2, Weiß |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | Grabsucher, Grün |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | Grabsucher, Lila |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | Grabsucher, Rot |
+| `Tomb Seeker, White` | Tomb Seeker, White | Grabsucher, Weiß |
+| `Tone 1` | Tone 1 | Ton 1 |
+| `Tone 2` | Tone 2 | Ton 2 |
+| `Tone 3` | Tone 3 | Ton 3 |
+| `Tone 4` | Tone 4 | Ton 4 |
+| `Tone 5` | Tone 5 | Ton 5 |
+| `Tone 6` | Tone 6 | Ton 6 |
+| `Wave hello` | Wave hello | Winken |
+| `Body and face` | Body and face | Körper und Gesicht |

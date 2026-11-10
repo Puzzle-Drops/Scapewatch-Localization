@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardi |
 | Discover | Tutki |
 
-## Lines to review (521)
+## Lines to review (697)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,179 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | +1 HP per ruoka ja taitotoiminto |
 | `@f:runs` | runs | suoritusta |
 | `@f:run` | run | suoritus |
+| `3D World` | 3D World | 3D-maailma |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | 3D on saatavilla Steamissa Tukijapaketin kanssa. Napsauta nähdäksesi sen Steamissa. |
+| `Switch to 2D` | Switch to 2D | Vaihda 2D:hen |
+| `Go back to the 2D map.` | Go back to the 2D map. | Palaa 2D-karttaan. |
+| `Switch to 3D` | Switch to 3D | Vaihda 3D:hen |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | Näytä maailma ja taistelut 3D:nä (beta). |
+| `2D / 3D Button` | 2D / 3D Button | 2D / 3D -painike |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | Näytä painike, joka vaihtaa 2D-kartan ja 3D-maailman välillä. |
+| `View the roadmap` | View the roadmap | Näytä tiekartta |
+| `Click anywhere to close` | Click anywhere to close | Napsauta mihin tahansa sulkeaksesi |
+| `Tap anywhere to close` | Tap anywhere to close | Napauta mihin tahansa sulkeaksesi |
+| `Roadmap` | Roadmap | Tiekartta |
+| `3D World (beta)` | 3D World (beta) | 3D-maailma (beta) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Vaatii Tukijapaketin Steamissa. Näyttää maailman ja taistelut 3D:nä. |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | Näytä maailma ja taistelut 3D:nä. Käännä ja kallista kameraa vetämällä tai nuolinäppäimillä, zoomaa vierittämällä tai W- ja S-näppäimillä. |
+| `2D Sprite` | 2D Sprite | 2D-sprite |
+| `3D Character` | 3D Character | 3D-hahmo |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | Ladataan 3D-hahmoeditoria... |
+| `The 3D creator could not load.` | The 3D creator could not load. | 3D-hahmoeditoria ei voitu ladata. |
+| `Loading the 3D character…` | Loading the 3D character… | Ladataan 3D-hahmoa… |
+| `Run` | Run | Juokse |
+| `↩ Revert` | ↩ Revert | ↩ Kumoa |
+| `✔ Saved` | ✔ Saved | ✔ Tallennettu |
+| `Saving…` | Saving… | Tallennetaan… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | 3D-ulkonäkösi näkyy 3D-maailmassa (Asetukset > 3D-maailma). Käännä esikatselua vetämällä. |
+| `Male` | Male | Mies |
+| `Female` | Female | Nainen |
+| `Clothes` | Clothes | Vaatteet |
+| `Get the Supporter Pack` | Get the Supporter Pack | Hanki Tukijapaketti |
+| `Get the Wings Pack` | Get the Wings Pack | Hanki Siipipaketti |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | Kokeilet Tukijapaketin esineitä. Tallentaminen vaatii paketin. |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | Kokeilet Siipipaketin esineitä. Tallentaminen vaatii paketin. |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | Kokeilet Tukijapaketin ja Siipipaketin esineitä. Tallentaminen vaatii molemmat paketit. |
+| `Skin` | Skin | Iho |
+| `Eyes` | Eyes | Silmät |
+| `Beard` | Beard | Parta |
+| `Brows` | Brows | Kulmakarvat |
+| `Underclothes` | Underclothes | Alusvaatteet |
+| `Shoulders` | Shoulders | Olkapäät |
+| `Chest` | Chest | Ylävartalo |
+| `Shirt` | Shirt | Paita |
+| `Hand wraps` | Hand wraps | Käsikääreet |
+| `Trousers` | Trousers | Housut |
+| `Boots` | Boots | Saappaat |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | Ladataan kaikki ennen maailman avautumista |
+| `Back to 2D` | Back to 2D | Takaisin 2D:hen |
+| `The 3D world could not load.` | The 3D world could not load. | 3D-maailmaa ei voitu ladata. |
+| `Reading the map` | Reading the map | Luetaan karttaa |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | Ladataan maailman 3D-malleja |
+| `Loading characters` | Loading characters | Ladataan hahmoja |
+| `Loading creatures` | Loading creatures | Ladataan olentoja |
+| `Loading water and weather` | Loading water and weather | Ladataan vettä ja säätä |
+| `Building the area around you` | Building the area around you | Rakennetaan ympäröivää aluetta |
+| `Preparing shaders` | Preparing shaders | Valmistellaan varjostimia |
+| `Loading the area around you…` | Loading the area around you… | Ladataan ympäröivää aluetta… |
+| `Blue` | Blue | Sininen |
+| `Brown` | Brown | Ruskea |
+| `Green` | Green | Vihreä |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | Pohjolan soturi, sininen |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | Pohjolan soturi, vihreä |
+| `Nordic Warrior, White` | Nordic Warrior, White | Pohjolan soturi, valkoinen |
+| `Peasant 1, Blue` | Peasant 1, Blue | Talonpoika 1, sininen |
+| `Peasant 1, Brown` | Peasant 1, Brown | Talonpoika 1, ruskea |
+| `Peasant 1, Red` | Peasant 1, Red | Talonpoika 1, punainen |
+| `Peasant 2, Blue` | Peasant 2, Blue | Talonpoika 2, sininen |
+| `Peasant 2, Brown` | Peasant 2, Brown | Talonpoika 2, ruskea |
+| `Peasant 2, Red` | Peasant 2, Red | Talonpoika 2, punainen |
+| `Peasant 3, Blue` | Peasant 3, Blue | Talonpoika 3, sininen |
+| `Peasant 3, Brown` | Peasant 3, Brown | Talonpoika 3, ruskea |
+| `Peasant 3, Red` | Peasant 3, Red | Talonpoika 3, punainen |
+| `Peasant, Blue` | Peasant, Blue | Talonpoika, sininen |
+| `Peasant, Brown` | Peasant, Brown | Talonpoika, ruskea |
+| `Peasant, Red` | Peasant, Red | Talonpoika, punainen |
+| `Plain trousers` | Plain trousers | Tavalliset housut |
+| `Purple` | Purple | Violetti |
+| `Reaper, Blue` | Reaper, Blue | Viikatemies, sininen |
+| `Reaper, Cyan` | Reaper, Cyan | Viikatemies, syaani |
+| `Reaper, Green` | Reaper, Green | Viikatemies, vihreä |
+| `Sentinel, Gold` | Sentinel, Gold | Vartija, kulta |
+| `Sentinel, Green` | Sentinel, Green | Vartija, vihreä |
+| `Sentinel, Grey` | Sentinel, Grey | Vartija, harmaa |
+| `Sentinel, Red` | Sentinel, Red | Vartija, punainen |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | Varjomaagi 1, sininen |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | Varjomaagi 1, syaani |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | Varjomaagi 1, punainen |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | Varjomaagi 2, sininen |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | Varjomaagi 2, syaani |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | Varjomaagi 2, punainen |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | Varjomaagi 3, sininen |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | Varjomaagi 3, syaani |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | Varjomaagi 3, punainen |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | Varjomaagi, sininen |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | Varjomaagi, syaani |
+| `Shadow Mage, Red` | Shadow Mage, Red | Varjomaagi, punainen |
+| `Style 1` | Style 1 | Tyyli 1 |
+| `Style 1, Black` | Style 1, Black | Tyyli 1, musta |
+| `Style 1, Blond` | Style 1, Blond | Tyyli 1, vaalea |
+| `Style 1, Brown` | Style 1, Brown | Tyyli 1, ruskea |
+| `Style 1, Grey` | Style 1, Grey | Tyyli 1, harmaa |
+| `Style 10, Black` | Style 10, Black | Tyyli 10, musta |
+| `Style 10, Blond` | Style 10, Blond | Tyyli 10, vaalea |
+| `Style 10, Brown` | Style 10, Brown | Tyyli 10, ruskea |
+| `Style 10, Grey` | Style 10, Grey | Tyyli 10, harmaa |
+| `Style 2` | Style 2 | Tyyli 2 |
+| `Style 2, Black` | Style 2, Black | Tyyli 2, musta |
+| `Style 2, Blond` | Style 2, Blond | Tyyli 2, vaalea |
+| `Style 2, Brown` | Style 2, Brown | Tyyli 2, ruskea |
+| `Style 2, Grey` | Style 2, Grey | Tyyli 2, harmaa |
+| `Style 3` | Style 3 | Tyyli 3 |
+| `Style 3, Black` | Style 3, Black | Tyyli 3, musta |
+| `Style 3, Blond` | Style 3, Blond | Tyyli 3, vaalea |
+| `Style 3, Brown` | Style 3, Brown | Tyyli 3, ruskea |
+| `Style 3, Grey` | Style 3, Grey | Tyyli 3, harmaa |
+| `Style 4` | Style 4 | Tyyli 4 |
+| `Style 4, Black` | Style 4, Black | Tyyli 4, musta |
+| `Style 4, Blond` | Style 4, Blond | Tyyli 4, vaalea |
+| `Style 4, Brown` | Style 4, Brown | Tyyli 4, ruskea |
+| `Style 4, Grey` | Style 4, Grey | Tyyli 4, harmaa |
+| `Style 5` | Style 5 | Tyyli 5 |
+| `Style 5, Black` | Style 5, Black | Tyyli 5, musta |
+| `Style 5, Blond` | Style 5, Blond | Tyyli 5, vaalea |
+| `Style 5, Brown` | Style 5, Brown | Tyyli 5, ruskea |
+| `Style 5, Grey` | Style 5, Grey | Tyyli 5, harmaa |
+| `Style 6, Black` | Style 6, Black | Tyyli 6, musta |
+| `Style 6, Blond` | Style 6, Blond | Tyyli 6, vaalea |
+| `Style 6, Brown` | Style 6, Brown | Tyyli 6, ruskea |
+| `Style 6, Grey` | Style 6, Grey | Tyyli 6, harmaa |
+| `Style 7, Black` | Style 7, Black | Tyyli 7, musta |
+| `Style 7, Blond` | Style 7, Blond | Tyyli 7, vaalea |
+| `Style 7, Brown` | Style 7, Brown | Tyyli 7, ruskea |
+| `Style 7, Grey` | Style 7, Grey | Tyyli 7, harmaa |
+| `Style 8, Black` | Style 8, Black | Tyyli 8, musta |
+| `Style 8, Blond` | Style 8, Blond | Tyyli 8, vaalea |
+| `Style 8, Brown` | Style 8, Brown | Tyyli 8, ruskea |
+| `Style 8, Grey` | Style 8, Grey | Tyyli 8, harmaa |
+| `Style 9, Black` | Style 9, Black | Tyyli 9, musta |
+| `Style 9, Blond` | Style 9, Blond | Tyyli 9, vaalea |
+| `Style 9, Brown` | Style 9, Brown | Tyyli 9, ruskea |
+| `Style 9, Grey` | Style 9, Grey | Tyyli 9, harmaa |
+| `Thief 1, Black` | Thief 1, Black | Varas 1, musta |
+| `Thief 1, Brown` | Thief 1, Brown | Varas 1, ruskea |
+| `Thief 1, Green` | Thief 1, Green | Varas 1, vihreä |
+| `Thief 1, Red` | Thief 1, Red | Varas 1, punainen |
+| `Thief 2, Black` | Thief 2, Black | Varas 2, musta |
+| `Thief 2, Brown` | Thief 2, Brown | Varas 2, ruskea |
+| `Thief 2, Green` | Thief 2, Green | Varas 2, vihreä |
+| `Thief 2, Red` | Thief 2, Red | Varas 2, punainen |
+| `Thief 3, Black` | Thief 3, Black | Varas 3, musta |
+| `Thief 3, Brown` | Thief 3, Brown | Varas 3, ruskea |
+| `Thief 3, Green` | Thief 3, Green | Varas 3, vihreä |
+| `Thief 3, Red` | Thief 3, Red | Varas 3, punainen |
+| `Thief, Black` | Thief, Black | Varas, musta |
+| `Thief, Brown` | Thief, Brown | Varas, ruskea |
+| `Thief, Green` | Thief, Green | Varas, vihreä |
+| `Thief, Red` | Thief, Red | Varas, punainen |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | Haudanetsijä 1, vihreä |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | Haudanetsijä 1, violetti |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | Haudanetsijä 1, punainen |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | Haudanetsijä 1, valkoinen |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | Haudanetsijä 2, vihreä |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | Haudanetsijä 2, violetti |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | Haudanetsijä 2, punainen |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | Haudanetsijä 2, valkoinen |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | Haudanetsijä, vihreä |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | Haudanetsijä, violetti |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | Haudanetsijä, punainen |
+| `Tomb Seeker, White` | Tomb Seeker, White | Haudanetsijä, valkoinen |
+| `Tone 1` | Tone 1 | Sävy 1 |
+| `Tone 2` | Tone 2 | Sävy 2 |
+| `Tone 3` | Tone 3 | Sävy 3 |
+| `Tone 4` | Tone 4 | Sävy 4 |
+| `Tone 5` | Tone 5 | Sävy 5 |
+| `Tone 6` | Tone 6 | Sävy 6 |
+| `Wave hello` | Wave hello | Vilkuta |
+| `Body and face` | Body and face | Vartalo ja kasvot |

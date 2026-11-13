@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Oppdag |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Tone 6 |
 | `Wave hello` | Wave hello | Vink |
 | `Body and face` | Body and face | Kropp og ansikt |
+| `Face` | Face | Ansikt |
+| `Moustache` | Moustache | Bart |
+| `Tusks` | Tusks | Støttenner |
+| `Earrings` | Earrings | Øredobber |
+| `Piercing` | Piercing | Piercing |
+| `Scars` | Scars | Arr |
+| `Face paint` | Face paint | Ansiktsmaling |
+| `Body paint` | Body paint | Kroppsmaling |
+| `Black` | Black | Svart |
+| `Black, one blind eye` | Black, one blind eye | Svart, ett blindt øye |
+| `Blue, one blind eye` | Blue, one blind eye | Blå, ett blindt øye |
+| `Brown, one blind eye` | Brown, one blind eye | Brun, ett blindt øye |
+| `Green, one blind eye` | Green, one blind eye | Grønn, ett blindt øye |
+| `Grey` | Grey | Grå |
+| `Grey, one blind eye` | Grey, one blind eye | Grå, ett blindt øye |
+| `Purple, one blind eye` | Purple, one blind eye | Lilla, ett blindt øye |
+| `Style 1, Blue` | Style 1, Blue | Stil 1, blå |
+| `Style 1, Ginger` | Style 1, Ginger | Stil 1, kobberrød |
+| `Style 1, Purple` | Style 1, Purple | Stil 1, lilla |
+| `Style 1, Red` | Style 1, Red | Stil 1, rød |
+| `Style 2, Blue` | Style 2, Blue | Stil 2, blå |
+| `Style 2, Ginger` | Style 2, Ginger | Stil 2, kobberrød |
+| `Style 2, Purple` | Style 2, Purple | Stil 2, lilla |
+| `Style 2, Red` | Style 2, Red | Stil 2, rød |
+| `Style 3, Blue` | Style 3, Blue | Stil 3, blå |
+| `Style 3, Ginger` | Style 3, Ginger | Stil 3, kobberrød |
+| `Style 3, Purple` | Style 3, Purple | Stil 3, lilla |
+| `Style 3, Red` | Style 3, Red | Stil 3, rød |
+| `Style 4, Blue` | Style 4, Blue | Stil 4, blå |
+| `Style 4, Ginger` | Style 4, Ginger | Stil 4, kobberrød |
+| `Style 4, Purple` | Style 4, Purple | Stil 4, lilla |
+| `Style 4, Red` | Style 4, Red | Stil 4, rød |
+| `Style 5, Blue` | Style 5, Blue | Stil 5, blå |
+| `Style 5, Ginger` | Style 5, Ginger | Stil 5, kobberrød |
+| `Style 5, Purple` | Style 5, Purple | Stil 5, lilla |
+| `Style 5, Red` | Style 5, Red | Stil 5, rød |
+| `Style 6, Blue` | Style 6, Blue | Stil 6, blå |
+| `Style 6, Ginger` | Style 6, Ginger | Stil 6, kobberrød |
+| `Style 6, Purple` | Style 6, Purple | Stil 6, lilla |
+| `Style 6, Red` | Style 6, Red | Stil 6, rød |
+| `Style 1, Green` | Style 1, Green | Stil 1, grønn |
+| `Style 1, Yellow` | Style 1, Yellow | Stil 1, gul |
+| `Style 2, Green` | Style 2, Green | Stil 2, grønn |
+| `Style 2, Yellow` | Style 2, Yellow | Stil 2, gul |
+| `Style 3, Green` | Style 3, Green | Stil 3, grønn |
+| `Style 3, Yellow` | Style 3, Yellow | Stil 3, gul |
+| `Style 4, Green` | Style 4, Green | Stil 4, grønn |
+| `Style 4, Yellow` | Style 4, Yellow | Stil 4, gul |
+| `Style 5, Green` | Style 5, Green | Stil 5, grønn |
+| `Style 5, Yellow` | Style 5, Yellow | Stil 5, gul |
+| `Style 6, Green` | Style 6, Green | Stil 6, grønn |
+| `Style 6, Yellow` | Style 6, Yellow | Stil 6, gul |
+| `Face 1` | Face 1 | Ansikt 1 |
+| `Face 2` | Face 2 | Ansikt 2 |
+| `Face 3` | Face 3 | Ansikt 3 |
+| `Face 4` | Face 4 | Ansikt 4 |
+| `Face 5` | Face 5 | Ansikt 5 |
+| `Style 6` | Style 6 | Stil 6 |
+| `Style 7` | Style 7 | Stil 7 |
+| `Peasant, Black` | Peasant, Black | Bonde, svart |
+| `Peasant, Green` | Peasant, Green | Bonde, grønn |
+| `Peasant, Purple` | Peasant, Purple | Bonde, lilla |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Nordisk kriger, rød |
+| `Peasant 1, Black` | Peasant 1, Black | Bonde 1, svart |
+| `Peasant 2, Black` | Peasant 2, Black | Bonde 2, svart |
+| `Peasant 3, Black` | Peasant 3, Black | Bonde 3, svart |
+| `Peasant 1, Green` | Peasant 1, Green | Bonde 1, grønn |
+| `Peasant 1, Purple` | Peasant 1, Purple | Bonde 1, lilla |
+| `Peasant 2, Green` | Peasant 2, Green | Bonde 2, grønn |
+| `Peasant 2, Purple` | Peasant 2, Purple | Bonde 2, lilla |
+| `Peasant 3, Green` | Peasant 3, Green | Bonde 3, grønn |
+| `Peasant 3, Purple` | Peasant 3, Purple | Bonde 3, lilla |
+| `Fairy wings, Blue` | Fairy wings, Blue | Fevinger, blå |
+| `Fairy wings, Gold` | Fairy wings, Gold | Fevinger, gull |
+| `Fairy wings, Green` | Fairy wings, Green | Fevinger, grønn |
+| `Fairy wings, Pink` | Fairy wings, Pink | Fevinger, rosa |
+| `Fairy wings, Silver` | Fairy wings, Silver | Fevinger, sølv |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Fevinger, gul |
+| `Fairy wings, Violet` | Fairy wings, Violet | Fevinger, fiolett |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Fevinger, karmosinrød |
+| `Fairy wings, Teal` | Fairy wings, Teal | Fevinger, blågrønn |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Fevinger, solnedgang |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Fevinger, skygge |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Fevinger, regnbue |
+| `Demon wings, Rose` | Demon wings, Rose | Demonvinger, rosenrød |
+| `Demon wings, Amber` | Demon wings, Amber | Demonvinger, rav |
+| `Demon wings, Bone` | Demon wings, Bone | Demonvinger, beinhvit |
+| `Demon wings, Coral` | Demon wings, Coral | Demonvinger, korall |
+| `Demon wings, Moss` | Demon wings, Moss | Demonvinger, mose |
+| `Demon wings, Storm` | Demon wings, Storm | Demonvinger, storm |
+| `Demon wings, Crimson` | Demon wings, Crimson | Demonvinger, karmosinrød |
+| `Demon wings, Shadow` | Demon wings, Shadow | Demonvinger, skygge |
+| `Demon wings, Frost` | Demon wings, Frost | Demonvinger, frost |
+| `Demon wings, Venom` | Demon wings, Venom | Demonvinger, edder |
+| `Demon wings, Violet` | Demon wings, Violet | Demonvinger, fiolett |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Demonvinger, helvetesild |
+| `Human` | Human | Menneske |
+| `Dwarf` | Dwarf | Dverg |
+| `Cape and wings` | Cape and wings | Kappe og vinger |
+| `Tint` | Tint | Toning |
+| `No tint` | No tint | Ingen toning |
+| `Pick any colour for the wings` | Pick any colour for the wings | Velg valgfri farge til vingene |

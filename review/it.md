@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cantare |
 | Discover | Scoprire |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Tonalità 6 |
 | `Wave hello` | Wave hello | Saluta |
 | `Body and face` | Body and face | Corpo e viso |
+| `Face` | Face | Viso |
+| `Moustache` | Moustache | Baffi |
+| `Tusks` | Tusks | Zanne |
+| `Earrings` | Earrings | Orecchini |
+| `Piercing` | Piercing | Piercing |
+| `Scars` | Scars | Cicatrici |
+| `Face paint` | Face paint | Pittura del viso |
+| `Body paint` | Body paint | Pittura del corpo |
+| `Black` | Black | Nero |
+| `Black, one blind eye` | Black, one blind eye | Nero, un occhio cieco |
+| `Blue, one blind eye` | Blue, one blind eye | Blu, un occhio cieco |
+| `Brown, one blind eye` | Brown, one blind eye | Marrone, un occhio cieco |
+| `Green, one blind eye` | Green, one blind eye | Verde, un occhio cieco |
+| `Grey` | Grey | Grigio |
+| `Grey, one blind eye` | Grey, one blind eye | Grigio, un occhio cieco |
+| `Purple, one blind eye` | Purple, one blind eye | Viola, un occhio cieco |
+| `Style 1, Blue` | Style 1, Blue | Stile 1, blu |
+| `Style 1, Ginger` | Style 1, Ginger | Stile 1, ramato |
+| `Style 1, Purple` | Style 1, Purple | Stile 1, viola |
+| `Style 1, Red` | Style 1, Red | Stile 1, rosso |
+| `Style 2, Blue` | Style 2, Blue | Stile 2, blu |
+| `Style 2, Ginger` | Style 2, Ginger | Stile 2, ramato |
+| `Style 2, Purple` | Style 2, Purple | Stile 2, viola |
+| `Style 2, Red` | Style 2, Red | Stile 2, rosso |
+| `Style 3, Blue` | Style 3, Blue | Stile 3, blu |
+| `Style 3, Ginger` | Style 3, Ginger | Stile 3, ramato |
+| `Style 3, Purple` | Style 3, Purple | Stile 3, viola |
+| `Style 3, Red` | Style 3, Red | Stile 3, rosso |
+| `Style 4, Blue` | Style 4, Blue | Stile 4, blu |
+| `Style 4, Ginger` | Style 4, Ginger | Stile 4, ramato |
+| `Style 4, Purple` | Style 4, Purple | Stile 4, viola |
+| `Style 4, Red` | Style 4, Red | Stile 4, rosso |
+| `Style 5, Blue` | Style 5, Blue | Stile 5, blu |
+| `Style 5, Ginger` | Style 5, Ginger | Stile 5, ramato |
+| `Style 5, Purple` | Style 5, Purple | Stile 5, viola |
+| `Style 5, Red` | Style 5, Red | Stile 5, rosso |
+| `Style 6, Blue` | Style 6, Blue | Stile 6, blu |
+| `Style 6, Ginger` | Style 6, Ginger | Stile 6, ramato |
+| `Style 6, Purple` | Style 6, Purple | Stile 6, viola |
+| `Style 6, Red` | Style 6, Red | Stile 6, rosso |
+| `Style 1, Green` | Style 1, Green | Stile 1, verde |
+| `Style 1, Yellow` | Style 1, Yellow | Stile 1, giallo |
+| `Style 2, Green` | Style 2, Green | Stile 2, verde |
+| `Style 2, Yellow` | Style 2, Yellow | Stile 2, giallo |
+| `Style 3, Green` | Style 3, Green | Stile 3, verde |
+| `Style 3, Yellow` | Style 3, Yellow | Stile 3, giallo |
+| `Style 4, Green` | Style 4, Green | Stile 4, verde |
+| `Style 4, Yellow` | Style 4, Yellow | Stile 4, giallo |
+| `Style 5, Green` | Style 5, Green | Stile 5, verde |
+| `Style 5, Yellow` | Style 5, Yellow | Stile 5, giallo |
+| `Style 6, Green` | Style 6, Green | Stile 6, verde |
+| `Style 6, Yellow` | Style 6, Yellow | Stile 6, giallo |
+| `Face 1` | Face 1 | Viso 1 |
+| `Face 2` | Face 2 | Viso 2 |
+| `Face 3` | Face 3 | Viso 3 |
+| `Face 4` | Face 4 | Viso 4 |
+| `Face 5` | Face 5 | Viso 5 |
+| `Style 6` | Style 6 | Stile 6 |
+| `Style 7` | Style 7 | Stile 7 |
+| `Peasant, Black` | Peasant, Black | Contadino, nero |
+| `Peasant, Green` | Peasant, Green | Contadino, verde |
+| `Peasant, Purple` | Peasant, Purple | Contadino, viola |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Guerriero nordico, rosso |
+| `Peasant 1, Black` | Peasant 1, Black | Contadino 1, nero |
+| `Peasant 2, Black` | Peasant 2, Black | Contadino 2, nero |
+| `Peasant 3, Black` | Peasant 3, Black | Contadino 3, nero |
+| `Peasant 1, Green` | Peasant 1, Green | Contadino 1, verde |
+| `Peasant 1, Purple` | Peasant 1, Purple | Contadino 1, viola |
+| `Peasant 2, Green` | Peasant 2, Green | Contadino 2, verde |
+| `Peasant 2, Purple` | Peasant 2, Purple | Contadino 2, viola |
+| `Peasant 3, Green` | Peasant 3, Green | Contadino 3, verde |
+| `Peasant 3, Purple` | Peasant 3, Purple | Contadino 3, viola |
+| `Fairy wings, Blue` | Fairy wings, Blue | Ali di fata, blu |
+| `Fairy wings, Gold` | Fairy wings, Gold | Ali di fata, dorato |
+| `Fairy wings, Green` | Fairy wings, Green | Ali di fata, verde |
+| `Fairy wings, Pink` | Fairy wings, Pink | Ali di fata, rosa |
+| `Fairy wings, Silver` | Fairy wings, Silver | Ali di fata, argentato |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Ali di fata, giallo |
+| `Fairy wings, Violet` | Fairy wings, Violet | Ali di fata, violetto |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Ali di fata, cremisi |
+| `Fairy wings, Teal` | Fairy wings, Teal | Ali di fata, verde acqua |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Ali di fata, tramonto |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Ali di fata, ombra |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Ali di fata, arcobaleno |
+| `Demon wings, Rose` | Demon wings, Rose | Ali di demone, rosa antico |
+| `Demon wings, Amber` | Demon wings, Amber | Ali di demone, ambra |
+| `Demon wings, Bone` | Demon wings, Bone | Ali di demone, osso |
+| `Demon wings, Coral` | Demon wings, Coral | Ali di demone, corallo |
+| `Demon wings, Moss` | Demon wings, Moss | Ali di demone, muschio |
+| `Demon wings, Storm` | Demon wings, Storm | Ali di demone, tempesta |
+| `Demon wings, Crimson` | Demon wings, Crimson | Ali di demone, cremisi |
+| `Demon wings, Shadow` | Demon wings, Shadow | Ali di demone, ombra |
+| `Demon wings, Frost` | Demon wings, Frost | Ali di demone, gelo |
+| `Demon wings, Venom` | Demon wings, Venom | Ali di demone, veleno |
+| `Demon wings, Violet` | Demon wings, Violet | Ali di demone, violetto |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Ali di demone, fuoco infernale |
+| `Human` | Human | Umano |
+| `Dwarf` | Dwarf | Nano |
+| `Cape and wings` | Cape and wings | Mantello e ali |
+| `Tint` | Tint | Tinta |
+| `No tint` | No tint | Nessuna tinta |
+| `Pick any colour for the wings` | Pick any colour for the wings | Scegli un colore qualsiasi per le ali |

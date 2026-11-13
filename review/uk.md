@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бардівство |
 | Discover | Дослідження |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Тон 6 |
 | `Wave hello` | Wave hello | Привітання |
 | `Body and face` | Body and face | Тіло й обличчя |
+| `Face` | Face | Обличчя |
+| `Moustache` | Moustache | Вуса |
+| `Tusks` | Tusks | Ікла |
+| `Earrings` | Earrings | Сережки |
+| `Piercing` | Piercing | Пірсинг |
+| `Scars` | Scars | Шрами |
+| `Face paint` | Face paint | Розфарбування обличчя |
+| `Body paint` | Body paint | Розфарбування тіла |
+| `Black` | Black | Чорний |
+| `Black, one blind eye` | Black, one blind eye | Чорний, одне сліпе око |
+| `Blue, one blind eye` | Blue, one blind eye | Синій, одне сліпе око |
+| `Brown, one blind eye` | Brown, one blind eye | Коричневий, одне сліпе око |
+| `Green, one blind eye` | Green, one blind eye | Зелений, одне сліпе око |
+| `Grey` | Grey | Сірий |
+| `Grey, one blind eye` | Grey, one blind eye | Сірий, одне сліпе око |
+| `Purple, one blind eye` | Purple, one blind eye | Фіолетовий, одне сліпе око |
+| `Style 1, Blue` | Style 1, Blue | Стиль 1, синій |
+| `Style 1, Ginger` | Style 1, Ginger | Стиль 1, рудий |
+| `Style 1, Purple` | Style 1, Purple | Стиль 1, фіолетовий |
+| `Style 1, Red` | Style 1, Red | Стиль 1, червоний |
+| `Style 2, Blue` | Style 2, Blue | Стиль 2, синій |
+| `Style 2, Ginger` | Style 2, Ginger | Стиль 2, рудий |
+| `Style 2, Purple` | Style 2, Purple | Стиль 2, фіолетовий |
+| `Style 2, Red` | Style 2, Red | Стиль 2, червоний |
+| `Style 3, Blue` | Style 3, Blue | Стиль 3, синій |
+| `Style 3, Ginger` | Style 3, Ginger | Стиль 3, рудий |
+| `Style 3, Purple` | Style 3, Purple | Стиль 3, фіолетовий |
+| `Style 3, Red` | Style 3, Red | Стиль 3, червоний |
+| `Style 4, Blue` | Style 4, Blue | Стиль 4, синій |
+| `Style 4, Ginger` | Style 4, Ginger | Стиль 4, рудий |
+| `Style 4, Purple` | Style 4, Purple | Стиль 4, фіолетовий |
+| `Style 4, Red` | Style 4, Red | Стиль 4, червоний |
+| `Style 5, Blue` | Style 5, Blue | Стиль 5, синій |
+| `Style 5, Ginger` | Style 5, Ginger | Стиль 5, рудий |
+| `Style 5, Purple` | Style 5, Purple | Стиль 5, фіолетовий |
+| `Style 5, Red` | Style 5, Red | Стиль 5, червоний |
+| `Style 6, Blue` | Style 6, Blue | Стиль 6, синій |
+| `Style 6, Ginger` | Style 6, Ginger | Стиль 6, рудий |
+| `Style 6, Purple` | Style 6, Purple | Стиль 6, фіолетовий |
+| `Style 6, Red` | Style 6, Red | Стиль 6, червоний |
+| `Style 1, Green` | Style 1, Green | Стиль 1, зелений |
+| `Style 1, Yellow` | Style 1, Yellow | Стиль 1, жовтий |
+| `Style 2, Green` | Style 2, Green | Стиль 2, зелений |
+| `Style 2, Yellow` | Style 2, Yellow | Стиль 2, жовтий |
+| `Style 3, Green` | Style 3, Green | Стиль 3, зелений |
+| `Style 3, Yellow` | Style 3, Yellow | Стиль 3, жовтий |
+| `Style 4, Green` | Style 4, Green | Стиль 4, зелений |
+| `Style 4, Yellow` | Style 4, Yellow | Стиль 4, жовтий |
+| `Style 5, Green` | Style 5, Green | Стиль 5, зелений |
+| `Style 5, Yellow` | Style 5, Yellow | Стиль 5, жовтий |
+| `Style 6, Green` | Style 6, Green | Стиль 6, зелений |
+| `Style 6, Yellow` | Style 6, Yellow | Стиль 6, жовтий |
+| `Face 1` | Face 1 | Обличчя 1 |
+| `Face 2` | Face 2 | Обличчя 2 |
+| `Face 3` | Face 3 | Обличчя 3 |
+| `Face 4` | Face 4 | Обличчя 4 |
+| `Face 5` | Face 5 | Обличчя 5 |
+| `Style 6` | Style 6 | Стиль 6 |
+| `Style 7` | Style 7 | Стиль 7 |
+| `Peasant, Black` | Peasant, Black | Селянин, чорний |
+| `Peasant, Green` | Peasant, Green | Селянин, зелений |
+| `Peasant, Purple` | Peasant, Purple | Селянин, фіолетовий |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Північний воїн, червоний |
+| `Peasant 1, Black` | Peasant 1, Black | Селянин 1, чорний |
+| `Peasant 2, Black` | Peasant 2, Black | Селянин 2, чорний |
+| `Peasant 3, Black` | Peasant 3, Black | Селянин 3, чорний |
+| `Peasant 1, Green` | Peasant 1, Green | Селянин 1, зелений |
+| `Peasant 1, Purple` | Peasant 1, Purple | Селянин 1, фіолетовий |
+| `Peasant 2, Green` | Peasant 2, Green | Селянин 2, зелений |
+| `Peasant 2, Purple` | Peasant 2, Purple | Селянин 2, фіолетовий |
+| `Peasant 3, Green` | Peasant 3, Green | Селянин 3, зелений |
+| `Peasant 3, Purple` | Peasant 3, Purple | Селянин 3, фіолетовий |
+| `Fairy wings, Blue` | Fairy wings, Blue | Крила феї, синій |
+| `Fairy wings, Gold` | Fairy wings, Gold | Крила феї, золотий |
+| `Fairy wings, Green` | Fairy wings, Green | Крила феї, зелений |
+| `Fairy wings, Pink` | Fairy wings, Pink | Крила феї, рожевий |
+| `Fairy wings, Silver` | Fairy wings, Silver | Крила феї, срібний |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Крила феї, жовтий |
+| `Fairy wings, Violet` | Fairy wings, Violet | Крила феї, бузковий |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Крила феї, багряний |
+| `Fairy wings, Teal` | Fairy wings, Teal | Крила феї, бірюзовий |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Крила феї, захід сонця |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Крила феї, тінь |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Крила феї, веселка |
+| `Demon wings, Rose` | Demon wings, Rose | Крила демона, троянда |
+| `Demon wings, Amber` | Demon wings, Amber | Крила демона, бурштиновий |
+| `Demon wings, Bone` | Demon wings, Bone | Крила демона, кістяний |
+| `Demon wings, Coral` | Demon wings, Coral | Крила демона, кораловий |
+| `Demon wings, Moss` | Demon wings, Moss | Крила демона, моховий |
+| `Demon wings, Storm` | Demon wings, Storm | Крила демона, буря |
+| `Demon wings, Crimson` | Demon wings, Crimson | Крила демона, багряний |
+| `Demon wings, Shadow` | Demon wings, Shadow | Крила демона, тінь |
+| `Demon wings, Frost` | Demon wings, Frost | Крила демона, іній |
+| `Demon wings, Venom` | Demon wings, Venom | Крила демона, отрута |
+| `Demon wings, Violet` | Demon wings, Violet | Крила демона, бузковий |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Крила демона, пекельне полум’я |
+| `Human` | Human | Людина |
+| `Dwarf` | Dwarf | Дварф |
+| `Cape and wings` | Cape and wings | Плащ і крила |
+| `Tint` | Tint | Відтінок |
+| `No tint` | No tint | Без відтінку |
+| `Pick any colour for the wings` | Pick any colour for the wings | Оберіть будь-який колір для крил |

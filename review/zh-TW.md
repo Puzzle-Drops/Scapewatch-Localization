@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | 膚色 6 |
 | `Wave hello` | Wave hello | 揮手 |
 | `Body and face` | Body and face | 身體與臉部 |
+| `Face` | Face | 臉型 |
+| `Moustache` | Moustache | 八字鬍 |
+| `Tusks` | Tusks | 獠牙 |
+| `Earrings` | Earrings | 耳環 |
+| `Piercing` | Piercing | 臉部穿環 |
+| `Scars` | Scars | 傷疤 |
+| `Face paint` | Face paint | 臉部彩繪 |
+| `Body paint` | Body paint | 身體彩繪 |
+| `Black` | Black | 黑色 |
+| `Black, one blind eye` | Black, one blind eye | 黑色，單眼失明 |
+| `Blue, one blind eye` | Blue, one blind eye | 藍色，單眼失明 |
+| `Brown, one blind eye` | Brown, one blind eye | 棕色，單眼失明 |
+| `Green, one blind eye` | Green, one blind eye | 綠色，單眼失明 |
+| `Grey` | Grey | 灰色 |
+| `Grey, one blind eye` | Grey, one blind eye | 灰色，單眼失明 |
+| `Purple, one blind eye` | Purple, one blind eye | 紫色，單眼失明 |
+| `Style 1, Blue` | Style 1, Blue | 樣式 1，藍色 |
+| `Style 1, Ginger` | Style 1, Ginger | 樣式 1，橘紅色 |
+| `Style 1, Purple` | Style 1, Purple | 樣式 1，紫色 |
+| `Style 1, Red` | Style 1, Red | 樣式 1，紅色 |
+| `Style 2, Blue` | Style 2, Blue | 樣式 2，藍色 |
+| `Style 2, Ginger` | Style 2, Ginger | 樣式 2，橘紅色 |
+| `Style 2, Purple` | Style 2, Purple | 樣式 2，紫色 |
+| `Style 2, Red` | Style 2, Red | 樣式 2，紅色 |
+| `Style 3, Blue` | Style 3, Blue | 樣式 3，藍色 |
+| `Style 3, Ginger` | Style 3, Ginger | 樣式 3，橘紅色 |
+| `Style 3, Purple` | Style 3, Purple | 樣式 3，紫色 |
+| `Style 3, Red` | Style 3, Red | 樣式 3，紅色 |
+| `Style 4, Blue` | Style 4, Blue | 樣式 4，藍色 |
+| `Style 4, Ginger` | Style 4, Ginger | 樣式 4，橘紅色 |
+| `Style 4, Purple` | Style 4, Purple | 樣式 4，紫色 |
+| `Style 4, Red` | Style 4, Red | 樣式 4，紅色 |
+| `Style 5, Blue` | Style 5, Blue | 樣式 5，藍色 |
+| `Style 5, Ginger` | Style 5, Ginger | 樣式 5，橘紅色 |
+| `Style 5, Purple` | Style 5, Purple | 樣式 5，紫色 |
+| `Style 5, Red` | Style 5, Red | 樣式 5，紅色 |
+| `Style 6, Blue` | Style 6, Blue | 樣式 6，藍色 |
+| `Style 6, Ginger` | Style 6, Ginger | 樣式 6，橘紅色 |
+| `Style 6, Purple` | Style 6, Purple | 樣式 6，紫色 |
+| `Style 6, Red` | Style 6, Red | 樣式 6，紅色 |
+| `Style 1, Green` | Style 1, Green | 樣式 1，綠色 |
+| `Style 1, Yellow` | Style 1, Yellow | 樣式 1，黃色 |
+| `Style 2, Green` | Style 2, Green | 樣式 2，綠色 |
+| `Style 2, Yellow` | Style 2, Yellow | 樣式 2，黃色 |
+| `Style 3, Green` | Style 3, Green | 樣式 3，綠色 |
+| `Style 3, Yellow` | Style 3, Yellow | 樣式 3，黃色 |
+| `Style 4, Green` | Style 4, Green | 樣式 4，綠色 |
+| `Style 4, Yellow` | Style 4, Yellow | 樣式 4，黃色 |
+| `Style 5, Green` | Style 5, Green | 樣式 5，綠色 |
+| `Style 5, Yellow` | Style 5, Yellow | 樣式 5，黃色 |
+| `Style 6, Green` | Style 6, Green | 樣式 6，綠色 |
+| `Style 6, Yellow` | Style 6, Yellow | 樣式 6，黃色 |
+| `Face 1` | Face 1 | 臉型 1 |
+| `Face 2` | Face 2 | 臉型 2 |
+| `Face 3` | Face 3 | 臉型 3 |
+| `Face 4` | Face 4 | 臉型 4 |
+| `Face 5` | Face 5 | 臉型 5 |
+| `Style 6` | Style 6 | 樣式 6 |
+| `Style 7` | Style 7 | 樣式 7 |
+| `Peasant, Black` | Peasant, Black | 農民，黑色 |
+| `Peasant, Green` | Peasant, Green | 農民，綠色 |
+| `Peasant, Purple` | Peasant, Purple | 農民，紫色 |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | 北境戰士，紅色 |
+| `Peasant 1, Black` | Peasant 1, Black | 農民 1，黑色 |
+| `Peasant 2, Black` | Peasant 2, Black | 農民 2，黑色 |
+| `Peasant 3, Black` | Peasant 3, Black | 農民 3，黑色 |
+| `Peasant 1, Green` | Peasant 1, Green | 農民 1，綠色 |
+| `Peasant 1, Purple` | Peasant 1, Purple | 農民 1，紫色 |
+| `Peasant 2, Green` | Peasant 2, Green | 農民 2，綠色 |
+| `Peasant 2, Purple` | Peasant 2, Purple | 農民 2，紫色 |
+| `Peasant 3, Green` | Peasant 3, Green | 農民 3，綠色 |
+| `Peasant 3, Purple` | Peasant 3, Purple | 農民 3，紫色 |
+| `Fairy wings, Blue` | Fairy wings, Blue | 妖精翅膀，藍色 |
+| `Fairy wings, Gold` | Fairy wings, Gold | 妖精翅膀，金色 |
+| `Fairy wings, Green` | Fairy wings, Green | 妖精翅膀，綠色 |
+| `Fairy wings, Pink` | Fairy wings, Pink | 妖精翅膀，粉色 |
+| `Fairy wings, Silver` | Fairy wings, Silver | 妖精翅膀，銀色 |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | 妖精翅膀，黃色 |
+| `Fairy wings, Violet` | Fairy wings, Violet | 妖精翅膀，紫羅蘭色 |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | 妖精翅膀，緋紅 |
+| `Fairy wings, Teal` | Fairy wings, Teal | 妖精翅膀，藍綠色 |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | 妖精翅膀，日落 |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | 妖精翅膀，暗影 |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | 妖精翅膀，彩虹 |
+| `Demon wings, Rose` | Demon wings, Rose | 惡魔翅膀，玫瑰色 |
+| `Demon wings, Amber` | Demon wings, Amber | 惡魔翅膀，琥珀色 |
+| `Demon wings, Bone` | Demon wings, Bone | 惡魔翅膀，骨白 |
+| `Demon wings, Coral` | Demon wings, Coral | 惡魔翅膀，珊瑚色 |
+| `Demon wings, Moss` | Demon wings, Moss | 惡魔翅膀，苔綠 |
+| `Demon wings, Storm` | Demon wings, Storm | 惡魔翅膀，風暴 |
+| `Demon wings, Crimson` | Demon wings, Crimson | 惡魔翅膀，緋紅 |
+| `Demon wings, Shadow` | Demon wings, Shadow | 惡魔翅膀，暗影 |
+| `Demon wings, Frost` | Demon wings, Frost | 惡魔翅膀，寒霜 |
+| `Demon wings, Venom` | Demon wings, Venom | 惡魔翅膀，劇毒 |
+| `Demon wings, Violet` | Demon wings, Violet | 惡魔翅膀，紫羅蘭色 |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | 惡魔翅膀，地獄火 |
+| `Human` | Human | 人類 |
+| `Dwarf` | Dwarf | 矮人 |
+| `Cape and wings` | Cape and wings | 披風與翅膀 |
+| `Tint` | Tint | 色調 |
+| `No tint` | No tint | 無色調 |
+| `Pick any colour for the wings` | Pick any colour for the wings | 為翅膀任選一種顏色 |

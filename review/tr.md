@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Ozan |
 | Discover | Keşfet |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Ton 6 |
 | `Wave hello` | Wave hello | El salla |
 | `Body and face` | Body and face | Vücut ve yüz |
+| `Face` | Face | Yüz |
+| `Moustache` | Moustache | Bıyık |
+| `Tusks` | Tusks | Azı dişleri |
+| `Earrings` | Earrings | Küpeler |
+| `Piercing` | Piercing | Piercing |
+| `Scars` | Scars | Yara izleri |
+| `Face paint` | Face paint | Yüz boyası |
+| `Body paint` | Body paint | Vücut boyası |
+| `Black` | Black | Siyah |
+| `Black, one blind eye` | Black, one blind eye | Siyah, bir gözü kör |
+| `Blue, one blind eye` | Blue, one blind eye | Mavi, bir gözü kör |
+| `Brown, one blind eye` | Brown, one blind eye | Kahverengi, bir gözü kör |
+| `Green, one blind eye` | Green, one blind eye | Yeşil, bir gözü kör |
+| `Grey` | Grey | Gri |
+| `Grey, one blind eye` | Grey, one blind eye | Gri, bir gözü kör |
+| `Purple, one blind eye` | Purple, one blind eye | Mor, bir gözü kör |
+| `Style 1, Blue` | Style 1, Blue | Stil 1, Mavi |
+| `Style 1, Ginger` | Style 1, Ginger | Stil 1, Kızıl |
+| `Style 1, Purple` | Style 1, Purple | Stil 1, Mor |
+| `Style 1, Red` | Style 1, Red | Stil 1, Kırmızı |
+| `Style 2, Blue` | Style 2, Blue | Stil 2, Mavi |
+| `Style 2, Ginger` | Style 2, Ginger | Stil 2, Kızıl |
+| `Style 2, Purple` | Style 2, Purple | Stil 2, Mor |
+| `Style 2, Red` | Style 2, Red | Stil 2, Kırmızı |
+| `Style 3, Blue` | Style 3, Blue | Stil 3, Mavi |
+| `Style 3, Ginger` | Style 3, Ginger | Stil 3, Kızıl |
+| `Style 3, Purple` | Style 3, Purple | Stil 3, Mor |
+| `Style 3, Red` | Style 3, Red | Stil 3, Kırmızı |
+| `Style 4, Blue` | Style 4, Blue | Stil 4, Mavi |
+| `Style 4, Ginger` | Style 4, Ginger | Stil 4, Kızıl |
+| `Style 4, Purple` | Style 4, Purple | Stil 4, Mor |
+| `Style 4, Red` | Style 4, Red | Stil 4, Kırmızı |
+| `Style 5, Blue` | Style 5, Blue | Stil 5, Mavi |
+| `Style 5, Ginger` | Style 5, Ginger | Stil 5, Kızıl |
+| `Style 5, Purple` | Style 5, Purple | Stil 5, Mor |
+| `Style 5, Red` | Style 5, Red | Stil 5, Kırmızı |
+| `Style 6, Blue` | Style 6, Blue | Stil 6, Mavi |
+| `Style 6, Ginger` | Style 6, Ginger | Stil 6, Kızıl |
+| `Style 6, Purple` | Style 6, Purple | Stil 6, Mor |
+| `Style 6, Red` | Style 6, Red | Stil 6, Kırmızı |
+| `Style 1, Green` | Style 1, Green | Stil 1, Yeşil |
+| `Style 1, Yellow` | Style 1, Yellow | Stil 1, Sarı |
+| `Style 2, Green` | Style 2, Green | Stil 2, Yeşil |
+| `Style 2, Yellow` | Style 2, Yellow | Stil 2, Sarı |
+| `Style 3, Green` | Style 3, Green | Stil 3, Yeşil |
+| `Style 3, Yellow` | Style 3, Yellow | Stil 3, Sarı |
+| `Style 4, Green` | Style 4, Green | Stil 4, Yeşil |
+| `Style 4, Yellow` | Style 4, Yellow | Stil 4, Sarı |
+| `Style 5, Green` | Style 5, Green | Stil 5, Yeşil |
+| `Style 5, Yellow` | Style 5, Yellow | Stil 5, Sarı |
+| `Style 6, Green` | Style 6, Green | Stil 6, Yeşil |
+| `Style 6, Yellow` | Style 6, Yellow | Stil 6, Sarı |
+| `Face 1` | Face 1 | Yüz 1 |
+| `Face 2` | Face 2 | Yüz 2 |
+| `Face 3` | Face 3 | Yüz 3 |
+| `Face 4` | Face 4 | Yüz 4 |
+| `Face 5` | Face 5 | Yüz 5 |
+| `Style 6` | Style 6 | Stil 6 |
+| `Style 7` | Style 7 | Stil 7 |
+| `Peasant, Black` | Peasant, Black | Köylü, Siyah |
+| `Peasant, Green` | Peasant, Green | Köylü, Yeşil |
+| `Peasant, Purple` | Peasant, Purple | Köylü, Mor |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Kuzeyli Savaşçı, Kırmızı |
+| `Peasant 1, Black` | Peasant 1, Black | Köylü 1, Siyah |
+| `Peasant 2, Black` | Peasant 2, Black | Köylü 2, Siyah |
+| `Peasant 3, Black` | Peasant 3, Black | Köylü 3, Siyah |
+| `Peasant 1, Green` | Peasant 1, Green | Köylü 1, Yeşil |
+| `Peasant 1, Purple` | Peasant 1, Purple | Köylü 1, Mor |
+| `Peasant 2, Green` | Peasant 2, Green | Köylü 2, Yeşil |
+| `Peasant 2, Purple` | Peasant 2, Purple | Köylü 2, Mor |
+| `Peasant 3, Green` | Peasant 3, Green | Köylü 3, Yeşil |
+| `Peasant 3, Purple` | Peasant 3, Purple | Köylü 3, Mor |
+| `Fairy wings, Blue` | Fairy wings, Blue | Peri kanatları, Mavi |
+| `Fairy wings, Gold` | Fairy wings, Gold | Peri kanatları, Altın |
+| `Fairy wings, Green` | Fairy wings, Green | Peri kanatları, Yeşil |
+| `Fairy wings, Pink` | Fairy wings, Pink | Peri kanatları, Pembe |
+| `Fairy wings, Silver` | Fairy wings, Silver | Peri kanatları, Gümüş |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Peri kanatları, Sarı |
+| `Fairy wings, Violet` | Fairy wings, Violet | Peri kanatları, Menekşe |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Peri kanatları, Kızıl |
+| `Fairy wings, Teal` | Fairy wings, Teal | Peri kanatları, Petrol Mavisi |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Peri kanatları, Gün Batımı |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Peri kanatları, Gölge |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Peri kanatları, Gökkuşağı |
+| `Demon wings, Rose` | Demon wings, Rose | İblis kanatları, Gül |
+| `Demon wings, Amber` | Demon wings, Amber | İblis kanatları, Kehribar |
+| `Demon wings, Bone` | Demon wings, Bone | İblis kanatları, Kemik |
+| `Demon wings, Coral` | Demon wings, Coral | İblis kanatları, Mercan |
+| `Demon wings, Moss` | Demon wings, Moss | İblis kanatları, Yosun |
+| `Demon wings, Storm` | Demon wings, Storm | İblis kanatları, Fırtına |
+| `Demon wings, Crimson` | Demon wings, Crimson | İblis kanatları, Kızıl |
+| `Demon wings, Shadow` | Demon wings, Shadow | İblis kanatları, Gölge |
+| `Demon wings, Frost` | Demon wings, Frost | İblis kanatları, Ayaz |
+| `Demon wings, Venom` | Demon wings, Venom | İblis kanatları, Zehir |
+| `Demon wings, Violet` | Demon wings, Violet | İblis kanatları, Menekşe |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | İblis kanatları, Cehennem Ateşi |
+| `Human` | Human | İnsan |
+| `Dwarf` | Dwarf | Cüce |
+| `Cape and wings` | Cape and wings | Pelerin ve kanatlar |
+| `Tint` | Tint | Renklendirme |
+| `No tint` | No tint | Renklendirme yok |
+| `Pick any colour for the wings` | Pick any colour for the wings | Kanatlar için herhangi bir renk seç |

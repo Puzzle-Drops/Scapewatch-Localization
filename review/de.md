@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Entdecken |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Ton 6 |
 | `Wave hello` | Wave hello | Winken |
 | `Body and face` | Body and face | Körper und Gesicht |
+| `Face` | Face | Gesicht |
+| `Moustache` | Moustache | Schnurrbart |
+| `Tusks` | Tusks | Hauer |
+| `Earrings` | Earrings | Ohrringe |
+| `Piercing` | Piercing | Piercing |
+| `Scars` | Scars | Narben |
+| `Face paint` | Face paint | Gesichtsbemalung |
+| `Body paint` | Body paint | Körperbemalung |
+| `Black` | Black | Schwarz |
+| `Black, one blind eye` | Black, one blind eye | Schwarz, ein blindes Auge |
+| `Blue, one blind eye` | Blue, one blind eye | Blau, ein blindes Auge |
+| `Brown, one blind eye` | Brown, one blind eye | Braun, ein blindes Auge |
+| `Green, one blind eye` | Green, one blind eye | Grün, ein blindes Auge |
+| `Grey` | Grey | Grau |
+| `Grey, one blind eye` | Grey, one blind eye | Grau, ein blindes Auge |
+| `Purple, one blind eye` | Purple, one blind eye | Lila, ein blindes Auge |
+| `Style 1, Blue` | Style 1, Blue | Stil 1, Blau |
+| `Style 1, Ginger` | Style 1, Ginger | Stil 1, Kupferrot |
+| `Style 1, Purple` | Style 1, Purple | Stil 1, Lila |
+| `Style 1, Red` | Style 1, Red | Stil 1, Rot |
+| `Style 2, Blue` | Style 2, Blue | Stil 2, Blau |
+| `Style 2, Ginger` | Style 2, Ginger | Stil 2, Kupferrot |
+| `Style 2, Purple` | Style 2, Purple | Stil 2, Lila |
+| `Style 2, Red` | Style 2, Red | Stil 2, Rot |
+| `Style 3, Blue` | Style 3, Blue | Stil 3, Blau |
+| `Style 3, Ginger` | Style 3, Ginger | Stil 3, Kupferrot |
+| `Style 3, Purple` | Style 3, Purple | Stil 3, Lila |
+| `Style 3, Red` | Style 3, Red | Stil 3, Rot |
+| `Style 4, Blue` | Style 4, Blue | Stil 4, Blau |
+| `Style 4, Ginger` | Style 4, Ginger | Stil 4, Kupferrot |
+| `Style 4, Purple` | Style 4, Purple | Stil 4, Lila |
+| `Style 4, Red` | Style 4, Red | Stil 4, Rot |
+| `Style 5, Blue` | Style 5, Blue | Stil 5, Blau |
+| `Style 5, Ginger` | Style 5, Ginger | Stil 5, Kupferrot |
+| `Style 5, Purple` | Style 5, Purple | Stil 5, Lila |
+| `Style 5, Red` | Style 5, Red | Stil 5, Rot |
+| `Style 6, Blue` | Style 6, Blue | Stil 6, Blau |
+| `Style 6, Ginger` | Style 6, Ginger | Stil 6, Kupferrot |
+| `Style 6, Purple` | Style 6, Purple | Stil 6, Lila |
+| `Style 6, Red` | Style 6, Red | Stil 6, Rot |
+| `Style 1, Green` | Style 1, Green | Stil 1, Grün |
+| `Style 1, Yellow` | Style 1, Yellow | Stil 1, Gelb |
+| `Style 2, Green` | Style 2, Green | Stil 2, Grün |
+| `Style 2, Yellow` | Style 2, Yellow | Stil 2, Gelb |
+| `Style 3, Green` | Style 3, Green | Stil 3, Grün |
+| `Style 3, Yellow` | Style 3, Yellow | Stil 3, Gelb |
+| `Style 4, Green` | Style 4, Green | Stil 4, Grün |
+| `Style 4, Yellow` | Style 4, Yellow | Stil 4, Gelb |
+| `Style 5, Green` | Style 5, Green | Stil 5, Grün |
+| `Style 5, Yellow` | Style 5, Yellow | Stil 5, Gelb |
+| `Style 6, Green` | Style 6, Green | Stil 6, Grün |
+| `Style 6, Yellow` | Style 6, Yellow | Stil 6, Gelb |
+| `Face 1` | Face 1 | Gesicht 1 |
+| `Face 2` | Face 2 | Gesicht 2 |
+| `Face 3` | Face 3 | Gesicht 3 |
+| `Face 4` | Face 4 | Gesicht 4 |
+| `Face 5` | Face 5 | Gesicht 5 |
+| `Style 6` | Style 6 | Stil 6 |
+| `Style 7` | Style 7 | Stil 7 |
+| `Peasant, Black` | Peasant, Black | Bauer, Schwarz |
+| `Peasant, Green` | Peasant, Green | Bauer, Grün |
+| `Peasant, Purple` | Peasant, Purple | Bauer, Lila |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Nordischer Krieger, Rot |
+| `Peasant 1, Black` | Peasant 1, Black | Bauer 1, Schwarz |
+| `Peasant 2, Black` | Peasant 2, Black | Bauer 2, Schwarz |
+| `Peasant 3, Black` | Peasant 3, Black | Bauer 3, Schwarz |
+| `Peasant 1, Green` | Peasant 1, Green | Bauer 1, Grün |
+| `Peasant 1, Purple` | Peasant 1, Purple | Bauer 1, Lila |
+| `Peasant 2, Green` | Peasant 2, Green | Bauer 2, Grün |
+| `Peasant 2, Purple` | Peasant 2, Purple | Bauer 2, Lila |
+| `Peasant 3, Green` | Peasant 3, Green | Bauer 3, Grün |
+| `Peasant 3, Purple` | Peasant 3, Purple | Bauer 3, Lila |
+| `Fairy wings, Blue` | Fairy wings, Blue | Feenflügel, Blau |
+| `Fairy wings, Gold` | Fairy wings, Gold | Feenflügel, Gold |
+| `Fairy wings, Green` | Fairy wings, Green | Feenflügel, Grün |
+| `Fairy wings, Pink` | Fairy wings, Pink | Feenflügel, Rosa |
+| `Fairy wings, Silver` | Fairy wings, Silver | Feenflügel, Silber |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Feenflügel, Gelb |
+| `Fairy wings, Violet` | Fairy wings, Violet | Feenflügel, Violett |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Feenflügel, Karmesinrot |
+| `Fairy wings, Teal` | Fairy wings, Teal | Feenflügel, Petrol |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Feenflügel, Sonnenuntergang |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Feenflügel, Schatten |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Feenflügel, Regenbogen |
+| `Demon wings, Rose` | Demon wings, Rose | Dämonenflügel, Rosenrot |
+| `Demon wings, Amber` | Demon wings, Amber | Dämonenflügel, Bernstein |
+| `Demon wings, Bone` | Demon wings, Bone | Dämonenflügel, Knochen |
+| `Demon wings, Coral` | Demon wings, Coral | Dämonenflügel, Koralle |
+| `Demon wings, Moss` | Demon wings, Moss | Dämonenflügel, Moos |
+| `Demon wings, Storm` | Demon wings, Storm | Dämonenflügel, Sturm |
+| `Demon wings, Crimson` | Demon wings, Crimson | Dämonenflügel, Karmesinrot |
+| `Demon wings, Shadow` | Demon wings, Shadow | Dämonenflügel, Schatten |
+| `Demon wings, Frost` | Demon wings, Frost | Dämonenflügel, Frost |
+| `Demon wings, Venom` | Demon wings, Venom | Dämonenflügel, Gift |
+| `Demon wings, Violet` | Demon wings, Violet | Dämonenflügel, Violett |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Dämonenflügel, Höllenfeuer |
+| `Human` | Human | Mensch |
+| `Dwarf` | Dwarf | Zwerg |
+| `Cape and wings` | Cape and wings | Umhang und Flügel |
+| `Tint` | Tint | Tönung |
+| `No tint` | No tint | Keine Tönung |
+| `Pick any colour for the wings` | Pick any colour for the wings | Wähle eine beliebige Farbe für die Flügel |

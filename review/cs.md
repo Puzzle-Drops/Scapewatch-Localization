@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Objevování |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Odstín 6 |
 | `Wave hello` | Wave hello | Pozdrav |
 | `Body and face` | Body and face | Tělo a obličej |
+| `Face` | Face | Obličej |
+| `Moustache` | Moustache | Knír |
+| `Tusks` | Tusks | Kly |
+| `Earrings` | Earrings | Náušnice |
+| `Piercing` | Piercing | Piercing |
+| `Scars` | Scars | Jizvy |
+| `Face paint` | Face paint | Malba obličeje |
+| `Body paint` | Body paint | Malba těla |
+| `Black` | Black | Černá |
+| `Black, one blind eye` | Black, one blind eye | Černá, jedno slepé oko |
+| `Blue, one blind eye` | Blue, one blind eye | Modrá, jedno slepé oko |
+| `Brown, one blind eye` | Brown, one blind eye | Hnědá, jedno slepé oko |
+| `Green, one blind eye` | Green, one blind eye | Zelená, jedno slepé oko |
+| `Grey` | Grey | Šedá |
+| `Grey, one blind eye` | Grey, one blind eye | Šedá, jedno slepé oko |
+| `Purple, one blind eye` | Purple, one blind eye | Fialová, jedno slepé oko |
+| `Style 1, Blue` | Style 1, Blue | Styl 1, modrá |
+| `Style 1, Ginger` | Style 1, Ginger | Styl 1, zrzavá |
+| `Style 1, Purple` | Style 1, Purple | Styl 1, fialová |
+| `Style 1, Red` | Style 1, Red | Styl 1, červená |
+| `Style 2, Blue` | Style 2, Blue | Styl 2, modrá |
+| `Style 2, Ginger` | Style 2, Ginger | Styl 2, zrzavá |
+| `Style 2, Purple` | Style 2, Purple | Styl 2, fialová |
+| `Style 2, Red` | Style 2, Red | Styl 2, červená |
+| `Style 3, Blue` | Style 3, Blue | Styl 3, modrá |
+| `Style 3, Ginger` | Style 3, Ginger | Styl 3, zrzavá |
+| `Style 3, Purple` | Style 3, Purple | Styl 3, fialová |
+| `Style 3, Red` | Style 3, Red | Styl 3, červená |
+| `Style 4, Blue` | Style 4, Blue | Styl 4, modrá |
+| `Style 4, Ginger` | Style 4, Ginger | Styl 4, zrzavá |
+| `Style 4, Purple` | Style 4, Purple | Styl 4, fialová |
+| `Style 4, Red` | Style 4, Red | Styl 4, červená |
+| `Style 5, Blue` | Style 5, Blue | Styl 5, modrá |
+| `Style 5, Ginger` | Style 5, Ginger | Styl 5, zrzavá |
+| `Style 5, Purple` | Style 5, Purple | Styl 5, fialová |
+| `Style 5, Red` | Style 5, Red | Styl 5, červená |
+| `Style 6, Blue` | Style 6, Blue | Styl 6, modrá |
+| `Style 6, Ginger` | Style 6, Ginger | Styl 6, zrzavá |
+| `Style 6, Purple` | Style 6, Purple | Styl 6, fialová |
+| `Style 6, Red` | Style 6, Red | Styl 6, červená |
+| `Style 1, Green` | Style 1, Green | Styl 1, zelená |
+| `Style 1, Yellow` | Style 1, Yellow | Styl 1, žlutá |
+| `Style 2, Green` | Style 2, Green | Styl 2, zelená |
+| `Style 2, Yellow` | Style 2, Yellow | Styl 2, žlutá |
+| `Style 3, Green` | Style 3, Green | Styl 3, zelená |
+| `Style 3, Yellow` | Style 3, Yellow | Styl 3, žlutá |
+| `Style 4, Green` | Style 4, Green | Styl 4, zelená |
+| `Style 4, Yellow` | Style 4, Yellow | Styl 4, žlutá |
+| `Style 5, Green` | Style 5, Green | Styl 5, zelená |
+| `Style 5, Yellow` | Style 5, Yellow | Styl 5, žlutá |
+| `Style 6, Green` | Style 6, Green | Styl 6, zelená |
+| `Style 6, Yellow` | Style 6, Yellow | Styl 6, žlutá |
+| `Face 1` | Face 1 | Obličej 1 |
+| `Face 2` | Face 2 | Obličej 2 |
+| `Face 3` | Face 3 | Obličej 3 |
+| `Face 4` | Face 4 | Obličej 4 |
+| `Face 5` | Face 5 | Obličej 5 |
+| `Style 6` | Style 6 | Styl 6 |
+| `Style 7` | Style 7 | Styl 7 |
+| `Peasant, Black` | Peasant, Black | Sedlák, černá |
+| `Peasant, Green` | Peasant, Green | Sedlák, zelená |
+| `Peasant, Purple` | Peasant, Purple | Sedlák, fialová |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Severský válečník, červená |
+| `Peasant 1, Black` | Peasant 1, Black | Sedlák 1, černá |
+| `Peasant 2, Black` | Peasant 2, Black | Sedlák 2, černá |
+| `Peasant 3, Black` | Peasant 3, Black | Sedlák 3, černá |
+| `Peasant 1, Green` | Peasant 1, Green | Sedlák 1, zelená |
+| `Peasant 1, Purple` | Peasant 1, Purple | Sedlák 1, fialová |
+| `Peasant 2, Green` | Peasant 2, Green | Sedlák 2, zelená |
+| `Peasant 2, Purple` | Peasant 2, Purple | Sedlák 2, fialová |
+| `Peasant 3, Green` | Peasant 3, Green | Sedlák 3, zelená |
+| `Peasant 3, Purple` | Peasant 3, Purple | Sedlák 3, fialová |
+| `Fairy wings, Blue` | Fairy wings, Blue | Křídla víly, modrá |
+| `Fairy wings, Gold` | Fairy wings, Gold | Křídla víly, zlatá |
+| `Fairy wings, Green` | Fairy wings, Green | Křídla víly, zelená |
+| `Fairy wings, Pink` | Fairy wings, Pink | Křídla víly, růžová |
+| `Fairy wings, Silver` | Fairy wings, Silver | Křídla víly, stříbrná |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Křídla víly, žlutá |
+| `Fairy wings, Violet` | Fairy wings, Violet | Křídla víly, šeříková |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Křídla víly, karmínová |
+| `Fairy wings, Teal` | Fairy wings, Teal | Křídla víly, tyrkysová |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Křídla víly, západ slunce |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Křídla víly, stín |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Křídla víly, duha |
+| `Demon wings, Rose` | Demon wings, Rose | Křídla démona, růže |
+| `Demon wings, Amber` | Demon wings, Amber | Křídla démona, jantarová |
+| `Demon wings, Bone` | Demon wings, Bone | Křídla démona, kostěná |
+| `Demon wings, Coral` | Demon wings, Coral | Křídla démona, korálová |
+| `Demon wings, Moss` | Demon wings, Moss | Křídla démona, mechová |
+| `Demon wings, Storm` | Demon wings, Storm | Křídla démona, bouře |
+| `Demon wings, Crimson` | Demon wings, Crimson | Křídla démona, karmínová |
+| `Demon wings, Shadow` | Demon wings, Shadow | Křídla démona, stín |
+| `Demon wings, Frost` | Demon wings, Frost | Křídla démona, jinovatka |
+| `Demon wings, Venom` | Demon wings, Venom | Křídla démona, jed |
+| `Demon wings, Violet` | Demon wings, Violet | Křídla démona, šeříková |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Křídla démona, pekelný oheň |
+| `Human` | Human | Člověk |
+| `Dwarf` | Dwarf | Trpaslík |
+| `Cape and wings` | Cape and wings | Plášť a křídla |
+| `Tint` | Tint | Zabarvení |
+| `No tint` | No tint | Bez zabarvení |
+| `Pick any colour for the wings` | Pick any colour for the wings | Vyber libovolnou barvu křídel |

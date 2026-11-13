@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardi |
 | Discover | Tutki |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Sävy 6 |
 | `Wave hello` | Wave hello | Vilkuta |
 | `Body and face` | Body and face | Vartalo ja kasvot |
+| `Face` | Face | Kasvot |
+| `Moustache` | Moustache | Viikset |
+| `Tusks` | Tusks | Syöksyhampaat |
+| `Earrings` | Earrings | Korvakorut |
+| `Piercing` | Piercing | Lävistys |
+| `Scars` | Scars | Arvet |
+| `Face paint` | Face paint | Kasvomaalaus |
+| `Body paint` | Body paint | Vartalomaalaus |
+| `Black` | Black | Musta |
+| `Black, one blind eye` | Black, one blind eye | Musta, toinen silmä sokea |
+| `Blue, one blind eye` | Blue, one blind eye | Sininen, toinen silmä sokea |
+| `Brown, one blind eye` | Brown, one blind eye | Ruskea, toinen silmä sokea |
+| `Green, one blind eye` | Green, one blind eye | Vihreä, toinen silmä sokea |
+| `Grey` | Grey | Harmaa |
+| `Grey, one blind eye` | Grey, one blind eye | Harmaa, toinen silmä sokea |
+| `Purple, one blind eye` | Purple, one blind eye | Violetti, toinen silmä sokea |
+| `Style 1, Blue` | Style 1, Blue | Tyyli 1, sininen |
+| `Style 1, Ginger` | Style 1, Ginger | Tyyli 1, kuparinen |
+| `Style 1, Purple` | Style 1, Purple | Tyyli 1, violetti |
+| `Style 1, Red` | Style 1, Red | Tyyli 1, punainen |
+| `Style 2, Blue` | Style 2, Blue | Tyyli 2, sininen |
+| `Style 2, Ginger` | Style 2, Ginger | Tyyli 2, kuparinen |
+| `Style 2, Purple` | Style 2, Purple | Tyyli 2, violetti |
+| `Style 2, Red` | Style 2, Red | Tyyli 2, punainen |
+| `Style 3, Blue` | Style 3, Blue | Tyyli 3, sininen |
+| `Style 3, Ginger` | Style 3, Ginger | Tyyli 3, kuparinen |
+| `Style 3, Purple` | Style 3, Purple | Tyyli 3, violetti |
+| `Style 3, Red` | Style 3, Red | Tyyli 3, punainen |
+| `Style 4, Blue` | Style 4, Blue | Tyyli 4, sininen |
+| `Style 4, Ginger` | Style 4, Ginger | Tyyli 4, kuparinen |
+| `Style 4, Purple` | Style 4, Purple | Tyyli 4, violetti |
+| `Style 4, Red` | Style 4, Red | Tyyli 4, punainen |
+| `Style 5, Blue` | Style 5, Blue | Tyyli 5, sininen |
+| `Style 5, Ginger` | Style 5, Ginger | Tyyli 5, kuparinen |
+| `Style 5, Purple` | Style 5, Purple | Tyyli 5, violetti |
+| `Style 5, Red` | Style 5, Red | Tyyli 5, punainen |
+| `Style 6, Blue` | Style 6, Blue | Tyyli 6, sininen |
+| `Style 6, Ginger` | Style 6, Ginger | Tyyli 6, kuparinen |
+| `Style 6, Purple` | Style 6, Purple | Tyyli 6, violetti |
+| `Style 6, Red` | Style 6, Red | Tyyli 6, punainen |
+| `Style 1, Green` | Style 1, Green | Tyyli 1, vihreä |
+| `Style 1, Yellow` | Style 1, Yellow | Tyyli 1, keltainen |
+| `Style 2, Green` | Style 2, Green | Tyyli 2, vihreä |
+| `Style 2, Yellow` | Style 2, Yellow | Tyyli 2, keltainen |
+| `Style 3, Green` | Style 3, Green | Tyyli 3, vihreä |
+| `Style 3, Yellow` | Style 3, Yellow | Tyyli 3, keltainen |
+| `Style 4, Green` | Style 4, Green | Tyyli 4, vihreä |
+| `Style 4, Yellow` | Style 4, Yellow | Tyyli 4, keltainen |
+| `Style 5, Green` | Style 5, Green | Tyyli 5, vihreä |
+| `Style 5, Yellow` | Style 5, Yellow | Tyyli 5, keltainen |
+| `Style 6, Green` | Style 6, Green | Tyyli 6, vihreä |
+| `Style 6, Yellow` | Style 6, Yellow | Tyyli 6, keltainen |
+| `Face 1` | Face 1 | Kasvot 1 |
+| `Face 2` | Face 2 | Kasvot 2 |
+| `Face 3` | Face 3 | Kasvot 3 |
+| `Face 4` | Face 4 | Kasvot 4 |
+| `Face 5` | Face 5 | Kasvot 5 |
+| `Style 6` | Style 6 | Tyyli 6 |
+| `Style 7` | Style 7 | Tyyli 7 |
+| `Peasant, Black` | Peasant, Black | Talonpoika, musta |
+| `Peasant, Green` | Peasant, Green | Talonpoika, vihreä |
+| `Peasant, Purple` | Peasant, Purple | Talonpoika, violetti |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Pohjolan soturi, punainen |
+| `Peasant 1, Black` | Peasant 1, Black | Talonpoika 1, musta |
+| `Peasant 2, Black` | Peasant 2, Black | Talonpoika 2, musta |
+| `Peasant 3, Black` | Peasant 3, Black | Talonpoika 3, musta |
+| `Peasant 1, Green` | Peasant 1, Green | Talonpoika 1, vihreä |
+| `Peasant 1, Purple` | Peasant 1, Purple | Talonpoika 1, violetti |
+| `Peasant 2, Green` | Peasant 2, Green | Talonpoika 2, vihreä |
+| `Peasant 2, Purple` | Peasant 2, Purple | Talonpoika 2, violetti |
+| `Peasant 3, Green` | Peasant 3, Green | Talonpoika 3, vihreä |
+| `Peasant 3, Purple` | Peasant 3, Purple | Talonpoika 3, violetti |
+| `Fairy wings, Blue` | Fairy wings, Blue | Keijunsiivet, sininen |
+| `Fairy wings, Gold` | Fairy wings, Gold | Keijunsiivet, kulta |
+| `Fairy wings, Green` | Fairy wings, Green | Keijunsiivet, vihreä |
+| `Fairy wings, Pink` | Fairy wings, Pink | Keijunsiivet, pinkki |
+| `Fairy wings, Silver` | Fairy wings, Silver | Keijunsiivet, hopea |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Keijunsiivet, keltainen |
+| `Fairy wings, Violet` | Fairy wings, Violet | Keijunsiivet, sinivioletti |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Keijunsiivet, karmiininpunainen |
+| `Fairy wings, Teal` | Fairy wings, Teal | Keijunsiivet, sinivihreä |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Keijunsiivet, auringonlasku |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Keijunsiivet, varjo |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Keijunsiivet, sateenkaari |
+| `Demon wings, Rose` | Demon wings, Rose | Demoninsiivet, ruusu |
+| `Demon wings, Amber` | Demon wings, Amber | Demoninsiivet, meripihka |
+| `Demon wings, Bone` | Demon wings, Bone | Demoninsiivet, luu |
+| `Demon wings, Coral` | Demon wings, Coral | Demoninsiivet, koralli |
+| `Demon wings, Moss` | Demon wings, Moss | Demoninsiivet, sammal |
+| `Demon wings, Storm` | Demon wings, Storm | Demoninsiivet, myrsky |
+| `Demon wings, Crimson` | Demon wings, Crimson | Demoninsiivet, karmiininpunainen |
+| `Demon wings, Shadow` | Demon wings, Shadow | Demoninsiivet, varjo |
+| `Demon wings, Frost` | Demon wings, Frost | Demoninsiivet, huurre |
+| `Demon wings, Venom` | Demon wings, Venom | Demoninsiivet, myrkky |
+| `Demon wings, Violet` | Demon wings, Violet | Demoninsiivet, sinivioletti |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Demoninsiivet, helvetintuli |
+| `Human` | Human | Ihminen |
+| `Dwarf` | Dwarf | Kääpiö |
+| `Cape and wings` | Cape and wings | Viitta ja siivet |
+| `Tint` | Tint | Sävytys |
+| `No tint` | No tint | Ei sävytystä |
+| `Pick any colour for the wings` | Pick any colour for the wings | Valitse siiville mikä tahansa väri |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bárd |
 | Discover | Felfedezés |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | 6. árnyalat |
 | `Wave hello` | Wave hello | Integetés |
 | `Body and face` | Body and face | Test és arc |
+| `Face` | Face | Arc |
+| `Moustache` | Moustache | Bajusz |
+| `Tusks` | Tusks | Agyarak |
+| `Earrings` | Earrings | Fülbevaló |
+| `Piercing` | Piercing | Piercing |
+| `Scars` | Scars | Sebhelyek |
+| `Face paint` | Face paint | Arcfestés |
+| `Body paint` | Body paint | Testfestés |
+| `Black` | Black | Fekete |
+| `Black, one blind eye` | Black, one blind eye | Fekete, fél szemére vak |
+| `Blue, one blind eye` | Blue, one blind eye | Kék, fél szemére vak |
+| `Brown, one blind eye` | Brown, one blind eye | Barna, fél szemére vak |
+| `Green, one blind eye` | Green, one blind eye | Zöld, fél szemére vak |
+| `Grey` | Grey | Szürke |
+| `Grey, one blind eye` | Grey, one blind eye | Szürke, fél szemére vak |
+| `Purple, one blind eye` | Purple, one blind eye | Lila, fél szemére vak |
+| `Style 1, Blue` | Style 1, Blue | 1. stílus, kék |
+| `Style 1, Ginger` | Style 1, Ginger | 1. stílus, vörös |
+| `Style 1, Purple` | Style 1, Purple | 1. stílus, lila |
+| `Style 1, Red` | Style 1, Red | 1. stílus, piros |
+| `Style 2, Blue` | Style 2, Blue | 2. stílus, kék |
+| `Style 2, Ginger` | Style 2, Ginger | 2. stílus, vörös |
+| `Style 2, Purple` | Style 2, Purple | 2. stílus, lila |
+| `Style 2, Red` | Style 2, Red | 2. stílus, piros |
+| `Style 3, Blue` | Style 3, Blue | 3. stílus, kék |
+| `Style 3, Ginger` | Style 3, Ginger | 3. stílus, vörös |
+| `Style 3, Purple` | Style 3, Purple | 3. stílus, lila |
+| `Style 3, Red` | Style 3, Red | 3. stílus, piros |
+| `Style 4, Blue` | Style 4, Blue | 4. stílus, kék |
+| `Style 4, Ginger` | Style 4, Ginger | 4. stílus, vörös |
+| `Style 4, Purple` | Style 4, Purple | 4. stílus, lila |
+| `Style 4, Red` | Style 4, Red | 4. stílus, piros |
+| `Style 5, Blue` | Style 5, Blue | 5. stílus, kék |
+| `Style 5, Ginger` | Style 5, Ginger | 5. stílus, vörös |
+| `Style 5, Purple` | Style 5, Purple | 5. stílus, lila |
+| `Style 5, Red` | Style 5, Red | 5. stílus, piros |
+| `Style 6, Blue` | Style 6, Blue | 6. stílus, kék |
+| `Style 6, Ginger` | Style 6, Ginger | 6. stílus, vörös |
+| `Style 6, Purple` | Style 6, Purple | 6. stílus, lila |
+| `Style 6, Red` | Style 6, Red | 6. stílus, piros |
+| `Style 1, Green` | Style 1, Green | 1. stílus, zöld |
+| `Style 1, Yellow` | Style 1, Yellow | 1. stílus, sárga |
+| `Style 2, Green` | Style 2, Green | 2. stílus, zöld |
+| `Style 2, Yellow` | Style 2, Yellow | 2. stílus, sárga |
+| `Style 3, Green` | Style 3, Green | 3. stílus, zöld |
+| `Style 3, Yellow` | Style 3, Yellow | 3. stílus, sárga |
+| `Style 4, Green` | Style 4, Green | 4. stílus, zöld |
+| `Style 4, Yellow` | Style 4, Yellow | 4. stílus, sárga |
+| `Style 5, Green` | Style 5, Green | 5. stílus, zöld |
+| `Style 5, Yellow` | Style 5, Yellow | 5. stílus, sárga |
+| `Style 6, Green` | Style 6, Green | 6. stílus, zöld |
+| `Style 6, Yellow` | Style 6, Yellow | 6. stílus, sárga |
+| `Face 1` | Face 1 | 1. arc |
+| `Face 2` | Face 2 | 2. arc |
+| `Face 3` | Face 3 | 3. arc |
+| `Face 4` | Face 4 | 4. arc |
+| `Face 5` | Face 5 | 5. arc |
+| `Style 6` | Style 6 | 6. stílus |
+| `Style 7` | Style 7 | 7. stílus |
+| `Peasant, Black` | Peasant, Black | Paraszt, fekete |
+| `Peasant, Green` | Peasant, Green | Paraszt, zöld |
+| `Peasant, Purple` | Peasant, Purple | Paraszt, lila |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Északi harcos, piros |
+| `Peasant 1, Black` | Peasant 1, Black | Paraszt 1, fekete |
+| `Peasant 2, Black` | Peasant 2, Black | Paraszt 2, fekete |
+| `Peasant 3, Black` | Peasant 3, Black | Paraszt 3, fekete |
+| `Peasant 1, Green` | Peasant 1, Green | Paraszt 1, zöld |
+| `Peasant 1, Purple` | Peasant 1, Purple | Paraszt 1, lila |
+| `Peasant 2, Green` | Peasant 2, Green | Paraszt 2, zöld |
+| `Peasant 2, Purple` | Peasant 2, Purple | Paraszt 2, lila |
+| `Peasant 3, Green` | Peasant 3, Green | Paraszt 3, zöld |
+| `Peasant 3, Purple` | Peasant 3, Purple | Paraszt 3, lila |
+| `Fairy wings, Blue` | Fairy wings, Blue | Tündérszárnyak, kék |
+| `Fairy wings, Gold` | Fairy wings, Gold | Tündérszárnyak, arany |
+| `Fairy wings, Green` | Fairy wings, Green | Tündérszárnyak, zöld |
+| `Fairy wings, Pink` | Fairy wings, Pink | Tündérszárnyak, rózsaszín |
+| `Fairy wings, Silver` | Fairy wings, Silver | Tündérszárnyak, ezüst |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Tündérszárnyak, sárga |
+| `Fairy wings, Violet` | Fairy wings, Violet | Tündérszárnyak, ibolya |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Tündérszárnyak, karmazsin |
+| `Fairy wings, Teal` | Fairy wings, Teal | Tündérszárnyak, kékeszöld |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Tündérszárnyak, naplemente |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Tündérszárnyak, árnyék |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Tündérszárnyak, szivárvány |
+| `Demon wings, Rose` | Demon wings, Rose | Démonszárnyak, rózsa |
+| `Demon wings, Amber` | Demon wings, Amber | Démonszárnyak, borostyán |
+| `Demon wings, Bone` | Demon wings, Bone | Démonszárnyak, csont |
+| `Demon wings, Coral` | Demon wings, Coral | Démonszárnyak, korall |
+| `Demon wings, Moss` | Demon wings, Moss | Démonszárnyak, moha |
+| `Demon wings, Storm` | Demon wings, Storm | Démonszárnyak, vihar |
+| `Demon wings, Crimson` | Demon wings, Crimson | Démonszárnyak, karmazsin |
+| `Demon wings, Shadow` | Demon wings, Shadow | Démonszárnyak, árnyék |
+| `Demon wings, Frost` | Demon wings, Frost | Démonszárnyak, fagy |
+| `Demon wings, Venom` | Demon wings, Venom | Démonszárnyak, méreg |
+| `Demon wings, Violet` | Demon wings, Violet | Démonszárnyak, ibolya |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Démonszárnyak, pokoltűz |
+| `Human` | Human | Ember |
+| `Dwarf` | Dwarf | Törpe |
+| `Cape and wings` | Cape and wings | Köpeny és szárnyak |
+| `Tint` | Tint | Színezés |
+| `No tint` | No tint | Nincs színezés |
+| `Pick any colour for the wings` | Pick any colour for the wings | Válassz bármilyen színt a szárnyaknak |

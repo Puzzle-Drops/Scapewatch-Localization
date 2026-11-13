@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Découverte |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Teint 6 |
 | `Wave hello` | Wave hello | Saluer |
 | `Body and face` | Body and face | Corps et visage |
+| `Face` | Face | Visage |
+| `Moustache` | Moustache | Moustache |
+| `Tusks` | Tusks | Défenses |
+| `Earrings` | Earrings | Boucles d'oreilles |
+| `Piercing` | Piercing | Piercing |
+| `Scars` | Scars | Cicatrices |
+| `Face paint` | Face paint | Peinture faciale |
+| `Body paint` | Body paint | Peinture corporelle |
+| `Black` | Black | Noir |
+| `Black, one blind eye` | Black, one blind eye | Noir, un œil aveugle |
+| `Blue, one blind eye` | Blue, one blind eye | Bleu, un œil aveugle |
+| `Brown, one blind eye` | Brown, one blind eye | Marron, un œil aveugle |
+| `Green, one blind eye` | Green, one blind eye | Vert, un œil aveugle |
+| `Grey` | Grey | Gris |
+| `Grey, one blind eye` | Grey, one blind eye | Gris, un œil aveugle |
+| `Purple, one blind eye` | Purple, one blind eye | Violet, un œil aveugle |
+| `Style 1, Blue` | Style 1, Blue | Style 1, Bleu |
+| `Style 1, Ginger` | Style 1, Ginger | Style 1, Roux |
+| `Style 1, Purple` | Style 1, Purple | Style 1, Violet |
+| `Style 1, Red` | Style 1, Red | Style 1, Rouge |
+| `Style 2, Blue` | Style 2, Blue | Style 2, Bleu |
+| `Style 2, Ginger` | Style 2, Ginger | Style 2, Roux |
+| `Style 2, Purple` | Style 2, Purple | Style 2, Violet |
+| `Style 2, Red` | Style 2, Red | Style 2, Rouge |
+| `Style 3, Blue` | Style 3, Blue | Style 3, Bleu |
+| `Style 3, Ginger` | Style 3, Ginger | Style 3, Roux |
+| `Style 3, Purple` | Style 3, Purple | Style 3, Violet |
+| `Style 3, Red` | Style 3, Red | Style 3, Rouge |
+| `Style 4, Blue` | Style 4, Blue | Style 4, Bleu |
+| `Style 4, Ginger` | Style 4, Ginger | Style 4, Roux |
+| `Style 4, Purple` | Style 4, Purple | Style 4, Violet |
+| `Style 4, Red` | Style 4, Red | Style 4, Rouge |
+| `Style 5, Blue` | Style 5, Blue | Style 5, Bleu |
+| `Style 5, Ginger` | Style 5, Ginger | Style 5, Roux |
+| `Style 5, Purple` | Style 5, Purple | Style 5, Violet |
+| `Style 5, Red` | Style 5, Red | Style 5, Rouge |
+| `Style 6, Blue` | Style 6, Blue | Style 6, Bleu |
+| `Style 6, Ginger` | Style 6, Ginger | Style 6, Roux |
+| `Style 6, Purple` | Style 6, Purple | Style 6, Violet |
+| `Style 6, Red` | Style 6, Red | Style 6, Rouge |
+| `Style 1, Green` | Style 1, Green | Style 1, Vert |
+| `Style 1, Yellow` | Style 1, Yellow | Style 1, Jaune |
+| `Style 2, Green` | Style 2, Green | Style 2, Vert |
+| `Style 2, Yellow` | Style 2, Yellow | Style 2, Jaune |
+| `Style 3, Green` | Style 3, Green | Style 3, Vert |
+| `Style 3, Yellow` | Style 3, Yellow | Style 3, Jaune |
+| `Style 4, Green` | Style 4, Green | Style 4, Vert |
+| `Style 4, Yellow` | Style 4, Yellow | Style 4, Jaune |
+| `Style 5, Green` | Style 5, Green | Style 5, Vert |
+| `Style 5, Yellow` | Style 5, Yellow | Style 5, Jaune |
+| `Style 6, Green` | Style 6, Green | Style 6, Vert |
+| `Style 6, Yellow` | Style 6, Yellow | Style 6, Jaune |
+| `Face 1` | Face 1 | Visage 1 |
+| `Face 2` | Face 2 | Visage 2 |
+| `Face 3` | Face 3 | Visage 3 |
+| `Face 4` | Face 4 | Visage 4 |
+| `Face 5` | Face 5 | Visage 5 |
+| `Style 6` | Style 6 | Style 6 |
+| `Style 7` | Style 7 | Style 7 |
+| `Peasant, Black` | Peasant, Black | Paysan, Noir |
+| `Peasant, Green` | Peasant, Green | Paysan, Vert |
+| `Peasant, Purple` | Peasant, Purple | Paysan, Violet |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Guerrier nordique, Rouge |
+| `Peasant 1, Black` | Peasant 1, Black | Paysan 1, Noir |
+| `Peasant 2, Black` | Peasant 2, Black | Paysan 2, Noir |
+| `Peasant 3, Black` | Peasant 3, Black | Paysan 3, Noir |
+| `Peasant 1, Green` | Peasant 1, Green | Paysan 1, Vert |
+| `Peasant 1, Purple` | Peasant 1, Purple | Paysan 1, Violet |
+| `Peasant 2, Green` | Peasant 2, Green | Paysan 2, Vert |
+| `Peasant 2, Purple` | Peasant 2, Purple | Paysan 2, Violet |
+| `Peasant 3, Green` | Peasant 3, Green | Paysan 3, Vert |
+| `Peasant 3, Purple` | Peasant 3, Purple | Paysan 3, Violet |
+| `Fairy wings, Blue` | Fairy wings, Blue | Ailes de fée, Bleu |
+| `Fairy wings, Gold` | Fairy wings, Gold | Ailes de fée, Or |
+| `Fairy wings, Green` | Fairy wings, Green | Ailes de fée, Vert |
+| `Fairy wings, Pink` | Fairy wings, Pink | Ailes de fée, Rose |
+| `Fairy wings, Silver` | Fairy wings, Silver | Ailes de fée, Argent |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Ailes de fée, Jaune |
+| `Fairy wings, Violet` | Fairy wings, Violet | Ailes de fée, Violet |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Ailes de fée, Cramoisi |
+| `Fairy wings, Teal` | Fairy wings, Teal | Ailes de fée, Bleu canard |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Ailes de fée, Crépuscule |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Ailes de fée, Ombre |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Ailes de fée, Arc-en-ciel |
+| `Demon wings, Rose` | Demon wings, Rose | Ailes de démon, Vieux rose |
+| `Demon wings, Amber` | Demon wings, Amber | Ailes de démon, Ambre |
+| `Demon wings, Bone` | Demon wings, Bone | Ailes de démon, Os |
+| `Demon wings, Coral` | Demon wings, Coral | Ailes de démon, Corail |
+| `Demon wings, Moss` | Demon wings, Moss | Ailes de démon, Mousse |
+| `Demon wings, Storm` | Demon wings, Storm | Ailes de démon, Tempête |
+| `Demon wings, Crimson` | Demon wings, Crimson | Ailes de démon, Cramoisi |
+| `Demon wings, Shadow` | Demon wings, Shadow | Ailes de démon, Ombre |
+| `Demon wings, Frost` | Demon wings, Frost | Ailes de démon, Givre |
+| `Demon wings, Venom` | Demon wings, Venom | Ailes de démon, Venin |
+| `Demon wings, Violet` | Demon wings, Violet | Ailes de démon, Violet |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Ailes de démon, Feu infernal |
+| `Human` | Human | Humain |
+| `Dwarf` | Dwarf | Nain |
+| `Cape and wings` | Cape and wings | Cape et ailes |
+| `Tint` | Tint | Teinte |
+| `No tint` | No tint | Aucune teinte |
+| `Pick any colour for the wings` | Pick any colour for the wings | Choisissez n'importe quelle couleur pour les ailes |

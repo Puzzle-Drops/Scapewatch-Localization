@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cântă |
 | Discover | Descoperire |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Nuanță 6 |
 | `Wave hello` | Wave hello | Salutare |
 | `Body and face` | Body and face | Corp și față |
+| `Face` | Face | Față |
+| `Moustache` | Moustache | Mustață |
+| `Tusks` | Tusks | Colți |
+| `Earrings` | Earrings | Cercei |
+| `Piercing` | Piercing | Piercing |
+| `Scars` | Scars | Cicatrici |
+| `Face paint` | Face paint | Pictură facială |
+| `Body paint` | Body paint | Pictură corporală |
+| `Black` | Black | Negru |
+| `Black, one blind eye` | Black, one blind eye | Negru, un ochi orb |
+| `Blue, one blind eye` | Blue, one blind eye | Albastru, un ochi orb |
+| `Brown, one blind eye` | Brown, one blind eye | Maro, un ochi orb |
+| `Green, one blind eye` | Green, one blind eye | Verde, un ochi orb |
+| `Grey` | Grey | Gri |
+| `Grey, one blind eye` | Grey, one blind eye | Gri, un ochi orb |
+| `Purple, one blind eye` | Purple, one blind eye | Mov, un ochi orb |
+| `Style 1, Blue` | Style 1, Blue | Stil 1, Albastru |
+| `Style 1, Ginger` | Style 1, Ginger | Stil 1, Roșcat |
+| `Style 1, Purple` | Style 1, Purple | Stil 1, Mov |
+| `Style 1, Red` | Style 1, Red | Stil 1, Roșu |
+| `Style 2, Blue` | Style 2, Blue | Stil 2, Albastru |
+| `Style 2, Ginger` | Style 2, Ginger | Stil 2, Roșcat |
+| `Style 2, Purple` | Style 2, Purple | Stil 2, Mov |
+| `Style 2, Red` | Style 2, Red | Stil 2, Roșu |
+| `Style 3, Blue` | Style 3, Blue | Stil 3, Albastru |
+| `Style 3, Ginger` | Style 3, Ginger | Stil 3, Roșcat |
+| `Style 3, Purple` | Style 3, Purple | Stil 3, Mov |
+| `Style 3, Red` | Style 3, Red | Stil 3, Roșu |
+| `Style 4, Blue` | Style 4, Blue | Stil 4, Albastru |
+| `Style 4, Ginger` | Style 4, Ginger | Stil 4, Roșcat |
+| `Style 4, Purple` | Style 4, Purple | Stil 4, Mov |
+| `Style 4, Red` | Style 4, Red | Stil 4, Roșu |
+| `Style 5, Blue` | Style 5, Blue | Stil 5, Albastru |
+| `Style 5, Ginger` | Style 5, Ginger | Stil 5, Roșcat |
+| `Style 5, Purple` | Style 5, Purple | Stil 5, Mov |
+| `Style 5, Red` | Style 5, Red | Stil 5, Roșu |
+| `Style 6, Blue` | Style 6, Blue | Stil 6, Albastru |
+| `Style 6, Ginger` | Style 6, Ginger | Stil 6, Roșcat |
+| `Style 6, Purple` | Style 6, Purple | Stil 6, Mov |
+| `Style 6, Red` | Style 6, Red | Stil 6, Roșu |
+| `Style 1, Green` | Style 1, Green | Stil 1, Verde |
+| `Style 1, Yellow` | Style 1, Yellow | Stil 1, Galben |
+| `Style 2, Green` | Style 2, Green | Stil 2, Verde |
+| `Style 2, Yellow` | Style 2, Yellow | Stil 2, Galben |
+| `Style 3, Green` | Style 3, Green | Stil 3, Verde |
+| `Style 3, Yellow` | Style 3, Yellow | Stil 3, Galben |
+| `Style 4, Green` | Style 4, Green | Stil 4, Verde |
+| `Style 4, Yellow` | Style 4, Yellow | Stil 4, Galben |
+| `Style 5, Green` | Style 5, Green | Stil 5, Verde |
+| `Style 5, Yellow` | Style 5, Yellow | Stil 5, Galben |
+| `Style 6, Green` | Style 6, Green | Stil 6, Verde |
+| `Style 6, Yellow` | Style 6, Yellow | Stil 6, Galben |
+| `Face 1` | Face 1 | Față 1 |
+| `Face 2` | Face 2 | Față 2 |
+| `Face 3` | Face 3 | Față 3 |
+| `Face 4` | Face 4 | Față 4 |
+| `Face 5` | Face 5 | Față 5 |
+| `Style 6` | Style 6 | Stil 6 |
+| `Style 7` | Style 7 | Stil 7 |
+| `Peasant, Black` | Peasant, Black | Țăran, Negru |
+| `Peasant, Green` | Peasant, Green | Țăran, Verde |
+| `Peasant, Purple` | Peasant, Purple | Țăran, Mov |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Războinic nordic, Roșu |
+| `Peasant 1, Black` | Peasant 1, Black | Țăran 1, Negru |
+| `Peasant 2, Black` | Peasant 2, Black | Țăran 2, Negru |
+| `Peasant 3, Black` | Peasant 3, Black | Țăran 3, Negru |
+| `Peasant 1, Green` | Peasant 1, Green | Țăran 1, Verde |
+| `Peasant 1, Purple` | Peasant 1, Purple | Țăran 1, Mov |
+| `Peasant 2, Green` | Peasant 2, Green | Țăran 2, Verde |
+| `Peasant 2, Purple` | Peasant 2, Purple | Țăran 2, Mov |
+| `Peasant 3, Green` | Peasant 3, Green | Țăran 3, Verde |
+| `Peasant 3, Purple` | Peasant 3, Purple | Țăran 3, Mov |
+| `Fairy wings, Blue` | Fairy wings, Blue | Aripi de zână, Albastru |
+| `Fairy wings, Gold` | Fairy wings, Gold | Aripi de zână, Aur |
+| `Fairy wings, Green` | Fairy wings, Green | Aripi de zână, Verde |
+| `Fairy wings, Pink` | Fairy wings, Pink | Aripi de zână, Roz |
+| `Fairy wings, Silver` | Fairy wings, Silver | Aripi de zână, Argint |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Aripi de zână, Galben |
+| `Fairy wings, Violet` | Fairy wings, Violet | Aripi de zână, Violet |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Aripi de zână, Purpuriu |
+| `Fairy wings, Teal` | Fairy wings, Teal | Aripi de zână, Verde-albăstrui |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Aripi de zână, Apus |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Aripi de zână, Umbră |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Aripi de zână, Curcubeu |
+| `Demon wings, Rose` | Demon wings, Rose | Aripi de demon, Trandafiriu |
+| `Demon wings, Amber` | Demon wings, Amber | Aripi de demon, Chihlimbar |
+| `Demon wings, Bone` | Demon wings, Bone | Aripi de demon, Os |
+| `Demon wings, Coral` | Demon wings, Coral | Aripi de demon, Coral |
+| `Demon wings, Moss` | Demon wings, Moss | Aripi de demon, Mușchi |
+| `Demon wings, Storm` | Demon wings, Storm | Aripi de demon, Furtună |
+| `Demon wings, Crimson` | Demon wings, Crimson | Aripi de demon, Purpuriu |
+| `Demon wings, Shadow` | Demon wings, Shadow | Aripi de demon, Umbră |
+| `Demon wings, Frost` | Demon wings, Frost | Aripi de demon, Ger |
+| `Demon wings, Venom` | Demon wings, Venom | Aripi de demon, Venin |
+| `Demon wings, Violet` | Demon wings, Violet | Aripi de demon, Violet |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Aripi de demon, Foc infernal |
+| `Human` | Human | Om |
+| `Dwarf` | Dwarf | Pitic |
+| `Cape and wings` | Cape and wings | Pelerină și aripi |
+| `Tint` | Tint | Tentă |
+| `No tint` | No tint | Fără tentă |
+| `Pick any colour for the wings` | Pick any colour for the wings | Alege orice culoare pentru aripi |

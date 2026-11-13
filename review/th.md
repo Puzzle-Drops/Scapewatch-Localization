@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | กวี |
 | Discover | ค้นพบ |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | โทน 6 |
 | `Wave hello` | Wave hello | โบกมือ |
 | `Body and face` | Body and face | ร่างกายและใบหน้า |
+| `Face` | Face | ใบหน้า |
+| `Moustache` | Moustache | หนวด |
+| `Tusks` | Tusks | เขี้ยว |
+| `Earrings` | Earrings | ต่างหู |
+| `Piercing` | Piercing | จิวเจาะ |
+| `Scars` | Scars | แผลเป็น |
+| `Face paint` | Face paint | สีทาใบหน้า |
+| `Body paint` | Body paint | สีทาร่างกาย |
+| `Black` | Black | สีดำ |
+| `Black, one blind eye` | Black, one blind eye | สีดำ, ตาบอดข้างเดียว |
+| `Blue, one blind eye` | Blue, one blind eye | สีน้ำเงิน, ตาบอดข้างเดียว |
+| `Brown, one blind eye` | Brown, one blind eye | สีน้ำตาล, ตาบอดข้างเดียว |
+| `Green, one blind eye` | Green, one blind eye | สีเขียว, ตาบอดข้างเดียว |
+| `Grey` | Grey | สีเทา |
+| `Grey, one blind eye` | Grey, one blind eye | สีเทา, ตาบอดข้างเดียว |
+| `Purple, one blind eye` | Purple, one blind eye | สีม่วง, ตาบอดข้างเดียว |
+| `Style 1, Blue` | Style 1, Blue | สไตล์ 1, สีน้ำเงิน |
+| `Style 1, Ginger` | Style 1, Ginger | สไตล์ 1, สีส้มแดง |
+| `Style 1, Purple` | Style 1, Purple | สไตล์ 1, สีม่วง |
+| `Style 1, Red` | Style 1, Red | สไตล์ 1, สีแดง |
+| `Style 2, Blue` | Style 2, Blue | สไตล์ 2, สีน้ำเงิน |
+| `Style 2, Ginger` | Style 2, Ginger | สไตล์ 2, สีส้มแดง |
+| `Style 2, Purple` | Style 2, Purple | สไตล์ 2, สีม่วง |
+| `Style 2, Red` | Style 2, Red | สไตล์ 2, สีแดง |
+| `Style 3, Blue` | Style 3, Blue | สไตล์ 3, สีน้ำเงิน |
+| `Style 3, Ginger` | Style 3, Ginger | สไตล์ 3, สีส้มแดง |
+| `Style 3, Purple` | Style 3, Purple | สไตล์ 3, สีม่วง |
+| `Style 3, Red` | Style 3, Red | สไตล์ 3, สีแดง |
+| `Style 4, Blue` | Style 4, Blue | สไตล์ 4, สีน้ำเงิน |
+| `Style 4, Ginger` | Style 4, Ginger | สไตล์ 4, สีส้มแดง |
+| `Style 4, Purple` | Style 4, Purple | สไตล์ 4, สีม่วง |
+| `Style 4, Red` | Style 4, Red | สไตล์ 4, สีแดง |
+| `Style 5, Blue` | Style 5, Blue | สไตล์ 5, สีน้ำเงิน |
+| `Style 5, Ginger` | Style 5, Ginger | สไตล์ 5, สีส้มแดง |
+| `Style 5, Purple` | Style 5, Purple | สไตล์ 5, สีม่วง |
+| `Style 5, Red` | Style 5, Red | สไตล์ 5, สีแดง |
+| `Style 6, Blue` | Style 6, Blue | สไตล์ 6, สีน้ำเงิน |
+| `Style 6, Ginger` | Style 6, Ginger | สไตล์ 6, สีส้มแดง |
+| `Style 6, Purple` | Style 6, Purple | สไตล์ 6, สีม่วง |
+| `Style 6, Red` | Style 6, Red | สไตล์ 6, สีแดง |
+| `Style 1, Green` | Style 1, Green | สไตล์ 1, สีเขียว |
+| `Style 1, Yellow` | Style 1, Yellow | สไตล์ 1, สีเหลือง |
+| `Style 2, Green` | Style 2, Green | สไตล์ 2, สีเขียว |
+| `Style 2, Yellow` | Style 2, Yellow | สไตล์ 2, สีเหลือง |
+| `Style 3, Green` | Style 3, Green | สไตล์ 3, สีเขียว |
+| `Style 3, Yellow` | Style 3, Yellow | สไตล์ 3, สีเหลือง |
+| `Style 4, Green` | Style 4, Green | สไตล์ 4, สีเขียว |
+| `Style 4, Yellow` | Style 4, Yellow | สไตล์ 4, สีเหลือง |
+| `Style 5, Green` | Style 5, Green | สไตล์ 5, สีเขียว |
+| `Style 5, Yellow` | Style 5, Yellow | สไตล์ 5, สีเหลือง |
+| `Style 6, Green` | Style 6, Green | สไตล์ 6, สีเขียว |
+| `Style 6, Yellow` | Style 6, Yellow | สไตล์ 6, สีเหลือง |
+| `Face 1` | Face 1 | ใบหน้า 1 |
+| `Face 2` | Face 2 | ใบหน้า 2 |
+| `Face 3` | Face 3 | ใบหน้า 3 |
+| `Face 4` | Face 4 | ใบหน้า 4 |
+| `Face 5` | Face 5 | ใบหน้า 5 |
+| `Style 6` | Style 6 | สไตล์ 6 |
+| `Style 7` | Style 7 | สไตล์ 7 |
+| `Peasant, Black` | Peasant, Black | ชาวบ้าน, สีดำ |
+| `Peasant, Green` | Peasant, Green | ชาวบ้าน, สีเขียว |
+| `Peasant, Purple` | Peasant, Purple | ชาวบ้าน, สีม่วง |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | นักรบแดนเหนือ, สีแดง |
+| `Peasant 1, Black` | Peasant 1, Black | ชาวบ้าน 1, สีดำ |
+| `Peasant 2, Black` | Peasant 2, Black | ชาวบ้าน 2, สีดำ |
+| `Peasant 3, Black` | Peasant 3, Black | ชาวบ้าน 3, สีดำ |
+| `Peasant 1, Green` | Peasant 1, Green | ชาวบ้าน 1, สีเขียว |
+| `Peasant 1, Purple` | Peasant 1, Purple | ชาวบ้าน 1, สีม่วง |
+| `Peasant 2, Green` | Peasant 2, Green | ชาวบ้าน 2, สีเขียว |
+| `Peasant 2, Purple` | Peasant 2, Purple | ชาวบ้าน 2, สีม่วง |
+| `Peasant 3, Green` | Peasant 3, Green | ชาวบ้าน 3, สีเขียว |
+| `Peasant 3, Purple` | Peasant 3, Purple | ชาวบ้าน 3, สีม่วง |
+| `Fairy wings, Blue` | Fairy wings, Blue | ปีกนางฟ้า, สีน้ำเงิน |
+| `Fairy wings, Gold` | Fairy wings, Gold | ปีกนางฟ้า, สีทอง |
+| `Fairy wings, Green` | Fairy wings, Green | ปีกนางฟ้า, สีเขียว |
+| `Fairy wings, Pink` | Fairy wings, Pink | ปีกนางฟ้า, สีชมพู |
+| `Fairy wings, Silver` | Fairy wings, Silver | ปีกนางฟ้า, สีเงิน |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | ปีกนางฟ้า, สีเหลือง |
+| `Fairy wings, Violet` | Fairy wings, Violet | ปีกนางฟ้า, สีไวโอเล็ต |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | ปีกนางฟ้า, สีแดงเข้ม |
+| `Fairy wings, Teal` | Fairy wings, Teal | ปีกนางฟ้า, สีเขียวหัวเป็ด |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | ปีกนางฟ้า, อาทิตย์อัสดง |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | ปีกนางฟ้า, เงา |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | ปีกนางฟ้า, สีรุ้ง |
+| `Demon wings, Rose` | Demon wings, Rose | ปีกปีศาจ, สีกุหลาบ |
+| `Demon wings, Amber` | Demon wings, Amber | ปีกปีศาจ, สีอำพัน |
+| `Demon wings, Bone` | Demon wings, Bone | ปีกปีศาจ, สีกระดูก |
+| `Demon wings, Coral` | Demon wings, Coral | ปีกปีศาจ, สีปะการัง |
+| `Demon wings, Moss` | Demon wings, Moss | ปีกปีศาจ, สีเขียวมอส |
+| `Demon wings, Storm` | Demon wings, Storm | ปีกปีศาจ, พายุ |
+| `Demon wings, Crimson` | Demon wings, Crimson | ปีกปีศาจ, สีแดงเข้ม |
+| `Demon wings, Shadow` | Demon wings, Shadow | ปีกปีศาจ, เงา |
+| `Demon wings, Frost` | Demon wings, Frost | ปีกปีศาจ, น้ำแข็ง |
+| `Demon wings, Venom` | Demon wings, Venom | ปีกปีศาจ, พิษร้าย |
+| `Demon wings, Violet` | Demon wings, Violet | ปีกปีศาจ, สีไวโอเล็ต |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | ปีกปีศาจ, ไฟนรก |
+| `Human` | Human | มนุษย์ |
+| `Dwarf` | Dwarf | คนแคระ |
+| `Cape and wings` | Cape and wings | ผ้าคลุมและปีก |
+| `Tint` | Tint | โทนสี |
+| `No tint` | No tint | ไม่มีโทนสี |
+| `Pick any colour for the wings` | Pick any colour for the wings | เลือกสีใดก็ได้ให้กับปีก |

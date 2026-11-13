@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 음유 |
 | Discover | 탐험 |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | 톤 6 |
 | `Wave hello` | Wave hello | 손 흔들기 |
 | `Body and face` | Body and face | 신체와 얼굴 |
+| `Face` | Face | 얼굴 |
+| `Moustache` | Moustache | 콧수염 |
+| `Tusks` | Tusks | 엄니 |
+| `Earrings` | Earrings | 귀걸이 |
+| `Piercing` | Piercing | 피어싱 |
+| `Scars` | Scars | 흉터 |
+| `Face paint` | Face paint | 얼굴 페인트 |
+| `Body paint` | Body paint | 신체 페인트 |
+| `Black` | Black | 검은색 |
+| `Black, one blind eye` | Black, one blind eye | 검은색, 한쪽 눈 실명 |
+| `Blue, one blind eye` | Blue, one blind eye | 파란색, 한쪽 눈 실명 |
+| `Brown, one blind eye` | Brown, one blind eye | 갈색, 한쪽 눈 실명 |
+| `Green, one blind eye` | Green, one blind eye | 초록색, 한쪽 눈 실명 |
+| `Grey` | Grey | 회색 |
+| `Grey, one blind eye` | Grey, one blind eye | 회색, 한쪽 눈 실명 |
+| `Purple, one blind eye` | Purple, one blind eye | 보라색, 한쪽 눈 실명 |
+| `Style 1, Blue` | Style 1, Blue | 스타일 1, 파란색 |
+| `Style 1, Ginger` | Style 1, Ginger | 스타일 1, 적갈색 |
+| `Style 1, Purple` | Style 1, Purple | 스타일 1, 보라색 |
+| `Style 1, Red` | Style 1, Red | 스타일 1, 빨간색 |
+| `Style 2, Blue` | Style 2, Blue | 스타일 2, 파란색 |
+| `Style 2, Ginger` | Style 2, Ginger | 스타일 2, 적갈색 |
+| `Style 2, Purple` | Style 2, Purple | 스타일 2, 보라색 |
+| `Style 2, Red` | Style 2, Red | 스타일 2, 빨간색 |
+| `Style 3, Blue` | Style 3, Blue | 스타일 3, 파란색 |
+| `Style 3, Ginger` | Style 3, Ginger | 스타일 3, 적갈색 |
+| `Style 3, Purple` | Style 3, Purple | 스타일 3, 보라색 |
+| `Style 3, Red` | Style 3, Red | 스타일 3, 빨간색 |
+| `Style 4, Blue` | Style 4, Blue | 스타일 4, 파란색 |
+| `Style 4, Ginger` | Style 4, Ginger | 스타일 4, 적갈색 |
+| `Style 4, Purple` | Style 4, Purple | 스타일 4, 보라색 |
+| `Style 4, Red` | Style 4, Red | 스타일 4, 빨간색 |
+| `Style 5, Blue` | Style 5, Blue | 스타일 5, 파란색 |
+| `Style 5, Ginger` | Style 5, Ginger | 스타일 5, 적갈색 |
+| `Style 5, Purple` | Style 5, Purple | 스타일 5, 보라색 |
+| `Style 5, Red` | Style 5, Red | 스타일 5, 빨간색 |
+| `Style 6, Blue` | Style 6, Blue | 스타일 6, 파란색 |
+| `Style 6, Ginger` | Style 6, Ginger | 스타일 6, 적갈색 |
+| `Style 6, Purple` | Style 6, Purple | 스타일 6, 보라색 |
+| `Style 6, Red` | Style 6, Red | 스타일 6, 빨간색 |
+| `Style 1, Green` | Style 1, Green | 스타일 1, 초록색 |
+| `Style 1, Yellow` | Style 1, Yellow | 스타일 1, 노란색 |
+| `Style 2, Green` | Style 2, Green | 스타일 2, 초록색 |
+| `Style 2, Yellow` | Style 2, Yellow | 스타일 2, 노란색 |
+| `Style 3, Green` | Style 3, Green | 스타일 3, 초록색 |
+| `Style 3, Yellow` | Style 3, Yellow | 스타일 3, 노란색 |
+| `Style 4, Green` | Style 4, Green | 스타일 4, 초록색 |
+| `Style 4, Yellow` | Style 4, Yellow | 스타일 4, 노란색 |
+| `Style 5, Green` | Style 5, Green | 스타일 5, 초록색 |
+| `Style 5, Yellow` | Style 5, Yellow | 스타일 5, 노란색 |
+| `Style 6, Green` | Style 6, Green | 스타일 6, 초록색 |
+| `Style 6, Yellow` | Style 6, Yellow | 스타일 6, 노란색 |
+| `Face 1` | Face 1 | 얼굴 1 |
+| `Face 2` | Face 2 | 얼굴 2 |
+| `Face 3` | Face 3 | 얼굴 3 |
+| `Face 4` | Face 4 | 얼굴 4 |
+| `Face 5` | Face 5 | 얼굴 5 |
+| `Style 6` | Style 6 | 스타일 6 |
+| `Style 7` | Style 7 | 스타일 7 |
+| `Peasant, Black` | Peasant, Black | 농민, 검은색 |
+| `Peasant, Green` | Peasant, Green | 농민, 초록색 |
+| `Peasant, Purple` | Peasant, Purple | 농민, 보라색 |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | 북방 전사, 빨간색 |
+| `Peasant 1, Black` | Peasant 1, Black | 농민 1, 검은색 |
+| `Peasant 2, Black` | Peasant 2, Black | 농민 2, 검은색 |
+| `Peasant 3, Black` | Peasant 3, Black | 농민 3, 검은색 |
+| `Peasant 1, Green` | Peasant 1, Green | 농민 1, 초록색 |
+| `Peasant 1, Purple` | Peasant 1, Purple | 농민 1, 보라색 |
+| `Peasant 2, Green` | Peasant 2, Green | 농민 2, 초록색 |
+| `Peasant 2, Purple` | Peasant 2, Purple | 농민 2, 보라색 |
+| `Peasant 3, Green` | Peasant 3, Green | 농민 3, 초록색 |
+| `Peasant 3, Purple` | Peasant 3, Purple | 농민 3, 보라색 |
+| `Fairy wings, Blue` | Fairy wings, Blue | 요정 날개, 파란색 |
+| `Fairy wings, Gold` | Fairy wings, Gold | 요정 날개, 금색 |
+| `Fairy wings, Green` | Fairy wings, Green | 요정 날개, 초록색 |
+| `Fairy wings, Pink` | Fairy wings, Pink | 요정 날개, 분홍색 |
+| `Fairy wings, Silver` | Fairy wings, Silver | 요정 날개, 은색 |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | 요정 날개, 노란색 |
+| `Fairy wings, Violet` | Fairy wings, Violet | 요정 날개, 청보라색 |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | 요정 날개, 진홍색 |
+| `Fairy wings, Teal` | Fairy wings, Teal | 요정 날개, 암청록색 |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | 요정 날개, 일몰 |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | 요정 날개, 그림자 |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | 요정 날개, 무지개색 |
+| `Demon wings, Rose` | Demon wings, Rose | 데몬 날개, 장미색 |
+| `Demon wings, Amber` | Demon wings, Amber | 데몬 날개, 호박색 |
+| `Demon wings, Bone` | Demon wings, Bone | 데몬 날개, 백골 |
+| `Demon wings, Coral` | Demon wings, Coral | 데몬 날개, 산호색 |
+| `Demon wings, Moss` | Demon wings, Moss | 데몬 날개, 이끼색 |
+| `Demon wings, Storm` | Demon wings, Storm | 데몬 날개, 폭풍 |
+| `Demon wings, Crimson` | Demon wings, Crimson | 데몬 날개, 진홍색 |
+| `Demon wings, Shadow` | Demon wings, Shadow | 데몬 날개, 그림자 |
+| `Demon wings, Frost` | Demon wings, Frost | 데몬 날개, 서리 |
+| `Demon wings, Venom` | Demon wings, Venom | 데몬 날개, 맹독 |
+| `Demon wings, Violet` | Demon wings, Violet | 데몬 날개, 청보라색 |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | 데몬 날개, 지옥불 |
+| `Human` | Human | 인간 |
+| `Dwarf` | Dwarf | 드워프 |
+| `Cape and wings` | Cape and wings | 망토와 날개 |
+| `Tint` | Tint | 색조 |
+| `No tint` | No tint | 색조 없음 |
+| `Pick any colour for the wings` | Pick any colour for the wings | 날개 색상을 자유롭게 선택하세요 |

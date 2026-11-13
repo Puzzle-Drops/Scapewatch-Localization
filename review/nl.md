@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Ontdekken |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Tint 6 |
 | `Wave hello` | Wave hello | Zwaaien |
 | `Body and face` | Body and face | Lichaam en gezicht |
+| `Face` | Face | Gezicht |
+| `Moustache` | Moustache | Snor |
+| `Tusks` | Tusks | Slagtanden |
+| `Earrings` | Earrings | Oorbellen |
+| `Piercing` | Piercing | Piercing |
+| `Scars` | Scars | Littekens |
+| `Face paint` | Face paint | Gezichtsverf |
+| `Body paint` | Body paint | Lichaamsverf |
+| `Black` | Black | Zwart |
+| `Black, one blind eye` | Black, one blind eye | Zwart, één blind oog |
+| `Blue, one blind eye` | Blue, one blind eye | Blauw, één blind oog |
+| `Brown, one blind eye` | Brown, one blind eye | Bruin, één blind oog |
+| `Green, one blind eye` | Green, one blind eye | Groen, één blind oog |
+| `Grey` | Grey | Grijs |
+| `Grey, one blind eye` | Grey, one blind eye | Grijs, één blind oog |
+| `Purple, one blind eye` | Purple, one blind eye | Paars, één blind oog |
+| `Style 1, Blue` | Style 1, Blue | Stijl 1, Blauw |
+| `Style 1, Ginger` | Style 1, Ginger | Stijl 1, Koperrood |
+| `Style 1, Purple` | Style 1, Purple | Stijl 1, Paars |
+| `Style 1, Red` | Style 1, Red | Stijl 1, Rood |
+| `Style 2, Blue` | Style 2, Blue | Stijl 2, Blauw |
+| `Style 2, Ginger` | Style 2, Ginger | Stijl 2, Koperrood |
+| `Style 2, Purple` | Style 2, Purple | Stijl 2, Paars |
+| `Style 2, Red` | Style 2, Red | Stijl 2, Rood |
+| `Style 3, Blue` | Style 3, Blue | Stijl 3, Blauw |
+| `Style 3, Ginger` | Style 3, Ginger | Stijl 3, Koperrood |
+| `Style 3, Purple` | Style 3, Purple | Stijl 3, Paars |
+| `Style 3, Red` | Style 3, Red | Stijl 3, Rood |
+| `Style 4, Blue` | Style 4, Blue | Stijl 4, Blauw |
+| `Style 4, Ginger` | Style 4, Ginger | Stijl 4, Koperrood |
+| `Style 4, Purple` | Style 4, Purple | Stijl 4, Paars |
+| `Style 4, Red` | Style 4, Red | Stijl 4, Rood |
+| `Style 5, Blue` | Style 5, Blue | Stijl 5, Blauw |
+| `Style 5, Ginger` | Style 5, Ginger | Stijl 5, Koperrood |
+| `Style 5, Purple` | Style 5, Purple | Stijl 5, Paars |
+| `Style 5, Red` | Style 5, Red | Stijl 5, Rood |
+| `Style 6, Blue` | Style 6, Blue | Stijl 6, Blauw |
+| `Style 6, Ginger` | Style 6, Ginger | Stijl 6, Koperrood |
+| `Style 6, Purple` | Style 6, Purple | Stijl 6, Paars |
+| `Style 6, Red` | Style 6, Red | Stijl 6, Rood |
+| `Style 1, Green` | Style 1, Green | Stijl 1, Groen |
+| `Style 1, Yellow` | Style 1, Yellow | Stijl 1, Geel |
+| `Style 2, Green` | Style 2, Green | Stijl 2, Groen |
+| `Style 2, Yellow` | Style 2, Yellow | Stijl 2, Geel |
+| `Style 3, Green` | Style 3, Green | Stijl 3, Groen |
+| `Style 3, Yellow` | Style 3, Yellow | Stijl 3, Geel |
+| `Style 4, Green` | Style 4, Green | Stijl 4, Groen |
+| `Style 4, Yellow` | Style 4, Yellow | Stijl 4, Geel |
+| `Style 5, Green` | Style 5, Green | Stijl 5, Groen |
+| `Style 5, Yellow` | Style 5, Yellow | Stijl 5, Geel |
+| `Style 6, Green` | Style 6, Green | Stijl 6, Groen |
+| `Style 6, Yellow` | Style 6, Yellow | Stijl 6, Geel |
+| `Face 1` | Face 1 | Gezicht 1 |
+| `Face 2` | Face 2 | Gezicht 2 |
+| `Face 3` | Face 3 | Gezicht 3 |
+| `Face 4` | Face 4 | Gezicht 4 |
+| `Face 5` | Face 5 | Gezicht 5 |
+| `Style 6` | Style 6 | Stijl 6 |
+| `Style 7` | Style 7 | Stijl 7 |
+| `Peasant, Black` | Peasant, Black | Boer, Zwart |
+| `Peasant, Green` | Peasant, Green | Boer, Groen |
+| `Peasant, Purple` | Peasant, Purple | Boer, Paars |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Noordse krijger, Rood |
+| `Peasant 1, Black` | Peasant 1, Black | Boer 1, Zwart |
+| `Peasant 2, Black` | Peasant 2, Black | Boer 2, Zwart |
+| `Peasant 3, Black` | Peasant 3, Black | Boer 3, Zwart |
+| `Peasant 1, Green` | Peasant 1, Green | Boer 1, Groen |
+| `Peasant 1, Purple` | Peasant 1, Purple | Boer 1, Paars |
+| `Peasant 2, Green` | Peasant 2, Green | Boer 2, Groen |
+| `Peasant 2, Purple` | Peasant 2, Purple | Boer 2, Paars |
+| `Peasant 3, Green` | Peasant 3, Green | Boer 3, Groen |
+| `Peasant 3, Purple` | Peasant 3, Purple | Boer 3, Paars |
+| `Fairy wings, Blue` | Fairy wings, Blue | Feeënvleugels, Blauw |
+| `Fairy wings, Gold` | Fairy wings, Gold | Feeënvleugels, Goud |
+| `Fairy wings, Green` | Fairy wings, Green | Feeënvleugels, Groen |
+| `Fairy wings, Pink` | Fairy wings, Pink | Feeënvleugels, Roze |
+| `Fairy wings, Silver` | Fairy wings, Silver | Feeënvleugels, Zilver |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Feeënvleugels, Geel |
+| `Fairy wings, Violet` | Fairy wings, Violet | Feeënvleugels, Violet |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Feeënvleugels, Karmozijn |
+| `Fairy wings, Teal` | Fairy wings, Teal | Feeënvleugels, Blauwgroen |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Feeënvleugels, Zonsondergang |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Feeënvleugels, Schaduw |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Feeënvleugels, Regenboog |
+| `Demon wings, Rose` | Demon wings, Rose | Demonenvleugels, Rozerood |
+| `Demon wings, Amber` | Demon wings, Amber | Demonenvleugels, Amber |
+| `Demon wings, Bone` | Demon wings, Bone | Demonenvleugels, Bot |
+| `Demon wings, Coral` | Demon wings, Coral | Demonenvleugels, Koraal |
+| `Demon wings, Moss` | Demon wings, Moss | Demonenvleugels, Mos |
+| `Demon wings, Storm` | Demon wings, Storm | Demonenvleugels, Storm |
+| `Demon wings, Crimson` | Demon wings, Crimson | Demonenvleugels, Karmozijn |
+| `Demon wings, Shadow` | Demon wings, Shadow | Demonenvleugels, Schaduw |
+| `Demon wings, Frost` | Demon wings, Frost | Demonenvleugels, Vorst |
+| `Demon wings, Venom` | Demon wings, Venom | Demonenvleugels, Gif |
+| `Demon wings, Violet` | Demon wings, Violet | Demonenvleugels, Violet |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Demonenvleugels, Hellevuur |
+| `Human` | Human | Mens |
+| `Dwarf` | Dwarf | Dwerg |
+| `Cape and wings` | Cape and wings | Mantel en vleugels |
+| `Tint` | Tint | Kleurtint |
+| `No tint` | No tint | Geen kleurtint |
+| `Pick any colour for the wings` | Pick any colour for the wings | Kies zelf een kleur voor de vleugels |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Penyair |
 | Discover | Terokai |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Rona 6 |
 | `Wave hello` | Wave hello | Lambai tangan |
 | `Body and face` | Body and face | Badan dan Wajah |
+| `Face` | Face | Wajah |
+| `Moustache` | Moustache | Misai |
+| `Tusks` | Tusks | Taring |
+| `Earrings` | Earrings | Subang |
+| `Piercing` | Piercing | Tindik |
+| `Scars` | Scars | Parut |
+| `Face paint` | Face paint | Cat Wajah |
+| `Body paint` | Body paint | Cat Badan |
+| `Black` | Black | Hitam |
+| `Black, one blind eye` | Black, one blind eye | Hitam, sebelah mata buta |
+| `Blue, one blind eye` | Blue, one blind eye | Biru, sebelah mata buta |
+| `Brown, one blind eye` | Brown, one blind eye | Coklat, sebelah mata buta |
+| `Green, one blind eye` | Green, one blind eye | Hijau, sebelah mata buta |
+| `Grey` | Grey | Kelabu |
+| `Grey, one blind eye` | Grey, one blind eye | Kelabu, sebelah mata buta |
+| `Purple, one blind eye` | Purple, one blind eye | Ungu, sebelah mata buta |
+| `Style 1, Blue` | Style 1, Blue | Gaya 1, Biru |
+| `Style 1, Ginger` | Style 1, Ginger | Gaya 1, Merah Jingga |
+| `Style 1, Purple` | Style 1, Purple | Gaya 1, Ungu |
+| `Style 1, Red` | Style 1, Red | Gaya 1, Merah |
+| `Style 2, Blue` | Style 2, Blue | Gaya 2, Biru |
+| `Style 2, Ginger` | Style 2, Ginger | Gaya 2, Merah Jingga |
+| `Style 2, Purple` | Style 2, Purple | Gaya 2, Ungu |
+| `Style 2, Red` | Style 2, Red | Gaya 2, Merah |
+| `Style 3, Blue` | Style 3, Blue | Gaya 3, Biru |
+| `Style 3, Ginger` | Style 3, Ginger | Gaya 3, Merah Jingga |
+| `Style 3, Purple` | Style 3, Purple | Gaya 3, Ungu |
+| `Style 3, Red` | Style 3, Red | Gaya 3, Merah |
+| `Style 4, Blue` | Style 4, Blue | Gaya 4, Biru |
+| `Style 4, Ginger` | Style 4, Ginger | Gaya 4, Merah Jingga |
+| `Style 4, Purple` | Style 4, Purple | Gaya 4, Ungu |
+| `Style 4, Red` | Style 4, Red | Gaya 4, Merah |
+| `Style 5, Blue` | Style 5, Blue | Gaya 5, Biru |
+| `Style 5, Ginger` | Style 5, Ginger | Gaya 5, Merah Jingga |
+| `Style 5, Purple` | Style 5, Purple | Gaya 5, Ungu |
+| `Style 5, Red` | Style 5, Red | Gaya 5, Merah |
+| `Style 6, Blue` | Style 6, Blue | Gaya 6, Biru |
+| `Style 6, Ginger` | Style 6, Ginger | Gaya 6, Merah Jingga |
+| `Style 6, Purple` | Style 6, Purple | Gaya 6, Ungu |
+| `Style 6, Red` | Style 6, Red | Gaya 6, Merah |
+| `Style 1, Green` | Style 1, Green | Gaya 1, Hijau |
+| `Style 1, Yellow` | Style 1, Yellow | Gaya 1, Kuning |
+| `Style 2, Green` | Style 2, Green | Gaya 2, Hijau |
+| `Style 2, Yellow` | Style 2, Yellow | Gaya 2, Kuning |
+| `Style 3, Green` | Style 3, Green | Gaya 3, Hijau |
+| `Style 3, Yellow` | Style 3, Yellow | Gaya 3, Kuning |
+| `Style 4, Green` | Style 4, Green | Gaya 4, Hijau |
+| `Style 4, Yellow` | Style 4, Yellow | Gaya 4, Kuning |
+| `Style 5, Green` | Style 5, Green | Gaya 5, Hijau |
+| `Style 5, Yellow` | Style 5, Yellow | Gaya 5, Kuning |
+| `Style 6, Green` | Style 6, Green | Gaya 6, Hijau |
+| `Style 6, Yellow` | Style 6, Yellow | Gaya 6, Kuning |
+| `Face 1` | Face 1 | Wajah 1 |
+| `Face 2` | Face 2 | Wajah 2 |
+| `Face 3` | Face 3 | Wajah 3 |
+| `Face 4` | Face 4 | Wajah 4 |
+| `Face 5` | Face 5 | Wajah 5 |
+| `Style 6` | Style 6 | Gaya 6 |
+| `Style 7` | Style 7 | Gaya 7 |
+| `Peasant, Black` | Peasant, Black | Petani, Hitam |
+| `Peasant, Green` | Peasant, Green | Petani, Hijau |
+| `Peasant, Purple` | Peasant, Purple | Petani, Ungu |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Pahlawan Nordik, Merah |
+| `Peasant 1, Black` | Peasant 1, Black | Petani 1, Hitam |
+| `Peasant 2, Black` | Peasant 2, Black | Petani 2, Hitam |
+| `Peasant 3, Black` | Peasant 3, Black | Petani 3, Hitam |
+| `Peasant 1, Green` | Peasant 1, Green | Petani 1, Hijau |
+| `Peasant 1, Purple` | Peasant 1, Purple | Petani 1, Ungu |
+| `Peasant 2, Green` | Peasant 2, Green | Petani 2, Hijau |
+| `Peasant 2, Purple` | Peasant 2, Purple | Petani 2, Ungu |
+| `Peasant 3, Green` | Peasant 3, Green | Petani 3, Hijau |
+| `Peasant 3, Purple` | Peasant 3, Purple | Petani 3, Ungu |
+| `Fairy wings, Blue` | Fairy wings, Blue | Sayap Pari-pari, Biru |
+| `Fairy wings, Gold` | Fairy wings, Gold | Sayap Pari-pari, Emas |
+| `Fairy wings, Green` | Fairy wings, Green | Sayap Pari-pari, Hijau |
+| `Fairy wings, Pink` | Fairy wings, Pink | Sayap Pari-pari, Merah Jambu |
+| `Fairy wings, Silver` | Fairy wings, Silver | Sayap Pari-pari, Perak |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Sayap Pari-pari, Kuning |
+| `Fairy wings, Violet` | Fairy wings, Violet | Sayap Pari-pari, Violet |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Sayap Pari-pari, Merah Tua |
+| `Fairy wings, Teal` | Fairy wings, Teal | Sayap Pari-pari, Hijau Kebiruan |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Sayap Pari-pari, Matahari Terbenam |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Sayap Pari-pari, Bayang |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Sayap Pari-pari, Pelangi |
+| `Demon wings, Rose` | Demon wings, Rose | Sayap Syaitan, Mawar |
+| `Demon wings, Amber` | Demon wings, Amber | Sayap Syaitan, Ambar |
+| `Demon wings, Bone` | Demon wings, Bone | Sayap Syaitan, Tulang |
+| `Demon wings, Coral` | Demon wings, Coral | Sayap Syaitan, Karang |
+| `Demon wings, Moss` | Demon wings, Moss | Sayap Syaitan, Lumut |
+| `Demon wings, Storm` | Demon wings, Storm | Sayap Syaitan, Ribut |
+| `Demon wings, Crimson` | Demon wings, Crimson | Sayap Syaitan, Merah Tua |
+| `Demon wings, Shadow` | Demon wings, Shadow | Sayap Syaitan, Bayang |
+| `Demon wings, Frost` | Demon wings, Frost | Sayap Syaitan, Fros |
+| `Demon wings, Venom` | Demon wings, Venom | Sayap Syaitan, Bisa |
+| `Demon wings, Violet` | Demon wings, Violet | Sayap Syaitan, Violet |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Sayap Syaitan, Api Neraka |
+| `Human` | Human | Manusia |
+| `Dwarf` | Dwarf | Kurcaci |
+| `Cape and wings` | Cape and wings | Jubah dan Sayap |
+| `Tint` | Tint | Pewarnaan |
+| `No tint` | No tint | Tiada pewarnaan |
+| `Pick any colour for the wings` | Pick any colour for the wings | Pilih sebarang warna untuk sayap |

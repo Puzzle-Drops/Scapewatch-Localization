@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardo |
 | Discover | Descubrimiento |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Tono 6 |
 | `Wave hello` | Wave hello | Saludar |
 | `Body and face` | Body and face | Cuerpo y rostro |
+| `Face` | Face | Rostro |
+| `Moustache` | Moustache | Bigote |
+| `Tusks` | Tusks | Colmillos |
+| `Earrings` | Earrings | Aretes |
+| `Piercing` | Piercing | Piercing |
+| `Scars` | Scars | Cicatrices |
+| `Face paint` | Face paint | Pintura facial |
+| `Body paint` | Body paint | Pintura corporal |
+| `Black` | Black | Negro |
+| `Black, one blind eye` | Black, one blind eye | Negro, un ojo ciego |
+| `Blue, one blind eye` | Blue, one blind eye | Azul, un ojo ciego |
+| `Brown, one blind eye` | Brown, one blind eye | Marrón, un ojo ciego |
+| `Green, one blind eye` | Green, one blind eye | Verde, un ojo ciego |
+| `Grey` | Grey | Gris |
+| `Grey, one blind eye` | Grey, one blind eye | Gris, un ojo ciego |
+| `Purple, one blind eye` | Purple, one blind eye | Morado, un ojo ciego |
+| `Style 1, Blue` | Style 1, Blue | Estilo 1, azul |
+| `Style 1, Ginger` | Style 1, Ginger | Estilo 1, pelirrojo |
+| `Style 1, Purple` | Style 1, Purple | Estilo 1, morado |
+| `Style 1, Red` | Style 1, Red | Estilo 1, rojo |
+| `Style 2, Blue` | Style 2, Blue | Estilo 2, azul |
+| `Style 2, Ginger` | Style 2, Ginger | Estilo 2, pelirrojo |
+| `Style 2, Purple` | Style 2, Purple | Estilo 2, morado |
+| `Style 2, Red` | Style 2, Red | Estilo 2, rojo |
+| `Style 3, Blue` | Style 3, Blue | Estilo 3, azul |
+| `Style 3, Ginger` | Style 3, Ginger | Estilo 3, pelirrojo |
+| `Style 3, Purple` | Style 3, Purple | Estilo 3, morado |
+| `Style 3, Red` | Style 3, Red | Estilo 3, rojo |
+| `Style 4, Blue` | Style 4, Blue | Estilo 4, azul |
+| `Style 4, Ginger` | Style 4, Ginger | Estilo 4, pelirrojo |
+| `Style 4, Purple` | Style 4, Purple | Estilo 4, morado |
+| `Style 4, Red` | Style 4, Red | Estilo 4, rojo |
+| `Style 5, Blue` | Style 5, Blue | Estilo 5, azul |
+| `Style 5, Ginger` | Style 5, Ginger | Estilo 5, pelirrojo |
+| `Style 5, Purple` | Style 5, Purple | Estilo 5, morado |
+| `Style 5, Red` | Style 5, Red | Estilo 5, rojo |
+| `Style 6, Blue` | Style 6, Blue | Estilo 6, azul |
+| `Style 6, Ginger` | Style 6, Ginger | Estilo 6, pelirrojo |
+| `Style 6, Purple` | Style 6, Purple | Estilo 6, morado |
+| `Style 6, Red` | Style 6, Red | Estilo 6, rojo |
+| `Style 1, Green` | Style 1, Green | Estilo 1, verde |
+| `Style 1, Yellow` | Style 1, Yellow | Estilo 1, amarillo |
+| `Style 2, Green` | Style 2, Green | Estilo 2, verde |
+| `Style 2, Yellow` | Style 2, Yellow | Estilo 2, amarillo |
+| `Style 3, Green` | Style 3, Green | Estilo 3, verde |
+| `Style 3, Yellow` | Style 3, Yellow | Estilo 3, amarillo |
+| `Style 4, Green` | Style 4, Green | Estilo 4, verde |
+| `Style 4, Yellow` | Style 4, Yellow | Estilo 4, amarillo |
+| `Style 5, Green` | Style 5, Green | Estilo 5, verde |
+| `Style 5, Yellow` | Style 5, Yellow | Estilo 5, amarillo |
+| `Style 6, Green` | Style 6, Green | Estilo 6, verde |
+| `Style 6, Yellow` | Style 6, Yellow | Estilo 6, amarillo |
+| `Face 1` | Face 1 | Rostro 1 |
+| `Face 2` | Face 2 | Rostro 2 |
+| `Face 3` | Face 3 | Rostro 3 |
+| `Face 4` | Face 4 | Rostro 4 |
+| `Face 5` | Face 5 | Rostro 5 |
+| `Style 6` | Style 6 | Estilo 6 |
+| `Style 7` | Style 7 | Estilo 7 |
+| `Peasant, Black` | Peasant, Black | Campesino, negro |
+| `Peasant, Green` | Peasant, Green | Campesino, verde |
+| `Peasant, Purple` | Peasant, Purple | Campesino, morado |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Guerrero nórdico, rojo |
+| `Peasant 1, Black` | Peasant 1, Black | Campesino 1, negro |
+| `Peasant 2, Black` | Peasant 2, Black | Campesino 2, negro |
+| `Peasant 3, Black` | Peasant 3, Black | Campesino 3, negro |
+| `Peasant 1, Green` | Peasant 1, Green | Campesino 1, verde |
+| `Peasant 1, Purple` | Peasant 1, Purple | Campesino 1, morado |
+| `Peasant 2, Green` | Peasant 2, Green | Campesino 2, verde |
+| `Peasant 2, Purple` | Peasant 2, Purple | Campesino 2, morado |
+| `Peasant 3, Green` | Peasant 3, Green | Campesino 3, verde |
+| `Peasant 3, Purple` | Peasant 3, Purple | Campesino 3, morado |
+| `Fairy wings, Blue` | Fairy wings, Blue | Alas de hada, azul |
+| `Fairy wings, Gold` | Fairy wings, Gold | Alas de hada, dorado |
+| `Fairy wings, Green` | Fairy wings, Green | Alas de hada, verde |
+| `Fairy wings, Pink` | Fairy wings, Pink | Alas de hada, rosa |
+| `Fairy wings, Silver` | Fairy wings, Silver | Alas de hada, plateado |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Alas de hada, amarillo |
+| `Fairy wings, Violet` | Fairy wings, Violet | Alas de hada, violeta |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Alas de hada, carmesí |
+| `Fairy wings, Teal` | Fairy wings, Teal | Alas de hada, verde azulado |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Alas de hada, atardecer |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Alas de hada, sombra |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Alas de hada, arcoíris |
+| `Demon wings, Rose` | Demon wings, Rose | Alas de demonio, rosa viejo |
+| `Demon wings, Amber` | Demon wings, Amber | Alas de demonio, ámbar |
+| `Demon wings, Bone` | Demon wings, Bone | Alas de demonio, hueso |
+| `Demon wings, Coral` | Demon wings, Coral | Alas de demonio, coral |
+| `Demon wings, Moss` | Demon wings, Moss | Alas de demonio, musgo |
+| `Demon wings, Storm` | Demon wings, Storm | Alas de demonio, tormenta |
+| `Demon wings, Crimson` | Demon wings, Crimson | Alas de demonio, carmesí |
+| `Demon wings, Shadow` | Demon wings, Shadow | Alas de demonio, sombra |
+| `Demon wings, Frost` | Demon wings, Frost | Alas de demonio, escarcha |
+| `Demon wings, Venom` | Demon wings, Venom | Alas de demonio, veneno |
+| `Demon wings, Violet` | Demon wings, Violet | Alas de demonio, violeta |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Alas de demonio, fuego infernal |
+| `Human` | Human | Humano |
+| `Dwarf` | Dwarf | Enano |
+| `Cape and wings` | Cape and wings | Capa y alas |
+| `Tint` | Tint | Tinte |
+| `No tint` | No tint | Sin tinte |
+| `Pick any colour for the wings` | Pick any colour for the wings | Elige cualquier color para las alas |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Nhạc công |
 | Discover | Khám phá |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Tông 6 |
 | `Wave hello` | Wave hello | Vẫy tay chào |
 | `Body and face` | Body and face | Thân hình và khuôn mặt |
+| `Face` | Face | Khuôn mặt |
+| `Moustache` | Moustache | Ria mép |
+| `Tusks` | Tusks | Răng nanh |
+| `Earrings` | Earrings | Khuyên tai |
+| `Piercing` | Piercing | Xỏ khuyên |
+| `Scars` | Scars | Sẹo |
+| `Face paint` | Face paint | Sơn mặt |
+| `Body paint` | Body paint | Sơn cơ thể |
+| `Black` | Black | Đen |
+| `Black, one blind eye` | Black, one blind eye | Đen, một mắt mù |
+| `Blue, one blind eye` | Blue, one blind eye | Xanh dương, một mắt mù |
+| `Brown, one blind eye` | Brown, one blind eye | Nâu, một mắt mù |
+| `Green, one blind eye` | Green, one blind eye | Xanh lá, một mắt mù |
+| `Grey` | Grey | Xám |
+| `Grey, one blind eye` | Grey, one blind eye | Xám, một mắt mù |
+| `Purple, one blind eye` | Purple, one blind eye | Tím, một mắt mù |
+| `Style 1, Blue` | Style 1, Blue | Kiểu 1, Xanh dương |
+| `Style 1, Ginger` | Style 1, Ginger | Kiểu 1, Đỏ hung |
+| `Style 1, Purple` | Style 1, Purple | Kiểu 1, Tím |
+| `Style 1, Red` | Style 1, Red | Kiểu 1, Đỏ |
+| `Style 2, Blue` | Style 2, Blue | Kiểu 2, Xanh dương |
+| `Style 2, Ginger` | Style 2, Ginger | Kiểu 2, Đỏ hung |
+| `Style 2, Purple` | Style 2, Purple | Kiểu 2, Tím |
+| `Style 2, Red` | Style 2, Red | Kiểu 2, Đỏ |
+| `Style 3, Blue` | Style 3, Blue | Kiểu 3, Xanh dương |
+| `Style 3, Ginger` | Style 3, Ginger | Kiểu 3, Đỏ hung |
+| `Style 3, Purple` | Style 3, Purple | Kiểu 3, Tím |
+| `Style 3, Red` | Style 3, Red | Kiểu 3, Đỏ |
+| `Style 4, Blue` | Style 4, Blue | Kiểu 4, Xanh dương |
+| `Style 4, Ginger` | Style 4, Ginger | Kiểu 4, Đỏ hung |
+| `Style 4, Purple` | Style 4, Purple | Kiểu 4, Tím |
+| `Style 4, Red` | Style 4, Red | Kiểu 4, Đỏ |
+| `Style 5, Blue` | Style 5, Blue | Kiểu 5, Xanh dương |
+| `Style 5, Ginger` | Style 5, Ginger | Kiểu 5, Đỏ hung |
+| `Style 5, Purple` | Style 5, Purple | Kiểu 5, Tím |
+| `Style 5, Red` | Style 5, Red | Kiểu 5, Đỏ |
+| `Style 6, Blue` | Style 6, Blue | Kiểu 6, Xanh dương |
+| `Style 6, Ginger` | Style 6, Ginger | Kiểu 6, Đỏ hung |
+| `Style 6, Purple` | Style 6, Purple | Kiểu 6, Tím |
+| `Style 6, Red` | Style 6, Red | Kiểu 6, Đỏ |
+| `Style 1, Green` | Style 1, Green | Kiểu 1, Xanh lá |
+| `Style 1, Yellow` | Style 1, Yellow | Kiểu 1, Vàng |
+| `Style 2, Green` | Style 2, Green | Kiểu 2, Xanh lá |
+| `Style 2, Yellow` | Style 2, Yellow | Kiểu 2, Vàng |
+| `Style 3, Green` | Style 3, Green | Kiểu 3, Xanh lá |
+| `Style 3, Yellow` | Style 3, Yellow | Kiểu 3, Vàng |
+| `Style 4, Green` | Style 4, Green | Kiểu 4, Xanh lá |
+| `Style 4, Yellow` | Style 4, Yellow | Kiểu 4, Vàng |
+| `Style 5, Green` | Style 5, Green | Kiểu 5, Xanh lá |
+| `Style 5, Yellow` | Style 5, Yellow | Kiểu 5, Vàng |
+| `Style 6, Green` | Style 6, Green | Kiểu 6, Xanh lá |
+| `Style 6, Yellow` | Style 6, Yellow | Kiểu 6, Vàng |
+| `Face 1` | Face 1 | Khuôn mặt 1 |
+| `Face 2` | Face 2 | Khuôn mặt 2 |
+| `Face 3` | Face 3 | Khuôn mặt 3 |
+| `Face 4` | Face 4 | Khuôn mặt 4 |
+| `Face 5` | Face 5 | Khuôn mặt 5 |
+| `Style 6` | Style 6 | Kiểu 6 |
+| `Style 7` | Style 7 | Kiểu 7 |
+| `Peasant, Black` | Peasant, Black | Nông dân, Đen |
+| `Peasant, Green` | Peasant, Green | Nông dân, Xanh lá |
+| `Peasant, Purple` | Peasant, Purple | Nông dân, Tím |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Chiến binh Bắc Âu, Đỏ |
+| `Peasant 1, Black` | Peasant 1, Black | Nông dân 1, Đen |
+| `Peasant 2, Black` | Peasant 2, Black | Nông dân 2, Đen |
+| `Peasant 3, Black` | Peasant 3, Black | Nông dân 3, Đen |
+| `Peasant 1, Green` | Peasant 1, Green | Nông dân 1, Xanh lá |
+| `Peasant 1, Purple` | Peasant 1, Purple | Nông dân 1, Tím |
+| `Peasant 2, Green` | Peasant 2, Green | Nông dân 2, Xanh lá |
+| `Peasant 2, Purple` | Peasant 2, Purple | Nông dân 2, Tím |
+| `Peasant 3, Green` | Peasant 3, Green | Nông dân 3, Xanh lá |
+| `Peasant 3, Purple` | Peasant 3, Purple | Nông dân 3, Tím |
+| `Fairy wings, Blue` | Fairy wings, Blue | Cánh tiên, Xanh dương |
+| `Fairy wings, Gold` | Fairy wings, Gold | Cánh tiên, Vàng kim |
+| `Fairy wings, Green` | Fairy wings, Green | Cánh tiên, Xanh lá |
+| `Fairy wings, Pink` | Fairy wings, Pink | Cánh tiên, Hồng |
+| `Fairy wings, Silver` | Fairy wings, Silver | Cánh tiên, Bạc |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Cánh tiên, Vàng |
+| `Fairy wings, Violet` | Fairy wings, Violet | Cánh tiên, Tím violet |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Cánh tiên, Đỏ thẫm |
+| `Fairy wings, Teal` | Fairy wings, Teal | Cánh tiên, Xanh mòng két |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Cánh tiên, Hoàng hôn |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Cánh tiên, Bóng tối |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Cánh tiên, Cầu vồng |
+| `Demon wings, Rose` | Demon wings, Rose | Cánh ác quỷ, Hồng nhung |
+| `Demon wings, Amber` | Demon wings, Amber | Cánh ác quỷ, Hổ phách |
+| `Demon wings, Bone` | Demon wings, Bone | Cánh ác quỷ, Xương |
+| `Demon wings, Coral` | Demon wings, Coral | Cánh ác quỷ, San hô |
+| `Demon wings, Moss` | Demon wings, Moss | Cánh ác quỷ, Xanh rêu |
+| `Demon wings, Storm` | Demon wings, Storm | Cánh ác quỷ, Bão tố |
+| `Demon wings, Crimson` | Demon wings, Crimson | Cánh ác quỷ, Đỏ thẫm |
+| `Demon wings, Shadow` | Demon wings, Shadow | Cánh ác quỷ, Bóng tối |
+| `Demon wings, Frost` | Demon wings, Frost | Cánh ác quỷ, Băng giá |
+| `Demon wings, Venom` | Demon wings, Venom | Cánh ác quỷ, Nọc độc |
+| `Demon wings, Violet` | Demon wings, Violet | Cánh ác quỷ, Tím violet |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Cánh ác quỷ, Lửa địa ngục |
+| `Human` | Human | Loài người |
+| `Dwarf` | Dwarf | Người lùn |
+| `Cape and wings` | Cape and wings | Áo choàng và cánh |
+| `Tint` | Tint | Nhuộm màu |
+| `No tint` | No tint | Không nhuộm màu |
+| `Pick any colour for the wings` | Pick any colour for the wings | Chọn màu bất kỳ cho đôi cánh |

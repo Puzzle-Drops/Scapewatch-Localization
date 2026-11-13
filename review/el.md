@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Βάρδος |
 | Discover | Ανακάλυψη |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Τόνος 6 |
 | `Wave hello` | Wave hello | Χαιρετισμός |
 | `Body and face` | Body and face | Σώμα και πρόσωπο |
+| `Face` | Face | Πρόσωπο |
+| `Moustache` | Moustache | Μουστάκι |
+| `Tusks` | Tusks | Χαυλιόδοντες |
+| `Earrings` | Earrings | Σκουλαρίκια |
+| `Piercing` | Piercing | Πίρσινγκ |
+| `Scars` | Scars | Ουλές |
+| `Face paint` | Face paint | Βαφή προσώπου |
+| `Body paint` | Body paint | Βαφή σώματος |
+| `Black` | Black | Μαύρο |
+| `Black, one blind eye` | Black, one blind eye | Μαύρο, τυφλό το ένα μάτι |
+| `Blue, one blind eye` | Blue, one blind eye | Μπλε, τυφλό το ένα μάτι |
+| `Brown, one blind eye` | Brown, one blind eye | Καφέ, τυφλό το ένα μάτι |
+| `Green, one blind eye` | Green, one blind eye | Πράσινο, τυφλό το ένα μάτι |
+| `Grey` | Grey | Γκρι |
+| `Grey, one blind eye` | Grey, one blind eye | Γκρι, τυφλό το ένα μάτι |
+| `Purple, one blind eye` | Purple, one blind eye | Μωβ, τυφλό το ένα μάτι |
+| `Style 1, Blue` | Style 1, Blue | Στιλ 1, μπλε |
+| `Style 1, Ginger` | Style 1, Ginger | Στιλ 1, πυρόξανθο |
+| `Style 1, Purple` | Style 1, Purple | Στιλ 1, μωβ |
+| `Style 1, Red` | Style 1, Red | Στιλ 1, κόκκινο |
+| `Style 2, Blue` | Style 2, Blue | Στιλ 2, μπλε |
+| `Style 2, Ginger` | Style 2, Ginger | Στιλ 2, πυρόξανθο |
+| `Style 2, Purple` | Style 2, Purple | Στιλ 2, μωβ |
+| `Style 2, Red` | Style 2, Red | Στιλ 2, κόκκινο |
+| `Style 3, Blue` | Style 3, Blue | Στιλ 3, μπλε |
+| `Style 3, Ginger` | Style 3, Ginger | Στιλ 3, πυρόξανθο |
+| `Style 3, Purple` | Style 3, Purple | Στιλ 3, μωβ |
+| `Style 3, Red` | Style 3, Red | Στιλ 3, κόκκινο |
+| `Style 4, Blue` | Style 4, Blue | Στιλ 4, μπλε |
+| `Style 4, Ginger` | Style 4, Ginger | Στιλ 4, πυρόξανθο |
+| `Style 4, Purple` | Style 4, Purple | Στιλ 4, μωβ |
+| `Style 4, Red` | Style 4, Red | Στιλ 4, κόκκινο |
+| `Style 5, Blue` | Style 5, Blue | Στιλ 5, μπλε |
+| `Style 5, Ginger` | Style 5, Ginger | Στιλ 5, πυρόξανθο |
+| `Style 5, Purple` | Style 5, Purple | Στιλ 5, μωβ |
+| `Style 5, Red` | Style 5, Red | Στιλ 5, κόκκινο |
+| `Style 6, Blue` | Style 6, Blue | Στιλ 6, μπλε |
+| `Style 6, Ginger` | Style 6, Ginger | Στιλ 6, πυρόξανθο |
+| `Style 6, Purple` | Style 6, Purple | Στιλ 6, μωβ |
+| `Style 6, Red` | Style 6, Red | Στιλ 6, κόκκινο |
+| `Style 1, Green` | Style 1, Green | Στιλ 1, πράσινο |
+| `Style 1, Yellow` | Style 1, Yellow | Στιλ 1, κίτρινο |
+| `Style 2, Green` | Style 2, Green | Στιλ 2, πράσινο |
+| `Style 2, Yellow` | Style 2, Yellow | Στιλ 2, κίτρινο |
+| `Style 3, Green` | Style 3, Green | Στιλ 3, πράσινο |
+| `Style 3, Yellow` | Style 3, Yellow | Στιλ 3, κίτρινο |
+| `Style 4, Green` | Style 4, Green | Στιλ 4, πράσινο |
+| `Style 4, Yellow` | Style 4, Yellow | Στιλ 4, κίτρινο |
+| `Style 5, Green` | Style 5, Green | Στιλ 5, πράσινο |
+| `Style 5, Yellow` | Style 5, Yellow | Στιλ 5, κίτρινο |
+| `Style 6, Green` | Style 6, Green | Στιλ 6, πράσινο |
+| `Style 6, Yellow` | Style 6, Yellow | Στιλ 6, κίτρινο |
+| `Face 1` | Face 1 | Πρόσωπο 1 |
+| `Face 2` | Face 2 | Πρόσωπο 2 |
+| `Face 3` | Face 3 | Πρόσωπο 3 |
+| `Face 4` | Face 4 | Πρόσωπο 4 |
+| `Face 5` | Face 5 | Πρόσωπο 5 |
+| `Style 6` | Style 6 | Στιλ 6 |
+| `Style 7` | Style 7 | Στιλ 7 |
+| `Peasant, Black` | Peasant, Black | Χωρικός, μαύρο |
+| `Peasant, Green` | Peasant, Green | Χωρικός, πράσινο |
+| `Peasant, Purple` | Peasant, Purple | Χωρικός, μωβ |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Βόρειος πολεμιστής, κόκκινο |
+| `Peasant 1, Black` | Peasant 1, Black | Χωρικός 1, μαύρο |
+| `Peasant 2, Black` | Peasant 2, Black | Χωρικός 2, μαύρο |
+| `Peasant 3, Black` | Peasant 3, Black | Χωρικός 3, μαύρο |
+| `Peasant 1, Green` | Peasant 1, Green | Χωρικός 1, πράσινο |
+| `Peasant 1, Purple` | Peasant 1, Purple | Χωρικός 1, μωβ |
+| `Peasant 2, Green` | Peasant 2, Green | Χωρικός 2, πράσινο |
+| `Peasant 2, Purple` | Peasant 2, Purple | Χωρικός 2, μωβ |
+| `Peasant 3, Green` | Peasant 3, Green | Χωρικός 3, πράσινο |
+| `Peasant 3, Purple` | Peasant 3, Purple | Χωρικός 3, μωβ |
+| `Fairy wings, Blue` | Fairy wings, Blue | Φτερά νεράιδας, μπλε |
+| `Fairy wings, Gold` | Fairy wings, Gold | Φτερά νεράιδας, χρυσό |
+| `Fairy wings, Green` | Fairy wings, Green | Φτερά νεράιδας, πράσινο |
+| `Fairy wings, Pink` | Fairy wings, Pink | Φτερά νεράιδας, ροζ |
+| `Fairy wings, Silver` | Fairy wings, Silver | Φτερά νεράιδας, ασημί |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Φτερά νεράιδας, κίτρινο |
+| `Fairy wings, Violet` | Fairy wings, Violet | Φτερά νεράιδας, βιολετί |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Φτερά νεράιδας, βυσσινί |
+| `Fairy wings, Teal` | Fairy wings, Teal | Φτερά νεράιδας, πετρόλ |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Φτερά νεράιδας, ηλιοβασίλεμα |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Φτερά νεράιδας, σκιά |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Φτερά νεράιδας, ουράνιο τόξο |
+| `Demon wings, Rose` | Demon wings, Rose | Φτερά δαίμονα, ροδί |
+| `Demon wings, Amber` | Demon wings, Amber | Φτερά δαίμονα, κεχριμπαρί |
+| `Demon wings, Bone` | Demon wings, Bone | Φτερά δαίμονα, κοκαλί |
+| `Demon wings, Coral` | Demon wings, Coral | Φτερά δαίμονα, κοραλλί |
+| `Demon wings, Moss` | Demon wings, Moss | Φτερά δαίμονα, βρύο |
+| `Demon wings, Storm` | Demon wings, Storm | Φτερά δαίμονα, θύελλα |
+| `Demon wings, Crimson` | Demon wings, Crimson | Φτερά δαίμονα, βυσσινί |
+| `Demon wings, Shadow` | Demon wings, Shadow | Φτερά δαίμονα, σκιά |
+| `Demon wings, Frost` | Demon wings, Frost | Φτερά δαίμονα, παγετός |
+| `Demon wings, Venom` | Demon wings, Venom | Φτερά δαίμονα, δηλητήριο |
+| `Demon wings, Violet` | Demon wings, Violet | Φτερά δαίμονα, βιολετί |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Φτερά δαίμονα, φωτιά της κόλασης |
+| `Human` | Human | Άνθρωπος |
+| `Dwarf` | Dwarf | Νάνος |
+| `Cape and wings` | Cape and wings | Μανδύας και φτερά |
+| `Tint` | Tint | Απόχρωση |
+| `No tint` | No tint | Χωρίς απόχρωση |
+| `Pick any colour for the wings` | Pick any colour for the wings | Διάλεξε οποιοδήποτε χρώμα για τα φτερά |

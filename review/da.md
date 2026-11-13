@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Opdag |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Tone 6 |
 | `Wave hello` | Wave hello | Vink |
 | `Body and face` | Body and face | Krop og ansigt |
+| `Face` | Face | Ansigt |
+| `Moustache` | Moustache | Overskæg |
+| `Tusks` | Tusks | Stødtænder |
+| `Earrings` | Earrings | Øreringe |
+| `Piercing` | Piercing | Piercing |
+| `Scars` | Scars | Ar |
+| `Face paint` | Face paint | Ansigtsmaling |
+| `Body paint` | Body paint | Kropsmaling |
+| `Black` | Black | Sort |
+| `Black, one blind eye` | Black, one blind eye | Sort, ét blindt øje |
+| `Blue, one blind eye` | Blue, one blind eye | Blå, ét blindt øje |
+| `Brown, one blind eye` | Brown, one blind eye | Brun, ét blindt øje |
+| `Green, one blind eye` | Green, one blind eye | Grøn, ét blindt øje |
+| `Grey` | Grey | Grå |
+| `Grey, one blind eye` | Grey, one blind eye | Grå, ét blindt øje |
+| `Purple, one blind eye` | Purple, one blind eye | Lilla, ét blindt øje |
+| `Style 1, Blue` | Style 1, Blue | Stil 1, Blå |
+| `Style 1, Ginger` | Style 1, Ginger | Stil 1, Kobberrød |
+| `Style 1, Purple` | Style 1, Purple | Stil 1, Lilla |
+| `Style 1, Red` | Style 1, Red | Stil 1, Rød |
+| `Style 2, Blue` | Style 2, Blue | Stil 2, Blå |
+| `Style 2, Ginger` | Style 2, Ginger | Stil 2, Kobberrød |
+| `Style 2, Purple` | Style 2, Purple | Stil 2, Lilla |
+| `Style 2, Red` | Style 2, Red | Stil 2, Rød |
+| `Style 3, Blue` | Style 3, Blue | Stil 3, Blå |
+| `Style 3, Ginger` | Style 3, Ginger | Stil 3, Kobberrød |
+| `Style 3, Purple` | Style 3, Purple | Stil 3, Lilla |
+| `Style 3, Red` | Style 3, Red | Stil 3, Rød |
+| `Style 4, Blue` | Style 4, Blue | Stil 4, Blå |
+| `Style 4, Ginger` | Style 4, Ginger | Stil 4, Kobberrød |
+| `Style 4, Purple` | Style 4, Purple | Stil 4, Lilla |
+| `Style 4, Red` | Style 4, Red | Stil 4, Rød |
+| `Style 5, Blue` | Style 5, Blue | Stil 5, Blå |
+| `Style 5, Ginger` | Style 5, Ginger | Stil 5, Kobberrød |
+| `Style 5, Purple` | Style 5, Purple | Stil 5, Lilla |
+| `Style 5, Red` | Style 5, Red | Stil 5, Rød |
+| `Style 6, Blue` | Style 6, Blue | Stil 6, Blå |
+| `Style 6, Ginger` | Style 6, Ginger | Stil 6, Kobberrød |
+| `Style 6, Purple` | Style 6, Purple | Stil 6, Lilla |
+| `Style 6, Red` | Style 6, Red | Stil 6, Rød |
+| `Style 1, Green` | Style 1, Green | Stil 1, Grøn |
+| `Style 1, Yellow` | Style 1, Yellow | Stil 1, Gul |
+| `Style 2, Green` | Style 2, Green | Stil 2, Grøn |
+| `Style 2, Yellow` | Style 2, Yellow | Stil 2, Gul |
+| `Style 3, Green` | Style 3, Green | Stil 3, Grøn |
+| `Style 3, Yellow` | Style 3, Yellow | Stil 3, Gul |
+| `Style 4, Green` | Style 4, Green | Stil 4, Grøn |
+| `Style 4, Yellow` | Style 4, Yellow | Stil 4, Gul |
+| `Style 5, Green` | Style 5, Green | Stil 5, Grøn |
+| `Style 5, Yellow` | Style 5, Yellow | Stil 5, Gul |
+| `Style 6, Green` | Style 6, Green | Stil 6, Grøn |
+| `Style 6, Yellow` | Style 6, Yellow | Stil 6, Gul |
+| `Face 1` | Face 1 | Ansigt 1 |
+| `Face 2` | Face 2 | Ansigt 2 |
+| `Face 3` | Face 3 | Ansigt 3 |
+| `Face 4` | Face 4 | Ansigt 4 |
+| `Face 5` | Face 5 | Ansigt 5 |
+| `Style 6` | Style 6 | Stil 6 |
+| `Style 7` | Style 7 | Stil 7 |
+| `Peasant, Black` | Peasant, Black | Bonde, Sort |
+| `Peasant, Green` | Peasant, Green | Bonde, Grøn |
+| `Peasant, Purple` | Peasant, Purple | Bonde, Lilla |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Nordisk kriger, Rød |
+| `Peasant 1, Black` | Peasant 1, Black | Bonde 1, Sort |
+| `Peasant 2, Black` | Peasant 2, Black | Bonde 2, Sort |
+| `Peasant 3, Black` | Peasant 3, Black | Bonde 3, Sort |
+| `Peasant 1, Green` | Peasant 1, Green | Bonde 1, Grøn |
+| `Peasant 1, Purple` | Peasant 1, Purple | Bonde 1, Lilla |
+| `Peasant 2, Green` | Peasant 2, Green | Bonde 2, Grøn |
+| `Peasant 2, Purple` | Peasant 2, Purple | Bonde 2, Lilla |
+| `Peasant 3, Green` | Peasant 3, Green | Bonde 3, Grøn |
+| `Peasant 3, Purple` | Peasant 3, Purple | Bonde 3, Lilla |
+| `Fairy wings, Blue` | Fairy wings, Blue | Fevinger, Blå |
+| `Fairy wings, Gold` | Fairy wings, Gold | Fevinger, Guld |
+| `Fairy wings, Green` | Fairy wings, Green | Fevinger, Grøn |
+| `Fairy wings, Pink` | Fairy wings, Pink | Fevinger, Lyserød |
+| `Fairy wings, Silver` | Fairy wings, Silver | Fevinger, Sølv |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Fevinger, Gul |
+| `Fairy wings, Violet` | Fairy wings, Violet | Fevinger, Violet |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Fevinger, Karmosinrød |
+| `Fairy wings, Teal` | Fairy wings, Teal | Fevinger, Blågrøn |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Fevinger, Solnedgang |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Fevinger, Skygge |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Fevinger, Regnbue |
+| `Demon wings, Rose` | Demon wings, Rose | Dæmonvinger, Rosenrød |
+| `Demon wings, Amber` | Demon wings, Amber | Dæmonvinger, Rav |
+| `Demon wings, Bone` | Demon wings, Bone | Dæmonvinger, Knogle |
+| `Demon wings, Coral` | Demon wings, Coral | Dæmonvinger, Koral |
+| `Demon wings, Moss` | Demon wings, Moss | Dæmonvinger, Mos |
+| `Demon wings, Storm` | Demon wings, Storm | Dæmonvinger, Storm |
+| `Demon wings, Crimson` | Demon wings, Crimson | Dæmonvinger, Karmosinrød |
+| `Demon wings, Shadow` | Demon wings, Shadow | Dæmonvinger, Skygge |
+| `Demon wings, Frost` | Demon wings, Frost | Dæmonvinger, Frost |
+| `Demon wings, Venom` | Demon wings, Venom | Dæmonvinger, Edder |
+| `Demon wings, Violet` | Demon wings, Violet | Dæmonvinger, Violet |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Dæmonvinger, Helvedesild |
+| `Human` | Human | Menneske |
+| `Dwarf` | Dwarf | Dværg |
+| `Cape and wings` | Cape and wings | Kappe og vinger |
+| `Tint` | Tint | Toning |
+| `No tint` | No tint | Ingen toning |
+| `Pick any colour for the wings` | Pick any colour for the wings | Vælg selv en farve til vingerne |

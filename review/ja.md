@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | トーン 6 |
 | `Wave hello` | Wave hello | あいさつ |
 | `Body and face` | Body and face | 体と顔 |
+| `Face` | Face | 顔 |
+| `Moustache` | Moustache | 口ひげ |
+| `Tusks` | Tusks | 牙 |
+| `Earrings` | Earrings | イヤリング |
+| `Piercing` | Piercing | フェイスピアス |
+| `Scars` | Scars | 傷跡 |
+| `Face paint` | Face paint | フェイスペイント |
+| `Body paint` | Body paint | ボディペイント |
+| `Black` | Black | 黒 |
+| `Black, one blind eye` | Black, one blind eye | 黒、片目失明 |
+| `Blue, one blind eye` | Blue, one blind eye | 青、片目失明 |
+| `Brown, one blind eye` | Brown, one blind eye | 茶色、片目失明 |
+| `Green, one blind eye` | Green, one blind eye | 緑、片目失明 |
+| `Grey` | Grey | 灰色 |
+| `Grey, one blind eye` | Grey, one blind eye | 灰色、片目失明 |
+| `Purple, one blind eye` | Purple, one blind eye | 紫、片目失明 |
+| `Style 1, Blue` | Style 1, Blue | スタイル 1、青 |
+| `Style 1, Ginger` | Style 1, Ginger | スタイル 1、赤毛 |
+| `Style 1, Purple` | Style 1, Purple | スタイル 1、紫 |
+| `Style 1, Red` | Style 1, Red | スタイル 1、赤 |
+| `Style 2, Blue` | Style 2, Blue | スタイル 2、青 |
+| `Style 2, Ginger` | Style 2, Ginger | スタイル 2、赤毛 |
+| `Style 2, Purple` | Style 2, Purple | スタイル 2、紫 |
+| `Style 2, Red` | Style 2, Red | スタイル 2、赤 |
+| `Style 3, Blue` | Style 3, Blue | スタイル 3、青 |
+| `Style 3, Ginger` | Style 3, Ginger | スタイル 3、赤毛 |
+| `Style 3, Purple` | Style 3, Purple | スタイル 3、紫 |
+| `Style 3, Red` | Style 3, Red | スタイル 3、赤 |
+| `Style 4, Blue` | Style 4, Blue | スタイル 4、青 |
+| `Style 4, Ginger` | Style 4, Ginger | スタイル 4、赤毛 |
+| `Style 4, Purple` | Style 4, Purple | スタイル 4、紫 |
+| `Style 4, Red` | Style 4, Red | スタイル 4、赤 |
+| `Style 5, Blue` | Style 5, Blue | スタイル 5、青 |
+| `Style 5, Ginger` | Style 5, Ginger | スタイル 5、赤毛 |
+| `Style 5, Purple` | Style 5, Purple | スタイル 5、紫 |
+| `Style 5, Red` | Style 5, Red | スタイル 5、赤 |
+| `Style 6, Blue` | Style 6, Blue | スタイル 6、青 |
+| `Style 6, Ginger` | Style 6, Ginger | スタイル 6、赤毛 |
+| `Style 6, Purple` | Style 6, Purple | スタイル 6、紫 |
+| `Style 6, Red` | Style 6, Red | スタイル 6、赤 |
+| `Style 1, Green` | Style 1, Green | スタイル 1、緑 |
+| `Style 1, Yellow` | Style 1, Yellow | スタイル 1、黄色 |
+| `Style 2, Green` | Style 2, Green | スタイル 2、緑 |
+| `Style 2, Yellow` | Style 2, Yellow | スタイル 2、黄色 |
+| `Style 3, Green` | Style 3, Green | スタイル 3、緑 |
+| `Style 3, Yellow` | Style 3, Yellow | スタイル 3、黄色 |
+| `Style 4, Green` | Style 4, Green | スタイル 4、緑 |
+| `Style 4, Yellow` | Style 4, Yellow | スタイル 4、黄色 |
+| `Style 5, Green` | Style 5, Green | スタイル 5、緑 |
+| `Style 5, Yellow` | Style 5, Yellow | スタイル 5、黄色 |
+| `Style 6, Green` | Style 6, Green | スタイル 6、緑 |
+| `Style 6, Yellow` | Style 6, Yellow | スタイル 6、黄色 |
+| `Face 1` | Face 1 | 顔 1 |
+| `Face 2` | Face 2 | 顔 2 |
+| `Face 3` | Face 3 | 顔 3 |
+| `Face 4` | Face 4 | 顔 4 |
+| `Face 5` | Face 5 | 顔 5 |
+| `Style 6` | Style 6 | スタイル 6 |
+| `Style 7` | Style 7 | スタイル 7 |
+| `Peasant, Black` | Peasant, Black | 農民、黒 |
+| `Peasant, Green` | Peasant, Green | 農民、緑 |
+| `Peasant, Purple` | Peasant, Purple | 農民、紫 |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | 北方の戦士、赤 |
+| `Peasant 1, Black` | Peasant 1, Black | 農民 1、黒 |
+| `Peasant 2, Black` | Peasant 2, Black | 農民 2、黒 |
+| `Peasant 3, Black` | Peasant 3, Black | 農民 3、黒 |
+| `Peasant 1, Green` | Peasant 1, Green | 農民 1、緑 |
+| `Peasant 1, Purple` | Peasant 1, Purple | 農民 1、紫 |
+| `Peasant 2, Green` | Peasant 2, Green | 農民 2、緑 |
+| `Peasant 2, Purple` | Peasant 2, Purple | 農民 2、紫 |
+| `Peasant 3, Green` | Peasant 3, Green | 農民 3、緑 |
+| `Peasant 3, Purple` | Peasant 3, Purple | 農民 3、紫 |
+| `Fairy wings, Blue` | Fairy wings, Blue | 妖精の翼、青 |
+| `Fairy wings, Gold` | Fairy wings, Gold | 妖精の翼、金色 |
+| `Fairy wings, Green` | Fairy wings, Green | 妖精の翼、緑 |
+| `Fairy wings, Pink` | Fairy wings, Pink | 妖精の翼、ピンク |
+| `Fairy wings, Silver` | Fairy wings, Silver | 妖精の翼、銀色 |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | 妖精の翼、黄色 |
+| `Fairy wings, Violet` | Fairy wings, Violet | 妖精の翼、すみれ色 |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | 妖精の翼、クリムゾン |
+| `Fairy wings, Teal` | Fairy wings, Teal | 妖精の翼、青緑 |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | 妖精の翼、夕暮れ |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | 妖精の翼、影 |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | 妖精の翼、虹色 |
+| `Demon wings, Rose` | Demon wings, Rose | デーモンの翼、バラ色 |
+| `Demon wings, Amber` | Demon wings, Amber | デーモンの翼、琥珀色 |
+| `Demon wings, Bone` | Demon wings, Bone | デーモンの翼、白骨 |
+| `Demon wings, Coral` | Demon wings, Coral | デーモンの翼、珊瑚色 |
+| `Demon wings, Moss` | Demon wings, Moss | デーモンの翼、苔色 |
+| `Demon wings, Storm` | Demon wings, Storm | デーモンの翼、嵐 |
+| `Demon wings, Crimson` | Demon wings, Crimson | デーモンの翼、クリムゾン |
+| `Demon wings, Shadow` | Demon wings, Shadow | デーモンの翼、影 |
+| `Demon wings, Frost` | Demon wings, Frost | デーモンの翼、霜 |
+| `Demon wings, Venom` | Demon wings, Venom | デーモンの翼、猛毒 |
+| `Demon wings, Violet` | Demon wings, Violet | デーモンの翼、すみれ色 |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | デーモンの翼、業火 |
+| `Human` | Human | 人間 |
+| `Dwarf` | Dwarf | ドワーフ |
+| `Cape and wings` | Cape and wings | ケープと翼 |
+| `Tint` | Tint | 色合い |
+| `No tint` | No tint | 色合いなし |
+| `Pick any colour for the wings` | Pick any colour for the wings | 翼の色を自由に選べます |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бард |
 | Discover | Откритие |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Тон 6 |
 | `Wave hello` | Wave hello | Махане |
 | `Body and face` | Body and face | Тяло и лице |
+| `Face` | Face | Лице |
+| `Moustache` | Moustache | Мустаци |
+| `Tusks` | Tusks | Бивни |
+| `Earrings` | Earrings | Обеци |
+| `Piercing` | Piercing | Пиърсинг |
+| `Scars` | Scars | Белези |
+| `Face paint` | Face paint | Рисунка на лицето |
+| `Body paint` | Body paint | Рисунка на тялото |
+| `Black` | Black | Черно |
+| `Black, one blind eye` | Black, one blind eye | Черно, едно сляпо око |
+| `Blue, one blind eye` | Blue, one blind eye | Синьо, едно сляпо око |
+| `Brown, one blind eye` | Brown, one blind eye | Кафяво, едно сляпо око |
+| `Green, one blind eye` | Green, one blind eye | Зелено, едно сляпо око |
+| `Grey` | Grey | Сиво |
+| `Grey, one blind eye` | Grey, one blind eye | Сиво, едно сляпо око |
+| `Purple, one blind eye` | Purple, one blind eye | Лилаво, едно сляпо око |
+| `Style 1, Blue` | Style 1, Blue | Стил 1, синьо |
+| `Style 1, Ginger` | Style 1, Ginger | Стил 1, рижаво |
+| `Style 1, Purple` | Style 1, Purple | Стил 1, лилаво |
+| `Style 1, Red` | Style 1, Red | Стил 1, червено |
+| `Style 2, Blue` | Style 2, Blue | Стил 2, синьо |
+| `Style 2, Ginger` | Style 2, Ginger | Стил 2, рижаво |
+| `Style 2, Purple` | Style 2, Purple | Стил 2, лилаво |
+| `Style 2, Red` | Style 2, Red | Стил 2, червено |
+| `Style 3, Blue` | Style 3, Blue | Стил 3, синьо |
+| `Style 3, Ginger` | Style 3, Ginger | Стил 3, рижаво |
+| `Style 3, Purple` | Style 3, Purple | Стил 3, лилаво |
+| `Style 3, Red` | Style 3, Red | Стил 3, червено |
+| `Style 4, Blue` | Style 4, Blue | Стил 4, синьо |
+| `Style 4, Ginger` | Style 4, Ginger | Стил 4, рижаво |
+| `Style 4, Purple` | Style 4, Purple | Стил 4, лилаво |
+| `Style 4, Red` | Style 4, Red | Стил 4, червено |
+| `Style 5, Blue` | Style 5, Blue | Стил 5, синьо |
+| `Style 5, Ginger` | Style 5, Ginger | Стил 5, рижаво |
+| `Style 5, Purple` | Style 5, Purple | Стил 5, лилаво |
+| `Style 5, Red` | Style 5, Red | Стил 5, червено |
+| `Style 6, Blue` | Style 6, Blue | Стил 6, синьо |
+| `Style 6, Ginger` | Style 6, Ginger | Стил 6, рижаво |
+| `Style 6, Purple` | Style 6, Purple | Стил 6, лилаво |
+| `Style 6, Red` | Style 6, Red | Стил 6, червено |
+| `Style 1, Green` | Style 1, Green | Стил 1, зелено |
+| `Style 1, Yellow` | Style 1, Yellow | Стил 1, жълто |
+| `Style 2, Green` | Style 2, Green | Стил 2, зелено |
+| `Style 2, Yellow` | Style 2, Yellow | Стил 2, жълто |
+| `Style 3, Green` | Style 3, Green | Стил 3, зелено |
+| `Style 3, Yellow` | Style 3, Yellow | Стил 3, жълто |
+| `Style 4, Green` | Style 4, Green | Стил 4, зелено |
+| `Style 4, Yellow` | Style 4, Yellow | Стил 4, жълто |
+| `Style 5, Green` | Style 5, Green | Стил 5, зелено |
+| `Style 5, Yellow` | Style 5, Yellow | Стил 5, жълто |
+| `Style 6, Green` | Style 6, Green | Стил 6, зелено |
+| `Style 6, Yellow` | Style 6, Yellow | Стил 6, жълто |
+| `Face 1` | Face 1 | Лице 1 |
+| `Face 2` | Face 2 | Лице 2 |
+| `Face 3` | Face 3 | Лице 3 |
+| `Face 4` | Face 4 | Лице 4 |
+| `Face 5` | Face 5 | Лице 5 |
+| `Style 6` | Style 6 | Стил 6 |
+| `Style 7` | Style 7 | Стил 7 |
+| `Peasant, Black` | Peasant, Black | Селянин, черно |
+| `Peasant, Green` | Peasant, Green | Селянин, зелено |
+| `Peasant, Purple` | Peasant, Purple | Селянин, лилаво |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Северен воин, червено |
+| `Peasant 1, Black` | Peasant 1, Black | Селянин 1, черно |
+| `Peasant 2, Black` | Peasant 2, Black | Селянин 2, черно |
+| `Peasant 3, Black` | Peasant 3, Black | Селянин 3, черно |
+| `Peasant 1, Green` | Peasant 1, Green | Селянин 1, зелено |
+| `Peasant 1, Purple` | Peasant 1, Purple | Селянин 1, лилаво |
+| `Peasant 2, Green` | Peasant 2, Green | Селянин 2, зелено |
+| `Peasant 2, Purple` | Peasant 2, Purple | Селянин 2, лилаво |
+| `Peasant 3, Green` | Peasant 3, Green | Селянин 3, зелено |
+| `Peasant 3, Purple` | Peasant 3, Purple | Селянин 3, лилаво |
+| `Fairy wings, Blue` | Fairy wings, Blue | Криле на фея, синьо |
+| `Fairy wings, Gold` | Fairy wings, Gold | Криле на фея, златно |
+| `Fairy wings, Green` | Fairy wings, Green | Криле на фея, зелено |
+| `Fairy wings, Pink` | Fairy wings, Pink | Криле на фея, розово |
+| `Fairy wings, Silver` | Fairy wings, Silver | Криле на фея, сребристо |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Криле на фея, жълто |
+| `Fairy wings, Violet` | Fairy wings, Violet | Криле на фея, виолетово |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Криле на фея, аленочервено |
+| `Fairy wings, Teal` | Fairy wings, Teal | Криле на фея, синьозелено |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Криле на фея, залез |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Криле на фея, сянка |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Криле на фея, дъга |
+| `Demon wings, Rose` | Demon wings, Rose | Демонски криле, роза |
+| `Demon wings, Amber` | Demon wings, Amber | Демонски криле, кехлибарено |
+| `Demon wings, Bone` | Demon wings, Bone | Демонски криле, костено |
+| `Demon wings, Coral` | Demon wings, Coral | Демонски криле, коралово |
+| `Demon wings, Moss` | Demon wings, Moss | Демонски криле, мъхесто |
+| `Demon wings, Storm` | Demon wings, Storm | Демонски криле, буря |
+| `Demon wings, Crimson` | Demon wings, Crimson | Демонски криле, аленочервено |
+| `Demon wings, Shadow` | Demon wings, Shadow | Демонски криле, сянка |
+| `Demon wings, Frost` | Demon wings, Frost | Демонски криле, скреж |
+| `Demon wings, Venom` | Demon wings, Venom | Демонски криле, отрова |
+| `Demon wings, Violet` | Demon wings, Violet | Демонски криле, виолетово |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Демонски криле, адски огън |
+| `Human` | Human | Човек |
+| `Dwarf` | Dwarf | Джудже |
+| `Cape and wings` | Cape and wings | Наметало и криле |
+| `Tint` | Tint | Оттенък |
+| `No tint` | No tint | Без оттенък |
+| `Pick any colour for the wings` | Pick any colour for the wings | Избери произволен цвят за крилете |

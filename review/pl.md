@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Pieśń |
 | Discover | Odkrywanie |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Odcień 6 |
 | `Wave hello` | Wave hello | Powitanie |
 | `Body and face` | Body and face | Ciało i twarz |
+| `Face` | Face | Twarz |
+| `Moustache` | Moustache | Wąsy |
+| `Tusks` | Tusks | Kły |
+| `Earrings` | Earrings | Kolczyki |
+| `Piercing` | Piercing | Piercing |
+| `Scars` | Scars | Blizny |
+| `Face paint` | Face paint | Malowanie twarzy |
+| `Body paint` | Body paint | Malowanie ciała |
+| `Black` | Black | Czarny |
+| `Black, one blind eye` | Black, one blind eye | Czarny, jedno ślepe oko |
+| `Blue, one blind eye` | Blue, one blind eye | Niebieski, jedno ślepe oko |
+| `Brown, one blind eye` | Brown, one blind eye | Brązowy, jedno ślepe oko |
+| `Green, one blind eye` | Green, one blind eye | Zielony, jedno ślepe oko |
+| `Grey` | Grey | Szary |
+| `Grey, one blind eye` | Grey, one blind eye | Szary, jedno ślepe oko |
+| `Purple, one blind eye` | Purple, one blind eye | Fioletowy, jedno ślepe oko |
+| `Style 1, Blue` | Style 1, Blue | Styl 1, niebieski |
+| `Style 1, Ginger` | Style 1, Ginger | Styl 1, rudy |
+| `Style 1, Purple` | Style 1, Purple | Styl 1, fioletowy |
+| `Style 1, Red` | Style 1, Red | Styl 1, czerwony |
+| `Style 2, Blue` | Style 2, Blue | Styl 2, niebieski |
+| `Style 2, Ginger` | Style 2, Ginger | Styl 2, rudy |
+| `Style 2, Purple` | Style 2, Purple | Styl 2, fioletowy |
+| `Style 2, Red` | Style 2, Red | Styl 2, czerwony |
+| `Style 3, Blue` | Style 3, Blue | Styl 3, niebieski |
+| `Style 3, Ginger` | Style 3, Ginger | Styl 3, rudy |
+| `Style 3, Purple` | Style 3, Purple | Styl 3, fioletowy |
+| `Style 3, Red` | Style 3, Red | Styl 3, czerwony |
+| `Style 4, Blue` | Style 4, Blue | Styl 4, niebieski |
+| `Style 4, Ginger` | Style 4, Ginger | Styl 4, rudy |
+| `Style 4, Purple` | Style 4, Purple | Styl 4, fioletowy |
+| `Style 4, Red` | Style 4, Red | Styl 4, czerwony |
+| `Style 5, Blue` | Style 5, Blue | Styl 5, niebieski |
+| `Style 5, Ginger` | Style 5, Ginger | Styl 5, rudy |
+| `Style 5, Purple` | Style 5, Purple | Styl 5, fioletowy |
+| `Style 5, Red` | Style 5, Red | Styl 5, czerwony |
+| `Style 6, Blue` | Style 6, Blue | Styl 6, niebieski |
+| `Style 6, Ginger` | Style 6, Ginger | Styl 6, rudy |
+| `Style 6, Purple` | Style 6, Purple | Styl 6, fioletowy |
+| `Style 6, Red` | Style 6, Red | Styl 6, czerwony |
+| `Style 1, Green` | Style 1, Green | Styl 1, zielony |
+| `Style 1, Yellow` | Style 1, Yellow | Styl 1, żółty |
+| `Style 2, Green` | Style 2, Green | Styl 2, zielony |
+| `Style 2, Yellow` | Style 2, Yellow | Styl 2, żółty |
+| `Style 3, Green` | Style 3, Green | Styl 3, zielony |
+| `Style 3, Yellow` | Style 3, Yellow | Styl 3, żółty |
+| `Style 4, Green` | Style 4, Green | Styl 4, zielony |
+| `Style 4, Yellow` | Style 4, Yellow | Styl 4, żółty |
+| `Style 5, Green` | Style 5, Green | Styl 5, zielony |
+| `Style 5, Yellow` | Style 5, Yellow | Styl 5, żółty |
+| `Style 6, Green` | Style 6, Green | Styl 6, zielony |
+| `Style 6, Yellow` | Style 6, Yellow | Styl 6, żółty |
+| `Face 1` | Face 1 | Twarz 1 |
+| `Face 2` | Face 2 | Twarz 2 |
+| `Face 3` | Face 3 | Twarz 3 |
+| `Face 4` | Face 4 | Twarz 4 |
+| `Face 5` | Face 5 | Twarz 5 |
+| `Style 6` | Style 6 | Styl 6 |
+| `Style 7` | Style 7 | Styl 7 |
+| `Peasant, Black` | Peasant, Black | Chłop, czarny |
+| `Peasant, Green` | Peasant, Green | Chłop, zielony |
+| `Peasant, Purple` | Peasant, Purple | Chłop, fioletowy |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Nordycki wojownik, czerwony |
+| `Peasant 1, Black` | Peasant 1, Black | Chłop 1, czarny |
+| `Peasant 2, Black` | Peasant 2, Black | Chłop 2, czarny |
+| `Peasant 3, Black` | Peasant 3, Black | Chłop 3, czarny |
+| `Peasant 1, Green` | Peasant 1, Green | Chłop 1, zielony |
+| `Peasant 1, Purple` | Peasant 1, Purple | Chłop 1, fioletowy |
+| `Peasant 2, Green` | Peasant 2, Green | Chłop 2, zielony |
+| `Peasant 2, Purple` | Peasant 2, Purple | Chłop 2, fioletowy |
+| `Peasant 3, Green` | Peasant 3, Green | Chłop 3, zielony |
+| `Peasant 3, Purple` | Peasant 3, Purple | Chłop 3, fioletowy |
+| `Fairy wings, Blue` | Fairy wings, Blue | Skrzydła wróżki, niebieski |
+| `Fairy wings, Gold` | Fairy wings, Gold | Skrzydła wróżki, złoty |
+| `Fairy wings, Green` | Fairy wings, Green | Skrzydła wróżki, zielony |
+| `Fairy wings, Pink` | Fairy wings, Pink | Skrzydła wróżki, różowy |
+| `Fairy wings, Silver` | Fairy wings, Silver | Skrzydła wróżki, srebrny |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Skrzydła wróżki, żółty |
+| `Fairy wings, Violet` | Fairy wings, Violet | Skrzydła wróżki, liliowy |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Skrzydła wróżki, karmazynowy |
+| `Fairy wings, Teal` | Fairy wings, Teal | Skrzydła wróżki, morski |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Skrzydła wróżki, zachód słońca |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Skrzydła wróżki, cień |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Skrzydła wróżki, tęcza |
+| `Demon wings, Rose` | Demon wings, Rose | Skrzydła demona, róża |
+| `Demon wings, Amber` | Demon wings, Amber | Skrzydła demona, bursztynowy |
+| `Demon wings, Bone` | Demon wings, Bone | Skrzydła demona, kościany |
+| `Demon wings, Coral` | Demon wings, Coral | Skrzydła demona, koralowy |
+| `Demon wings, Moss` | Demon wings, Moss | Skrzydła demona, mszysty |
+| `Demon wings, Storm` | Demon wings, Storm | Skrzydła demona, burza |
+| `Demon wings, Crimson` | Demon wings, Crimson | Skrzydła demona, karmazynowy |
+| `Demon wings, Shadow` | Demon wings, Shadow | Skrzydła demona, cień |
+| `Demon wings, Frost` | Demon wings, Frost | Skrzydła demona, szron |
+| `Demon wings, Venom` | Demon wings, Venom | Skrzydła demona, jad |
+| `Demon wings, Violet` | Demon wings, Violet | Skrzydła demona, liliowy |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Skrzydła demona, piekielny ogień |
+| `Human` | Human | Człowiek |
+| `Dwarf` | Dwarf | Krasnolud |
+| `Cape and wings` | Cape and wings | Peleryna i skrzydła |
+| `Tint` | Tint | Zabarwienie |
+| `No tint` | No tint | Bez zabarwienia |
+| `Pick any colour for the wings` | Pick any colour for the wings | Wybierz dowolny kolor skrzydeł |

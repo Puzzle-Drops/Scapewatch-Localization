@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Tuklasin |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Tono 6 |
 | `Wave hello` | Wave hello | Kumaway |
 | `Body and face` | Body and face | Katawan at Mukha |
+| `Face` | Face | Mukha |
+| `Moustache` | Moustache | Bigote |
+| `Tusks` | Tusks | Pangil |
+| `Earrings` | Earrings | Hikaw |
+| `Piercing` | Piercing | Piercing |
+| `Scars` | Scars | Peklat |
+| `Face paint` | Face paint | Pintura sa Mukha |
+| `Body paint` | Body paint | Pintura sa Katawan |
+| `Black` | Black | Itim |
+| `Black, one blind eye` | Black, one blind eye | Itim, isang matang bulag |
+| `Blue, one blind eye` | Blue, one blind eye | Asul, isang matang bulag |
+| `Brown, one blind eye` | Brown, one blind eye | Kayumanggi, isang matang bulag |
+| `Green, one blind eye` | Green, one blind eye | Berde, isang matang bulag |
+| `Grey` | Grey | Kulay-abo |
+| `Grey, one blind eye` | Grey, one blind eye | Kulay-abo, isang matang bulag |
+| `Purple, one blind eye` | Purple, one blind eye | Lila, isang matang bulag |
+| `Style 1, Blue` | Style 1, Blue | Estilo 1, Asul |
+| `Style 1, Ginger` | Style 1, Ginger | Estilo 1, Pulang-kahel |
+| `Style 1, Purple` | Style 1, Purple | Estilo 1, Lila |
+| `Style 1, Red` | Style 1, Red | Estilo 1, Pula |
+| `Style 2, Blue` | Style 2, Blue | Estilo 2, Asul |
+| `Style 2, Ginger` | Style 2, Ginger | Estilo 2, Pulang-kahel |
+| `Style 2, Purple` | Style 2, Purple | Estilo 2, Lila |
+| `Style 2, Red` | Style 2, Red | Estilo 2, Pula |
+| `Style 3, Blue` | Style 3, Blue | Estilo 3, Asul |
+| `Style 3, Ginger` | Style 3, Ginger | Estilo 3, Pulang-kahel |
+| `Style 3, Purple` | Style 3, Purple | Estilo 3, Lila |
+| `Style 3, Red` | Style 3, Red | Estilo 3, Pula |
+| `Style 4, Blue` | Style 4, Blue | Estilo 4, Asul |
+| `Style 4, Ginger` | Style 4, Ginger | Estilo 4, Pulang-kahel |
+| `Style 4, Purple` | Style 4, Purple | Estilo 4, Lila |
+| `Style 4, Red` | Style 4, Red | Estilo 4, Pula |
+| `Style 5, Blue` | Style 5, Blue | Estilo 5, Asul |
+| `Style 5, Ginger` | Style 5, Ginger | Estilo 5, Pulang-kahel |
+| `Style 5, Purple` | Style 5, Purple | Estilo 5, Lila |
+| `Style 5, Red` | Style 5, Red | Estilo 5, Pula |
+| `Style 6, Blue` | Style 6, Blue | Estilo 6, Asul |
+| `Style 6, Ginger` | Style 6, Ginger | Estilo 6, Pulang-kahel |
+| `Style 6, Purple` | Style 6, Purple | Estilo 6, Lila |
+| `Style 6, Red` | Style 6, Red | Estilo 6, Pula |
+| `Style 1, Green` | Style 1, Green | Estilo 1, Berde |
+| `Style 1, Yellow` | Style 1, Yellow | Estilo 1, Dilaw |
+| `Style 2, Green` | Style 2, Green | Estilo 2, Berde |
+| `Style 2, Yellow` | Style 2, Yellow | Estilo 2, Dilaw |
+| `Style 3, Green` | Style 3, Green | Estilo 3, Berde |
+| `Style 3, Yellow` | Style 3, Yellow | Estilo 3, Dilaw |
+| `Style 4, Green` | Style 4, Green | Estilo 4, Berde |
+| `Style 4, Yellow` | Style 4, Yellow | Estilo 4, Dilaw |
+| `Style 5, Green` | Style 5, Green | Estilo 5, Berde |
+| `Style 5, Yellow` | Style 5, Yellow | Estilo 5, Dilaw |
+| `Style 6, Green` | Style 6, Green | Estilo 6, Berde |
+| `Style 6, Yellow` | Style 6, Yellow | Estilo 6, Dilaw |
+| `Face 1` | Face 1 | Mukha 1 |
+| `Face 2` | Face 2 | Mukha 2 |
+| `Face 3` | Face 3 | Mukha 3 |
+| `Face 4` | Face 4 | Mukha 4 |
+| `Face 5` | Face 5 | Mukha 5 |
+| `Style 6` | Style 6 | Estilo 6 |
+| `Style 7` | Style 7 | Estilo 7 |
+| `Peasant, Black` | Peasant, Black | Magsasaka, Itim |
+| `Peasant, Green` | Peasant, Green | Magsasaka, Berde |
+| `Peasant, Purple` | Peasant, Purple | Magsasaka, Lila |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Mandirigmang Nordiko, Pula |
+| `Peasant 1, Black` | Peasant 1, Black | Magsasaka 1, Itim |
+| `Peasant 2, Black` | Peasant 2, Black | Magsasaka 2, Itim |
+| `Peasant 3, Black` | Peasant 3, Black | Magsasaka 3, Itim |
+| `Peasant 1, Green` | Peasant 1, Green | Magsasaka 1, Berde |
+| `Peasant 1, Purple` | Peasant 1, Purple | Magsasaka 1, Lila |
+| `Peasant 2, Green` | Peasant 2, Green | Magsasaka 2, Berde |
+| `Peasant 2, Purple` | Peasant 2, Purple | Magsasaka 2, Lila |
+| `Peasant 3, Green` | Peasant 3, Green | Magsasaka 3, Berde |
+| `Peasant 3, Purple` | Peasant 3, Purple | Magsasaka 3, Lila |
+| `Fairy wings, Blue` | Fairy wings, Blue | Pakpak ng Diwata, Asul |
+| `Fairy wings, Gold` | Fairy wings, Gold | Pakpak ng Diwata, Ginto |
+| `Fairy wings, Green` | Fairy wings, Green | Pakpak ng Diwata, Berde |
+| `Fairy wings, Pink` | Fairy wings, Pink | Pakpak ng Diwata, Rosas |
+| `Fairy wings, Silver` | Fairy wings, Silver | Pakpak ng Diwata, Pilak |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Pakpak ng Diwata, Dilaw |
+| `Fairy wings, Violet` | Fairy wings, Violet | Pakpak ng Diwata, Biyoleta |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Pakpak ng Diwata, Pulang-dugo |
+| `Fairy wings, Teal` | Fairy wings, Teal | Pakpak ng Diwata, Asul-berde |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Pakpak ng Diwata, Paglubog ng araw |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Pakpak ng Diwata, Anino |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Pakpak ng Diwata, Bahaghari |
+| `Demon wings, Rose` | Demon wings, Rose | Pakpak ng Demonyo, Pulang-rosas |
+| `Demon wings, Amber` | Demon wings, Amber | Pakpak ng Demonyo, Ambar |
+| `Demon wings, Bone` | Demon wings, Bone | Pakpak ng Demonyo, Buto |
+| `Demon wings, Coral` | Demon wings, Coral | Pakpak ng Demonyo, Koral |
+| `Demon wings, Moss` | Demon wings, Moss | Pakpak ng Demonyo, Lumot |
+| `Demon wings, Storm` | Demon wings, Storm | Pakpak ng Demonyo, Bagyo |
+| `Demon wings, Crimson` | Demon wings, Crimson | Pakpak ng Demonyo, Pulang-dugo |
+| `Demon wings, Shadow` | Demon wings, Shadow | Pakpak ng Demonyo, Anino |
+| `Demon wings, Frost` | Demon wings, Frost | Pakpak ng Demonyo, Yelo |
+| `Demon wings, Venom` | Demon wings, Venom | Pakpak ng Demonyo, Kamandag |
+| `Demon wings, Violet` | Demon wings, Violet | Pakpak ng Demonyo, Biyoleta |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Pakpak ng Demonyo, Apoy ng impiyerno |
+| `Human` | Human | Tao |
+| `Dwarf` | Dwarf | Dwarf |
+| `Cape and wings` | Cape and wings | Kapa at Pakpak |
+| `Tint` | Tint | Tina |
+| `No tint` | No tint | Walang tina |
+| `Pick any colour for the wings` | Pick any colour for the wings | Pumili ng kahit anong kulay para sa pakpak |

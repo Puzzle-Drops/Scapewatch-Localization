@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Upptäck |
 
-## Lines to review (697)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -767,3 +767,105 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tone 6` | Tone 6 | Ton 6 |
 | `Wave hello` | Wave hello | Vinka |
 | `Body and face` | Body and face | Kropp och ansikte |
+| `Face` | Face | Ansikte |
+| `Moustache` | Moustache | Mustasch |
+| `Tusks` | Tusks | Betar |
+| `Earrings` | Earrings | Örhängen |
+| `Piercing` | Piercing | Piercing |
+| `Scars` | Scars | Ärr |
+| `Face paint` | Face paint | Ansiktsmålning |
+| `Body paint` | Body paint | Kroppsmålning |
+| `Black` | Black | Svart |
+| `Black, one blind eye` | Black, one blind eye | Svart, ett blint öga |
+| `Blue, one blind eye` | Blue, one blind eye | Blå, ett blint öga |
+| `Brown, one blind eye` | Brown, one blind eye | Brun, ett blint öga |
+| `Green, one blind eye` | Green, one blind eye | Grön, ett blint öga |
+| `Grey` | Grey | Grå |
+| `Grey, one blind eye` | Grey, one blind eye | Grå, ett blint öga |
+| `Purple, one blind eye` | Purple, one blind eye | Lila, ett blint öga |
+| `Style 1, Blue` | Style 1, Blue | Stil 1, blå |
+| `Style 1, Ginger` | Style 1, Ginger | Stil 1, kopparröd |
+| `Style 1, Purple` | Style 1, Purple | Stil 1, lila |
+| `Style 1, Red` | Style 1, Red | Stil 1, röd |
+| `Style 2, Blue` | Style 2, Blue | Stil 2, blå |
+| `Style 2, Ginger` | Style 2, Ginger | Stil 2, kopparröd |
+| `Style 2, Purple` | Style 2, Purple | Stil 2, lila |
+| `Style 2, Red` | Style 2, Red | Stil 2, röd |
+| `Style 3, Blue` | Style 3, Blue | Stil 3, blå |
+| `Style 3, Ginger` | Style 3, Ginger | Stil 3, kopparröd |
+| `Style 3, Purple` | Style 3, Purple | Stil 3, lila |
+| `Style 3, Red` | Style 3, Red | Stil 3, röd |
+| `Style 4, Blue` | Style 4, Blue | Stil 4, blå |
+| `Style 4, Ginger` | Style 4, Ginger | Stil 4, kopparröd |
+| `Style 4, Purple` | Style 4, Purple | Stil 4, lila |
+| `Style 4, Red` | Style 4, Red | Stil 4, röd |
+| `Style 5, Blue` | Style 5, Blue | Stil 5, blå |
+| `Style 5, Ginger` | Style 5, Ginger | Stil 5, kopparröd |
+| `Style 5, Purple` | Style 5, Purple | Stil 5, lila |
+| `Style 5, Red` | Style 5, Red | Stil 5, röd |
+| `Style 6, Blue` | Style 6, Blue | Stil 6, blå |
+| `Style 6, Ginger` | Style 6, Ginger | Stil 6, kopparröd |
+| `Style 6, Purple` | Style 6, Purple | Stil 6, lila |
+| `Style 6, Red` | Style 6, Red | Stil 6, röd |
+| `Style 1, Green` | Style 1, Green | Stil 1, grön |
+| `Style 1, Yellow` | Style 1, Yellow | Stil 1, gul |
+| `Style 2, Green` | Style 2, Green | Stil 2, grön |
+| `Style 2, Yellow` | Style 2, Yellow | Stil 2, gul |
+| `Style 3, Green` | Style 3, Green | Stil 3, grön |
+| `Style 3, Yellow` | Style 3, Yellow | Stil 3, gul |
+| `Style 4, Green` | Style 4, Green | Stil 4, grön |
+| `Style 4, Yellow` | Style 4, Yellow | Stil 4, gul |
+| `Style 5, Green` | Style 5, Green | Stil 5, grön |
+| `Style 5, Yellow` | Style 5, Yellow | Stil 5, gul |
+| `Style 6, Green` | Style 6, Green | Stil 6, grön |
+| `Style 6, Yellow` | Style 6, Yellow | Stil 6, gul |
+| `Face 1` | Face 1 | Ansikte 1 |
+| `Face 2` | Face 2 | Ansikte 2 |
+| `Face 3` | Face 3 | Ansikte 3 |
+| `Face 4` | Face 4 | Ansikte 4 |
+| `Face 5` | Face 5 | Ansikte 5 |
+| `Style 6` | Style 6 | Stil 6 |
+| `Style 7` | Style 7 | Stil 7 |
+| `Peasant, Black` | Peasant, Black | Bonde, svart |
+| `Peasant, Green` | Peasant, Green | Bonde, grön |
+| `Peasant, Purple` | Peasant, Purple | Bonde, lila |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Nordisk krigare, röd |
+| `Peasant 1, Black` | Peasant 1, Black | Bonde 1, svart |
+| `Peasant 2, Black` | Peasant 2, Black | Bonde 2, svart |
+| `Peasant 3, Black` | Peasant 3, Black | Bonde 3, svart |
+| `Peasant 1, Green` | Peasant 1, Green | Bonde 1, grön |
+| `Peasant 1, Purple` | Peasant 1, Purple | Bonde 1, lila |
+| `Peasant 2, Green` | Peasant 2, Green | Bonde 2, grön |
+| `Peasant 2, Purple` | Peasant 2, Purple | Bonde 2, lila |
+| `Peasant 3, Green` | Peasant 3, Green | Bonde 3, grön |
+| `Peasant 3, Purple` | Peasant 3, Purple | Bonde 3, lila |
+| `Fairy wings, Blue` | Fairy wings, Blue | Fevingar, blå |
+| `Fairy wings, Gold` | Fairy wings, Gold | Fevingar, guld |
+| `Fairy wings, Green` | Fairy wings, Green | Fevingar, grön |
+| `Fairy wings, Pink` | Fairy wings, Pink | Fevingar, rosa |
+| `Fairy wings, Silver` | Fairy wings, Silver | Fevingar, silver |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Fevingar, gul |
+| `Fairy wings, Violet` | Fairy wings, Violet | Fevingar, violett |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Fevingar, karmosinröd |
+| `Fairy wings, Teal` | Fairy wings, Teal | Fevingar, blågrön |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Fevingar, solnedgång |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Fevingar, skugga |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Fevingar, regnbåge |
+| `Demon wings, Rose` | Demon wings, Rose | Demonvingar, rosenröd |
+| `Demon wings, Amber` | Demon wings, Amber | Demonvingar, bärnsten |
+| `Demon wings, Bone` | Demon wings, Bone | Demonvingar, benvit |
+| `Demon wings, Coral` | Demon wings, Coral | Demonvingar, korall |
+| `Demon wings, Moss` | Demon wings, Moss | Demonvingar, mossa |
+| `Demon wings, Storm` | Demon wings, Storm | Demonvingar, storm |
+| `Demon wings, Crimson` | Demon wings, Crimson | Demonvingar, karmosinröd |
+| `Demon wings, Shadow` | Demon wings, Shadow | Demonvingar, skugga |
+| `Demon wings, Frost` | Demon wings, Frost | Demonvingar, frost |
+| `Demon wings, Venom` | Demon wings, Venom | Demonvingar, etter |
+| `Demon wings, Violet` | Demon wings, Violet | Demonvingar, violett |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Demonvingar, helveteseld |
+| `Human` | Human | Människa |
+| `Dwarf` | Dwarf | Dvärg |
+| `Cape and wings` | Cape and wings | Mantel och vingar |
+| `Tint` | Tint | Toning |
+| `No tint` | No tint | Ingen toning |
+| `Pick any colour for the wings` | Pick any colour for the wings | Välj valfri färg för vingarna |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cantare |
 | Discover | Scoprire |
 
-## Lines to review (521)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,281 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | +1 HP per cibo e azione di abilità |
 | `@f:runs` | runs | corse |
 | `@f:run` | run | corsa |
+| `3D World` | 3D World | Mondo 3D |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | Il 3D è disponibile su Steam con il Pacchetto Sostenitore. Clicca per vederlo su Steam. |
+| `Switch to 2D` | Switch to 2D | Passa al 2D |
+| `Go back to the 2D map.` | Go back to the 2D map. | Torna alla mappa 2D. |
+| `Switch to 3D` | Switch to 3D | Passa al 3D |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | Mostra il mondo e il combattimento in 3D (beta). |
+| `2D / 3D Button` | 2D / 3D Button | Pulsante 2D / 3D |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | Mostra il pulsante che alterna tra la mappa 2D e il Mondo 3D. |
+| `View the roadmap` | View the roadmap | Vedi la roadmap |
+| `Click anywhere to close` | Click anywhere to close | Clicca ovunque per chiudere |
+| `Tap anywhere to close` | Tap anywhere to close | Tocca ovunque per chiudere |
+| `Roadmap` | Roadmap | Roadmap |
+| `3D World (beta)` | 3D World (beta) | Mondo 3D (beta) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Richiede il Pacchetto Sostenitore su Steam. Mostra il mondo e il combattimento in 3D. |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | Mostra il mondo e il combattimento in 3D. Trascina o usa i tasti freccia per ruotare e inclinare la telecamera, e la rotellina del mouse o W e S per lo zoom. |
+| `2D Sprite` | 2D Sprite | Sprite 2D |
+| `3D Character` | 3D Character | Personaggio 3D |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | Caricamento del creatore di personaggi 3D... |
+| `The 3D creator could not load.` | The 3D creator could not load. | Impossibile caricare il creatore 3D. |
+| `Loading the 3D character…` | Loading the 3D character… | Caricamento del personaggio 3D… |
+| `Run` | Run | Corri |
+| `↩ Revert` | ↩ Revert | ↩ Ripristina |
+| `✔ Saved` | ✔ Saved | ✔ Salvato |
+| `Saving…` | Saving… | Salvataggio… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | Il tuo aspetto 3D appare nel mondo 3D (Impostazioni > Mondo 3D). Trascina l'anteprima per ruotarla. |
+| `Male` | Male | Maschile |
+| `Female` | Female | Femminile |
+| `Clothes` | Clothes | Abiti |
+| `Get the Supporter Pack` | Get the Supporter Pack | Ottieni il Pacchetto Sostenitore |
+| `Get the Wings Pack` | Get the Wings Pack | Ottieni il Pacchetto Ali |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | Stai provando oggetti del Pacchetto Sostenitore. Per salvare serve il pacchetto. |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | Stai provando oggetti del Pacchetto Ali. Per salvare serve il pacchetto. |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | Stai provando oggetti del Pacchetto Sostenitore e del Pacchetto Ali. Per salvare servono entrambi i pacchetti. |
+| `Skin` | Skin | Carnagione |
+| `Eyes` | Eyes | Occhi |
+| `Beard` | Beard | Barba |
+| `Brows` | Brows | Sopracciglia |
+| `Underclothes` | Underclothes | Intimo |
+| `Shoulders` | Shoulders | Spalle |
+| `Chest` | Chest | Petto |
+| `Shirt` | Shirt | Camicia |
+| `Hand wraps` | Hand wraps | Fasce per le mani |
+| `Trousers` | Trousers | Pantaloni |
+| `Boots` | Boots | Stivali |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | Carichiamo tutto prima di aprire il mondo |
+| `Back to 2D` | Back to 2D | Torna al 2D |
+| `The 3D world could not load.` | The 3D world could not load. | Impossibile caricare il mondo 3D. |
+| `Reading the map` | Reading the map | Lettura della mappa |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | Caricamento dei modelli 3D del mondo |
+| `Loading characters` | Loading characters | Caricamento dei personaggi |
+| `Loading creatures` | Loading creatures | Caricamento delle creature |
+| `Loading water and weather` | Loading water and weather | Caricamento di acqua e meteo |
+| `Building the area around you` | Building the area around you | Costruzione dell'area intorno a te |
+| `Preparing shaders` | Preparing shaders | Preparazione degli shader |
+| `Loading the area around you…` | Loading the area around you… | Caricamento dell'area intorno a te… |
+| `Blue` | Blue | Blu |
+| `Brown` | Brown | Marrone |
+| `Green` | Green | Verde |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | Guerriero nordico, blu |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | Guerriero nordico, verde |
+| `Nordic Warrior, White` | Nordic Warrior, White | Guerriero nordico, bianco |
+| `Peasant 1, Blue` | Peasant 1, Blue | Contadino 1, blu |
+| `Peasant 1, Brown` | Peasant 1, Brown | Contadino 1, marrone |
+| `Peasant 1, Red` | Peasant 1, Red | Contadino 1, rosso |
+| `Peasant 2, Blue` | Peasant 2, Blue | Contadino 2, blu |
+| `Peasant 2, Brown` | Peasant 2, Brown | Contadino 2, marrone |
+| `Peasant 2, Red` | Peasant 2, Red | Contadino 2, rosso |
+| `Peasant 3, Blue` | Peasant 3, Blue | Contadino 3, blu |
+| `Peasant 3, Brown` | Peasant 3, Brown | Contadino 3, marrone |
+| `Peasant 3, Red` | Peasant 3, Red | Contadino 3, rosso |
+| `Peasant, Blue` | Peasant, Blue | Contadino, blu |
+| `Peasant, Brown` | Peasant, Brown | Contadino, marrone |
+| `Peasant, Red` | Peasant, Red | Contadino, rosso |
+| `Plain trousers` | Plain trousers | Pantaloni semplici |
+| `Purple` | Purple | Viola |
+| `Reaper, Blue` | Reaper, Blue | Mietitore, blu |
+| `Reaper, Cyan` | Reaper, Cyan | Mietitore, ciano |
+| `Reaper, Green` | Reaper, Green | Mietitore, verde |
+| `Sentinel, Gold` | Sentinel, Gold | Sentinella, dorato |
+| `Sentinel, Green` | Sentinel, Green | Sentinella, verde |
+| `Sentinel, Grey` | Sentinel, Grey | Sentinella, grigio |
+| `Sentinel, Red` | Sentinel, Red | Sentinella, rosso |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | Mago delle ombre 1, blu |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | Mago delle ombre 1, ciano |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | Mago delle ombre 1, rosso |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | Mago delle ombre 2, blu |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | Mago delle ombre 2, ciano |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | Mago delle ombre 2, rosso |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | Mago delle ombre 3, blu |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | Mago delle ombre 3, ciano |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | Mago delle ombre 3, rosso |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | Mago delle ombre, blu |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | Mago delle ombre, ciano |
+| `Shadow Mage, Red` | Shadow Mage, Red | Mago delle ombre, rosso |
+| `Style 1` | Style 1 | Stile 1 |
+| `Style 1, Black` | Style 1, Black | Stile 1, nero |
+| `Style 1, Blond` | Style 1, Blond | Stile 1, biondo |
+| `Style 1, Brown` | Style 1, Brown | Stile 1, marrone |
+| `Style 1, Grey` | Style 1, Grey | Stile 1, grigio |
+| `Style 10, Black` | Style 10, Black | Stile 10, nero |
+| `Style 10, Blond` | Style 10, Blond | Stile 10, biondo |
+| `Style 10, Brown` | Style 10, Brown | Stile 10, marrone |
+| `Style 10, Grey` | Style 10, Grey | Stile 10, grigio |
+| `Style 2` | Style 2 | Stile 2 |
+| `Style 2, Black` | Style 2, Black | Stile 2, nero |
+| `Style 2, Blond` | Style 2, Blond | Stile 2, biondo |
+| `Style 2, Brown` | Style 2, Brown | Stile 2, marrone |
+| `Style 2, Grey` | Style 2, Grey | Stile 2, grigio |
+| `Style 3` | Style 3 | Stile 3 |
+| `Style 3, Black` | Style 3, Black | Stile 3, nero |
+| `Style 3, Blond` | Style 3, Blond | Stile 3, biondo |
+| `Style 3, Brown` | Style 3, Brown | Stile 3, marrone |
+| `Style 3, Grey` | Style 3, Grey | Stile 3, grigio |
+| `Style 4` | Style 4 | Stile 4 |
+| `Style 4, Black` | Style 4, Black | Stile 4, nero |
+| `Style 4, Blond` | Style 4, Blond | Stile 4, biondo |
+| `Style 4, Brown` | Style 4, Brown | Stile 4, marrone |
+| `Style 4, Grey` | Style 4, Grey | Stile 4, grigio |
+| `Style 5` | Style 5 | Stile 5 |
+| `Style 5, Black` | Style 5, Black | Stile 5, nero |
+| `Style 5, Blond` | Style 5, Blond | Stile 5, biondo |
+| `Style 5, Brown` | Style 5, Brown | Stile 5, marrone |
+| `Style 5, Grey` | Style 5, Grey | Stile 5, grigio |
+| `Style 6, Black` | Style 6, Black | Stile 6, nero |
+| `Style 6, Blond` | Style 6, Blond | Stile 6, biondo |
+| `Style 6, Brown` | Style 6, Brown | Stile 6, marrone |
+| `Style 6, Grey` | Style 6, Grey | Stile 6, grigio |
+| `Style 7, Black` | Style 7, Black | Stile 7, nero |
+| `Style 7, Blond` | Style 7, Blond | Stile 7, biondo |
+| `Style 7, Brown` | Style 7, Brown | Stile 7, marrone |
+| `Style 7, Grey` | Style 7, Grey | Stile 7, grigio |
+| `Style 8, Black` | Style 8, Black | Stile 8, nero |
+| `Style 8, Blond` | Style 8, Blond | Stile 8, biondo |
+| `Style 8, Brown` | Style 8, Brown | Stile 8, marrone |
+| `Style 8, Grey` | Style 8, Grey | Stile 8, grigio |
+| `Style 9, Black` | Style 9, Black | Stile 9, nero |
+| `Style 9, Blond` | Style 9, Blond | Stile 9, biondo |
+| `Style 9, Brown` | Style 9, Brown | Stile 9, marrone |
+| `Style 9, Grey` | Style 9, Grey | Stile 9, grigio |
+| `Thief 1, Black` | Thief 1, Black | Ladro 1, nero |
+| `Thief 1, Brown` | Thief 1, Brown | Ladro 1, marrone |
+| `Thief 1, Green` | Thief 1, Green | Ladro 1, verde |
+| `Thief 1, Red` | Thief 1, Red | Ladro 1, rosso |
+| `Thief 2, Black` | Thief 2, Black | Ladro 2, nero |
+| `Thief 2, Brown` | Thief 2, Brown | Ladro 2, marrone |
+| `Thief 2, Green` | Thief 2, Green | Ladro 2, verde |
+| `Thief 2, Red` | Thief 2, Red | Ladro 2, rosso |
+| `Thief 3, Black` | Thief 3, Black | Ladro 3, nero |
+| `Thief 3, Brown` | Thief 3, Brown | Ladro 3, marrone |
+| `Thief 3, Green` | Thief 3, Green | Ladro 3, verde |
+| `Thief 3, Red` | Thief 3, Red | Ladro 3, rosso |
+| `Thief, Black` | Thief, Black | Ladro, nero |
+| `Thief, Brown` | Thief, Brown | Ladro, marrone |
+| `Thief, Green` | Thief, Green | Ladro, verde |
+| `Thief, Red` | Thief, Red | Ladro, rosso |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | Cercatore di tombe 1, verde |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | Cercatore di tombe 1, viola |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | Cercatore di tombe 1, rosso |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | Cercatore di tombe 1, bianco |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | Cercatore di tombe 2, verde |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | Cercatore di tombe 2, viola |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | Cercatore di tombe 2, rosso |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | Cercatore di tombe 2, bianco |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | Cercatore di tombe, verde |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | Cercatore di tombe, viola |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | Cercatore di tombe, rosso |
+| `Tomb Seeker, White` | Tomb Seeker, White | Cercatore di tombe, bianco |
+| `Tone 1` | Tone 1 | Tonalità 1 |
+| `Tone 2` | Tone 2 | Tonalità 2 |
+| `Tone 3` | Tone 3 | Tonalità 3 |
+| `Tone 4` | Tone 4 | Tonalità 4 |
+| `Tone 5` | Tone 5 | Tonalità 5 |
+| `Tone 6` | Tone 6 | Tonalità 6 |
+| `Wave hello` | Wave hello | Saluta |
+| `Body and face` | Body and face | Corpo e viso |
+| `Face` | Face | Viso |
+| `Moustache` | Moustache | Baffi |
+| `Tusks` | Tusks | Zanne |
+| `Earrings` | Earrings | Orecchini |
+| `Piercing` | Piercing | Piercing |
+| `Scars` | Scars | Cicatrici |
+| `Face paint` | Face paint | Pittura del viso |
+| `Body paint` | Body paint | Pittura del corpo |
+| `Black` | Black | Nero |
+| `Black, one blind eye` | Black, one blind eye | Nero, un occhio cieco |
+| `Blue, one blind eye` | Blue, one blind eye | Blu, un occhio cieco |
+| `Brown, one blind eye` | Brown, one blind eye | Marrone, un occhio cieco |
+| `Green, one blind eye` | Green, one blind eye | Verde, un occhio cieco |
+| `Grey` | Grey | Grigio |
+| `Grey, one blind eye` | Grey, one blind eye | Grigio, un occhio cieco |
+| `Purple, one blind eye` | Purple, one blind eye | Viola, un occhio cieco |
+| `Style 1, Blue` | Style 1, Blue | Stile 1, blu |
+| `Style 1, Ginger` | Style 1, Ginger | Stile 1, ramato |
+| `Style 1, Purple` | Style 1, Purple | Stile 1, viola |
+| `Style 1, Red` | Style 1, Red | Stile 1, rosso |
+| `Style 2, Blue` | Style 2, Blue | Stile 2, blu |
+| `Style 2, Ginger` | Style 2, Ginger | Stile 2, ramato |
+| `Style 2, Purple` | Style 2, Purple | Stile 2, viola |
+| `Style 2, Red` | Style 2, Red | Stile 2, rosso |
+| `Style 3, Blue` | Style 3, Blue | Stile 3, blu |
+| `Style 3, Ginger` | Style 3, Ginger | Stile 3, ramato |
+| `Style 3, Purple` | Style 3, Purple | Stile 3, viola |
+| `Style 3, Red` | Style 3, Red | Stile 3, rosso |
+| `Style 4, Blue` | Style 4, Blue | Stile 4, blu |
+| `Style 4, Ginger` | Style 4, Ginger | Stile 4, ramato |
+| `Style 4, Purple` | Style 4, Purple | Stile 4, viola |
+| `Style 4, Red` | Style 4, Red | Stile 4, rosso |
+| `Style 5, Blue` | Style 5, Blue | Stile 5, blu |
+| `Style 5, Ginger` | Style 5, Ginger | Stile 5, ramato |
+| `Style 5, Purple` | Style 5, Purple | Stile 5, viola |
+| `Style 5, Red` | Style 5, Red | Stile 5, rosso |
+| `Style 6, Blue` | Style 6, Blue | Stile 6, blu |
+| `Style 6, Ginger` | Style 6, Ginger | Stile 6, ramato |
+| `Style 6, Purple` | Style 6, Purple | Stile 6, viola |
+| `Style 6, Red` | Style 6, Red | Stile 6, rosso |
+| `Style 1, Green` | Style 1, Green | Stile 1, verde |
+| `Style 1, Yellow` | Style 1, Yellow | Stile 1, giallo |
+| `Style 2, Green` | Style 2, Green | Stile 2, verde |
+| `Style 2, Yellow` | Style 2, Yellow | Stile 2, giallo |
+| `Style 3, Green` | Style 3, Green | Stile 3, verde |
+| `Style 3, Yellow` | Style 3, Yellow | Stile 3, giallo |
+| `Style 4, Green` | Style 4, Green | Stile 4, verde |
+| `Style 4, Yellow` | Style 4, Yellow | Stile 4, giallo |
+| `Style 5, Green` | Style 5, Green | Stile 5, verde |
+| `Style 5, Yellow` | Style 5, Yellow | Stile 5, giallo |
+| `Style 6, Green` | Style 6, Green | Stile 6, verde |
+| `Style 6, Yellow` | Style 6, Yellow | Stile 6, giallo |
+| `Face 1` | Face 1 | Viso 1 |
+| `Face 2` | Face 2 | Viso 2 |
+| `Face 3` | Face 3 | Viso 3 |
+| `Face 4` | Face 4 | Viso 4 |
+| `Face 5` | Face 5 | Viso 5 |
+| `Style 6` | Style 6 | Stile 6 |
+| `Style 7` | Style 7 | Stile 7 |
+| `Peasant, Black` | Peasant, Black | Contadino, nero |
+| `Peasant, Green` | Peasant, Green | Contadino, verde |
+| `Peasant, Purple` | Peasant, Purple | Contadino, viola |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Guerriero nordico, rosso |
+| `Peasant 1, Black` | Peasant 1, Black | Contadino 1, nero |
+| `Peasant 2, Black` | Peasant 2, Black | Contadino 2, nero |
+| `Peasant 3, Black` | Peasant 3, Black | Contadino 3, nero |
+| `Peasant 1, Green` | Peasant 1, Green | Contadino 1, verde |
+| `Peasant 1, Purple` | Peasant 1, Purple | Contadino 1, viola |
+| `Peasant 2, Green` | Peasant 2, Green | Contadino 2, verde |
+| `Peasant 2, Purple` | Peasant 2, Purple | Contadino 2, viola |
+| `Peasant 3, Green` | Peasant 3, Green | Contadino 3, verde |
+| `Peasant 3, Purple` | Peasant 3, Purple | Contadino 3, viola |
+| `Fairy wings, Blue` | Fairy wings, Blue | Ali di fata, blu |
+| `Fairy wings, Gold` | Fairy wings, Gold | Ali di fata, dorato |
+| `Fairy wings, Green` | Fairy wings, Green | Ali di fata, verde |
+| `Fairy wings, Pink` | Fairy wings, Pink | Ali di fata, rosa |
+| `Fairy wings, Silver` | Fairy wings, Silver | Ali di fata, argentato |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Ali di fata, giallo |
+| `Fairy wings, Violet` | Fairy wings, Violet | Ali di fata, violetto |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Ali di fata, cremisi |
+| `Fairy wings, Teal` | Fairy wings, Teal | Ali di fata, verde acqua |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Ali di fata, tramonto |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Ali di fata, ombra |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Ali di fata, arcobaleno |
+| `Demon wings, Rose` | Demon wings, Rose | Ali di demone, rosa antico |
+| `Demon wings, Amber` | Demon wings, Amber | Ali di demone, ambra |
+| `Demon wings, Bone` | Demon wings, Bone | Ali di demone, osso |
+| `Demon wings, Coral` | Demon wings, Coral | Ali di demone, corallo |
+| `Demon wings, Moss` | Demon wings, Moss | Ali di demone, muschio |
+| `Demon wings, Storm` | Demon wings, Storm | Ali di demone, tempesta |
+| `Demon wings, Crimson` | Demon wings, Crimson | Ali di demone, cremisi |
+| `Demon wings, Shadow` | Demon wings, Shadow | Ali di demone, ombra |
+| `Demon wings, Frost` | Demon wings, Frost | Ali di demone, gelo |
+| `Demon wings, Venom` | Demon wings, Venom | Ali di demone, veleno |
+| `Demon wings, Violet` | Demon wings, Violet | Ali di demone, violetto |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Ali di demone, fuoco infernale |
+| `Human` | Human | Umano |
+| `Dwarf` | Dwarf | Nano |
+| `Cape and wings` | Cape and wings | Mantello e ali |
+| `Tint` | Tint | Tinta |
+| `No tint` | No tint | Nessuna tinta |
+| `Pick any colour for the wings` | Pick any colour for the wings | Scegli un colore qualsiasi per le ali |

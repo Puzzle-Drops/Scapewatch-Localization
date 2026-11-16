@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Penyair |
 | Discover | Terokai |
 
-## Lines to review (521)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,281 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | +1 HP setiap makanan dan tindakan kemahiran |
 | `@f:runs` | runs | larian |
 | `@f:run` | run | larian |
+| `3D World` | 3D World | Dunia 3D |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | 3D tersedia di Steam dengan Pek Penyokong. Klik untuk melihatnya di Steam. |
+| `Switch to 2D` | Switch to 2D | Tukar ke 2D |
+| `Go back to the 2D map.` | Go back to the 2D map. | Kembali ke peta 2D. |
+| `Switch to 3D` | Switch to 3D | Tukar ke 3D |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | Tunjukkan dunia dan pertempuran dalam 3D (beta). |
+| `2D / 3D Button` | 2D / 3D Button | Butang 2D / 3D |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | Tunjukkan butang yang menukar antara peta 2D dan Dunia 3D. |
+| `View the roadmap` | View the roadmap | Lihat pelan hala tuju |
+| `Click anywhere to close` | Click anywhere to close | Klik di mana-mana untuk menutup |
+| `Tap anywhere to close` | Tap anywhere to close | Ketik di mana-mana untuk menutup |
+| `Roadmap` | Roadmap | Pelan hala tuju |
+| `3D World (beta)` | 3D World (beta) | Dunia 3D (beta) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Memerlukan Pek Penyokong di Steam. Menunjukkan dunia dan pertempuran dalam 3D. |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | Tunjukkan dunia dan pertempuran dalam 3D. Seret atau gunakan kekunci anak panah untuk memusing dan mencondongkan kamera, tatal atau tekan W dan S untuk zum. |
+| `2D Sprite` | 2D Sprite | Sprite 2D |
+| `3D Character` | 3D Character | Watak 3D |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | Memuatkan pencipta watak 3D... |
+| `The 3D creator could not load.` | The 3D creator could not load. | Pencipta 3D gagal dimuatkan. |
+| `Loading the 3D character…` | Loading the 3D character… | Memuatkan watak 3D… |
+| `Run` | Run | Lari |
+| `↩ Revert` | ↩ Revert | ↩ Kembalikan |
+| `✔ Saved` | ✔ Saved | ✔ Disimpan |
+| `Saving…` | Saving… | Menyimpan… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | Rupa 3D anda dipaparkan dalam dunia 3D (Tetapan > Dunia 3D). Seret pratonton untuk memusingkannya. |
+| `Male` | Male | Lelaki |
+| `Female` | Female | Perempuan |
+| `Clothes` | Clothes | Pakaian |
+| `Get the Supporter Pack` | Get the Supporter Pack | Dapatkan Pek Penyokong |
+| `Get the Wings Pack` | Get the Wings Pack | Dapatkan Pek Sayap |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | Mencuba item Pek Penyokong. Pek ini diperlukan untuk menyimpan. |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | Mencuba item Pek Sayap. Pek ini diperlukan untuk menyimpan. |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | Mencuba item Pek Penyokong dan Pek Sayap. Kedua-dua pek diperlukan untuk menyimpan. |
+| `Skin` | Skin | Kulit |
+| `Eyes` | Eyes | Mata |
+| `Beard` | Beard | Janggut |
+| `Brows` | Brows | Kening |
+| `Underclothes` | Underclothes | Pakaian Dalam |
+| `Shoulders` | Shoulders | Bahu |
+| `Chest` | Chest | Dada |
+| `Shirt` | Shirt | Kemeja |
+| `Hand wraps` | Hand wraps | Balutan Tangan |
+| `Trousers` | Trousers | Seluar |
+| `Boots` | Boots | But |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | Memuatkan semuanya sebelum dunia dibuka |
+| `Back to 2D` | Back to 2D | Kembali ke 2D |
+| `The 3D world could not load.` | The 3D world could not load. | Dunia 3D gagal dimuatkan. |
+| `Reading the map` | Reading the map | Membaca peta |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | Memuatkan model 3D dunia |
+| `Loading characters` | Loading characters | Memuatkan watak |
+| `Loading creatures` | Loading creatures | Memuatkan makhluk |
+| `Loading water and weather` | Loading water and weather | Memuatkan air dan cuaca |
+| `Building the area around you` | Building the area around you | Membina kawasan di sekeliling anda |
+| `Preparing shaders` | Preparing shaders | Menyediakan shader |
+| `Loading the area around you…` | Loading the area around you… | Memuatkan kawasan di sekeliling anda… |
+| `Blue` | Blue | Biru |
+| `Brown` | Brown | Coklat |
+| `Green` | Green | Hijau |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | Pahlawan Nordik, Biru |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | Pahlawan Nordik, Hijau |
+| `Nordic Warrior, White` | Nordic Warrior, White | Pahlawan Nordik, Putih |
+| `Peasant 1, Blue` | Peasant 1, Blue | Petani 1, Biru |
+| `Peasant 1, Brown` | Peasant 1, Brown | Petani 1, Coklat |
+| `Peasant 1, Red` | Peasant 1, Red | Petani 1, Merah |
+| `Peasant 2, Blue` | Peasant 2, Blue | Petani 2, Biru |
+| `Peasant 2, Brown` | Peasant 2, Brown | Petani 2, Coklat |
+| `Peasant 2, Red` | Peasant 2, Red | Petani 2, Merah |
+| `Peasant 3, Blue` | Peasant 3, Blue | Petani 3, Biru |
+| `Peasant 3, Brown` | Peasant 3, Brown | Petani 3, Coklat |
+| `Peasant 3, Red` | Peasant 3, Red | Petani 3, Merah |
+| `Peasant, Blue` | Peasant, Blue | Petani, Biru |
+| `Peasant, Brown` | Peasant, Brown | Petani, Coklat |
+| `Peasant, Red` | Peasant, Red | Petani, Merah |
+| `Plain trousers` | Plain trousers | Seluar biasa |
+| `Purple` | Purple | Ungu |
+| `Reaper, Blue` | Reaper, Blue | Pencabut Nyawa, Biru |
+| `Reaper, Cyan` | Reaper, Cyan | Pencabut Nyawa, Sian |
+| `Reaper, Green` | Reaper, Green | Pencabut Nyawa, Hijau |
+| `Sentinel, Gold` | Sentinel, Gold | Pengawal, Emas |
+| `Sentinel, Green` | Sentinel, Green | Pengawal, Hijau |
+| `Sentinel, Grey` | Sentinel, Grey | Pengawal, Kelabu |
+| `Sentinel, Red` | Sentinel, Red | Pengawal, Merah |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | Ahli Sihir Bayang 1, Biru |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | Ahli Sihir Bayang 1, Sian |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | Ahli Sihir Bayang 1, Merah |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | Ahli Sihir Bayang 2, Biru |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | Ahli Sihir Bayang 2, Sian |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | Ahli Sihir Bayang 2, Merah |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | Ahli Sihir Bayang 3, Biru |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | Ahli Sihir Bayang 3, Sian |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | Ahli Sihir Bayang 3, Merah |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | Ahli Sihir Bayang, Biru |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | Ahli Sihir Bayang, Sian |
+| `Shadow Mage, Red` | Shadow Mage, Red | Ahli Sihir Bayang, Merah |
+| `Style 1` | Style 1 | Gaya 1 |
+| `Style 1, Black` | Style 1, Black | Gaya 1, Hitam |
+| `Style 1, Blond` | Style 1, Blond | Gaya 1, Perang |
+| `Style 1, Brown` | Style 1, Brown | Gaya 1, Coklat |
+| `Style 1, Grey` | Style 1, Grey | Gaya 1, Kelabu |
+| `Style 10, Black` | Style 10, Black | Gaya 10, Hitam |
+| `Style 10, Blond` | Style 10, Blond | Gaya 10, Perang |
+| `Style 10, Brown` | Style 10, Brown | Gaya 10, Coklat |
+| `Style 10, Grey` | Style 10, Grey | Gaya 10, Kelabu |
+| `Style 2` | Style 2 | Gaya 2 |
+| `Style 2, Black` | Style 2, Black | Gaya 2, Hitam |
+| `Style 2, Blond` | Style 2, Blond | Gaya 2, Perang |
+| `Style 2, Brown` | Style 2, Brown | Gaya 2, Coklat |
+| `Style 2, Grey` | Style 2, Grey | Gaya 2, Kelabu |
+| `Style 3` | Style 3 | Gaya 3 |
+| `Style 3, Black` | Style 3, Black | Gaya 3, Hitam |
+| `Style 3, Blond` | Style 3, Blond | Gaya 3, Perang |
+| `Style 3, Brown` | Style 3, Brown | Gaya 3, Coklat |
+| `Style 3, Grey` | Style 3, Grey | Gaya 3, Kelabu |
+| `Style 4` | Style 4 | Gaya 4 |
+| `Style 4, Black` | Style 4, Black | Gaya 4, Hitam |
+| `Style 4, Blond` | Style 4, Blond | Gaya 4, Perang |
+| `Style 4, Brown` | Style 4, Brown | Gaya 4, Coklat |
+| `Style 4, Grey` | Style 4, Grey | Gaya 4, Kelabu |
+| `Style 5` | Style 5 | Gaya 5 |
+| `Style 5, Black` | Style 5, Black | Gaya 5, Hitam |
+| `Style 5, Blond` | Style 5, Blond | Gaya 5, Perang |
+| `Style 5, Brown` | Style 5, Brown | Gaya 5, Coklat |
+| `Style 5, Grey` | Style 5, Grey | Gaya 5, Kelabu |
+| `Style 6, Black` | Style 6, Black | Gaya 6, Hitam |
+| `Style 6, Blond` | Style 6, Blond | Gaya 6, Perang |
+| `Style 6, Brown` | Style 6, Brown | Gaya 6, Coklat |
+| `Style 6, Grey` | Style 6, Grey | Gaya 6, Kelabu |
+| `Style 7, Black` | Style 7, Black | Gaya 7, Hitam |
+| `Style 7, Blond` | Style 7, Blond | Gaya 7, Perang |
+| `Style 7, Brown` | Style 7, Brown | Gaya 7, Coklat |
+| `Style 7, Grey` | Style 7, Grey | Gaya 7, Kelabu |
+| `Style 8, Black` | Style 8, Black | Gaya 8, Hitam |
+| `Style 8, Blond` | Style 8, Blond | Gaya 8, Perang |
+| `Style 8, Brown` | Style 8, Brown | Gaya 8, Coklat |
+| `Style 8, Grey` | Style 8, Grey | Gaya 8, Kelabu |
+| `Style 9, Black` | Style 9, Black | Gaya 9, Hitam |
+| `Style 9, Blond` | Style 9, Blond | Gaya 9, Perang |
+| `Style 9, Brown` | Style 9, Brown | Gaya 9, Coklat |
+| `Style 9, Grey` | Style 9, Grey | Gaya 9, Kelabu |
+| `Thief 1, Black` | Thief 1, Black | Pencuri 1, Hitam |
+| `Thief 1, Brown` | Thief 1, Brown | Pencuri 1, Coklat |
+| `Thief 1, Green` | Thief 1, Green | Pencuri 1, Hijau |
+| `Thief 1, Red` | Thief 1, Red | Pencuri 1, Merah |
+| `Thief 2, Black` | Thief 2, Black | Pencuri 2, Hitam |
+| `Thief 2, Brown` | Thief 2, Brown | Pencuri 2, Coklat |
+| `Thief 2, Green` | Thief 2, Green | Pencuri 2, Hijau |
+| `Thief 2, Red` | Thief 2, Red | Pencuri 2, Merah |
+| `Thief 3, Black` | Thief 3, Black | Pencuri 3, Hitam |
+| `Thief 3, Brown` | Thief 3, Brown | Pencuri 3, Coklat |
+| `Thief 3, Green` | Thief 3, Green | Pencuri 3, Hijau |
+| `Thief 3, Red` | Thief 3, Red | Pencuri 3, Merah |
+| `Thief, Black` | Thief, Black | Pencuri, Hitam |
+| `Thief, Brown` | Thief, Brown | Pencuri, Coklat |
+| `Thief, Green` | Thief, Green | Pencuri, Hijau |
+| `Thief, Red` | Thief, Red | Pencuri, Merah |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | Pemburu Makam 1, Hijau |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | Pemburu Makam 1, Ungu |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | Pemburu Makam 1, Merah |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | Pemburu Makam 1, Putih |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | Pemburu Makam 2, Hijau |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | Pemburu Makam 2, Ungu |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | Pemburu Makam 2, Merah |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | Pemburu Makam 2, Putih |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | Pemburu Makam, Hijau |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | Pemburu Makam, Ungu |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | Pemburu Makam, Merah |
+| `Tomb Seeker, White` | Tomb Seeker, White | Pemburu Makam, Putih |
+| `Tone 1` | Tone 1 | Rona 1 |
+| `Tone 2` | Tone 2 | Rona 2 |
+| `Tone 3` | Tone 3 | Rona 3 |
+| `Tone 4` | Tone 4 | Rona 4 |
+| `Tone 5` | Tone 5 | Rona 5 |
+| `Tone 6` | Tone 6 | Rona 6 |
+| `Wave hello` | Wave hello | Lambai tangan |
+| `Body and face` | Body and face | Badan dan Wajah |
+| `Face` | Face | Wajah |
+| `Moustache` | Moustache | Misai |
+| `Tusks` | Tusks | Taring |
+| `Earrings` | Earrings | Subang |
+| `Piercing` | Piercing | Tindik |
+| `Scars` | Scars | Parut |
+| `Face paint` | Face paint | Cat Wajah |
+| `Body paint` | Body paint | Cat Badan |
+| `Black` | Black | Hitam |
+| `Black, one blind eye` | Black, one blind eye | Hitam, sebelah mata buta |
+| `Blue, one blind eye` | Blue, one blind eye | Biru, sebelah mata buta |
+| `Brown, one blind eye` | Brown, one blind eye | Coklat, sebelah mata buta |
+| `Green, one blind eye` | Green, one blind eye | Hijau, sebelah mata buta |
+| `Grey` | Grey | Kelabu |
+| `Grey, one blind eye` | Grey, one blind eye | Kelabu, sebelah mata buta |
+| `Purple, one blind eye` | Purple, one blind eye | Ungu, sebelah mata buta |
+| `Style 1, Blue` | Style 1, Blue | Gaya 1, Biru |
+| `Style 1, Ginger` | Style 1, Ginger | Gaya 1, Merah Jingga |
+| `Style 1, Purple` | Style 1, Purple | Gaya 1, Ungu |
+| `Style 1, Red` | Style 1, Red | Gaya 1, Merah |
+| `Style 2, Blue` | Style 2, Blue | Gaya 2, Biru |
+| `Style 2, Ginger` | Style 2, Ginger | Gaya 2, Merah Jingga |
+| `Style 2, Purple` | Style 2, Purple | Gaya 2, Ungu |
+| `Style 2, Red` | Style 2, Red | Gaya 2, Merah |
+| `Style 3, Blue` | Style 3, Blue | Gaya 3, Biru |
+| `Style 3, Ginger` | Style 3, Ginger | Gaya 3, Merah Jingga |
+| `Style 3, Purple` | Style 3, Purple | Gaya 3, Ungu |
+| `Style 3, Red` | Style 3, Red | Gaya 3, Merah |
+| `Style 4, Blue` | Style 4, Blue | Gaya 4, Biru |
+| `Style 4, Ginger` | Style 4, Ginger | Gaya 4, Merah Jingga |
+| `Style 4, Purple` | Style 4, Purple | Gaya 4, Ungu |
+| `Style 4, Red` | Style 4, Red | Gaya 4, Merah |
+| `Style 5, Blue` | Style 5, Blue | Gaya 5, Biru |
+| `Style 5, Ginger` | Style 5, Ginger | Gaya 5, Merah Jingga |
+| `Style 5, Purple` | Style 5, Purple | Gaya 5, Ungu |
+| `Style 5, Red` | Style 5, Red | Gaya 5, Merah |
+| `Style 6, Blue` | Style 6, Blue | Gaya 6, Biru |
+| `Style 6, Ginger` | Style 6, Ginger | Gaya 6, Merah Jingga |
+| `Style 6, Purple` | Style 6, Purple | Gaya 6, Ungu |
+| `Style 6, Red` | Style 6, Red | Gaya 6, Merah |
+| `Style 1, Green` | Style 1, Green | Gaya 1, Hijau |
+| `Style 1, Yellow` | Style 1, Yellow | Gaya 1, Kuning |
+| `Style 2, Green` | Style 2, Green | Gaya 2, Hijau |
+| `Style 2, Yellow` | Style 2, Yellow | Gaya 2, Kuning |
+| `Style 3, Green` | Style 3, Green | Gaya 3, Hijau |
+| `Style 3, Yellow` | Style 3, Yellow | Gaya 3, Kuning |
+| `Style 4, Green` | Style 4, Green | Gaya 4, Hijau |
+| `Style 4, Yellow` | Style 4, Yellow | Gaya 4, Kuning |
+| `Style 5, Green` | Style 5, Green | Gaya 5, Hijau |
+| `Style 5, Yellow` | Style 5, Yellow | Gaya 5, Kuning |
+| `Style 6, Green` | Style 6, Green | Gaya 6, Hijau |
+| `Style 6, Yellow` | Style 6, Yellow | Gaya 6, Kuning |
+| `Face 1` | Face 1 | Wajah 1 |
+| `Face 2` | Face 2 | Wajah 2 |
+| `Face 3` | Face 3 | Wajah 3 |
+| `Face 4` | Face 4 | Wajah 4 |
+| `Face 5` | Face 5 | Wajah 5 |
+| `Style 6` | Style 6 | Gaya 6 |
+| `Style 7` | Style 7 | Gaya 7 |
+| `Peasant, Black` | Peasant, Black | Petani, Hitam |
+| `Peasant, Green` | Peasant, Green | Petani, Hijau |
+| `Peasant, Purple` | Peasant, Purple | Petani, Ungu |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Pahlawan Nordik, Merah |
+| `Peasant 1, Black` | Peasant 1, Black | Petani 1, Hitam |
+| `Peasant 2, Black` | Peasant 2, Black | Petani 2, Hitam |
+| `Peasant 3, Black` | Peasant 3, Black | Petani 3, Hitam |
+| `Peasant 1, Green` | Peasant 1, Green | Petani 1, Hijau |
+| `Peasant 1, Purple` | Peasant 1, Purple | Petani 1, Ungu |
+| `Peasant 2, Green` | Peasant 2, Green | Petani 2, Hijau |
+| `Peasant 2, Purple` | Peasant 2, Purple | Petani 2, Ungu |
+| `Peasant 3, Green` | Peasant 3, Green | Petani 3, Hijau |
+| `Peasant 3, Purple` | Peasant 3, Purple | Petani 3, Ungu |
+| `Fairy wings, Blue` | Fairy wings, Blue | Sayap Pari-pari, Biru |
+| `Fairy wings, Gold` | Fairy wings, Gold | Sayap Pari-pari, Emas |
+| `Fairy wings, Green` | Fairy wings, Green | Sayap Pari-pari, Hijau |
+| `Fairy wings, Pink` | Fairy wings, Pink | Sayap Pari-pari, Merah Jambu |
+| `Fairy wings, Silver` | Fairy wings, Silver | Sayap Pari-pari, Perak |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Sayap Pari-pari, Kuning |
+| `Fairy wings, Violet` | Fairy wings, Violet | Sayap Pari-pari, Violet |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Sayap Pari-pari, Merah Tua |
+| `Fairy wings, Teal` | Fairy wings, Teal | Sayap Pari-pari, Hijau Kebiruan |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Sayap Pari-pari, Matahari Terbenam |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Sayap Pari-pari, Bayang |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Sayap Pari-pari, Pelangi |
+| `Demon wings, Rose` | Demon wings, Rose | Sayap Syaitan, Mawar |
+| `Demon wings, Amber` | Demon wings, Amber | Sayap Syaitan, Ambar |
+| `Demon wings, Bone` | Demon wings, Bone | Sayap Syaitan, Tulang |
+| `Demon wings, Coral` | Demon wings, Coral | Sayap Syaitan, Karang |
+| `Demon wings, Moss` | Demon wings, Moss | Sayap Syaitan, Lumut |
+| `Demon wings, Storm` | Demon wings, Storm | Sayap Syaitan, Ribut |
+| `Demon wings, Crimson` | Demon wings, Crimson | Sayap Syaitan, Merah Tua |
+| `Demon wings, Shadow` | Demon wings, Shadow | Sayap Syaitan, Bayang |
+| `Demon wings, Frost` | Demon wings, Frost | Sayap Syaitan, Fros |
+| `Demon wings, Venom` | Demon wings, Venom | Sayap Syaitan, Bisa |
+| `Demon wings, Violet` | Demon wings, Violet | Sayap Syaitan, Violet |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Sayap Syaitan, Api Neraka |
+| `Human` | Human | Manusia |
+| `Dwarf` | Dwarf | Kurcaci |
+| `Cape and wings` | Cape and wings | Jubah dan Sayap |
+| `Tint` | Tint | Pewarnaan |
+| `No tint` | No tint | Tiada pewarnaan |
+| `Pick any colour for the wings` | Pick any colour for the wings | Pilih sebarang warna untuk sayap |

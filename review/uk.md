@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бардівство |
 | Discover | Дослідження |
 
-## Lines to review (521)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,281 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | +1 ОЗ за їжу та навичкову дію |
 | `@f:runs` | runs | забігів |
 | `@f:run` | run | забіг |
+| `3D World` | 3D World | 3D-світ |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | 3D-режим доступний у Steam з Набором підтримки. Клацніть, щоб переглянути набір у Steam. |
+| `Switch to 2D` | Switch to 2D | Перемкнути на 2D |
+| `Go back to the 2D map.` | Go back to the 2D map. | Повернутися до 2D-карти. |
+| `Switch to 3D` | Switch to 3D | Перемкнути на 3D |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | Показати світ і бої в 3D (бета). |
+| `2D / 3D Button` | 2D / 3D Button | Кнопка 2D / 3D |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | Показувати кнопку перемикання між 2D-картою та 3D-світом. |
+| `View the roadmap` | View the roadmap | Переглянути дорожню карту |
+| `Click anywhere to close` | Click anywhere to close | Клацніть будь-де, щоб закрити |
+| `Tap anywhere to close` | Tap anywhere to close | Торкніться будь-де, щоб закрити |
+| `Roadmap` | Roadmap | Дорожня карта |
+| `3D World (beta)` | 3D World (beta) | 3D-світ (бета) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Потрібен Набір підтримки у Steam. Показує світ і бої в 3D. |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | Показувати світ і бої в 3D. Перетягуйте або використовуйте стрілки, щоб повертати й нахиляти камеру. Коліщатко миші або W і S змінюють масштаб. |
+| `2D Sprite` | 2D Sprite | 2D-спрайт |
+| `3D Character` | 3D Character | 3D-персонаж |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | Завантаження 3D-редактора персонажа... |
+| `The 3D creator could not load.` | The 3D creator could not load. | Не вдалося завантажити 3D-редактор. |
+| `Loading the 3D character…` | Loading the 3D character… | Завантаження 3D-персонажа… |
+| `Run` | Run | Біг |
+| `↩ Revert` | ↩ Revert | ↩ Скасувати |
+| `✔ Saved` | ✔ Saved | ✔ Збережено |
+| `Saving…` | Saving… | Збереження… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | Ваш 3D-вигляд показується у 3D-світі (Налаштування > 3D-світ). Перетягуйте персонажа, щоб повернути його. |
+| `Male` | Male | Чоловічий |
+| `Female` | Female | Жіночий |
+| `Clothes` | Clothes | Одяг |
+| `Get the Supporter Pack` | Get the Supporter Pack | Отримати Набір підтримки |
+| `Get the Wings Pack` | Get the Wings Pack | Отримати Набір крил |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | Приміряння предметів із Набору підтримки. Для збереження потрібен набір. |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | Приміряння предметів із Набору крил. Для збереження потрібен набір. |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | Приміряння предметів із Набору підтримки та Набору крил. Для збереження потрібні обидва набори. |
+| `Skin` | Skin | Шкіра |
+| `Eyes` | Eyes | Очі |
+| `Beard` | Beard | Борода |
+| `Brows` | Brows | Брови |
+| `Underclothes` | Underclothes | Спідня білизна |
+| `Shoulders` | Shoulders | Плечі |
+| `Chest` | Chest | Груди |
+| `Shirt` | Shirt | Сорочка |
+| `Hand wraps` | Hand wraps | Обмотки для рук |
+| `Trousers` | Trousers | Штани |
+| `Boots` | Boots | Чоботи |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | Завантажуємо все перед відкриттям світу |
+| `Back to 2D` | Back to 2D | Назад до 2D |
+| `The 3D world could not load.` | The 3D world could not load. | Не вдалося завантажити 3D-світ. |
+| `Reading the map` | Reading the map | Читання карти |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | Завантаження 3D-моделей світу |
+| `Loading characters` | Loading characters | Завантаження персонажів |
+| `Loading creatures` | Loading creatures | Завантаження істот |
+| `Loading water and weather` | Loading water and weather | Завантаження води та погоди |
+| `Building the area around you` | Building the area around you | Побудова місцевості навколо вас |
+| `Preparing shaders` | Preparing shaders | Підготовка шейдерів |
+| `Loading the area around you…` | Loading the area around you… | Завантаження місцевості навколо вас… |
+| `Blue` | Blue | Синій |
+| `Brown` | Brown | Коричневий |
+| `Green` | Green | Зелений |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | Північний воїн, синій |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | Північний воїн, зелений |
+| `Nordic Warrior, White` | Nordic Warrior, White | Північний воїн, білий |
+| `Peasant 1, Blue` | Peasant 1, Blue | Селянин 1, синій |
+| `Peasant 1, Brown` | Peasant 1, Brown | Селянин 1, коричневий |
+| `Peasant 1, Red` | Peasant 1, Red | Селянин 1, червоний |
+| `Peasant 2, Blue` | Peasant 2, Blue | Селянин 2, синій |
+| `Peasant 2, Brown` | Peasant 2, Brown | Селянин 2, коричневий |
+| `Peasant 2, Red` | Peasant 2, Red | Селянин 2, червоний |
+| `Peasant 3, Blue` | Peasant 3, Blue | Селянин 3, синій |
+| `Peasant 3, Brown` | Peasant 3, Brown | Селянин 3, коричневий |
+| `Peasant 3, Red` | Peasant 3, Red | Селянин 3, червоний |
+| `Peasant, Blue` | Peasant, Blue | Селянин, синій |
+| `Peasant, Brown` | Peasant, Brown | Селянин, коричневий |
+| `Peasant, Red` | Peasant, Red | Селянин, червоний |
+| `Plain trousers` | Plain trousers | Прості штани |
+| `Purple` | Purple | Фіолетовий |
+| `Reaper, Blue` | Reaper, Blue | Жнець, синій |
+| `Reaper, Cyan` | Reaper, Cyan | Жнець, блакитний |
+| `Reaper, Green` | Reaper, Green | Жнець, зелений |
+| `Sentinel, Gold` | Sentinel, Gold | Вартовий, золотий |
+| `Sentinel, Green` | Sentinel, Green | Вартовий, зелений |
+| `Sentinel, Grey` | Sentinel, Grey | Вартовий, сірий |
+| `Sentinel, Red` | Sentinel, Red | Вартовий, червоний |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | Маг тіней 1, синій |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | Маг тіней 1, блакитний |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | Маг тіней 1, червоний |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | Маг тіней 2, синій |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | Маг тіней 2, блакитний |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | Маг тіней 2, червоний |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | Маг тіней 3, синій |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | Маг тіней 3, блакитний |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | Маг тіней 3, червоний |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | Маг тіней, синій |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | Маг тіней, блакитний |
+| `Shadow Mage, Red` | Shadow Mage, Red | Маг тіней, червоний |
+| `Style 1` | Style 1 | Стиль 1 |
+| `Style 1, Black` | Style 1, Black | Стиль 1, чорний |
+| `Style 1, Blond` | Style 1, Blond | Стиль 1, білявий |
+| `Style 1, Brown` | Style 1, Brown | Стиль 1, коричневий |
+| `Style 1, Grey` | Style 1, Grey | Стиль 1, сірий |
+| `Style 10, Black` | Style 10, Black | Стиль 10, чорний |
+| `Style 10, Blond` | Style 10, Blond | Стиль 10, білявий |
+| `Style 10, Brown` | Style 10, Brown | Стиль 10, коричневий |
+| `Style 10, Grey` | Style 10, Grey | Стиль 10, сірий |
+| `Style 2` | Style 2 | Стиль 2 |
+| `Style 2, Black` | Style 2, Black | Стиль 2, чорний |
+| `Style 2, Blond` | Style 2, Blond | Стиль 2, білявий |
+| `Style 2, Brown` | Style 2, Brown | Стиль 2, коричневий |
+| `Style 2, Grey` | Style 2, Grey | Стиль 2, сірий |
+| `Style 3` | Style 3 | Стиль 3 |
+| `Style 3, Black` | Style 3, Black | Стиль 3, чорний |
+| `Style 3, Blond` | Style 3, Blond | Стиль 3, білявий |
+| `Style 3, Brown` | Style 3, Brown | Стиль 3, коричневий |
+| `Style 3, Grey` | Style 3, Grey | Стиль 3, сірий |
+| `Style 4` | Style 4 | Стиль 4 |
+| `Style 4, Black` | Style 4, Black | Стиль 4, чорний |
+| `Style 4, Blond` | Style 4, Blond | Стиль 4, білявий |
+| `Style 4, Brown` | Style 4, Brown | Стиль 4, коричневий |
+| `Style 4, Grey` | Style 4, Grey | Стиль 4, сірий |
+| `Style 5` | Style 5 | Стиль 5 |
+| `Style 5, Black` | Style 5, Black | Стиль 5, чорний |
+| `Style 5, Blond` | Style 5, Blond | Стиль 5, білявий |
+| `Style 5, Brown` | Style 5, Brown | Стиль 5, коричневий |
+| `Style 5, Grey` | Style 5, Grey | Стиль 5, сірий |
+| `Style 6, Black` | Style 6, Black | Стиль 6, чорний |
+| `Style 6, Blond` | Style 6, Blond | Стиль 6, білявий |
+| `Style 6, Brown` | Style 6, Brown | Стиль 6, коричневий |
+| `Style 6, Grey` | Style 6, Grey | Стиль 6, сірий |
+| `Style 7, Black` | Style 7, Black | Стиль 7, чорний |
+| `Style 7, Blond` | Style 7, Blond | Стиль 7, білявий |
+| `Style 7, Brown` | Style 7, Brown | Стиль 7, коричневий |
+| `Style 7, Grey` | Style 7, Grey | Стиль 7, сірий |
+| `Style 8, Black` | Style 8, Black | Стиль 8, чорний |
+| `Style 8, Blond` | Style 8, Blond | Стиль 8, білявий |
+| `Style 8, Brown` | Style 8, Brown | Стиль 8, коричневий |
+| `Style 8, Grey` | Style 8, Grey | Стиль 8, сірий |
+| `Style 9, Black` | Style 9, Black | Стиль 9, чорний |
+| `Style 9, Blond` | Style 9, Blond | Стиль 9, білявий |
+| `Style 9, Brown` | Style 9, Brown | Стиль 9, коричневий |
+| `Style 9, Grey` | Style 9, Grey | Стиль 9, сірий |
+| `Thief 1, Black` | Thief 1, Black | Злодій 1, чорний |
+| `Thief 1, Brown` | Thief 1, Brown | Злодій 1, коричневий |
+| `Thief 1, Green` | Thief 1, Green | Злодій 1, зелений |
+| `Thief 1, Red` | Thief 1, Red | Злодій 1, червоний |
+| `Thief 2, Black` | Thief 2, Black | Злодій 2, чорний |
+| `Thief 2, Brown` | Thief 2, Brown | Злодій 2, коричневий |
+| `Thief 2, Green` | Thief 2, Green | Злодій 2, зелений |
+| `Thief 2, Red` | Thief 2, Red | Злодій 2, червоний |
+| `Thief 3, Black` | Thief 3, Black | Злодій 3, чорний |
+| `Thief 3, Brown` | Thief 3, Brown | Злодій 3, коричневий |
+| `Thief 3, Green` | Thief 3, Green | Злодій 3, зелений |
+| `Thief 3, Red` | Thief 3, Red | Злодій 3, червоний |
+| `Thief, Black` | Thief, Black | Злодій, чорний |
+| `Thief, Brown` | Thief, Brown | Злодій, коричневий |
+| `Thief, Green` | Thief, Green | Злодій, зелений |
+| `Thief, Red` | Thief, Red | Злодій, червоний |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | Шукач гробниць 1, зелений |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | Шукач гробниць 1, фіолетовий |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | Шукач гробниць 1, червоний |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | Шукач гробниць 1, білий |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | Шукач гробниць 2, зелений |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | Шукач гробниць 2, фіолетовий |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | Шукач гробниць 2, червоний |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | Шукач гробниць 2, білий |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | Шукач гробниць, зелений |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | Шукач гробниць, фіолетовий |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | Шукач гробниць, червоний |
+| `Tomb Seeker, White` | Tomb Seeker, White | Шукач гробниць, білий |
+| `Tone 1` | Tone 1 | Тон 1 |
+| `Tone 2` | Tone 2 | Тон 2 |
+| `Tone 3` | Tone 3 | Тон 3 |
+| `Tone 4` | Tone 4 | Тон 4 |
+| `Tone 5` | Tone 5 | Тон 5 |
+| `Tone 6` | Tone 6 | Тон 6 |
+| `Wave hello` | Wave hello | Привітання |
+| `Body and face` | Body and face | Тіло й обличчя |
+| `Face` | Face | Обличчя |
+| `Moustache` | Moustache | Вуса |
+| `Tusks` | Tusks | Ікла |
+| `Earrings` | Earrings | Сережки |
+| `Piercing` | Piercing | Пірсинг |
+| `Scars` | Scars | Шрами |
+| `Face paint` | Face paint | Розфарбування обличчя |
+| `Body paint` | Body paint | Розфарбування тіла |
+| `Black` | Black | Чорний |
+| `Black, one blind eye` | Black, one blind eye | Чорний, одне сліпе око |
+| `Blue, one blind eye` | Blue, one blind eye | Синій, одне сліпе око |
+| `Brown, one blind eye` | Brown, one blind eye | Коричневий, одне сліпе око |
+| `Green, one blind eye` | Green, one blind eye | Зелений, одне сліпе око |
+| `Grey` | Grey | Сірий |
+| `Grey, one blind eye` | Grey, one blind eye | Сірий, одне сліпе око |
+| `Purple, one blind eye` | Purple, one blind eye | Фіолетовий, одне сліпе око |
+| `Style 1, Blue` | Style 1, Blue | Стиль 1, синій |
+| `Style 1, Ginger` | Style 1, Ginger | Стиль 1, рудий |
+| `Style 1, Purple` | Style 1, Purple | Стиль 1, фіолетовий |
+| `Style 1, Red` | Style 1, Red | Стиль 1, червоний |
+| `Style 2, Blue` | Style 2, Blue | Стиль 2, синій |
+| `Style 2, Ginger` | Style 2, Ginger | Стиль 2, рудий |
+| `Style 2, Purple` | Style 2, Purple | Стиль 2, фіолетовий |
+| `Style 2, Red` | Style 2, Red | Стиль 2, червоний |
+| `Style 3, Blue` | Style 3, Blue | Стиль 3, синій |
+| `Style 3, Ginger` | Style 3, Ginger | Стиль 3, рудий |
+| `Style 3, Purple` | Style 3, Purple | Стиль 3, фіолетовий |
+| `Style 3, Red` | Style 3, Red | Стиль 3, червоний |
+| `Style 4, Blue` | Style 4, Blue | Стиль 4, синій |
+| `Style 4, Ginger` | Style 4, Ginger | Стиль 4, рудий |
+| `Style 4, Purple` | Style 4, Purple | Стиль 4, фіолетовий |
+| `Style 4, Red` | Style 4, Red | Стиль 4, червоний |
+| `Style 5, Blue` | Style 5, Blue | Стиль 5, синій |
+| `Style 5, Ginger` | Style 5, Ginger | Стиль 5, рудий |
+| `Style 5, Purple` | Style 5, Purple | Стиль 5, фіолетовий |
+| `Style 5, Red` | Style 5, Red | Стиль 5, червоний |
+| `Style 6, Blue` | Style 6, Blue | Стиль 6, синій |
+| `Style 6, Ginger` | Style 6, Ginger | Стиль 6, рудий |
+| `Style 6, Purple` | Style 6, Purple | Стиль 6, фіолетовий |
+| `Style 6, Red` | Style 6, Red | Стиль 6, червоний |
+| `Style 1, Green` | Style 1, Green | Стиль 1, зелений |
+| `Style 1, Yellow` | Style 1, Yellow | Стиль 1, жовтий |
+| `Style 2, Green` | Style 2, Green | Стиль 2, зелений |
+| `Style 2, Yellow` | Style 2, Yellow | Стиль 2, жовтий |
+| `Style 3, Green` | Style 3, Green | Стиль 3, зелений |
+| `Style 3, Yellow` | Style 3, Yellow | Стиль 3, жовтий |
+| `Style 4, Green` | Style 4, Green | Стиль 4, зелений |
+| `Style 4, Yellow` | Style 4, Yellow | Стиль 4, жовтий |
+| `Style 5, Green` | Style 5, Green | Стиль 5, зелений |
+| `Style 5, Yellow` | Style 5, Yellow | Стиль 5, жовтий |
+| `Style 6, Green` | Style 6, Green | Стиль 6, зелений |
+| `Style 6, Yellow` | Style 6, Yellow | Стиль 6, жовтий |
+| `Face 1` | Face 1 | Обличчя 1 |
+| `Face 2` | Face 2 | Обличчя 2 |
+| `Face 3` | Face 3 | Обличчя 3 |
+| `Face 4` | Face 4 | Обличчя 4 |
+| `Face 5` | Face 5 | Обличчя 5 |
+| `Style 6` | Style 6 | Стиль 6 |
+| `Style 7` | Style 7 | Стиль 7 |
+| `Peasant, Black` | Peasant, Black | Селянин, чорний |
+| `Peasant, Green` | Peasant, Green | Селянин, зелений |
+| `Peasant, Purple` | Peasant, Purple | Селянин, фіолетовий |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Північний воїн, червоний |
+| `Peasant 1, Black` | Peasant 1, Black | Селянин 1, чорний |
+| `Peasant 2, Black` | Peasant 2, Black | Селянин 2, чорний |
+| `Peasant 3, Black` | Peasant 3, Black | Селянин 3, чорний |
+| `Peasant 1, Green` | Peasant 1, Green | Селянин 1, зелений |
+| `Peasant 1, Purple` | Peasant 1, Purple | Селянин 1, фіолетовий |
+| `Peasant 2, Green` | Peasant 2, Green | Селянин 2, зелений |
+| `Peasant 2, Purple` | Peasant 2, Purple | Селянин 2, фіолетовий |
+| `Peasant 3, Green` | Peasant 3, Green | Селянин 3, зелений |
+| `Peasant 3, Purple` | Peasant 3, Purple | Селянин 3, фіолетовий |
+| `Fairy wings, Blue` | Fairy wings, Blue | Крила феї, синій |
+| `Fairy wings, Gold` | Fairy wings, Gold | Крила феї, золотий |
+| `Fairy wings, Green` | Fairy wings, Green | Крила феї, зелений |
+| `Fairy wings, Pink` | Fairy wings, Pink | Крила феї, рожевий |
+| `Fairy wings, Silver` | Fairy wings, Silver | Крила феї, срібний |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Крила феї, жовтий |
+| `Fairy wings, Violet` | Fairy wings, Violet | Крила феї, бузковий |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Крила феї, багряний |
+| `Fairy wings, Teal` | Fairy wings, Teal | Крила феї, бірюзовий |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Крила феї, захід сонця |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Крила феї, тінь |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Крила феї, веселка |
+| `Demon wings, Rose` | Demon wings, Rose | Крила демона, троянда |
+| `Demon wings, Amber` | Demon wings, Amber | Крила демона, бурштиновий |
+| `Demon wings, Bone` | Demon wings, Bone | Крила демона, кістяний |
+| `Demon wings, Coral` | Demon wings, Coral | Крила демона, кораловий |
+| `Demon wings, Moss` | Demon wings, Moss | Крила демона, моховий |
+| `Demon wings, Storm` | Demon wings, Storm | Крила демона, буря |
+| `Demon wings, Crimson` | Demon wings, Crimson | Крила демона, багряний |
+| `Demon wings, Shadow` | Demon wings, Shadow | Крила демона, тінь |
+| `Demon wings, Frost` | Demon wings, Frost | Крила демона, іній |
+| `Demon wings, Venom` | Demon wings, Venom | Крила демона, отрута |
+| `Demon wings, Violet` | Demon wings, Violet | Крила демона, бузковий |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Крила демона, пекельне полум’я |
+| `Human` | Human | Людина |
+| `Dwarf` | Dwarf | Дварф |
+| `Cape and wings` | Cape and wings | Плащ і крила |
+| `Tint` | Tint | Відтінок |
+| `No tint` | No tint | Без відтінку |
+| `Pick any colour for the wings` | Pick any colour for the wings | Оберіть будь-який колір для крил |

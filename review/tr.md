@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Ozan |
 | Discover | Keşfet |
 
-## Lines to review (521)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,281 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | yiyecek ve yetenek aksiyonu başına +1 HP |
 | `@f:runs` | runs | tur |
 | `@f:run` | run | tur |
+| `3D World` | 3D World | 3D Dünya |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | 3D, Destekçi Paketi ile Steam'de kullanılabilir. Steam'de görmek için tıkla. |
+| `Switch to 2D` | Switch to 2D | 2D'ye geç |
+| `Go back to the 2D map.` | Go back to the 2D map. | 2D haritaya geri dön. |
+| `Switch to 3D` | Switch to 3D | 3D'ye geç |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | Dünyayı ve dövüşü 3D olarak göster (beta). |
+| `2D / 3D Button` | 2D / 3D Button | 2D / 3D düğmesi |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | 2D harita ile 3D Dünya arasında geçiş yapan düğmeyi göster. |
+| `View the roadmap` | View the roadmap | Yol haritasını gör |
+| `Click anywhere to close` | Click anywhere to close | Kapatmak için herhangi bir yere tıkla |
+| `Tap anywhere to close` | Tap anywhere to close | Kapatmak için herhangi bir yere dokun |
+| `Roadmap` | Roadmap | Yol haritası |
+| `3D World (beta)` | 3D World (beta) | 3D Dünya (beta) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Steam'de Destekçi Paketi gerektirir. Dünyayı ve dövüşü 3D olarak gösterir. |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | Dünyayı ve dövüşü 3D olarak göster. Kamerayı döndürüp eğmek için sürükle ya da ok tuşlarını kullan, yakınlaştırmak için kaydır ya da W ve S'ye bas. |
+| `2D Sprite` | 2D Sprite | 2D Sprite |
+| `3D Character` | 3D Character | 3D Karakter |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | 3D karakter oluşturucu yükleniyor... |
+| `The 3D creator could not load.` | The 3D creator could not load. | 3D oluşturucu yüklenemedi. |
+| `Loading the 3D character…` | Loading the 3D character… | 3D karakter yükleniyor… |
+| `Run` | Run | Koş |
+| `↩ Revert` | ↩ Revert | ↩ Geri al |
+| `✔ Saved` | ✔ Saved | ✔ Kaydedildi |
+| `Saving…` | Saving… | Kaydediliyor… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | 3D görünüşün 3D dünyada gösterilir (Ayarlar > 3D Dünya). Döndürmek için önizlemeyi sürükle. |
+| `Male` | Male | Erkek |
+| `Female` | Female | Kadın |
+| `Clothes` | Clothes | Kıyafetler |
+| `Get the Supporter Pack` | Get the Supporter Pack | Destekçi Paketi'ni al |
+| `Get the Wings Pack` | Get the Wings Pack | Kanat Paketi'ni al |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | Destekçi Paketi eşyalarını deniyorsun. Kaydetmek için paket gerekli. |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | Kanat Paketi eşyalarını deniyorsun. Kaydetmek için paket gerekli. |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | Destekçi Paketi ve Kanat Paketi eşyalarını deniyorsun. Kaydetmek için iki paket de gerekli. |
+| `Skin` | Skin | Ten |
+| `Eyes` | Eyes | Gözler |
+| `Beard` | Beard | Sakal |
+| `Brows` | Brows | Kaşlar |
+| `Underclothes` | Underclothes | İç giyim |
+| `Shoulders` | Shoulders | Omuzluk |
+| `Chest` | Chest | Göğüs |
+| `Shirt` | Shirt | Gömlek |
+| `Hand wraps` | Hand wraps | El sargısı |
+| `Trousers` | Trousers | Pantolon |
+| `Boots` | Boots | Çizme |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | Dünya açılmadan önce her şey yükleniyor |
+| `Back to 2D` | Back to 2D | 2D'ye dön |
+| `The 3D world could not load.` | The 3D world could not load. | 3D dünya yüklenemedi. |
+| `Reading the map` | Reading the map | Harita okunuyor |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | Dünyanın 3D modelleri yükleniyor |
+| `Loading characters` | Loading characters | Karakterler yükleniyor |
+| `Loading creatures` | Loading creatures | Yaratıklar yükleniyor |
+| `Loading water and weather` | Loading water and weather | Su ve hava durumu yükleniyor |
+| `Building the area around you` | Building the area around you | Çevrendeki alan oluşturuluyor |
+| `Preparing shaders` | Preparing shaders | Gölgelendiriciler hazırlanıyor |
+| `Loading the area around you…` | Loading the area around you… | Çevrendeki alan yükleniyor… |
+| `Blue` | Blue | Mavi |
+| `Brown` | Brown | Kahverengi |
+| `Green` | Green | Yeşil |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | Kuzeyli Savaşçı, Mavi |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | Kuzeyli Savaşçı, Yeşil |
+| `Nordic Warrior, White` | Nordic Warrior, White | Kuzeyli Savaşçı, Beyaz |
+| `Peasant 1, Blue` | Peasant 1, Blue | Köylü 1, Mavi |
+| `Peasant 1, Brown` | Peasant 1, Brown | Köylü 1, Kahverengi |
+| `Peasant 1, Red` | Peasant 1, Red | Köylü 1, Kırmızı |
+| `Peasant 2, Blue` | Peasant 2, Blue | Köylü 2, Mavi |
+| `Peasant 2, Brown` | Peasant 2, Brown | Köylü 2, Kahverengi |
+| `Peasant 2, Red` | Peasant 2, Red | Köylü 2, Kırmızı |
+| `Peasant 3, Blue` | Peasant 3, Blue | Köylü 3, Mavi |
+| `Peasant 3, Brown` | Peasant 3, Brown | Köylü 3, Kahverengi |
+| `Peasant 3, Red` | Peasant 3, Red | Köylü 3, Kırmızı |
+| `Peasant, Blue` | Peasant, Blue | Köylü, Mavi |
+| `Peasant, Brown` | Peasant, Brown | Köylü, Kahverengi |
+| `Peasant, Red` | Peasant, Red | Köylü, Kırmızı |
+| `Plain trousers` | Plain trousers | Düz pantolon |
+| `Purple` | Purple | Mor |
+| `Reaper, Blue` | Reaper, Blue | Ruh Biçen, Mavi |
+| `Reaper, Cyan` | Reaper, Cyan | Ruh Biçen, Camgöbeği |
+| `Reaper, Green` | Reaper, Green | Ruh Biçen, Yeşil |
+| `Sentinel, Gold` | Sentinel, Gold | Nöbetçi, Altın |
+| `Sentinel, Green` | Sentinel, Green | Nöbetçi, Yeşil |
+| `Sentinel, Grey` | Sentinel, Grey | Nöbetçi, Gri |
+| `Sentinel, Red` | Sentinel, Red | Nöbetçi, Kırmızı |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | Gölge Büyücüsü 1, Mavi |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | Gölge Büyücüsü 1, Camgöbeği |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | Gölge Büyücüsü 1, Kırmızı |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | Gölge Büyücüsü 2, Mavi |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | Gölge Büyücüsü 2, Camgöbeği |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | Gölge Büyücüsü 2, Kırmızı |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | Gölge Büyücüsü 3, Mavi |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | Gölge Büyücüsü 3, Camgöbeği |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | Gölge Büyücüsü 3, Kırmızı |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | Gölge Büyücüsü, Mavi |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | Gölge Büyücüsü, Camgöbeği |
+| `Shadow Mage, Red` | Shadow Mage, Red | Gölge Büyücüsü, Kırmızı |
+| `Style 1` | Style 1 | Stil 1 |
+| `Style 1, Black` | Style 1, Black | Stil 1, Siyah |
+| `Style 1, Blond` | Style 1, Blond | Stil 1, Sarı |
+| `Style 1, Brown` | Style 1, Brown | Stil 1, Kahverengi |
+| `Style 1, Grey` | Style 1, Grey | Stil 1, Gri |
+| `Style 10, Black` | Style 10, Black | Stil 10, Siyah |
+| `Style 10, Blond` | Style 10, Blond | Stil 10, Sarı |
+| `Style 10, Brown` | Style 10, Brown | Stil 10, Kahverengi |
+| `Style 10, Grey` | Style 10, Grey | Stil 10, Gri |
+| `Style 2` | Style 2 | Stil 2 |
+| `Style 2, Black` | Style 2, Black | Stil 2, Siyah |
+| `Style 2, Blond` | Style 2, Blond | Stil 2, Sarı |
+| `Style 2, Brown` | Style 2, Brown | Stil 2, Kahverengi |
+| `Style 2, Grey` | Style 2, Grey | Stil 2, Gri |
+| `Style 3` | Style 3 | Stil 3 |
+| `Style 3, Black` | Style 3, Black | Stil 3, Siyah |
+| `Style 3, Blond` | Style 3, Blond | Stil 3, Sarı |
+| `Style 3, Brown` | Style 3, Brown | Stil 3, Kahverengi |
+| `Style 3, Grey` | Style 3, Grey | Stil 3, Gri |
+| `Style 4` | Style 4 | Stil 4 |
+| `Style 4, Black` | Style 4, Black | Stil 4, Siyah |
+| `Style 4, Blond` | Style 4, Blond | Stil 4, Sarı |
+| `Style 4, Brown` | Style 4, Brown | Stil 4, Kahverengi |
+| `Style 4, Grey` | Style 4, Grey | Stil 4, Gri |
+| `Style 5` | Style 5 | Stil 5 |
+| `Style 5, Black` | Style 5, Black | Stil 5, Siyah |
+| `Style 5, Blond` | Style 5, Blond | Stil 5, Sarı |
+| `Style 5, Brown` | Style 5, Brown | Stil 5, Kahverengi |
+| `Style 5, Grey` | Style 5, Grey | Stil 5, Gri |
+| `Style 6, Black` | Style 6, Black | Stil 6, Siyah |
+| `Style 6, Blond` | Style 6, Blond | Stil 6, Sarı |
+| `Style 6, Brown` | Style 6, Brown | Stil 6, Kahverengi |
+| `Style 6, Grey` | Style 6, Grey | Stil 6, Gri |
+| `Style 7, Black` | Style 7, Black | Stil 7, Siyah |
+| `Style 7, Blond` | Style 7, Blond | Stil 7, Sarı |
+| `Style 7, Brown` | Style 7, Brown | Stil 7, Kahverengi |
+| `Style 7, Grey` | Style 7, Grey | Stil 7, Gri |
+| `Style 8, Black` | Style 8, Black | Stil 8, Siyah |
+| `Style 8, Blond` | Style 8, Blond | Stil 8, Sarı |
+| `Style 8, Brown` | Style 8, Brown | Stil 8, Kahverengi |
+| `Style 8, Grey` | Style 8, Grey | Stil 8, Gri |
+| `Style 9, Black` | Style 9, Black | Stil 9, Siyah |
+| `Style 9, Blond` | Style 9, Blond | Stil 9, Sarı |
+| `Style 9, Brown` | Style 9, Brown | Stil 9, Kahverengi |
+| `Style 9, Grey` | Style 9, Grey | Stil 9, Gri |
+| `Thief 1, Black` | Thief 1, Black | Hırsız 1, Siyah |
+| `Thief 1, Brown` | Thief 1, Brown | Hırsız 1, Kahverengi |
+| `Thief 1, Green` | Thief 1, Green | Hırsız 1, Yeşil |
+| `Thief 1, Red` | Thief 1, Red | Hırsız 1, Kırmızı |
+| `Thief 2, Black` | Thief 2, Black | Hırsız 2, Siyah |
+| `Thief 2, Brown` | Thief 2, Brown | Hırsız 2, Kahverengi |
+| `Thief 2, Green` | Thief 2, Green | Hırsız 2, Yeşil |
+| `Thief 2, Red` | Thief 2, Red | Hırsız 2, Kırmızı |
+| `Thief 3, Black` | Thief 3, Black | Hırsız 3, Siyah |
+| `Thief 3, Brown` | Thief 3, Brown | Hırsız 3, Kahverengi |
+| `Thief 3, Green` | Thief 3, Green | Hırsız 3, Yeşil |
+| `Thief 3, Red` | Thief 3, Red | Hırsız 3, Kırmızı |
+| `Thief, Black` | Thief, Black | Hırsız, Siyah |
+| `Thief, Brown` | Thief, Brown | Hırsız, Kahverengi |
+| `Thief, Green` | Thief, Green | Hırsız, Yeşil |
+| `Thief, Red` | Thief, Red | Hırsız, Kırmızı |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | Mezar Avcısı 1, Yeşil |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | Mezar Avcısı 1, Mor |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | Mezar Avcısı 1, Kırmızı |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | Mezar Avcısı 1, Beyaz |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | Mezar Avcısı 2, Yeşil |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | Mezar Avcısı 2, Mor |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | Mezar Avcısı 2, Kırmızı |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | Mezar Avcısı 2, Beyaz |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | Mezar Avcısı, Yeşil |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | Mezar Avcısı, Mor |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | Mezar Avcısı, Kırmızı |
+| `Tomb Seeker, White` | Tomb Seeker, White | Mezar Avcısı, Beyaz |
+| `Tone 1` | Tone 1 | Ton 1 |
+| `Tone 2` | Tone 2 | Ton 2 |
+| `Tone 3` | Tone 3 | Ton 3 |
+| `Tone 4` | Tone 4 | Ton 4 |
+| `Tone 5` | Tone 5 | Ton 5 |
+| `Tone 6` | Tone 6 | Ton 6 |
+| `Wave hello` | Wave hello | El salla |
+| `Body and face` | Body and face | Vücut ve yüz |
+| `Face` | Face | Yüz |
+| `Moustache` | Moustache | Bıyık |
+| `Tusks` | Tusks | Azı dişleri |
+| `Earrings` | Earrings | Küpeler |
+| `Piercing` | Piercing | Piercing |
+| `Scars` | Scars | Yara izleri |
+| `Face paint` | Face paint | Yüz boyası |
+| `Body paint` | Body paint | Vücut boyası |
+| `Black` | Black | Siyah |
+| `Black, one blind eye` | Black, one blind eye | Siyah, bir gözü kör |
+| `Blue, one blind eye` | Blue, one blind eye | Mavi, bir gözü kör |
+| `Brown, one blind eye` | Brown, one blind eye | Kahverengi, bir gözü kör |
+| `Green, one blind eye` | Green, one blind eye | Yeşil, bir gözü kör |
+| `Grey` | Grey | Gri |
+| `Grey, one blind eye` | Grey, one blind eye | Gri, bir gözü kör |
+| `Purple, one blind eye` | Purple, one blind eye | Mor, bir gözü kör |
+| `Style 1, Blue` | Style 1, Blue | Stil 1, Mavi |
+| `Style 1, Ginger` | Style 1, Ginger | Stil 1, Kızıl |
+| `Style 1, Purple` | Style 1, Purple | Stil 1, Mor |
+| `Style 1, Red` | Style 1, Red | Stil 1, Kırmızı |
+| `Style 2, Blue` | Style 2, Blue | Stil 2, Mavi |
+| `Style 2, Ginger` | Style 2, Ginger | Stil 2, Kızıl |
+| `Style 2, Purple` | Style 2, Purple | Stil 2, Mor |
+| `Style 2, Red` | Style 2, Red | Stil 2, Kırmızı |
+| `Style 3, Blue` | Style 3, Blue | Stil 3, Mavi |
+| `Style 3, Ginger` | Style 3, Ginger | Stil 3, Kızıl |
+| `Style 3, Purple` | Style 3, Purple | Stil 3, Mor |
+| `Style 3, Red` | Style 3, Red | Stil 3, Kırmızı |
+| `Style 4, Blue` | Style 4, Blue | Stil 4, Mavi |
+| `Style 4, Ginger` | Style 4, Ginger | Stil 4, Kızıl |
+| `Style 4, Purple` | Style 4, Purple | Stil 4, Mor |
+| `Style 4, Red` | Style 4, Red | Stil 4, Kırmızı |
+| `Style 5, Blue` | Style 5, Blue | Stil 5, Mavi |
+| `Style 5, Ginger` | Style 5, Ginger | Stil 5, Kızıl |
+| `Style 5, Purple` | Style 5, Purple | Stil 5, Mor |
+| `Style 5, Red` | Style 5, Red | Stil 5, Kırmızı |
+| `Style 6, Blue` | Style 6, Blue | Stil 6, Mavi |
+| `Style 6, Ginger` | Style 6, Ginger | Stil 6, Kızıl |
+| `Style 6, Purple` | Style 6, Purple | Stil 6, Mor |
+| `Style 6, Red` | Style 6, Red | Stil 6, Kırmızı |
+| `Style 1, Green` | Style 1, Green | Stil 1, Yeşil |
+| `Style 1, Yellow` | Style 1, Yellow | Stil 1, Sarı |
+| `Style 2, Green` | Style 2, Green | Stil 2, Yeşil |
+| `Style 2, Yellow` | Style 2, Yellow | Stil 2, Sarı |
+| `Style 3, Green` | Style 3, Green | Stil 3, Yeşil |
+| `Style 3, Yellow` | Style 3, Yellow | Stil 3, Sarı |
+| `Style 4, Green` | Style 4, Green | Stil 4, Yeşil |
+| `Style 4, Yellow` | Style 4, Yellow | Stil 4, Sarı |
+| `Style 5, Green` | Style 5, Green | Stil 5, Yeşil |
+| `Style 5, Yellow` | Style 5, Yellow | Stil 5, Sarı |
+| `Style 6, Green` | Style 6, Green | Stil 6, Yeşil |
+| `Style 6, Yellow` | Style 6, Yellow | Stil 6, Sarı |
+| `Face 1` | Face 1 | Yüz 1 |
+| `Face 2` | Face 2 | Yüz 2 |
+| `Face 3` | Face 3 | Yüz 3 |
+| `Face 4` | Face 4 | Yüz 4 |
+| `Face 5` | Face 5 | Yüz 5 |
+| `Style 6` | Style 6 | Stil 6 |
+| `Style 7` | Style 7 | Stil 7 |
+| `Peasant, Black` | Peasant, Black | Köylü, Siyah |
+| `Peasant, Green` | Peasant, Green | Köylü, Yeşil |
+| `Peasant, Purple` | Peasant, Purple | Köylü, Mor |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Kuzeyli Savaşçı, Kırmızı |
+| `Peasant 1, Black` | Peasant 1, Black | Köylü 1, Siyah |
+| `Peasant 2, Black` | Peasant 2, Black | Köylü 2, Siyah |
+| `Peasant 3, Black` | Peasant 3, Black | Köylü 3, Siyah |
+| `Peasant 1, Green` | Peasant 1, Green | Köylü 1, Yeşil |
+| `Peasant 1, Purple` | Peasant 1, Purple | Köylü 1, Mor |
+| `Peasant 2, Green` | Peasant 2, Green | Köylü 2, Yeşil |
+| `Peasant 2, Purple` | Peasant 2, Purple | Köylü 2, Mor |
+| `Peasant 3, Green` | Peasant 3, Green | Köylü 3, Yeşil |
+| `Peasant 3, Purple` | Peasant 3, Purple | Köylü 3, Mor |
+| `Fairy wings, Blue` | Fairy wings, Blue | Peri kanatları, Mavi |
+| `Fairy wings, Gold` | Fairy wings, Gold | Peri kanatları, Altın |
+| `Fairy wings, Green` | Fairy wings, Green | Peri kanatları, Yeşil |
+| `Fairy wings, Pink` | Fairy wings, Pink | Peri kanatları, Pembe |
+| `Fairy wings, Silver` | Fairy wings, Silver | Peri kanatları, Gümüş |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Peri kanatları, Sarı |
+| `Fairy wings, Violet` | Fairy wings, Violet | Peri kanatları, Menekşe |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Peri kanatları, Kızıl |
+| `Fairy wings, Teal` | Fairy wings, Teal | Peri kanatları, Petrol Mavisi |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Peri kanatları, Gün Batımı |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Peri kanatları, Gölge |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Peri kanatları, Gökkuşağı |
+| `Demon wings, Rose` | Demon wings, Rose | İblis kanatları, Gül |
+| `Demon wings, Amber` | Demon wings, Amber | İblis kanatları, Kehribar |
+| `Demon wings, Bone` | Demon wings, Bone | İblis kanatları, Kemik |
+| `Demon wings, Coral` | Demon wings, Coral | İblis kanatları, Mercan |
+| `Demon wings, Moss` | Demon wings, Moss | İblis kanatları, Yosun |
+| `Demon wings, Storm` | Demon wings, Storm | İblis kanatları, Fırtına |
+| `Demon wings, Crimson` | Demon wings, Crimson | İblis kanatları, Kızıl |
+| `Demon wings, Shadow` | Demon wings, Shadow | İblis kanatları, Gölge |
+| `Demon wings, Frost` | Demon wings, Frost | İblis kanatları, Ayaz |
+| `Demon wings, Venom` | Demon wings, Venom | İblis kanatları, Zehir |
+| `Demon wings, Violet` | Demon wings, Violet | İblis kanatları, Menekşe |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | İblis kanatları, Cehennem Ateşi |
+| `Human` | Human | İnsan |
+| `Dwarf` | Dwarf | Cüce |
+| `Cape and wings` | Cape and wings | Pelerin ve kanatlar |
+| `Tint` | Tint | Renklendirme |
+| `No tint` | No tint | Renklendirme yok |
+| `Pick any colour for the wings` | Pick any colour for the wings | Kanatlar için herhangi bir renk seç |

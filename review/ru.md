@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бард |
 | Discover | Открытие |
 
-## Lines to review (521)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,281 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | +1 HP за еду и действие прокачки |
 | `@f:runs` | runs | забегов |
 | `@f:run` | run | забег |
+| `3D World` | 3D World | 3D-мир |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | 3D-режим доступен в Steam с Набором поддержки. Нажмите, чтобы посмотреть набор в Steam. |
+| `Switch to 2D` | Switch to 2D | Переключиться на 2D |
+| `Go back to the 2D map.` | Go back to the 2D map. | Вернуться к 2D-карте. |
+| `Switch to 3D` | Switch to 3D | Переключиться на 3D |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | Показать мир и бои в 3D (бета). |
+| `2D / 3D Button` | 2D / 3D Button | Кнопка 2D / 3D |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | Показывать кнопку переключения между 2D-картой и 3D-миром. |
+| `View the roadmap` | View the roadmap | Посмотреть дорожную карту |
+| `Click anywhere to close` | Click anywhere to close | Нажмите в любом месте, чтобы закрыть |
+| `Tap anywhere to close` | Tap anywhere to close | Коснитесь в любом месте, чтобы закрыть |
+| `Roadmap` | Roadmap | Дорожная карта |
+| `3D World (beta)` | 3D World (beta) | 3D-мир (бета) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Требуется Набор поддержки в Steam. Показывает мир и бои в 3D. |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | Показывать мир и бои в 3D. Перетаскивайте или используйте стрелки, чтобы поворачивать и наклонять камеру. Колесо мыши или W и S меняют масштаб. |
+| `2D Sprite` | 2D Sprite | 2D-спрайт |
+| `3D Character` | 3D Character | 3D-персонаж |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | Загрузка 3D-редактора персонажа... |
+| `The 3D creator could not load.` | The 3D creator could not load. | Не удалось загрузить 3D-редактор. |
+| `Loading the 3D character…` | Loading the 3D character… | Загрузка 3D-персонажа… |
+| `Run` | Run | Бег |
+| `↩ Revert` | ↩ Revert | ↩ Отменить |
+| `✔ Saved` | ✔ Saved | ✔ Сохранено |
+| `Saving…` | Saving… | Сохранение… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | Ваш 3D-облик отображается в 3D-мире (Настройки > 3D-мир). Перетаскивайте персонажа, чтобы повернуть его. |
+| `Male` | Male | Мужской |
+| `Female` | Female | Женский |
+| `Clothes` | Clothes | Одежда |
+| `Get the Supporter Pack` | Get the Supporter Pack | Получить Набор поддержки |
+| `Get the Wings Pack` | Get the Wings Pack | Получить Набор крыльев |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | Примерка предметов из Набора поддержки. Для сохранения нужен набор. |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | Примерка предметов из Набора крыльев. Для сохранения нужен набор. |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | Примерка предметов из Набора поддержки и Набора крыльев. Для сохранения нужны оба набора. |
+| `Skin` | Skin | Кожа |
+| `Eyes` | Eyes | Глаза |
+| `Beard` | Beard | Борода |
+| `Brows` | Brows | Брови |
+| `Underclothes` | Underclothes | Нижнее бельё |
+| `Shoulders` | Shoulders | Плечи |
+| `Chest` | Chest | Грудь |
+| `Shirt` | Shirt | Рубашка |
+| `Hand wraps` | Hand wraps | Обмотки для рук |
+| `Trousers` | Trousers | Штаны |
+| `Boots` | Boots | Сапоги |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | Загружаем всё до открытия мира |
+| `Back to 2D` | Back to 2D | Назад в 2D |
+| `The 3D world could not load.` | The 3D world could not load. | Не удалось загрузить 3D-мир. |
+| `Reading the map` | Reading the map | Чтение карты |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | Загрузка 3D-моделей мира |
+| `Loading characters` | Loading characters | Загрузка персонажей |
+| `Loading creatures` | Loading creatures | Загрузка существ |
+| `Loading water and weather` | Loading water and weather | Загрузка воды и погоды |
+| `Building the area around you` | Building the area around you | Построение местности вокруг вас |
+| `Preparing shaders` | Preparing shaders | Подготовка шейдеров |
+| `Loading the area around you…` | Loading the area around you… | Загрузка местности вокруг вас… |
+| `Blue` | Blue | Синий |
+| `Brown` | Brown | Коричневый |
+| `Green` | Green | Зелёный |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | Северный воин, синий |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | Северный воин, зелёный |
+| `Nordic Warrior, White` | Nordic Warrior, White | Северный воин, белый |
+| `Peasant 1, Blue` | Peasant 1, Blue | Крестьянин 1, синий |
+| `Peasant 1, Brown` | Peasant 1, Brown | Крестьянин 1, коричневый |
+| `Peasant 1, Red` | Peasant 1, Red | Крестьянин 1, красный |
+| `Peasant 2, Blue` | Peasant 2, Blue | Крестьянин 2, синий |
+| `Peasant 2, Brown` | Peasant 2, Brown | Крестьянин 2, коричневый |
+| `Peasant 2, Red` | Peasant 2, Red | Крестьянин 2, красный |
+| `Peasant 3, Blue` | Peasant 3, Blue | Крестьянин 3, синий |
+| `Peasant 3, Brown` | Peasant 3, Brown | Крестьянин 3, коричневый |
+| `Peasant 3, Red` | Peasant 3, Red | Крестьянин 3, красный |
+| `Peasant, Blue` | Peasant, Blue | Крестьянин, синий |
+| `Peasant, Brown` | Peasant, Brown | Крестьянин, коричневый |
+| `Peasant, Red` | Peasant, Red | Крестьянин, красный |
+| `Plain trousers` | Plain trousers | Простые штаны |
+| `Purple` | Purple | Фиолетовый |
+| `Reaper, Blue` | Reaper, Blue | Жнец, синий |
+| `Reaper, Cyan` | Reaper, Cyan | Жнец, голубой |
+| `Reaper, Green` | Reaper, Green | Жнец, зелёный |
+| `Sentinel, Gold` | Sentinel, Gold | Страж, золотой |
+| `Sentinel, Green` | Sentinel, Green | Страж, зелёный |
+| `Sentinel, Grey` | Sentinel, Grey | Страж, серый |
+| `Sentinel, Red` | Sentinel, Red | Страж, красный |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | Маг теней 1, синий |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | Маг теней 1, голубой |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | Маг теней 1, красный |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | Маг теней 2, синий |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | Маг теней 2, голубой |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | Маг теней 2, красный |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | Маг теней 3, синий |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | Маг теней 3, голубой |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | Маг теней 3, красный |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | Маг теней, синий |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | Маг теней, голубой |
+| `Shadow Mage, Red` | Shadow Mage, Red | Маг теней, красный |
+| `Style 1` | Style 1 | Стиль 1 |
+| `Style 1, Black` | Style 1, Black | Стиль 1, чёрный |
+| `Style 1, Blond` | Style 1, Blond | Стиль 1, блонд |
+| `Style 1, Brown` | Style 1, Brown | Стиль 1, коричневый |
+| `Style 1, Grey` | Style 1, Grey | Стиль 1, серый |
+| `Style 10, Black` | Style 10, Black | Стиль 10, чёрный |
+| `Style 10, Blond` | Style 10, Blond | Стиль 10, блонд |
+| `Style 10, Brown` | Style 10, Brown | Стиль 10, коричневый |
+| `Style 10, Grey` | Style 10, Grey | Стиль 10, серый |
+| `Style 2` | Style 2 | Стиль 2 |
+| `Style 2, Black` | Style 2, Black | Стиль 2, чёрный |
+| `Style 2, Blond` | Style 2, Blond | Стиль 2, блонд |
+| `Style 2, Brown` | Style 2, Brown | Стиль 2, коричневый |
+| `Style 2, Grey` | Style 2, Grey | Стиль 2, серый |
+| `Style 3` | Style 3 | Стиль 3 |
+| `Style 3, Black` | Style 3, Black | Стиль 3, чёрный |
+| `Style 3, Blond` | Style 3, Blond | Стиль 3, блонд |
+| `Style 3, Brown` | Style 3, Brown | Стиль 3, коричневый |
+| `Style 3, Grey` | Style 3, Grey | Стиль 3, серый |
+| `Style 4` | Style 4 | Стиль 4 |
+| `Style 4, Black` | Style 4, Black | Стиль 4, чёрный |
+| `Style 4, Blond` | Style 4, Blond | Стиль 4, блонд |
+| `Style 4, Brown` | Style 4, Brown | Стиль 4, коричневый |
+| `Style 4, Grey` | Style 4, Grey | Стиль 4, серый |
+| `Style 5` | Style 5 | Стиль 5 |
+| `Style 5, Black` | Style 5, Black | Стиль 5, чёрный |
+| `Style 5, Blond` | Style 5, Blond | Стиль 5, блонд |
+| `Style 5, Brown` | Style 5, Brown | Стиль 5, коричневый |
+| `Style 5, Grey` | Style 5, Grey | Стиль 5, серый |
+| `Style 6, Black` | Style 6, Black | Стиль 6, чёрный |
+| `Style 6, Blond` | Style 6, Blond | Стиль 6, блонд |
+| `Style 6, Brown` | Style 6, Brown | Стиль 6, коричневый |
+| `Style 6, Grey` | Style 6, Grey | Стиль 6, серый |
+| `Style 7, Black` | Style 7, Black | Стиль 7, чёрный |
+| `Style 7, Blond` | Style 7, Blond | Стиль 7, блонд |
+| `Style 7, Brown` | Style 7, Brown | Стиль 7, коричневый |
+| `Style 7, Grey` | Style 7, Grey | Стиль 7, серый |
+| `Style 8, Black` | Style 8, Black | Стиль 8, чёрный |
+| `Style 8, Blond` | Style 8, Blond | Стиль 8, блонд |
+| `Style 8, Brown` | Style 8, Brown | Стиль 8, коричневый |
+| `Style 8, Grey` | Style 8, Grey | Стиль 8, серый |
+| `Style 9, Black` | Style 9, Black | Стиль 9, чёрный |
+| `Style 9, Blond` | Style 9, Blond | Стиль 9, блонд |
+| `Style 9, Brown` | Style 9, Brown | Стиль 9, коричневый |
+| `Style 9, Grey` | Style 9, Grey | Стиль 9, серый |
+| `Thief 1, Black` | Thief 1, Black | Вор 1, чёрный |
+| `Thief 1, Brown` | Thief 1, Brown | Вор 1, коричневый |
+| `Thief 1, Green` | Thief 1, Green | Вор 1, зелёный |
+| `Thief 1, Red` | Thief 1, Red | Вор 1, красный |
+| `Thief 2, Black` | Thief 2, Black | Вор 2, чёрный |
+| `Thief 2, Brown` | Thief 2, Brown | Вор 2, коричневый |
+| `Thief 2, Green` | Thief 2, Green | Вор 2, зелёный |
+| `Thief 2, Red` | Thief 2, Red | Вор 2, красный |
+| `Thief 3, Black` | Thief 3, Black | Вор 3, чёрный |
+| `Thief 3, Brown` | Thief 3, Brown | Вор 3, коричневый |
+| `Thief 3, Green` | Thief 3, Green | Вор 3, зелёный |
+| `Thief 3, Red` | Thief 3, Red | Вор 3, красный |
+| `Thief, Black` | Thief, Black | Вор, чёрный |
+| `Thief, Brown` | Thief, Brown | Вор, коричневый |
+| `Thief, Green` | Thief, Green | Вор, зелёный |
+| `Thief, Red` | Thief, Red | Вор, красный |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | Искатель гробниц 1, зелёный |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | Искатель гробниц 1, фиолетовый |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | Искатель гробниц 1, красный |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | Искатель гробниц 1, белый |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | Искатель гробниц 2, зелёный |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | Искатель гробниц 2, фиолетовый |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | Искатель гробниц 2, красный |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | Искатель гробниц 2, белый |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | Искатель гробниц, зелёный |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | Искатель гробниц, фиолетовый |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | Искатель гробниц, красный |
+| `Tomb Seeker, White` | Tomb Seeker, White | Искатель гробниц, белый |
+| `Tone 1` | Tone 1 | Тон 1 |
+| `Tone 2` | Tone 2 | Тон 2 |
+| `Tone 3` | Tone 3 | Тон 3 |
+| `Tone 4` | Tone 4 | Тон 4 |
+| `Tone 5` | Tone 5 | Тон 5 |
+| `Tone 6` | Tone 6 | Тон 6 |
+| `Wave hello` | Wave hello | Приветствие |
+| `Body and face` | Body and face | Тело и лицо |
+| `Face` | Face | Лицо |
+| `Moustache` | Moustache | Усы |
+| `Tusks` | Tusks | Клыки |
+| `Earrings` | Earrings | Серьги |
+| `Piercing` | Piercing | Пирсинг |
+| `Scars` | Scars | Шрамы |
+| `Face paint` | Face paint | Раскраска лица |
+| `Body paint` | Body paint | Раскраска тела |
+| `Black` | Black | Чёрный |
+| `Black, one blind eye` | Black, one blind eye | Чёрный, один слепой глаз |
+| `Blue, one blind eye` | Blue, one blind eye | Синий, один слепой глаз |
+| `Brown, one blind eye` | Brown, one blind eye | Коричневый, один слепой глаз |
+| `Green, one blind eye` | Green, one blind eye | Зелёный, один слепой глаз |
+| `Grey` | Grey | Серый |
+| `Grey, one blind eye` | Grey, one blind eye | Серый, один слепой глаз |
+| `Purple, one blind eye` | Purple, one blind eye | Фиолетовый, один слепой глаз |
+| `Style 1, Blue` | Style 1, Blue | Стиль 1, синий |
+| `Style 1, Ginger` | Style 1, Ginger | Стиль 1, рыжий |
+| `Style 1, Purple` | Style 1, Purple | Стиль 1, фиолетовый |
+| `Style 1, Red` | Style 1, Red | Стиль 1, красный |
+| `Style 2, Blue` | Style 2, Blue | Стиль 2, синий |
+| `Style 2, Ginger` | Style 2, Ginger | Стиль 2, рыжий |
+| `Style 2, Purple` | Style 2, Purple | Стиль 2, фиолетовый |
+| `Style 2, Red` | Style 2, Red | Стиль 2, красный |
+| `Style 3, Blue` | Style 3, Blue | Стиль 3, синий |
+| `Style 3, Ginger` | Style 3, Ginger | Стиль 3, рыжий |
+| `Style 3, Purple` | Style 3, Purple | Стиль 3, фиолетовый |
+| `Style 3, Red` | Style 3, Red | Стиль 3, красный |
+| `Style 4, Blue` | Style 4, Blue | Стиль 4, синий |
+| `Style 4, Ginger` | Style 4, Ginger | Стиль 4, рыжий |
+| `Style 4, Purple` | Style 4, Purple | Стиль 4, фиолетовый |
+| `Style 4, Red` | Style 4, Red | Стиль 4, красный |
+| `Style 5, Blue` | Style 5, Blue | Стиль 5, синий |
+| `Style 5, Ginger` | Style 5, Ginger | Стиль 5, рыжий |
+| `Style 5, Purple` | Style 5, Purple | Стиль 5, фиолетовый |
+| `Style 5, Red` | Style 5, Red | Стиль 5, красный |
+| `Style 6, Blue` | Style 6, Blue | Стиль 6, синий |
+| `Style 6, Ginger` | Style 6, Ginger | Стиль 6, рыжий |
+| `Style 6, Purple` | Style 6, Purple | Стиль 6, фиолетовый |
+| `Style 6, Red` | Style 6, Red | Стиль 6, красный |
+| `Style 1, Green` | Style 1, Green | Стиль 1, зелёный |
+| `Style 1, Yellow` | Style 1, Yellow | Стиль 1, жёлтый |
+| `Style 2, Green` | Style 2, Green | Стиль 2, зелёный |
+| `Style 2, Yellow` | Style 2, Yellow | Стиль 2, жёлтый |
+| `Style 3, Green` | Style 3, Green | Стиль 3, зелёный |
+| `Style 3, Yellow` | Style 3, Yellow | Стиль 3, жёлтый |
+| `Style 4, Green` | Style 4, Green | Стиль 4, зелёный |
+| `Style 4, Yellow` | Style 4, Yellow | Стиль 4, жёлтый |
+| `Style 5, Green` | Style 5, Green | Стиль 5, зелёный |
+| `Style 5, Yellow` | Style 5, Yellow | Стиль 5, жёлтый |
+| `Style 6, Green` | Style 6, Green | Стиль 6, зелёный |
+| `Style 6, Yellow` | Style 6, Yellow | Стиль 6, жёлтый |
+| `Face 1` | Face 1 | Лицо 1 |
+| `Face 2` | Face 2 | Лицо 2 |
+| `Face 3` | Face 3 | Лицо 3 |
+| `Face 4` | Face 4 | Лицо 4 |
+| `Face 5` | Face 5 | Лицо 5 |
+| `Style 6` | Style 6 | Стиль 6 |
+| `Style 7` | Style 7 | Стиль 7 |
+| `Peasant, Black` | Peasant, Black | Крестьянин, чёрный |
+| `Peasant, Green` | Peasant, Green | Крестьянин, зелёный |
+| `Peasant, Purple` | Peasant, Purple | Крестьянин, фиолетовый |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Северный воин, красный |
+| `Peasant 1, Black` | Peasant 1, Black | Крестьянин 1, чёрный |
+| `Peasant 2, Black` | Peasant 2, Black | Крестьянин 2, чёрный |
+| `Peasant 3, Black` | Peasant 3, Black | Крестьянин 3, чёрный |
+| `Peasant 1, Green` | Peasant 1, Green | Крестьянин 1, зелёный |
+| `Peasant 1, Purple` | Peasant 1, Purple | Крестьянин 1, фиолетовый |
+| `Peasant 2, Green` | Peasant 2, Green | Крестьянин 2, зелёный |
+| `Peasant 2, Purple` | Peasant 2, Purple | Крестьянин 2, фиолетовый |
+| `Peasant 3, Green` | Peasant 3, Green | Крестьянин 3, зелёный |
+| `Peasant 3, Purple` | Peasant 3, Purple | Крестьянин 3, фиолетовый |
+| `Fairy wings, Blue` | Fairy wings, Blue | Крылья феи, синий |
+| `Fairy wings, Gold` | Fairy wings, Gold | Крылья феи, золотой |
+| `Fairy wings, Green` | Fairy wings, Green | Крылья феи, зелёный |
+| `Fairy wings, Pink` | Fairy wings, Pink | Крылья феи, розовый |
+| `Fairy wings, Silver` | Fairy wings, Silver | Крылья феи, серебряный |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Крылья феи, жёлтый |
+| `Fairy wings, Violet` | Fairy wings, Violet | Крылья феи, лиловый |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Крылья феи, багровый |
+| `Fairy wings, Teal` | Fairy wings, Teal | Крылья феи, бирюзовый |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Крылья феи, закат |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Крылья феи, тень |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Крылья феи, радуга |
+| `Demon wings, Rose` | Demon wings, Rose | Демонические крылья, роза |
+| `Demon wings, Amber` | Demon wings, Amber | Демонические крылья, янтарный |
+| `Demon wings, Bone` | Demon wings, Bone | Демонические крылья, костяной |
+| `Demon wings, Coral` | Demon wings, Coral | Демонические крылья, коралловый |
+| `Demon wings, Moss` | Demon wings, Moss | Демонические крылья, моховой |
+| `Demon wings, Storm` | Demon wings, Storm | Демонические крылья, буря |
+| `Demon wings, Crimson` | Demon wings, Crimson | Демонические крылья, багровый |
+| `Demon wings, Shadow` | Demon wings, Shadow | Демонические крылья, тень |
+| `Demon wings, Frost` | Demon wings, Frost | Демонические крылья, иней |
+| `Demon wings, Venom` | Demon wings, Venom | Демонические крылья, яд |
+| `Demon wings, Violet` | Demon wings, Violet | Демонические крылья, лиловый |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Демонические крылья, адское пламя |
+| `Human` | Human | Человек |
+| `Dwarf` | Dwarf | Дворф |
+| `Cape and wings` | Cape and wings | Плащ и крылья |
+| `Tint` | Tint | Оттенок |
+| `No tint` | No tint | Без оттенка |
+| `Pick any colour for the wings` | Pick any colour for the wings | Выберите любой цвет для крыльев |

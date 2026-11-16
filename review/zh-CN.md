@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟游 |
 | Discover | 探索 |
 
-## Lines to review (521)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,281 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | 每份食物和每次技能动作+1生命值 |
 | `@f:runs` | runs | 次通关 |
 | `@f:run` | run | 次通关 |
+| `3D World` | 3D World | 3D 世界 |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | 在 Steam 上拥有支持者包即可使用 3D。点击前往 Steam 查看。 |
+| `Switch to 2D` | Switch to 2D | 切换到 2D |
+| `Go back to the 2D map.` | Go back to the 2D map. | 返回 2D 地图。 |
+| `Switch to 3D` | Switch to 3D | 切换到 3D |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | 以 3D 显示世界和战斗（测试版）。 |
+| `2D / 3D Button` | 2D / 3D Button | 2D / 3D 按钮 |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | 显示在 2D 地图和 3D 世界之间切换的按钮。 |
+| `View the roadmap` | View the roadmap | 查看路线图 |
+| `Click anywhere to close` | Click anywhere to close | 点击任意位置关闭 |
+| `Tap anywhere to close` | Tap anywhere to close | 轻触任意位置关闭 |
+| `Roadmap` | Roadmap | 路线图 |
+| `3D World (beta)` | 3D World (beta) | 3D 世界（测试版） |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | 需要 Steam 上的支持者包。以 3D 显示世界和战斗。 |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | 以 3D 显示世界和战斗。拖动或使用方向键旋转和倾斜镜头，滚动滚轮或按 W 和 S 缩放。 |
+| `2D Sprite` | 2D Sprite | 2D 精灵图 |
+| `3D Character` | 3D Character | 3D 角色 |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | 正在加载 3D 角色创建器... |
+| `The 3D creator could not load.` | The 3D creator could not load. | 3D 角色创建器无法加载。 |
+| `Loading the 3D character…` | Loading the 3D character… | 正在加载 3D 角色… |
+| `Run` | Run | 跑步 |
+| `↩ Revert` | ↩ Revert | ↩ 还原 |
+| `✔ Saved` | ✔ Saved | ✔ 已保存 |
+| `Saving…` | Saving… | 保存中… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | 你的 3D 外观会显示在 3D 世界中（设置 > 3D 世界）。拖动预览可旋转角色。 |
+| `Male` | Male | 男性 |
+| `Female` | Female | 女性 |
+| `Clothes` | Clothes | 服装 |
+| `Get the Supporter Pack` | Get the Supporter Pack | 获取支持者包 |
+| `Get the Wings Pack` | Get the Wings Pack | 获取翅膀包 |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | 正在试穿支持者包物品。需要拥有该包才能保存。 |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | 正在试穿翅膀包物品。需要拥有该包才能保存。 |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | 正在试穿支持者包和翅膀包物品。需要同时拥有两个包才能保存。 |
+| `Skin` | Skin | 皮肤 |
+| `Eyes` | Eyes | 眼睛 |
+| `Beard` | Beard | 胡须 |
+| `Brows` | Brows | 眉毛 |
+| `Underclothes` | Underclothes | 内衬 |
+| `Shoulders` | Shoulders | 肩部 |
+| `Chest` | Chest | 胸部 |
+| `Shirt` | Shirt | 衬衣 |
+| `Hand wraps` | Hand wraps | 缠手布 |
+| `Trousers` | Trousers | 长裤 |
+| `Boots` | Boots | 靴子 |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | 世界开启前，正在加载所有内容 |
+| `Back to 2D` | Back to 2D | 返回 2D |
+| `The 3D world could not load.` | The 3D world could not load. | 3D 世界无法加载。 |
+| `Reading the map` | Reading the map | 读取地图 |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | 加载世界的 3D 模型 |
+| `Loading characters` | Loading characters | 加载角色 |
+| `Loading creatures` | Loading creatures | 加载生物 |
+| `Loading water and weather` | Loading water and weather | 加载水体和天气 |
+| `Building the area around you` | Building the area around you | 构建你周围的区域 |
+| `Preparing shaders` | Preparing shaders | 准备着色器 |
+| `Loading the area around you…` | Loading the area around you… | 正在加载你周围的区域… |
+| `Blue` | Blue | 蓝色 |
+| `Brown` | Brown | 棕色 |
+| `Green` | Green | 绿色 |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | 北境战士，蓝色 |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | 北境战士，绿色 |
+| `Nordic Warrior, White` | Nordic Warrior, White | 北境战士，白色 |
+| `Peasant 1, Blue` | Peasant 1, Blue | 农民 1，蓝色 |
+| `Peasant 1, Brown` | Peasant 1, Brown | 农民 1，棕色 |
+| `Peasant 1, Red` | Peasant 1, Red | 农民 1，红色 |
+| `Peasant 2, Blue` | Peasant 2, Blue | 农民 2，蓝色 |
+| `Peasant 2, Brown` | Peasant 2, Brown | 农民 2，棕色 |
+| `Peasant 2, Red` | Peasant 2, Red | 农民 2，红色 |
+| `Peasant 3, Blue` | Peasant 3, Blue | 农民 3，蓝色 |
+| `Peasant 3, Brown` | Peasant 3, Brown | 农民 3，棕色 |
+| `Peasant 3, Red` | Peasant 3, Red | 农民 3，红色 |
+| `Peasant, Blue` | Peasant, Blue | 农民，蓝色 |
+| `Peasant, Brown` | Peasant, Brown | 农民，棕色 |
+| `Peasant, Red` | Peasant, Red | 农民，红色 |
+| `Plain trousers` | Plain trousers | 朴素长裤 |
+| `Purple` | Purple | 紫色 |
+| `Reaper, Blue` | Reaper, Blue | 死神，蓝色 |
+| `Reaper, Cyan` | Reaper, Cyan | 死神，青色 |
+| `Reaper, Green` | Reaper, Green | 死神，绿色 |
+| `Sentinel, Gold` | Sentinel, Gold | 哨卫，金色 |
+| `Sentinel, Green` | Sentinel, Green | 哨卫，绿色 |
+| `Sentinel, Grey` | Sentinel, Grey | 哨卫，灰色 |
+| `Sentinel, Red` | Sentinel, Red | 哨卫，红色 |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | 暗影法师 1，蓝色 |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | 暗影法师 1，青色 |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | 暗影法师 1，红色 |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | 暗影法师 2，蓝色 |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | 暗影法师 2，青色 |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | 暗影法师 2，红色 |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | 暗影法师 3，蓝色 |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | 暗影法师 3，青色 |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | 暗影法师 3，红色 |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | 暗影法师，蓝色 |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | 暗影法师，青色 |
+| `Shadow Mage, Red` | Shadow Mage, Red | 暗影法师，红色 |
+| `Style 1` | Style 1 | 样式 1 |
+| `Style 1, Black` | Style 1, Black | 样式 1，黑色 |
+| `Style 1, Blond` | Style 1, Blond | 样式 1，浅金色 |
+| `Style 1, Brown` | Style 1, Brown | 样式 1，棕色 |
+| `Style 1, Grey` | Style 1, Grey | 样式 1，灰色 |
+| `Style 10, Black` | Style 10, Black | 样式 10，黑色 |
+| `Style 10, Blond` | Style 10, Blond | 样式 10，浅金色 |
+| `Style 10, Brown` | Style 10, Brown | 样式 10，棕色 |
+| `Style 10, Grey` | Style 10, Grey | 样式 10，灰色 |
+| `Style 2` | Style 2 | 样式 2 |
+| `Style 2, Black` | Style 2, Black | 样式 2，黑色 |
+| `Style 2, Blond` | Style 2, Blond | 样式 2，浅金色 |
+| `Style 2, Brown` | Style 2, Brown | 样式 2，棕色 |
+| `Style 2, Grey` | Style 2, Grey | 样式 2，灰色 |
+| `Style 3` | Style 3 | 样式 3 |
+| `Style 3, Black` | Style 3, Black | 样式 3，黑色 |
+| `Style 3, Blond` | Style 3, Blond | 样式 3，浅金色 |
+| `Style 3, Brown` | Style 3, Brown | 样式 3，棕色 |
+| `Style 3, Grey` | Style 3, Grey | 样式 3，灰色 |
+| `Style 4` | Style 4 | 样式 4 |
+| `Style 4, Black` | Style 4, Black | 样式 4，黑色 |
+| `Style 4, Blond` | Style 4, Blond | 样式 4，浅金色 |
+| `Style 4, Brown` | Style 4, Brown | 样式 4，棕色 |
+| `Style 4, Grey` | Style 4, Grey | 样式 4，灰色 |
+| `Style 5` | Style 5 | 样式 5 |
+| `Style 5, Black` | Style 5, Black | 样式 5，黑色 |
+| `Style 5, Blond` | Style 5, Blond | 样式 5，浅金色 |
+| `Style 5, Brown` | Style 5, Brown | 样式 5，棕色 |
+| `Style 5, Grey` | Style 5, Grey | 样式 5，灰色 |
+| `Style 6, Black` | Style 6, Black | 样式 6，黑色 |
+| `Style 6, Blond` | Style 6, Blond | 样式 6，浅金色 |
+| `Style 6, Brown` | Style 6, Brown | 样式 6，棕色 |
+| `Style 6, Grey` | Style 6, Grey | 样式 6，灰色 |
+| `Style 7, Black` | Style 7, Black | 样式 7，黑色 |
+| `Style 7, Blond` | Style 7, Blond | 样式 7，浅金色 |
+| `Style 7, Brown` | Style 7, Brown | 样式 7，棕色 |
+| `Style 7, Grey` | Style 7, Grey | 样式 7，灰色 |
+| `Style 8, Black` | Style 8, Black | 样式 8，黑色 |
+| `Style 8, Blond` | Style 8, Blond | 样式 8，浅金色 |
+| `Style 8, Brown` | Style 8, Brown | 样式 8，棕色 |
+| `Style 8, Grey` | Style 8, Grey | 样式 8，灰色 |
+| `Style 9, Black` | Style 9, Black | 样式 9，黑色 |
+| `Style 9, Blond` | Style 9, Blond | 样式 9，浅金色 |
+| `Style 9, Brown` | Style 9, Brown | 样式 9，棕色 |
+| `Style 9, Grey` | Style 9, Grey | 样式 9，灰色 |
+| `Thief 1, Black` | Thief 1, Black | 盗贼 1，黑色 |
+| `Thief 1, Brown` | Thief 1, Brown | 盗贼 1，棕色 |
+| `Thief 1, Green` | Thief 1, Green | 盗贼 1，绿色 |
+| `Thief 1, Red` | Thief 1, Red | 盗贼 1，红色 |
+| `Thief 2, Black` | Thief 2, Black | 盗贼 2，黑色 |
+| `Thief 2, Brown` | Thief 2, Brown | 盗贼 2，棕色 |
+| `Thief 2, Green` | Thief 2, Green | 盗贼 2，绿色 |
+| `Thief 2, Red` | Thief 2, Red | 盗贼 2，红色 |
+| `Thief 3, Black` | Thief 3, Black | 盗贼 3，黑色 |
+| `Thief 3, Brown` | Thief 3, Brown | 盗贼 3，棕色 |
+| `Thief 3, Green` | Thief 3, Green | 盗贼 3，绿色 |
+| `Thief 3, Red` | Thief 3, Red | 盗贼 3，红色 |
+| `Thief, Black` | Thief, Black | 盗贼，黑色 |
+| `Thief, Brown` | Thief, Brown | 盗贼，棕色 |
+| `Thief, Green` | Thief, Green | 盗贼，绿色 |
+| `Thief, Red` | Thief, Red | 盗贼，红色 |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | 探墓者 1，绿色 |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | 探墓者 1，紫色 |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | 探墓者 1，红色 |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | 探墓者 1，白色 |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | 探墓者 2，绿色 |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | 探墓者 2，紫色 |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | 探墓者 2，红色 |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | 探墓者 2，白色 |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | 探墓者，绿色 |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | 探墓者，紫色 |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | 探墓者，红色 |
+| `Tomb Seeker, White` | Tomb Seeker, White | 探墓者，白色 |
+| `Tone 1` | Tone 1 | 肤色 1 |
+| `Tone 2` | Tone 2 | 肤色 2 |
+| `Tone 3` | Tone 3 | 肤色 3 |
+| `Tone 4` | Tone 4 | 肤色 4 |
+| `Tone 5` | Tone 5 | 肤色 5 |
+| `Tone 6` | Tone 6 | 肤色 6 |
+| `Wave hello` | Wave hello | 挥手 |
+| `Body and face` | Body and face | 身体与面部 |
+| `Face` | Face | 脸型 |
+| `Moustache` | Moustache | 八字胡 |
+| `Tusks` | Tusks | 獠牙 |
+| `Earrings` | Earrings | 耳环 |
+| `Piercing` | Piercing | 面部穿环 |
+| `Scars` | Scars | 伤疤 |
+| `Face paint` | Face paint | 面部彩绘 |
+| `Body paint` | Body paint | 身体彩绘 |
+| `Black` | Black | 黑色 |
+| `Black, one blind eye` | Black, one blind eye | 黑色，单眼失明 |
+| `Blue, one blind eye` | Blue, one blind eye | 蓝色，单眼失明 |
+| `Brown, one blind eye` | Brown, one blind eye | 棕色，单眼失明 |
+| `Green, one blind eye` | Green, one blind eye | 绿色，单眼失明 |
+| `Grey` | Grey | 灰色 |
+| `Grey, one blind eye` | Grey, one blind eye | 灰色，单眼失明 |
+| `Purple, one blind eye` | Purple, one blind eye | 紫色，单眼失明 |
+| `Style 1, Blue` | Style 1, Blue | 样式 1，蓝色 |
+| `Style 1, Ginger` | Style 1, Ginger | 样式 1，橘红色 |
+| `Style 1, Purple` | Style 1, Purple | 样式 1，紫色 |
+| `Style 1, Red` | Style 1, Red | 样式 1，红色 |
+| `Style 2, Blue` | Style 2, Blue | 样式 2，蓝色 |
+| `Style 2, Ginger` | Style 2, Ginger | 样式 2，橘红色 |
+| `Style 2, Purple` | Style 2, Purple | 样式 2，紫色 |
+| `Style 2, Red` | Style 2, Red | 样式 2，红色 |
+| `Style 3, Blue` | Style 3, Blue | 样式 3，蓝色 |
+| `Style 3, Ginger` | Style 3, Ginger | 样式 3，橘红色 |
+| `Style 3, Purple` | Style 3, Purple | 样式 3，紫色 |
+| `Style 3, Red` | Style 3, Red | 样式 3，红色 |
+| `Style 4, Blue` | Style 4, Blue | 样式 4，蓝色 |
+| `Style 4, Ginger` | Style 4, Ginger | 样式 4，橘红色 |
+| `Style 4, Purple` | Style 4, Purple | 样式 4，紫色 |
+| `Style 4, Red` | Style 4, Red | 样式 4，红色 |
+| `Style 5, Blue` | Style 5, Blue | 样式 5，蓝色 |
+| `Style 5, Ginger` | Style 5, Ginger | 样式 5，橘红色 |
+| `Style 5, Purple` | Style 5, Purple | 样式 5，紫色 |
+| `Style 5, Red` | Style 5, Red | 样式 5，红色 |
+| `Style 6, Blue` | Style 6, Blue | 样式 6，蓝色 |
+| `Style 6, Ginger` | Style 6, Ginger | 样式 6，橘红色 |
+| `Style 6, Purple` | Style 6, Purple | 样式 6，紫色 |
+| `Style 6, Red` | Style 6, Red | 样式 6，红色 |
+| `Style 1, Green` | Style 1, Green | 样式 1，绿色 |
+| `Style 1, Yellow` | Style 1, Yellow | 样式 1，黄色 |
+| `Style 2, Green` | Style 2, Green | 样式 2，绿色 |
+| `Style 2, Yellow` | Style 2, Yellow | 样式 2，黄色 |
+| `Style 3, Green` | Style 3, Green | 样式 3，绿色 |
+| `Style 3, Yellow` | Style 3, Yellow | 样式 3，黄色 |
+| `Style 4, Green` | Style 4, Green | 样式 4，绿色 |
+| `Style 4, Yellow` | Style 4, Yellow | 样式 4，黄色 |
+| `Style 5, Green` | Style 5, Green | 样式 5，绿色 |
+| `Style 5, Yellow` | Style 5, Yellow | 样式 5，黄色 |
+| `Style 6, Green` | Style 6, Green | 样式 6，绿色 |
+| `Style 6, Yellow` | Style 6, Yellow | 样式 6，黄色 |
+| `Face 1` | Face 1 | 脸型 1 |
+| `Face 2` | Face 2 | 脸型 2 |
+| `Face 3` | Face 3 | 脸型 3 |
+| `Face 4` | Face 4 | 脸型 4 |
+| `Face 5` | Face 5 | 脸型 5 |
+| `Style 6` | Style 6 | 样式 6 |
+| `Style 7` | Style 7 | 样式 7 |
+| `Peasant, Black` | Peasant, Black | 农民，黑色 |
+| `Peasant, Green` | Peasant, Green | 农民，绿色 |
+| `Peasant, Purple` | Peasant, Purple | 农民，紫色 |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | 北境战士，红色 |
+| `Peasant 1, Black` | Peasant 1, Black | 农民 1，黑色 |
+| `Peasant 2, Black` | Peasant 2, Black | 农民 2，黑色 |
+| `Peasant 3, Black` | Peasant 3, Black | 农民 3，黑色 |
+| `Peasant 1, Green` | Peasant 1, Green | 农民 1，绿色 |
+| `Peasant 1, Purple` | Peasant 1, Purple | 农民 1，紫色 |
+| `Peasant 2, Green` | Peasant 2, Green | 农民 2，绿色 |
+| `Peasant 2, Purple` | Peasant 2, Purple | 农民 2，紫色 |
+| `Peasant 3, Green` | Peasant 3, Green | 农民 3，绿色 |
+| `Peasant 3, Purple` | Peasant 3, Purple | 农民 3，紫色 |
+| `Fairy wings, Blue` | Fairy wings, Blue | 妖精翅膀，蓝色 |
+| `Fairy wings, Gold` | Fairy wings, Gold | 妖精翅膀，金色 |
+| `Fairy wings, Green` | Fairy wings, Green | 妖精翅膀，绿色 |
+| `Fairy wings, Pink` | Fairy wings, Pink | 妖精翅膀，粉色 |
+| `Fairy wings, Silver` | Fairy wings, Silver | 妖精翅膀，银色 |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | 妖精翅膀，黄色 |
+| `Fairy wings, Violet` | Fairy wings, Violet | 妖精翅膀，紫罗兰色 |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | 妖精翅膀，绯红 |
+| `Fairy wings, Teal` | Fairy wings, Teal | 妖精翅膀，蓝绿色 |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | 妖精翅膀，日落 |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | 妖精翅膀，暗影 |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | 妖精翅膀，彩虹 |
+| `Demon wings, Rose` | Demon wings, Rose | 恶魔翅膀，玫瑰色 |
+| `Demon wings, Amber` | Demon wings, Amber | 恶魔翅膀，琥珀色 |
+| `Demon wings, Bone` | Demon wings, Bone | 恶魔翅膀，骨白 |
+| `Demon wings, Coral` | Demon wings, Coral | 恶魔翅膀，珊瑚色 |
+| `Demon wings, Moss` | Demon wings, Moss | 恶魔翅膀，苔绿 |
+| `Demon wings, Storm` | Demon wings, Storm | 恶魔翅膀，风暴 |
+| `Demon wings, Crimson` | Demon wings, Crimson | 恶魔翅膀，绯红 |
+| `Demon wings, Shadow` | Demon wings, Shadow | 恶魔翅膀，暗影 |
+| `Demon wings, Frost` | Demon wings, Frost | 恶魔翅膀，寒霜 |
+| `Demon wings, Venom` | Demon wings, Venom | 恶魔翅膀，剧毒 |
+| `Demon wings, Violet` | Demon wings, Violet | 恶魔翅膀，紫罗兰色 |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | 恶魔翅膀，地狱火 |
+| `Human` | Human | 人类 |
+| `Dwarf` | Dwarf | 矮人 |
+| `Cape and wings` | Cape and wings | 披风与翅膀 |
+| `Tint` | Tint | 色调 |
+| `No tint` | No tint | 无色调 |
+| `Pick any colour for the wings` | Pick any colour for the wings | 为翅膀任选一种颜色 |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Opdag |
 
-## Lines to review (521)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,281 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | +1 HP pr. mad og færdighedshandling |
 | `@f:runs` | runs | løb |
 | `@f:run` | run | løb |
+| `3D World` | 3D World | 3D-verden |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | 3D er tilgængelig på Steam med Supporterpakken. Klik for at se den på Steam. |
+| `Switch to 2D` | Switch to 2D | Skift til 2D |
+| `Go back to the 2D map.` | Go back to the 2D map. | Tilbage til 2D-kortet. |
+| `Switch to 3D` | Switch to 3D | Skift til 3D |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | Vis verden og kamp i 3D (beta). |
+| `2D / 3D Button` | 2D / 3D Button | 2D / 3D-knap |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | Vis knappen, der skifter mellem 2D-kortet og 3D-verdenen. |
+| `View the roadmap` | View the roadmap | Se køreplanen |
+| `Click anywhere to close` | Click anywhere to close | Klik hvor som helst for at lukke |
+| `Tap anywhere to close` | Tap anywhere to close | Tryk hvor som helst for at lukke |
+| `Roadmap` | Roadmap | Køreplan |
+| `3D World (beta)` | 3D World (beta) | 3D-verden (beta) |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Kræver Supporterpakken på Steam. Viser verden og kamp i 3D. |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | Vis verden og kamp i 3D. Træk eller brug piletasterne for at dreje og vippe kameraet, rul eller brug W og S for at zoome. |
+| `2D Sprite` | 2D Sprite | 2D-sprite |
+| `3D Character` | 3D Character | 3D-karakter |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | Indlæser 3D-karaktereditoren... |
+| `The 3D creator could not load.` | The 3D creator could not load. | 3D-editoren kunne ikke indlæses. |
+| `Loading the 3D character…` | Loading the 3D character… | Indlæser 3D-karakteren… |
+| `Run` | Run | Løb |
+| `↩ Revert` | ↩ Revert | ↩ Fortryd |
+| `✔ Saved` | ✔ Saved | ✔ Gemt |
+| `Saving…` | Saving… | Gemmer… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | Dit 3D-udseende vises i 3D-verdenen (Indstillinger > 3D-verden). Træk i forhåndsvisningen for at dreje den. |
+| `Male` | Male | Mand |
+| `Female` | Female | Kvinde |
+| `Clothes` | Clothes | Tøj |
+| `Get the Supporter Pack` | Get the Supporter Pack | Hent Supporterpakken |
+| `Get the Wings Pack` | Get the Wings Pack | Hent Vingepakken |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | Du prøver genstande fra Supporterpakken på. For at gemme skal du have pakken. |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | Du prøver genstande fra Vingepakken på. For at gemme skal du have pakken. |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | Du prøver genstande fra Supporterpakken og Vingepakken på. For at gemme skal du have begge pakker. |
+| `Skin` | Skin | Hud |
+| `Eyes` | Eyes | Øjne |
+| `Beard` | Beard | Skæg |
+| `Brows` | Brows | Øjenbryn |
+| `Underclothes` | Underclothes | Undertøj |
+| `Shoulders` | Shoulders | Skuldre |
+| `Chest` | Chest | Bryst |
+| `Shirt` | Shirt | Skjorte |
+| `Hand wraps` | Hand wraps | Håndbind |
+| `Trousers` | Trousers | Bukser |
+| `Boots` | Boots | Støvler |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | Indlæser alt, før verden åbner |
+| `Back to 2D` | Back to 2D | Tilbage til 2D |
+| `The 3D world could not load.` | The 3D world could not load. | 3D-verdenen kunne ikke indlæses. |
+| `Reading the map` | Reading the map | Læser kortet |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | Indlæser verdens 3D-modeller |
+| `Loading characters` | Loading characters | Indlæser karakterer |
+| `Loading creatures` | Loading creatures | Indlæser væsner |
+| `Loading water and weather` | Loading water and weather | Indlæser vand og vejr |
+| `Building the area around you` | Building the area around you | Bygger området omkring dig |
+| `Preparing shaders` | Preparing shaders | Forbereder shaders |
+| `Loading the area around you…` | Loading the area around you… | Indlæser området omkring dig… |
+| `Blue` | Blue | Blå |
+| `Brown` | Brown | Brun |
+| `Green` | Green | Grøn |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | Nordisk kriger, Blå |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | Nordisk kriger, Grøn |
+| `Nordic Warrior, White` | Nordic Warrior, White | Nordisk kriger, Hvid |
+| `Peasant 1, Blue` | Peasant 1, Blue | Bonde 1, Blå |
+| `Peasant 1, Brown` | Peasant 1, Brown | Bonde 1, Brun |
+| `Peasant 1, Red` | Peasant 1, Red | Bonde 1, Rød |
+| `Peasant 2, Blue` | Peasant 2, Blue | Bonde 2, Blå |
+| `Peasant 2, Brown` | Peasant 2, Brown | Bonde 2, Brun |
+| `Peasant 2, Red` | Peasant 2, Red | Bonde 2, Rød |
+| `Peasant 3, Blue` | Peasant 3, Blue | Bonde 3, Blå |
+| `Peasant 3, Brown` | Peasant 3, Brown | Bonde 3, Brun |
+| `Peasant 3, Red` | Peasant 3, Red | Bonde 3, Rød |
+| `Peasant, Blue` | Peasant, Blue | Bonde, Blå |
+| `Peasant, Brown` | Peasant, Brown | Bonde, Brun |
+| `Peasant, Red` | Peasant, Red | Bonde, Rød |
+| `Plain trousers` | Plain trousers | Enkle bukser |
+| `Purple` | Purple | Lilla |
+| `Reaper, Blue` | Reaper, Blue | Høster, Blå |
+| `Reaper, Cyan` | Reaper, Cyan | Høster, Cyan |
+| `Reaper, Green` | Reaper, Green | Høster, Grøn |
+| `Sentinel, Gold` | Sentinel, Gold | Skildvagt, Guld |
+| `Sentinel, Green` | Sentinel, Green | Skildvagt, Grøn |
+| `Sentinel, Grey` | Sentinel, Grey | Skildvagt, Grå |
+| `Sentinel, Red` | Sentinel, Red | Skildvagt, Rød |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | Skyggemagiker 1, Blå |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | Skyggemagiker 1, Cyan |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | Skyggemagiker 1, Rød |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | Skyggemagiker 2, Blå |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | Skyggemagiker 2, Cyan |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | Skyggemagiker 2, Rød |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | Skyggemagiker 3, Blå |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | Skyggemagiker 3, Cyan |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | Skyggemagiker 3, Rød |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | Skyggemagiker, Blå |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | Skyggemagiker, Cyan |
+| `Shadow Mage, Red` | Shadow Mage, Red | Skyggemagiker, Rød |
+| `Style 1` | Style 1 | Stil 1 |
+| `Style 1, Black` | Style 1, Black | Stil 1, Sort |
+| `Style 1, Blond` | Style 1, Blond | Stil 1, Blond |
+| `Style 1, Brown` | Style 1, Brown | Stil 1, Brun |
+| `Style 1, Grey` | Style 1, Grey | Stil 1, Grå |
+| `Style 10, Black` | Style 10, Black | Stil 10, Sort |
+| `Style 10, Blond` | Style 10, Blond | Stil 10, Blond |
+| `Style 10, Brown` | Style 10, Brown | Stil 10, Brun |
+| `Style 10, Grey` | Style 10, Grey | Stil 10, Grå |
+| `Style 2` | Style 2 | Stil 2 |
+| `Style 2, Black` | Style 2, Black | Stil 2, Sort |
+| `Style 2, Blond` | Style 2, Blond | Stil 2, Blond |
+| `Style 2, Brown` | Style 2, Brown | Stil 2, Brun |
+| `Style 2, Grey` | Style 2, Grey | Stil 2, Grå |
+| `Style 3` | Style 3 | Stil 3 |
+| `Style 3, Black` | Style 3, Black | Stil 3, Sort |
+| `Style 3, Blond` | Style 3, Blond | Stil 3, Blond |
+| `Style 3, Brown` | Style 3, Brown | Stil 3, Brun |
+| `Style 3, Grey` | Style 3, Grey | Stil 3, Grå |
+| `Style 4` | Style 4 | Stil 4 |
+| `Style 4, Black` | Style 4, Black | Stil 4, Sort |
+| `Style 4, Blond` | Style 4, Blond | Stil 4, Blond |
+| `Style 4, Brown` | Style 4, Brown | Stil 4, Brun |
+| `Style 4, Grey` | Style 4, Grey | Stil 4, Grå |
+| `Style 5` | Style 5 | Stil 5 |
+| `Style 5, Black` | Style 5, Black | Stil 5, Sort |
+| `Style 5, Blond` | Style 5, Blond | Stil 5, Blond |
+| `Style 5, Brown` | Style 5, Brown | Stil 5, Brun |
+| `Style 5, Grey` | Style 5, Grey | Stil 5, Grå |
+| `Style 6, Black` | Style 6, Black | Stil 6, Sort |
+| `Style 6, Blond` | Style 6, Blond | Stil 6, Blond |
+| `Style 6, Brown` | Style 6, Brown | Stil 6, Brun |
+| `Style 6, Grey` | Style 6, Grey | Stil 6, Grå |
+| `Style 7, Black` | Style 7, Black | Stil 7, Sort |
+| `Style 7, Blond` | Style 7, Blond | Stil 7, Blond |
+| `Style 7, Brown` | Style 7, Brown | Stil 7, Brun |
+| `Style 7, Grey` | Style 7, Grey | Stil 7, Grå |
+| `Style 8, Black` | Style 8, Black | Stil 8, Sort |
+| `Style 8, Blond` | Style 8, Blond | Stil 8, Blond |
+| `Style 8, Brown` | Style 8, Brown | Stil 8, Brun |
+| `Style 8, Grey` | Style 8, Grey | Stil 8, Grå |
+| `Style 9, Black` | Style 9, Black | Stil 9, Sort |
+| `Style 9, Blond` | Style 9, Blond | Stil 9, Blond |
+| `Style 9, Brown` | Style 9, Brown | Stil 9, Brun |
+| `Style 9, Grey` | Style 9, Grey | Stil 9, Grå |
+| `Thief 1, Black` | Thief 1, Black | Tyv 1, Sort |
+| `Thief 1, Brown` | Thief 1, Brown | Tyv 1, Brun |
+| `Thief 1, Green` | Thief 1, Green | Tyv 1, Grøn |
+| `Thief 1, Red` | Thief 1, Red | Tyv 1, Rød |
+| `Thief 2, Black` | Thief 2, Black | Tyv 2, Sort |
+| `Thief 2, Brown` | Thief 2, Brown | Tyv 2, Brun |
+| `Thief 2, Green` | Thief 2, Green | Tyv 2, Grøn |
+| `Thief 2, Red` | Thief 2, Red | Tyv 2, Rød |
+| `Thief 3, Black` | Thief 3, Black | Tyv 3, Sort |
+| `Thief 3, Brown` | Thief 3, Brown | Tyv 3, Brun |
+| `Thief 3, Green` | Thief 3, Green | Tyv 3, Grøn |
+| `Thief 3, Red` | Thief 3, Red | Tyv 3, Rød |
+| `Thief, Black` | Thief, Black | Tyv, Sort |
+| `Thief, Brown` | Thief, Brown | Tyv, Brun |
+| `Thief, Green` | Thief, Green | Tyv, Grøn |
+| `Thief, Red` | Thief, Red | Tyv, Rød |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | Gravsøger 1, Grøn |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | Gravsøger 1, Lilla |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | Gravsøger 1, Rød |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | Gravsøger 1, Hvid |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | Gravsøger 2, Grøn |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | Gravsøger 2, Lilla |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | Gravsøger 2, Rød |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | Gravsøger 2, Hvid |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | Gravsøger, Grøn |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | Gravsøger, Lilla |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | Gravsøger, Rød |
+| `Tomb Seeker, White` | Tomb Seeker, White | Gravsøger, Hvid |
+| `Tone 1` | Tone 1 | Tone 1 |
+| `Tone 2` | Tone 2 | Tone 2 |
+| `Tone 3` | Tone 3 | Tone 3 |
+| `Tone 4` | Tone 4 | Tone 4 |
+| `Tone 5` | Tone 5 | Tone 5 |
+| `Tone 6` | Tone 6 | Tone 6 |
+| `Wave hello` | Wave hello | Vink |
+| `Body and face` | Body and face | Krop og ansigt |
+| `Face` | Face | Ansigt |
+| `Moustache` | Moustache | Overskæg |
+| `Tusks` | Tusks | Stødtænder |
+| `Earrings` | Earrings | Øreringe |
+| `Piercing` | Piercing | Piercing |
+| `Scars` | Scars | Ar |
+| `Face paint` | Face paint | Ansigtsmaling |
+| `Body paint` | Body paint | Kropsmaling |
+| `Black` | Black | Sort |
+| `Black, one blind eye` | Black, one blind eye | Sort, ét blindt øje |
+| `Blue, one blind eye` | Blue, one blind eye | Blå, ét blindt øje |
+| `Brown, one blind eye` | Brown, one blind eye | Brun, ét blindt øje |
+| `Green, one blind eye` | Green, one blind eye | Grøn, ét blindt øje |
+| `Grey` | Grey | Grå |
+| `Grey, one blind eye` | Grey, one blind eye | Grå, ét blindt øje |
+| `Purple, one blind eye` | Purple, one blind eye | Lilla, ét blindt øje |
+| `Style 1, Blue` | Style 1, Blue | Stil 1, Blå |
+| `Style 1, Ginger` | Style 1, Ginger | Stil 1, Kobberrød |
+| `Style 1, Purple` | Style 1, Purple | Stil 1, Lilla |
+| `Style 1, Red` | Style 1, Red | Stil 1, Rød |
+| `Style 2, Blue` | Style 2, Blue | Stil 2, Blå |
+| `Style 2, Ginger` | Style 2, Ginger | Stil 2, Kobberrød |
+| `Style 2, Purple` | Style 2, Purple | Stil 2, Lilla |
+| `Style 2, Red` | Style 2, Red | Stil 2, Rød |
+| `Style 3, Blue` | Style 3, Blue | Stil 3, Blå |
+| `Style 3, Ginger` | Style 3, Ginger | Stil 3, Kobberrød |
+| `Style 3, Purple` | Style 3, Purple | Stil 3, Lilla |
+| `Style 3, Red` | Style 3, Red | Stil 3, Rød |
+| `Style 4, Blue` | Style 4, Blue | Stil 4, Blå |
+| `Style 4, Ginger` | Style 4, Ginger | Stil 4, Kobberrød |
+| `Style 4, Purple` | Style 4, Purple | Stil 4, Lilla |
+| `Style 4, Red` | Style 4, Red | Stil 4, Rød |
+| `Style 5, Blue` | Style 5, Blue | Stil 5, Blå |
+| `Style 5, Ginger` | Style 5, Ginger | Stil 5, Kobberrød |
+| `Style 5, Purple` | Style 5, Purple | Stil 5, Lilla |
+| `Style 5, Red` | Style 5, Red | Stil 5, Rød |
+| `Style 6, Blue` | Style 6, Blue | Stil 6, Blå |
+| `Style 6, Ginger` | Style 6, Ginger | Stil 6, Kobberrød |
+| `Style 6, Purple` | Style 6, Purple | Stil 6, Lilla |
+| `Style 6, Red` | Style 6, Red | Stil 6, Rød |
+| `Style 1, Green` | Style 1, Green | Stil 1, Grøn |
+| `Style 1, Yellow` | Style 1, Yellow | Stil 1, Gul |
+| `Style 2, Green` | Style 2, Green | Stil 2, Grøn |
+| `Style 2, Yellow` | Style 2, Yellow | Stil 2, Gul |
+| `Style 3, Green` | Style 3, Green | Stil 3, Grøn |
+| `Style 3, Yellow` | Style 3, Yellow | Stil 3, Gul |
+| `Style 4, Green` | Style 4, Green | Stil 4, Grøn |
+| `Style 4, Yellow` | Style 4, Yellow | Stil 4, Gul |
+| `Style 5, Green` | Style 5, Green | Stil 5, Grøn |
+| `Style 5, Yellow` | Style 5, Yellow | Stil 5, Gul |
+| `Style 6, Green` | Style 6, Green | Stil 6, Grøn |
+| `Style 6, Yellow` | Style 6, Yellow | Stil 6, Gul |
+| `Face 1` | Face 1 | Ansigt 1 |
+| `Face 2` | Face 2 | Ansigt 2 |
+| `Face 3` | Face 3 | Ansigt 3 |
+| `Face 4` | Face 4 | Ansigt 4 |
+| `Face 5` | Face 5 | Ansigt 5 |
+| `Style 6` | Style 6 | Stil 6 |
+| `Style 7` | Style 7 | Stil 7 |
+| `Peasant, Black` | Peasant, Black | Bonde, Sort |
+| `Peasant, Green` | Peasant, Green | Bonde, Grøn |
+| `Peasant, Purple` | Peasant, Purple | Bonde, Lilla |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | Nordisk kriger, Rød |
+| `Peasant 1, Black` | Peasant 1, Black | Bonde 1, Sort |
+| `Peasant 2, Black` | Peasant 2, Black | Bonde 2, Sort |
+| `Peasant 3, Black` | Peasant 3, Black | Bonde 3, Sort |
+| `Peasant 1, Green` | Peasant 1, Green | Bonde 1, Grøn |
+| `Peasant 1, Purple` | Peasant 1, Purple | Bonde 1, Lilla |
+| `Peasant 2, Green` | Peasant 2, Green | Bonde 2, Grøn |
+| `Peasant 2, Purple` | Peasant 2, Purple | Bonde 2, Lilla |
+| `Peasant 3, Green` | Peasant 3, Green | Bonde 3, Grøn |
+| `Peasant 3, Purple` | Peasant 3, Purple | Bonde 3, Lilla |
+| `Fairy wings, Blue` | Fairy wings, Blue | Fevinger, Blå |
+| `Fairy wings, Gold` | Fairy wings, Gold | Fevinger, Guld |
+| `Fairy wings, Green` | Fairy wings, Green | Fevinger, Grøn |
+| `Fairy wings, Pink` | Fairy wings, Pink | Fevinger, Lyserød |
+| `Fairy wings, Silver` | Fairy wings, Silver | Fevinger, Sølv |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | Fevinger, Gul |
+| `Fairy wings, Violet` | Fairy wings, Violet | Fevinger, Violet |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | Fevinger, Karmosinrød |
+| `Fairy wings, Teal` | Fairy wings, Teal | Fevinger, Blågrøn |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | Fevinger, Solnedgang |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | Fevinger, Skygge |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | Fevinger, Regnbue |
+| `Demon wings, Rose` | Demon wings, Rose | Dæmonvinger, Rosenrød |
+| `Demon wings, Amber` | Demon wings, Amber | Dæmonvinger, Rav |
+| `Demon wings, Bone` | Demon wings, Bone | Dæmonvinger, Knogle |
+| `Demon wings, Coral` | Demon wings, Coral | Dæmonvinger, Koral |
+| `Demon wings, Moss` | Demon wings, Moss | Dæmonvinger, Mos |
+| `Demon wings, Storm` | Demon wings, Storm | Dæmonvinger, Storm |
+| `Demon wings, Crimson` | Demon wings, Crimson | Dæmonvinger, Karmosinrød |
+| `Demon wings, Shadow` | Demon wings, Shadow | Dæmonvinger, Skygge |
+| `Demon wings, Frost` | Demon wings, Frost | Dæmonvinger, Frost |
+| `Demon wings, Venom` | Demon wings, Venom | Dæmonvinger, Edder |
+| `Demon wings, Violet` | Demon wings, Violet | Dæmonvinger, Violet |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | Dæmonvinger, Helvedesild |
+| `Human` | Human | Menneske |
+| `Dwarf` | Dwarf | Dværg |
+| `Cape and wings` | Cape and wings | Kappe og vinger |
+| `Tint` | Tint | Toning |
+| `No tint` | No tint | Ingen toning |
+| `Pick any colour for the wings` | Pick any colour for the wings | Vælg selv en farve til vingerne |

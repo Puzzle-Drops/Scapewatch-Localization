@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (521)
+## Lines to review (799)
 
 | Key | English | Current |
 |---|---|---|
@@ -591,3 +591,281 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@b:hp_food_action` | +1 HP per food and skilling action | 食料とスキルアクションごとにHP+1 |
 | `@f:runs` | runs | 回 |
 | `@f:run` | run | 回 |
+| `3D World` | 3D World | 3Dワールド |
+| `3D is available on Steam with the Supporter Pack. Click to view it on Steam.` | 3D is available on Steam with the Supporter Pack. Click to view it on Steam. | 3DはSteamのサポーターパックで利用できます。クリックするとSteamで表示します。 |
+| `Switch to 2D` | Switch to 2D | 2Dに切り替え |
+| `Go back to the 2D map.` | Go back to the 2D map. | 2Dマップに戻ります。 |
+| `Switch to 3D` | Switch to 3D | 3Dに切り替え |
+| `Show the world and combat in 3D (beta).` | Show the world and combat in 3D (beta). | ワールドと戦闘を3Dで表示します（ベータ版）。 |
+| `2D / 3D Button` | 2D / 3D Button | 2D / 3Dボタン |
+| `Show the button that switches between the 2D map and the 3D World.` | Show the button that switches between the 2D map and the 3D World. | 2Dマップと3Dワールドを切り替えるボタンを表示します。 |
+| `View the roadmap` | View the roadmap | ロードマップを見る |
+| `Click anywhere to close` | Click anywhere to close | どこかをクリックして閉じる |
+| `Tap anywhere to close` | Tap anywhere to close | どこかをタップして閉じる |
+| `Roadmap` | Roadmap | ロードマップ |
+| `3D World (beta)` | 3D World (beta) | 3Dワールド（ベータ版） |
+| `Requires the Supporter Pack on Steam. Shows the world and combat in 3D.` | Requires the Supporter Pack on Steam. Shows the world and combat in 3D. | Steamのサポーターパックが必要です。ワールドと戦闘を3Dで表示します。 |
+| `Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom.` | Show the world and combat in 3D. Drag or use the arrow keys to turn and tilt the camera, scroll or W and S to zoom. | ワールドと戦闘を3Dで表示します。ドラッグまたは矢印キーでカメラを回転・傾斜、スクロールまたはWとSでズームします。 |
+| `2D Sprite` | 2D Sprite | 2Dスプライト |
+| `3D Character` | 3D Character | 3Dキャラクター |
+| `Loading the 3D character creator...` | Loading the 3D character creator... | 3Dキャラクタークリエイトを読み込み中... |
+| `The 3D creator could not load.` | The 3D creator could not load. | 3Dキャラクタークリエイトを読み込めませんでした。 |
+| `Loading the 3D character…` | Loading the 3D character… | 3Dキャラクターを読み込み中… |
+| `Run` | Run | ダッシュ |
+| `↩ Revert` | ↩ Revert | ↩ 元に戻す |
+| `✔ Saved` | ✔ Saved | ✔ 保存済み |
+| `Saving…` | Saving… | 保存中… |
+| `Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it.` | Your 3D look shows in the 3D world (Settings > 3D World). Drag the preview to turn it. | 3Dの見た目は3Dワールドに反映されます（設定 > 3Dワールド）。プレビューをドラッグすると回転できます。 |
+| `Male` | Male | 男性 |
+| `Female` | Female | 女性 |
+| `Clothes` | Clothes | 服装 |
+| `Get the Supporter Pack` | Get the Supporter Pack | サポーターパックを入手 |
+| `Get the Wings Pack` | Get the Wings Pack | ウィングパックを入手 |
+| `Trying on Supporter Pack items. Saving needs the pack.` | Trying on Supporter Pack items. Saving needs the pack. | サポーターパックのアイテムを試着中です。保存にはパックが必要です。 |
+| `Trying on Wings Pack items. Saving needs the pack.` | Trying on Wings Pack items. Saving needs the pack. | ウィングパックのアイテムを試着中です。保存にはパックが必要です。 |
+| `Trying on Supporter Pack and Wings Pack items. Saving needs both packs.` | Trying on Supporter Pack and Wings Pack items. Saving needs both packs. | サポーターパックとウィングパックのアイテムを試着中です。保存には両方のパックが必要です。 |
+| `Skin` | Skin | 肌 |
+| `Eyes` | Eyes | 瞳 |
+| `Beard` | Beard | ヒゲ |
+| `Brows` | Brows | 眉 |
+| `Underclothes` | Underclothes | インナー |
+| `Shoulders` | Shoulders | 肩 |
+| `Chest` | Chest | 胴 |
+| `Shirt` | Shirt | シャツ |
+| `Hand wraps` | Hand wraps | ハンドラップ |
+| `Trousers` | Trousers | ズボン |
+| `Boots` | Boots | ブーツ |
+| `Scapewatch 3D` | Scapewatch 3D | Scapewatch 3D |
+| `Loading everything before the world opens` | Loading everything before the world opens | ワールドを開く前にすべてを読み込んでいます |
+| `Back to 2D` | Back to 2D | 2Dに戻る |
+| `The 3D world could not load.` | The 3D world could not load. | 3Dワールドを読み込めませんでした。 |
+| `Reading the map` | Reading the map | マップの読み取り |
+| `Loading the world’s 3D models` | Loading the world’s 3D models | ワールドの3Dモデルの読み込み |
+| `Loading characters` | Loading characters | キャラクターの読み込み |
+| `Loading creatures` | Loading creatures | クリーチャーの読み込み |
+| `Loading water and weather` | Loading water and weather | 水と天候の読み込み |
+| `Building the area around you` | Building the area around you | 周辺エリアの構築 |
+| `Preparing shaders` | Preparing shaders | シェーダーの準備 |
+| `Loading the area around you…` | Loading the area around you… | 周辺エリアを読み込み中… |
+| `Blue` | Blue | 青 |
+| `Brown` | Brown | 茶色 |
+| `Green` | Green | 緑 |
+| `Nordic Warrior, Blue` | Nordic Warrior, Blue | 北方の戦士、青 |
+| `Nordic Warrior, Green` | Nordic Warrior, Green | 北方の戦士、緑 |
+| `Nordic Warrior, White` | Nordic Warrior, White | 北方の戦士、白 |
+| `Peasant 1, Blue` | Peasant 1, Blue | 農民 1、青 |
+| `Peasant 1, Brown` | Peasant 1, Brown | 農民 1、茶色 |
+| `Peasant 1, Red` | Peasant 1, Red | 農民 1、赤 |
+| `Peasant 2, Blue` | Peasant 2, Blue | 農民 2、青 |
+| `Peasant 2, Brown` | Peasant 2, Brown | 農民 2、茶色 |
+| `Peasant 2, Red` | Peasant 2, Red | 農民 2、赤 |
+| `Peasant 3, Blue` | Peasant 3, Blue | 農民 3、青 |
+| `Peasant 3, Brown` | Peasant 3, Brown | 農民 3、茶色 |
+| `Peasant 3, Red` | Peasant 3, Red | 農民 3、赤 |
+| `Peasant, Blue` | Peasant, Blue | 農民、青 |
+| `Peasant, Brown` | Peasant, Brown | 農民、茶色 |
+| `Peasant, Red` | Peasant, Red | 農民、赤 |
+| `Plain trousers` | Plain trousers | 無地のズボン |
+| `Purple` | Purple | 紫 |
+| `Reaper, Blue` | Reaper, Blue | 死神、青 |
+| `Reaper, Cyan` | Reaper, Cyan | 死神、シアン |
+| `Reaper, Green` | Reaper, Green | 死神、緑 |
+| `Sentinel, Gold` | Sentinel, Gold | 番兵、金色 |
+| `Sentinel, Green` | Sentinel, Green | 番兵、緑 |
+| `Sentinel, Grey` | Sentinel, Grey | 番兵、灰色 |
+| `Sentinel, Red` | Sentinel, Red | 番兵、赤 |
+| `Shadow Mage 1, Blue` | Shadow Mage 1, Blue | 影の魔術師 1、青 |
+| `Shadow Mage 1, Cyan` | Shadow Mage 1, Cyan | 影の魔術師 1、シアン |
+| `Shadow Mage 1, Red` | Shadow Mage 1, Red | 影の魔術師 1、赤 |
+| `Shadow Mage 2, Blue` | Shadow Mage 2, Blue | 影の魔術師 2、青 |
+| `Shadow Mage 2, Cyan` | Shadow Mage 2, Cyan | 影の魔術師 2、シアン |
+| `Shadow Mage 2, Red` | Shadow Mage 2, Red | 影の魔術師 2、赤 |
+| `Shadow Mage 3, Blue` | Shadow Mage 3, Blue | 影の魔術師 3、青 |
+| `Shadow Mage 3, Cyan` | Shadow Mage 3, Cyan | 影の魔術師 3、シアン |
+| `Shadow Mage 3, Red` | Shadow Mage 3, Red | 影の魔術師 3、赤 |
+| `Shadow Mage, Blue` | Shadow Mage, Blue | 影の魔術師、青 |
+| `Shadow Mage, Cyan` | Shadow Mage, Cyan | 影の魔術師、シアン |
+| `Shadow Mage, Red` | Shadow Mage, Red | 影の魔術師、赤 |
+| `Style 1` | Style 1 | スタイル 1 |
+| `Style 1, Black` | Style 1, Black | スタイル 1、黒 |
+| `Style 1, Blond` | Style 1, Blond | スタイル 1、ブロンド |
+| `Style 1, Brown` | Style 1, Brown | スタイル 1、茶色 |
+| `Style 1, Grey` | Style 1, Grey | スタイル 1、灰色 |
+| `Style 10, Black` | Style 10, Black | スタイル 10、黒 |
+| `Style 10, Blond` | Style 10, Blond | スタイル 10、ブロンド |
+| `Style 10, Brown` | Style 10, Brown | スタイル 10、茶色 |
+| `Style 10, Grey` | Style 10, Grey | スタイル 10、灰色 |
+| `Style 2` | Style 2 | スタイル 2 |
+| `Style 2, Black` | Style 2, Black | スタイル 2、黒 |
+| `Style 2, Blond` | Style 2, Blond | スタイル 2、ブロンド |
+| `Style 2, Brown` | Style 2, Brown | スタイル 2、茶色 |
+| `Style 2, Grey` | Style 2, Grey | スタイル 2、灰色 |
+| `Style 3` | Style 3 | スタイル 3 |
+| `Style 3, Black` | Style 3, Black | スタイル 3、黒 |
+| `Style 3, Blond` | Style 3, Blond | スタイル 3、ブロンド |
+| `Style 3, Brown` | Style 3, Brown | スタイル 3、茶色 |
+| `Style 3, Grey` | Style 3, Grey | スタイル 3、灰色 |
+| `Style 4` | Style 4 | スタイル 4 |
+| `Style 4, Black` | Style 4, Black | スタイル 4、黒 |
+| `Style 4, Blond` | Style 4, Blond | スタイル 4、ブロンド |
+| `Style 4, Brown` | Style 4, Brown | スタイル 4、茶色 |
+| `Style 4, Grey` | Style 4, Grey | スタイル 4、灰色 |
+| `Style 5` | Style 5 | スタイル 5 |
+| `Style 5, Black` | Style 5, Black | スタイル 5、黒 |
+| `Style 5, Blond` | Style 5, Blond | スタイル 5、ブロンド |
+| `Style 5, Brown` | Style 5, Brown | スタイル 5、茶色 |
+| `Style 5, Grey` | Style 5, Grey | スタイル 5、灰色 |
+| `Style 6, Black` | Style 6, Black | スタイル 6、黒 |
+| `Style 6, Blond` | Style 6, Blond | スタイル 6、ブロンド |
+| `Style 6, Brown` | Style 6, Brown | スタイル 6、茶色 |
+| `Style 6, Grey` | Style 6, Grey | スタイル 6、灰色 |
+| `Style 7, Black` | Style 7, Black | スタイル 7、黒 |
+| `Style 7, Blond` | Style 7, Blond | スタイル 7、ブロンド |
+| `Style 7, Brown` | Style 7, Brown | スタイル 7、茶色 |
+| `Style 7, Grey` | Style 7, Grey | スタイル 7、灰色 |
+| `Style 8, Black` | Style 8, Black | スタイル 8、黒 |
+| `Style 8, Blond` | Style 8, Blond | スタイル 8、ブロンド |
+| `Style 8, Brown` | Style 8, Brown | スタイル 8、茶色 |
+| `Style 8, Grey` | Style 8, Grey | スタイル 8、灰色 |
+| `Style 9, Black` | Style 9, Black | スタイル 9、黒 |
+| `Style 9, Blond` | Style 9, Blond | スタイル 9、ブロンド |
+| `Style 9, Brown` | Style 9, Brown | スタイル 9、茶色 |
+| `Style 9, Grey` | Style 9, Grey | スタイル 9、灰色 |
+| `Thief 1, Black` | Thief 1, Black | 盗賊 1、黒 |
+| `Thief 1, Brown` | Thief 1, Brown | 盗賊 1、茶色 |
+| `Thief 1, Green` | Thief 1, Green | 盗賊 1、緑 |
+| `Thief 1, Red` | Thief 1, Red | 盗賊 1、赤 |
+| `Thief 2, Black` | Thief 2, Black | 盗賊 2、黒 |
+| `Thief 2, Brown` | Thief 2, Brown | 盗賊 2、茶色 |
+| `Thief 2, Green` | Thief 2, Green | 盗賊 2、緑 |
+| `Thief 2, Red` | Thief 2, Red | 盗賊 2、赤 |
+| `Thief 3, Black` | Thief 3, Black | 盗賊 3、黒 |
+| `Thief 3, Brown` | Thief 3, Brown | 盗賊 3、茶色 |
+| `Thief 3, Green` | Thief 3, Green | 盗賊 3、緑 |
+| `Thief 3, Red` | Thief 3, Red | 盗賊 3、赤 |
+| `Thief, Black` | Thief, Black | 盗賊、黒 |
+| `Thief, Brown` | Thief, Brown | 盗賊、茶色 |
+| `Thief, Green` | Thief, Green | 盗賊、緑 |
+| `Thief, Red` | Thief, Red | 盗賊、赤 |
+| `Tomb Seeker 1, Green` | Tomb Seeker 1, Green | 墓所の探索者 1、緑 |
+| `Tomb Seeker 1, Purple` | Tomb Seeker 1, Purple | 墓所の探索者 1、紫 |
+| `Tomb Seeker 1, Red` | Tomb Seeker 1, Red | 墓所の探索者 1、赤 |
+| `Tomb Seeker 1, White` | Tomb Seeker 1, White | 墓所の探索者 1、白 |
+| `Tomb Seeker 2, Green` | Tomb Seeker 2, Green | 墓所の探索者 2、緑 |
+| `Tomb Seeker 2, Purple` | Tomb Seeker 2, Purple | 墓所の探索者 2、紫 |
+| `Tomb Seeker 2, Red` | Tomb Seeker 2, Red | 墓所の探索者 2、赤 |
+| `Tomb Seeker 2, White` | Tomb Seeker 2, White | 墓所の探索者 2、白 |
+| `Tomb Seeker, Green` | Tomb Seeker, Green | 墓所の探索者、緑 |
+| `Tomb Seeker, Purple` | Tomb Seeker, Purple | 墓所の探索者、紫 |
+| `Tomb Seeker, Red` | Tomb Seeker, Red | 墓所の探索者、赤 |
+| `Tomb Seeker, White` | Tomb Seeker, White | 墓所の探索者、白 |
+| `Tone 1` | Tone 1 | トーン 1 |
+| `Tone 2` | Tone 2 | トーン 2 |
+| `Tone 3` | Tone 3 | トーン 3 |
+| `Tone 4` | Tone 4 | トーン 4 |
+| `Tone 5` | Tone 5 | トーン 5 |
+| `Tone 6` | Tone 6 | トーン 6 |
+| `Wave hello` | Wave hello | あいさつ |
+| `Body and face` | Body and face | 体と顔 |
+| `Face` | Face | 顔 |
+| `Moustache` | Moustache | 口ひげ |
+| `Tusks` | Tusks | 牙 |
+| `Earrings` | Earrings | イヤリング |
+| `Piercing` | Piercing | フェイスピアス |
+| `Scars` | Scars | 傷跡 |
+| `Face paint` | Face paint | フェイスペイント |
+| `Body paint` | Body paint | ボディペイント |
+| `Black` | Black | 黒 |
+| `Black, one blind eye` | Black, one blind eye | 黒、片目失明 |
+| `Blue, one blind eye` | Blue, one blind eye | 青、片目失明 |
+| `Brown, one blind eye` | Brown, one blind eye | 茶色、片目失明 |
+| `Green, one blind eye` | Green, one blind eye | 緑、片目失明 |
+| `Grey` | Grey | 灰色 |
+| `Grey, one blind eye` | Grey, one blind eye | 灰色、片目失明 |
+| `Purple, one blind eye` | Purple, one blind eye | 紫、片目失明 |
+| `Style 1, Blue` | Style 1, Blue | スタイル 1、青 |
+| `Style 1, Ginger` | Style 1, Ginger | スタイル 1、赤毛 |
+| `Style 1, Purple` | Style 1, Purple | スタイル 1、紫 |
+| `Style 1, Red` | Style 1, Red | スタイル 1、赤 |
+| `Style 2, Blue` | Style 2, Blue | スタイル 2、青 |
+| `Style 2, Ginger` | Style 2, Ginger | スタイル 2、赤毛 |
+| `Style 2, Purple` | Style 2, Purple | スタイル 2、紫 |
+| `Style 2, Red` | Style 2, Red | スタイル 2、赤 |
+| `Style 3, Blue` | Style 3, Blue | スタイル 3、青 |
+| `Style 3, Ginger` | Style 3, Ginger | スタイル 3、赤毛 |
+| `Style 3, Purple` | Style 3, Purple | スタイル 3、紫 |
+| `Style 3, Red` | Style 3, Red | スタイル 3、赤 |
+| `Style 4, Blue` | Style 4, Blue | スタイル 4、青 |
+| `Style 4, Ginger` | Style 4, Ginger | スタイル 4、赤毛 |
+| `Style 4, Purple` | Style 4, Purple | スタイル 4、紫 |
+| `Style 4, Red` | Style 4, Red | スタイル 4、赤 |
+| `Style 5, Blue` | Style 5, Blue | スタイル 5、青 |
+| `Style 5, Ginger` | Style 5, Ginger | スタイル 5、赤毛 |
+| `Style 5, Purple` | Style 5, Purple | スタイル 5、紫 |
+| `Style 5, Red` | Style 5, Red | スタイル 5、赤 |
+| `Style 6, Blue` | Style 6, Blue | スタイル 6、青 |
+| `Style 6, Ginger` | Style 6, Ginger | スタイル 6、赤毛 |
+| `Style 6, Purple` | Style 6, Purple | スタイル 6、紫 |
+| `Style 6, Red` | Style 6, Red | スタイル 6、赤 |
+| `Style 1, Green` | Style 1, Green | スタイル 1、緑 |
+| `Style 1, Yellow` | Style 1, Yellow | スタイル 1、黄色 |
+| `Style 2, Green` | Style 2, Green | スタイル 2、緑 |
+| `Style 2, Yellow` | Style 2, Yellow | スタイル 2、黄色 |
+| `Style 3, Green` | Style 3, Green | スタイル 3、緑 |
+| `Style 3, Yellow` | Style 3, Yellow | スタイル 3、黄色 |
+| `Style 4, Green` | Style 4, Green | スタイル 4、緑 |
+| `Style 4, Yellow` | Style 4, Yellow | スタイル 4、黄色 |
+| `Style 5, Green` | Style 5, Green | スタイル 5、緑 |
+| `Style 5, Yellow` | Style 5, Yellow | スタイル 5、黄色 |
+| `Style 6, Green` | Style 6, Green | スタイル 6、緑 |
+| `Style 6, Yellow` | Style 6, Yellow | スタイル 6、黄色 |
+| `Face 1` | Face 1 | 顔 1 |
+| `Face 2` | Face 2 | 顔 2 |
+| `Face 3` | Face 3 | 顔 3 |
+| `Face 4` | Face 4 | 顔 4 |
+| `Face 5` | Face 5 | 顔 5 |
+| `Style 6` | Style 6 | スタイル 6 |
+| `Style 7` | Style 7 | スタイル 7 |
+| `Peasant, Black` | Peasant, Black | 農民、黒 |
+| `Peasant, Green` | Peasant, Green | 農民、緑 |
+| `Peasant, Purple` | Peasant, Purple | 農民、紫 |
+| `Nordic Warrior, Red` | Nordic Warrior, Red | 北方の戦士、赤 |
+| `Peasant 1, Black` | Peasant 1, Black | 農民 1、黒 |
+| `Peasant 2, Black` | Peasant 2, Black | 農民 2、黒 |
+| `Peasant 3, Black` | Peasant 3, Black | 農民 3、黒 |
+| `Peasant 1, Green` | Peasant 1, Green | 農民 1、緑 |
+| `Peasant 1, Purple` | Peasant 1, Purple | 農民 1、紫 |
+| `Peasant 2, Green` | Peasant 2, Green | 農民 2、緑 |
+| `Peasant 2, Purple` | Peasant 2, Purple | 農民 2、紫 |
+| `Peasant 3, Green` | Peasant 3, Green | 農民 3、緑 |
+| `Peasant 3, Purple` | Peasant 3, Purple | 農民 3、紫 |
+| `Fairy wings, Blue` | Fairy wings, Blue | 妖精の翼、青 |
+| `Fairy wings, Gold` | Fairy wings, Gold | 妖精の翼、金色 |
+| `Fairy wings, Green` | Fairy wings, Green | 妖精の翼、緑 |
+| `Fairy wings, Pink` | Fairy wings, Pink | 妖精の翼、ピンク |
+| `Fairy wings, Silver` | Fairy wings, Silver | 妖精の翼、銀色 |
+| `Fairy wings, Yellow` | Fairy wings, Yellow | 妖精の翼、黄色 |
+| `Fairy wings, Violet` | Fairy wings, Violet | 妖精の翼、すみれ色 |
+| `Fairy wings, Crimson` | Fairy wings, Crimson | 妖精の翼、クリムゾン |
+| `Fairy wings, Teal` | Fairy wings, Teal | 妖精の翼、青緑 |
+| `Fairy wings, Sunset` | Fairy wings, Sunset | 妖精の翼、夕暮れ |
+| `Fairy wings, Shadow` | Fairy wings, Shadow | 妖精の翼、影 |
+| `Fairy wings, Rainbow` | Fairy wings, Rainbow | 妖精の翼、虹色 |
+| `Demon wings, Rose` | Demon wings, Rose | デーモンの翼、バラ色 |
+| `Demon wings, Amber` | Demon wings, Amber | デーモンの翼、琥珀色 |
+| `Demon wings, Bone` | Demon wings, Bone | デーモンの翼、白骨 |
+| `Demon wings, Coral` | Demon wings, Coral | デーモンの翼、珊瑚色 |
+| `Demon wings, Moss` | Demon wings, Moss | デーモンの翼、苔色 |
+| `Demon wings, Storm` | Demon wings, Storm | デーモンの翼、嵐 |
+| `Demon wings, Crimson` | Demon wings, Crimson | デーモンの翼、クリムゾン |
+| `Demon wings, Shadow` | Demon wings, Shadow | デーモンの翼、影 |
+| `Demon wings, Frost` | Demon wings, Frost | デーモンの翼、霜 |
+| `Demon wings, Venom` | Demon wings, Venom | デーモンの翼、猛毒 |
+| `Demon wings, Violet` | Demon wings, Violet | デーモンの翼、すみれ色 |
+| `Demon wings, Hellfire` | Demon wings, Hellfire | デーモンの翼、業火 |
+| `Human` | Human | 人間 |
+| `Dwarf` | Dwarf | ドワーフ |
+| `Cape and wings` | Cape and wings | ケープと翼 |
+| `Tint` | Tint | 色合い |
+| `No tint` | No tint | 色合いなし |
+| `Pick any colour for the wings` | Pick any colour for the wings | 翼の色を自由に選べます |

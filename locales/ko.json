@@ -11340,5 +11340,7 @@
   "No tint": "색조 없음",
   "Pick any colour for the wings": "날개 색상을 자유롭게 선택하세요",
   "I agree to the [Terms of Service] and [Privacy Policy]": "[서비스 약관] 및 [개인정보 처리방침]에 동의합니다",
-  "3D couldn't load right now. Try again in a moment.": "지금은 3D를 불러올 수 없습니다. 잠시 후 다시 시도해 주세요."
+  "3D couldn't load right now. Try again in a moment.": "지금은 3D를 불러올 수 없습니다. 잠시 후 다시 시도해 주세요.",
+  "Minimap": "미니맵",
+  "A small map in the corner while the 3D World is on. Click it for the World Map.": "3D 월드가 켜져 있는 동안 구석에 작은 지도를 표시합니다. 클릭하면 세계 지도가 열립니다."
 }

@@ -11340,5 +11340,7 @@
   "No tint": "无色调",
   "Pick any colour for the wings": "为翅膀任选一种颜色",
   "I agree to the [Terms of Service] and [Privacy Policy]": "我同意[服务条款]和[隐私政策]",
-  "3D couldn't load right now. Try again in a moment.": "3D 暂时无法加载，请稍后再试。"
+  "3D couldn't load right now. Try again in a moment.": "3D 暂时无法加载，请稍后再试。",
+  "Minimap": "小地图",
+  "A small map in the corner while the 3D World is on. Click it for the World Map.": "开启 3D 世界时，在角落显示一张小地图。点击即可打开世界地图。"
 }

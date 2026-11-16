@@ -11340,5 +11340,7 @@
   "No tint": "Sin tinte",
   "Pick any colour for the wings": "Elige cualquier color para las alas",
   "I agree to the [Terms of Service] and [Privacy Policy]": "Acepto los [Términos del servicio] y la [Política de privacidad]",
-  "3D couldn't load right now. Try again in a moment.": "El 3D no pudo cargarse ahora mismo. Inténtalo de nuevo en un momento."
+  "3D couldn't load right now. Try again in a moment.": "El 3D no pudo cargarse ahora mismo. Inténtalo de nuevo en un momento.",
+  "Minimap": "Minimapa",
+  "A small map in the corner while the 3D World is on. Click it for the World Map.": "Un pequeño mapa en la esquina mientras el Mundo 3D está activo. Haz clic para abrir el mapa del mundo."
 }

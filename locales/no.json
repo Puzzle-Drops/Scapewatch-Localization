@@ -11340,5 +11340,7 @@
   "No tint": "Ingen toning",
   "Pick any colour for the wings": "Velg valgfri farge til vingene",
   "I agree to the [Terms of Service] and [Privacy Policy]": "Jeg godtar [tjenestevilkårene] og [personvernerklæringen]",
-  "3D couldn't load right now. Try again in a moment.": "3D kunne ikke lastes inn akkurat nå. Prøv igjen om litt."
+  "3D couldn't load right now. Try again in a moment.": "3D kunne ikke lastes inn akkurat nå. Prøv igjen om litt.",
+  "Minimap": "Minikart",
+  "A small map in the corner while the 3D World is on. Click it for the World Map.": "Et lite kart i hjørnet mens 3D-verdenen er på. Klikk på det for verdenskartet."
 }

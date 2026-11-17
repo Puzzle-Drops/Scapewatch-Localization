@@ -11344,5 +11344,12 @@
   "Minimap": "Bản đồ nhỏ",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "Một bản đồ nhỏ ở góc màn hình khi Thế giới 3D đang bật. Bấm vào để mở Bản đồ thế giới.",
   "Window": "Cửa sổ",
-  "Reset size and zoom": "Đặt lại kích thước và thu phóng"
+  "Reset size and zoom": "Đặt lại kích thước và thu phóng",
+  "Removed from the hiscores": "Đã bị xóa khỏi bảng xếp hạng",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "Một điều hành viên đã xóa bạn khỏi bảng xếp hạng. Bạn vẫn có thể tiếp tục chơi và tiến trình của bạn vẫn an toàn.",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "Để xuất hiện lại trên bảng xếp hạng, bạn có thể đặt lại tiến trình tài khoản trong Cài đặt và bắt đầu lại từ đầu, hoặc kháng nghị trên Discord của chúng tôi.",
+  "Open Discord": "Mở Discord",
+  "A moderator removed you from the hiscores.": "Một điều hành viên đã xóa bạn khỏi bảng xếp hạng.",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "Để xuất hiện lại, hãy đặt lại tiến trình tài khoản bên dưới và bắt đầu lại từ đầu, hoặc kháng nghị trên Discord của chúng tôi.",
+  "You are back on the hiscores.": "Bạn đã trở lại bảng xếp hạng."
 }

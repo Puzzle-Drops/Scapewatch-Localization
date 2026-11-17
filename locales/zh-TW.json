@@ -11344,5 +11344,12 @@
   "Minimap": "小地圖",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "開啟 3D 世界時，在角落顯示一張小地圖。點擊即可開啟世界地圖。",
   "Window": "視窗",
-  "Reset size and zoom": "重置尺寸與縮放"
+  "Reset size and zoom": "重置尺寸與縮放",
+  "Removed from the hiscores": "已被移出排行榜",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "版主已將你移出排行榜。你可以繼續遊戲，你的進度不會受到影響。",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "若想重新出現在排行榜上，你可以在設定中重置帳戶進度並從頭開始，或在我們的 Discord 上申訴。",
+  "Open Discord": "開啟 Discord",
+  "A moderator removed you from the hiscores.": "版主已將你移出排行榜。",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "若想重新出現在排行榜上，請在下方重置帳戶進度並從頭開始，或在我們的 Discord 上申訴。",
+  "You are back on the hiscores.": "你已重新出現在排行榜上。"
 }

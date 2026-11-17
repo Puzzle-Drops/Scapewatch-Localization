@@ -11344,5 +11344,12 @@
   "Minimap": "ミニマップ",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "3Dワールドがオンのとき、画面の隅に小さな地図を表示します。クリックするとワールドマップを開きます。",
   "Window": "ウィンドウ",
-  "Reset size and zoom": "サイズとズームをリセット"
+  "Reset size and zoom": "サイズとズームをリセット",
+  "Removed from the hiscores": "ハイスコアから除外されました",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "モデレーターによってハイスコアから除外されました。このままプレイを続けられ、進行状況は失われません。",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "ハイスコアに再び表示されるには、設定でアカウントの進行状況をリセットして最初からやり直すか、Discordで異議を申し立ててください。",
+  "Open Discord": "Discordを開く",
+  "A moderator removed you from the hiscores.": "モデレーターによってハイスコアから除外されています。",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "再び表示されるには、下のボタンでアカウントの進行状況をリセットして最初からやり直すか、Discordで異議を申し立ててください。",
+  "You are back on the hiscores.": "ハイスコアに再び表示されるようになりました。"
 }

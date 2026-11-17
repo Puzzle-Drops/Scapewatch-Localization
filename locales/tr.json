@@ -11344,5 +11344,12 @@
   "Minimap": "Mini Harita",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "3D Dünya açıkken köşede küçük bir harita. Dünya Haritası için üzerine tıkla.",
   "Window": "Pencere",
-  "Reset size and zoom": "Boyutu ve yakınlaştırmayı sıfırla"
+  "Reset size and zoom": "Boyutu ve yakınlaştırmayı sıfırla",
+  "Removed from the hiscores": "Sıralamalardan çıkarıldın",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "Bir moderatör seni sıralamalardan çıkardı. Oynamaya devam edebilirsin, ilerlemen güvende.",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "Sıralamalarda yeniden görünmek için Ayarlar'dan hesap ilerlemeni sıfırlayıp sıfırdan başlayabilir ya da Discord'umuzda itiraz edebilirsin.",
+  "Open Discord": "Discord'u aç",
+  "A moderator removed you from the hiscores.": "Bir moderatör seni sıralamalardan çıkardı.",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "Yeniden görünmek için aşağıdan hesap ilerlemeni sıfırla ve sıfırdan başla ya da Discord'umuzda itiraz et.",
+  "You are back on the hiscores.": "Yeniden sıralamalardasın."
 }

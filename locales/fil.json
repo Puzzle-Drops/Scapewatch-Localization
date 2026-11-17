@@ -11344,5 +11344,12 @@
   "Minimap": "Minimap",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "Maliit na mapa sa sulok habang naka-on ang 3D na Mundo. I-click ito para sa Mapa ng Mundo.",
   "Window": "Window",
-  "Reset size and zoom": "I-reset ang laki at zoom"
+  "Reset size and zoom": "I-reset ang laki at zoom",
+  "Removed from the hiscores": "Inalis sa mga hiscore",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "Inalis ka ng isang moderator sa mga hiscore. Puwede kang magpatuloy sa paglalaro, at ligtas ang iyong pag-unlad.",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "Para lumabas ulit sa mga hiscore, puwede mong i-reset ang pag-unlad ng iyong account sa Mga Setting at magsimula ulit mula sa simula, o mag-apela sa aming Discord.",
+  "Open Discord": "Buksan ang Discord",
+  "A moderator removed you from the hiscores.": "Inalis ka ng isang moderator sa mga hiscore.",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "Para lumabas ulit doon, i-reset ang pag-unlad ng iyong account sa ibaba at magsimula ulit mula sa simula, o mag-apela sa aming Discord.",
+  "You are back on the hiscores.": "Nasa mga hiscore ka na ulit."
 }

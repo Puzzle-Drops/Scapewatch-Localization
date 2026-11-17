@@ -11344,5 +11344,12 @@
   "Minimap": "Μινι χάρτης",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "Ένας μικρός χάρτης στη γωνία όσο είναι ενεργός ο 3D κόσμος. Κάνε κλικ για τον Χάρτη κόσμου.",
   "Window": "Παράθυρο",
-  "Reset size and zoom": "Επαναφορά μεγέθους και ζουμ"
+  "Reset size and zoom": "Επαναφορά μεγέθους και ζουμ",
+  "Removed from the hiscores": "Αφαίρεση από τις βαθμολογίες",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "Ένας διαχειριστής σε αφαίρεσε από τις βαθμολογίες. Μπορείς να συνεχίσεις να παίζεις και η πρόοδός σου είναι ασφαλής.",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "Για να εμφανιστείς ξανά στις βαθμολογίες, μπορείς να επαναφέρεις την πρόοδο του λογαριασμού σου στις Ρυθμίσεις και να ξεκινήσεις από την αρχή ή να κάνεις έφεση στο Discord μας.",
+  "Open Discord": "Άνοιγμα Discord",
+  "A moderator removed you from the hiscores.": "Ένας διαχειριστής σε αφαίρεσε από τις βαθμολογίες.",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "Για να εμφανιστείς ξανά σε αυτές, επανάφερε παρακάτω την πρόοδο του λογαριασμού σου και ξεκίνα από την αρχή ή κάνε έφεση στο Discord μας.",
+  "You are back on the hiscores.": "Επέστρεψες στις βαθμολογίες."
 }

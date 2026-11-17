@@ -11344,5 +11344,12 @@
   "Minimap": "Minikarta",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "En liten karta i hörnet medan 3D-världen är på. Klicka på den för världskartan.",
   "Window": "Fönster",
-  "Reset size and zoom": "Återställ storlek och zoom"
+  "Reset size and zoom": "Återställ storlek och zoom",
+  "Removed from the hiscores": "Borttagen från topplistorna",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "En moderator har tagit bort dig från topplistorna. Du kan fortsätta spela och dina framsteg är kvar.",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "För att synas på topplistorna igen kan du återställa ditt kontofortskridande under Inställningar och börja om från början, eller överklaga på vår Discord.",
+  "Open Discord": "Öppna Discord",
+  "A moderator removed you from the hiscores.": "En moderator har tagit bort dig från topplistorna.",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "För att synas på dem igen, återställ ditt kontofortskridande nedan och börja om från början, eller överklaga på vår Discord.",
+  "You are back on the hiscores.": "Du är tillbaka på topplistorna."
 }

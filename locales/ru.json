@@ -11344,5 +11344,12 @@
   "Minimap": "Миникарта",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "Небольшая карта в углу, пока включён 3D-мир. Нажмите на неё, чтобы открыть карту мира.",
   "Window": "Окно",
-  "Reset size and zoom": "Сбросить размер и масштаб"
+  "Reset size and zoom": "Сбросить размер и масштаб",
+  "Removed from the hiscores": "Удаление из таблицы рекордов",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "Модератор удалил вас из таблицы рекордов. Вы можете продолжать играть, ваш прогресс сохранён.",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "Чтобы снова появиться в таблице рекордов, вы можете сбросить прогресс аккаунта в Настройках и начать всё с нуля или подать апелляцию в нашем Discord.",
+  "Open Discord": "Открыть Discord",
+  "A moderator removed you from the hiscores.": "Модератор удалил вас из таблицы рекордов.",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "Чтобы снова появиться в ней, сбросьте прогресс аккаунта ниже и начните всё с нуля или подайте апелляцию в нашем Discord.",
+  "You are back on the hiscores.": "Вы снова в таблице рекордов."
 }

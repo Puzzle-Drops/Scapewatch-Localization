@@ -11344,5 +11344,12 @@
   "Minimap": "Minimapa",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "Um pequeno mapa no canto enquanto o Mundo 3D está ligado. Clique nele para abrir o mapa do mundo.",
   "Window": "Janela",
-  "Reset size and zoom": "Redefinir tamanho e zoom"
+  "Reset size and zoom": "Redefinir tamanho e zoom",
+  "Removed from the hiscores": "Remoção dos placares",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "Um moderador removeu você dos placares. Você pode continuar jogando e seu progresso está seguro.",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "Para voltar a aparecer nos placares, você pode redefinir o progresso da sua conta em Configurações e recomeçar do zero, ou recorrer no nosso Discord.",
+  "Open Discord": "Abrir Discord",
+  "A moderator removed you from the hiscores.": "Um moderador removeu você dos placares.",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "Para voltar a aparecer neles, redefina abaixo o progresso da sua conta e recomece do zero, ou recorra no nosso Discord.",
+  "You are back on the hiscores.": "Você voltou aos placares."
 }

@@ -11344,5 +11344,12 @@
   "Minimap": "Minimapa",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "Malá mapa v rohu, když je zapnutý 3D svět. Kliknutím otevřeš Mapu světa.",
   "Window": "Okno",
-  "Reset size and zoom": "Resetovat velikost a přiblížení"
+  "Reset size and zoom": "Resetovat velikost a přiblížení",
+  "Removed from the hiscores": "Odebrání ze žebříčků",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "Moderátor tě odebral ze žebříčků. Můžeš dál hrát a tvůj postup je v bezpečí.",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "Chceš-li se znovu objevit v žebříčcích, můžeš v Nastavení resetovat postup účtu a začít úplně od začátku, nebo se odvolat na našem Discordu.",
+  "Open Discord": "Otevřít Discord",
+  "A moderator removed you from the hiscores.": "Moderátor tě odebral ze žebříčků.",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "Chceš-li se v nich znovu objevit, resetuj níže postup účtu a začni úplně od začátku, nebo se odvolej na našem Discordu.",
+  "You are back on the hiscores.": "Jsi zpět v žebříčcích."
 }

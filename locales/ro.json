@@ -11344,5 +11344,12 @@
   "Minimap": "Minihartă",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "O hartă mică în colț cât timp Lumea 3D este pornită. Dă clic pe ea pentru Harta lumii.",
   "Window": "Fereastră",
-  "Reset size and zoom": "Reinițializează dimensiunea și zoomul"
+  "Reset size and zoom": "Reinițializează dimensiunea și zoomul",
+  "Removed from the hiscores": "Eliminare din clasamente",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "Un moderator te-a eliminat din clasamente. Poți juca în continuare, iar progresul tău este în siguranță.",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "Ca să apari din nou în clasamente, poți reinițializa progresul contului din Setări și să o iei de la zero sau poți face apel pe Discordul nostru.",
+  "Open Discord": "Deschide Discord",
+  "A moderator removed you from the hiscores.": "Un moderator te-a eliminat din clasamente.",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "Ca să apari din nou în ele, reinițializează mai jos progresul contului și ia-o de la zero sau fă apel pe Discordul nostru.",
+  "You are back on the hiscores.": "Ești din nou în clasamente."
 }

@@ -11344,5 +11344,12 @@
   "Minimap": "Миникарта",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "Малка карта в ъгъла, докато 3D светът е включен. Щракни върху нея за Картата на света.",
   "Window": "Прозорец",
-  "Reset size and zoom": "Нулирай размера и мащаба"
+  "Reset size and zoom": "Нулирай размера и мащаба",
+  "Removed from the hiscores": "Премахване от класациите",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "Модератор те премахна от класациите. Можеш да продължиш да играеш и прогресът ти е запазен.",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "За да се появиш отново в класациите, можеш да нулираш прогреса на акаунта си в Настройки и да започнеш отначало или да подадеш обжалване в нашия Discord.",
+  "Open Discord": "Отвори Discord",
+  "A moderator removed you from the hiscores.": "Модератор те премахна от класациите.",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "За да се появиш отново в тях, нулирай прогреса на акаунта си по-долу и започни отначало или подай обжалване в нашия Discord.",
+  "You are back on the hiscores.": "Отново си в класациите."
 }

@@ -11344,5 +11344,12 @@
   "Minimap": "Peta Mini",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "Peta kecil di penjuru semasa Dunia 3D dihidupkan. Klik untuk membuka Peta Dunia.",
   "Window": "Tetingkap",
-  "Reset size and zoom": "Tetap semula saiz dan zum"
+  "Reset size and zoom": "Tetap semula saiz dan zum",
+  "Removed from the hiscores": "Dikeluarkan daripada hiscore",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "Seorang moderator telah mengeluarkan anda daripada hiscore. Anda boleh terus bermain dan kemajuan anda selamat.",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "Untuk muncul semula dalam hiscore, anda boleh menetapkan semula kemajuan akaun anda dalam Tetapan dan bermula semula dari awal, atau membuat rayuan di Discord kami.",
+  "Open Discord": "Buka Discord",
+  "A moderator removed you from the hiscores.": "Seorang moderator telah mengeluarkan anda daripada hiscore.",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "Untuk muncul semula di sana, tetapkan semula kemajuan akaun anda di bawah dan bermula semula dari awal, atau buat rayuan di Discord kami.",
+  "You are back on the hiscores.": "Anda kembali dalam hiscore."
 }

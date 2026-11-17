@@ -11344,5 +11344,12 @@
   "Minimap": "Minikaart",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "Een kleine kaart in de hoek zolang de 3D-wereld aan staat. Klik erop voor de wereldkaart.",
   "Window": "Venster",
-  "Reset size and zoom": "Grootte en zoom resetten"
+  "Reset size and zoom": "Grootte en zoom resetten",
+  "Removed from the hiscores": "Van de topscores verwijderd",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "Een moderator heeft je van de topscores verwijderd. Je kunt gewoon verder spelen en je voortgang blijft bewaard.",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "Om weer in de topscores te verschijnen, kun je in Instellingen je accountvoortgang resetten en helemaal opnieuw beginnen, of bezwaar maken op onze Discord.",
+  "Open Discord": "Discord openen",
+  "A moderator removed you from the hiscores.": "Een moderator heeft je van de topscores verwijderd.",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "Om er weer in te verschijnen, reset je hieronder je accountvoortgang en begin je helemaal opnieuw, of maak je bezwaar op onze Discord.",
+  "You are back on the hiscores.": "Je staat weer in de topscores."
 }

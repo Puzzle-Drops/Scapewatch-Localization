@@ -11344,5 +11344,12 @@
   "Minimap": "Minitérkép",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "Kis térkép a sarokban, amíg a 3D világ be van kapcsolva. Kattints rá a világtérképért.",
   "Window": "Ablak",
-  "Reset size and zoom": "Méret és nagyítás visszaállítása"
+  "Reset size and zoom": "Méret és nagyítás visszaállítása",
+  "Removed from the hiscores": "Eltávolítás a ranglistákról",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "Egy moderátor eltávolított a ranglistákról. Tovább játszhatsz, és az előrehaladásod megmarad.",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "Ha újra szerepelni szeretnél a ranglistákon, a Beállításokban visszaállíthatod a fiókod előrehaladását, és elölről kezdheted, vagy fellebbezhetsz a Discordunkon.",
+  "Open Discord": "Discord megnyitása",
+  "A moderator removed you from the hiscores.": "Egy moderátor eltávolított a ranglistákról.",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "Ha újra szerepelni szeretnél rajtuk, állítsd vissza lent a fiókod előrehaladását, és kezdd elölről, vagy fellebbezz a Discordunkon.",
+  "You are back on the hiscores.": "Újra szerepelsz a ranglistákon."
 }

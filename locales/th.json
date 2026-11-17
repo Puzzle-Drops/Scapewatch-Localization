@@ -11344,5 +11344,12 @@
   "Minimap": "แผนที่ย่อ",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "แผนที่เล็ก ๆ ที่มุมจอขณะเปิด โลก 3D คลิกเพื่อเปิด แผนที่โลก",
   "Window": "หน้าต่าง",
-  "Reset size and zoom": "รีเซ็ตขนาดและการซูม"
+  "Reset size and zoom": "รีเซ็ตขนาดและการซูม",
+  "Removed from the hiscores": "ถูกนำออกจากกระดานอันดับ",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "ผู้ดูแลได้นำคุณออกจากกระดานอันดับ คุณยังเล่นต่อได้ และความคืบหน้าของคุณยังปลอดภัย",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "หากต้องการกลับไปแสดงบนกระดานอันดับอีกครั้ง คุณสามารถรีเซ็ตความคืบหน้าของบัญชีใน การตั้งค่า แล้วเริ่มต้นใหม่ตั้งแต่แรก หรือยื่นอุทธรณ์ใน Discord ของเรา",
+  "Open Discord": "เปิด Discord",
+  "A moderator removed you from the hiscores.": "ผู้ดูแลได้นำคุณออกจากกระดานอันดับ",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "หากต้องการกลับไปแสดงอีกครั้ง ให้รีเซ็ตความคืบหน้าของบัญชีด้านล่างแล้วเริ่มต้นใหม่ตั้งแต่แรก หรือยื่นอุทธรณ์ใน Discord ของเรา",
+  "You are back on the hiscores.": "คุณกลับมาอยู่บนกระดานอันดับแล้ว"
 }

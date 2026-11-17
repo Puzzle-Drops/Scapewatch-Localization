@@ -11344,5 +11344,12 @@
   "Minimap": "Minimappa",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "Una piccola mappa nell'angolo mentre il Mondo 3D è attivo. Cliccala per la Mappa del Mondo.",
   "Window": "Finestra",
-  "Reset size and zoom": "Reimposta dimensione e zoom"
+  "Reset size and zoom": "Reimposta dimensione e zoom",
+  "Removed from the hiscores": "Rimozione dalle classifiche",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "Un moderatore ti ha rimosso dalle classifiche. Puoi continuare a giocare e i tuoi progressi sono al sicuro.",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "Per comparire di nuovo nelle classifiche, puoi reimpostare i progressi del tuo account nelle Impostazioni e ricominciare da zero, oppure fare ricorso sul nostro Discord.",
+  "Open Discord": "Apri Discord",
+  "A moderator removed you from the hiscores.": "Un moderatore ti ha rimosso dalle classifiche.",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "Per comparirvi di nuovo, reimposta qui sotto i progressi del tuo account e ricomincia da zero, oppure fai ricorso sul nostro Discord.",
+  "You are back on the hiscores.": "Sei di nuovo nelle classifiche."
 }

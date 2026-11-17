@@ -11344,5 +11344,12 @@
   "Minimap": "미니맵",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "3D 월드가 켜져 있는 동안 구석에 작은 지도를 표시합니다. 클릭하면 세계 지도가 열립니다.",
   "Window": "창",
-  "Reset size and zoom": "크기 및 확대/축소 초기화"
+  "Reset size and zoom": "크기 및 확대/축소 초기화",
+  "Removed from the hiscores": "순위표에서 제외됨",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "모더레이터가 당신을 순위표에서 제외했습니다. 계속 플레이할 수 있으며 진행도는 안전합니다.",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "순위표에 다시 표시되려면 설정에서 계정 진행도를 초기화하고 처음부터 다시 시작하거나, Discord에서 이의를 제기하세요.",
+  "Open Discord": "Discord 열기",
+  "A moderator removed you from the hiscores.": "모더레이터가 당신을 순위표에서 제외했습니다.",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "다시 표시되려면 아래에서 계정 진행도를 초기화하고 처음부터 다시 시작하거나, Discord에서 이의를 제기하세요.",
+  "You are back on the hiscores.": "순위표에 다시 표시됩니다."
 }

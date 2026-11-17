@@ -11344,5 +11344,12 @@
   "Minimap": "Minikartta",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "Pieni kartta kulmassa, kun 3D-maailma on päällä. Avaa maailmankartta napsauttamalla sitä.",
   "Window": "Ikkuna",
-  "Reset size and zoom": "Nollaa koko ja zoomaus"
+  "Reset size and zoom": "Nollaa koko ja zoomaus",
+  "Removed from the hiscores": "Poistettu tulostauluilta",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "Moderaattori on poistanut sinut tulostauluilta. Voit jatkaa pelaamista, ja edistymisesi on tallessa.",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "Jos haluat taas näkyä tulostauluilla, voit nollata tilisi edistymisen Asetuksissa ja aloittaa alusta tai valittaa Discordissamme.",
+  "Open Discord": "Avaa Discord",
+  "A moderator removed you from the hiscores.": "Moderaattori poisti sinut tulostauluilta.",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "Jos haluat taas näkyä niillä, nollaa tilisi edistyminen alta ja aloita alusta tai valita Discordissamme.",
+  "You are back on the hiscores.": "Olet taas tulostauluilla."
 }

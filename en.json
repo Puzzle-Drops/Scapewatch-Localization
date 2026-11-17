@@ -10863,5 +10863,12 @@
   "Minimap": "Minimap",
   "A small map in the corner while the 3D World is on. Click it for the World Map.": "A small map in the corner while the 3D World is on. Click it for the World Map.",
   "Window": "Window",
-  "Reset size and zoom": "Reset size and zoom"
+  "Reset size and zoom": "Reset size and zoom",
+  "Removed from the hiscores": "Removed from the hiscores",
+  "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.": "A moderator has removed you from the hiscores. You can keep playing, and your progress is safe.",
+  "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.": "To appear on the hiscores again, you can reset your account progress in Settings and start over from scratch, or appeal on our Discord.",
+  "Open Discord": "Open Discord",
+  "A moderator removed you from the hiscores.": "A moderator removed you from the hiscores.",
+  "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.": "To appear on them again, reset your account progress below and start over from scratch, or appeal on our Discord.",
+  "You are back on the hiscores.": "You are back on the hiscores."
 }

@@ -11342,5 +11342,7 @@
   "I agree to the [Terms of Service] and [Privacy Policy]": "[利用規約]と[プライバシーポリシー]に同意します",
   "3D couldn't load right now. Try again in a moment.": "現在3Dを読み込めませんでした。しばらくしてからもう一度お試しください。",
   "Minimap": "ミニマップ",
-  "A small map in the corner while the 3D World is on. Click it for the World Map.": "3Dワールドがオンのとき、画面の隅に小さな地図を表示します。クリックするとワールドマップを開きます。"
+  "A small map in the corner while the 3D World is on. Click it for the World Map.": "3Dワールドがオンのとき、画面の隅に小さな地図を表示します。クリックするとワールドマップを開きます。",
+  "Window": "ウィンドウ",
+  "Reset size and zoom": "サイズとズームをリセット"
 }

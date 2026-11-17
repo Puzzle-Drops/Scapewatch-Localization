@@ -11342,5 +11342,7 @@
   "I agree to the [Terms of Service] and [Privacy Policy]": "Sumasang-ayon ako sa [Mga Tuntunin ng Serbisyo] at sa [Patakaran sa Privacy]",
   "3D couldn't load right now. Try again in a moment.": "Hindi ma-load ang 3D ngayon. Subukan ulit maya-maya.",
   "Minimap": "Minimap",
-  "A small map in the corner while the 3D World is on. Click it for the World Map.": "Maliit na mapa sa sulok habang naka-on ang 3D na Mundo. I-click ito para sa Mapa ng Mundo."
+  "A small map in the corner while the 3D World is on. Click it for the World Map.": "Maliit na mapa sa sulok habang naka-on ang 3D na Mundo. I-click ito para sa Mapa ng Mundo.",
+  "Window": "Window",
+  "Reset size and zoom": "I-reset ang laki at zoom"
 }

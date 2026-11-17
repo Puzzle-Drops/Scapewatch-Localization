@@ -11342,5 +11342,7 @@
   "I agree to the [Terms of Service] and [Privacy Policy]": "我同意[服務條款]與[隱私權政策]",
   "3D couldn't load right now. Try again in a moment.": "3D 暫時無法載入，請稍後再試。",
   "Minimap": "小地圖",
-  "A small map in the corner while the 3D World is on. Click it for the World Map.": "開啟 3D 世界時，在角落顯示一張小地圖。點擊即可開啟世界地圖。"
+  "A small map in the corner while the 3D World is on. Click it for the World Map.": "開啟 3D 世界時，在角落顯示一張小地圖。點擊即可開啟世界地圖。",
+  "Window": "視窗",
+  "Reset size and zoom": "重置尺寸與縮放"
 }

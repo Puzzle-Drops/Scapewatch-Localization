@@ -11342,5 +11342,7 @@
   "I agree to the [Terms of Service] and [Privacy Policy]": "[Hizmet Şartları]'nı ve [Gizlilik Politikası]'nı kabul ediyorum",
   "3D couldn't load right now. Try again in a moment.": "3D şu anda yüklenemedi. Biraz sonra tekrar dene.",
   "Minimap": "Mini Harita",
-  "A small map in the corner while the 3D World is on. Click it for the World Map.": "3D Dünya açıkken köşede küçük bir harita. Dünya Haritası için üzerine tıkla."
+  "A small map in the corner while the 3D World is on. Click it for the World Map.": "3D Dünya açıkken köşede küçük bir harita. Dünya Haritası için üzerine tıkla.",
+  "Window": "Pencere",
+  "Reset size and zoom": "Boyutu ve yakınlaştırmayı sıfırla"
 }

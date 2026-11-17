@@ -11342,5 +11342,7 @@
   "I agree to the [Terms of Service] and [Privacy Policy]": "Accetto i [Termini di servizio] e l'[Informativa sulla privacy]",
   "3D couldn't load right now. Try again in a moment.": "Non è stato possibile caricare il 3D in questo momento. Riprova tra poco.",
   "Minimap": "Minimappa",
-  "A small map in the corner while the 3D World is on. Click it for the World Map.": "Una piccola mappa nell'angolo mentre il Mondo 3D è attivo. Cliccala per la Mappa del Mondo."
+  "A small map in the corner while the 3D World is on. Click it for the World Map.": "Una piccola mappa nell'angolo mentre il Mondo 3D è attivo. Cliccala per la Mappa del Mondo.",
+  "Window": "Finestra",
+  "Reset size and zoom": "Reimposta dimensione e zoom"
 }

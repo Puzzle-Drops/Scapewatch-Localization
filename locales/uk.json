@@ -11342,5 +11342,7 @@
   "I agree to the [Terms of Service] and [Privacy Policy]": "Я приймаю [Умови використання] та [Політику конфіденційності]",
   "3D couldn't load right now. Try again in a moment.": "Не вдалося завантажити 3D. Спробуй ще раз трохи згодом.",
   "Minimap": "Мінікарта",
-  "A small map in the corner while the 3D World is on. Click it for the World Map.": "Невелика карта в кутку, поки ввімкнено 3D-світ. Клацни на неї, щоб відкрити карту світу."
+  "A small map in the corner while the 3D World is on. Click it for the World Map.": "Невелика карта в кутку, поки ввімкнено 3D-світ. Клацни на неї, щоб відкрити карту світу.",
+  "Window": "Вікно",
+  "Reset size and zoom": "Скинути розмір і масштаб"
 }

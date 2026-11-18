@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Entdecken |
 
-## Lines to review (799)
+## Lines to review (1355)
 
 | Key | English | Current |
 |---|---|---|
@@ -869,3 +869,559 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tint` | Tint | Tönung |
 | `No tint` | No tint | Keine Tönung |
 | `Pick any colour for the wings` | Pick any colour for the wings | Wähle eine beliebige Farbe für die Flügel |
+| `Mastery: Life and Spirit` | Mastery: Life and Spirit | Meisterschaft: Leben und Geist |
+| `An old healer wants proof you still remember how to endure.` | An old healer wants proof you still remember how to endure. | Eine alte Heilerin will Beweise, dass du noch weißt, wie man durchhält. |
+| `Meet the old healer` | Meet the old healer | Triff die alte Heilerin |
+| `She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.'` | She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.' | Sie fühlt deinen Puls, bevor sie Hallo sagt. 'Kräftig. Aber Kraft ist nicht die Lektion. Geh dorthin zurück, wo du zuerst gelernt hast durchzuhalten.' |
+| `Rest by the old campfire` | Rest by the old campfire | Ruh dich am alten Lagerfeuer aus |
+| `You sit until the fire burns low. The healer nods when you stand without stiffness.` | You sit until the fire burns low. The healer nods when you stand without stiffness. | Du sitzt, bis das Feuer herunterbrennt. Die Heilerin nickt, als du ohne Steifheit aufstehst. |
+| `Share a plain meal` | Share a plain meal | Teile ein schlichtes Mahl |
+| `Bread, broth, nothing more. 'You forgot how little a body needs,' she says.` | Bread, broth, nothing more. 'You forgot how little a body needs,' she says. | Brot, Brühe, nichts weiter. 'Du hast vergessen, wie wenig ein Körper braucht', sagt sie. |
+| `Outlast a feeble slime` | Outlast a feeble slime | Überdauere einen schwächlichen Schleim |
+| `It barely scratches you. You let it tire itself out before you finish it.` | It barely scratches you. You let it tire itself out before you finish it. | Er kratzt dich kaum. Du lässt ihn sich selbst erschöpfen, bevor du ihm den Rest gibst. |
+| `Calm your breathing by the fire` | Calm your breathing by the fire | Beruhige deinen Atem am Feuer |
+| `You count your breaths until the count stops mattering. Your spirit settles.` | You count your breaths until the count stops mattering. Your spirit settles. | Du zählst deine Atemzüge, bis das Zählen keine Rolle mehr spielt. Dein Geist kommt zur Ruhe. |
+| `Eat with the road crews` | Eat with the road crews | Iss mit den Straßenarbeitern |
+| `The crews talk about blisters and sore backs. You listen more than you speak.` | The crews talk about blisters and sore backs. You listen more than you speak. | Die Arbeiter reden über Blasen und schmerzende Rücken. Du hörst mehr zu, als du sprichst. |
+| `Take the ember slime calmly` | Take the ember slime calmly | Nimm es gelassen mit dem Glutschleim auf |
+| `You let the heat wash past you and keep your footing.` | You let the heat wash past you and keep your footing. | Du lässt die Hitze an dir vorbeiziehen und bleibst standfest. |
+| `Clear a Feeble Dungeon` | Clear a Feeble Dungeon | Bezwinge ein schwächliches Verlies |
+| `The first dungeon feels small now. You walk it slowly, watching every step.` | The first dungeon feels small now. You walk it slowly, watching every step. | Das erste Verlies wirkt jetzt klein. Du gehst es langsam durch und achtest auf jeden Schritt. |
+| `Report your progress` | Report your progress | Melde deinen Fortschritt |
+| `The healer's runner takes your notes. 'She says you are nearly there.'` | The healer's runner takes your notes. 'She says you are nearly there.' | Der Bote der Heilerin nimmt deine Notizen entgegen. 'Sie sagt, du bist fast so weit.' |
+| `Cook for a tired party` | Cook for a tired party | Koche für eine müde Gruppe |
+| `You feed a party back from the deep. One of them falls asleep mid bite.` | You feed a party back from the deep. One of them falls asleep mid bite. | Du verpflegst eine Gruppe, die aus der Tiefe zurückkehrt. Einer schläft mitten im Bissen ein. |
+| `Clear a Dire Dungeon` | Clear a Dire Dungeon | Bezwinge ein Düsteres Verlies |
+| `You come out of the Dire Dungeon with nothing worse than a bruise.` | You come out of the Dire Dungeon with nothing worse than a bruise. | Du kommst aus dem Düsteren Verlies mit nichts Schlimmerem als einem blauen Fleck. |
+| `Stand firm against a fell demon` | Stand firm against a fell demon | Halte einem grausamen Dämon stand |
+| `The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.'` | The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.' | Der Dämon schlägt hart zu, und du fällst nicht. Danach findet dich die Heilerin. 'Salbe und Relikt. Verdient, nicht geschenkt.' |
+| `Mastery: Strike and Heft` | Mastery: Strike and Heft | Meisterschaft: Schlag und Wucht |
+| `A retired sergeant wants to see your first drills done properly again.` | A retired sergeant wants to see your first drills done properly again. | Ein Feldwebel im Ruhestand will deine ersten Übungen noch einmal sauber ausgeführt sehen. |
+| `Report to the old sergeant` | Report to the old sergeant | Melde dich beim alten Feldwebel |
+| `'Eighty years of swinging and you still lead with your shoulder? Back to the drills.'` | 'Eighty years of swinging and you still lead with your shoulder? Back to the drills.' | 'Achtzig Jahre Schwingen, und du führst immer noch mit der Schulter? Zurück zu den Übungen.' |
+| `Cut a practice staff` | Cut a practice staff | Schneide einen Übungsstab |
+| `You trim an ash branch to length. It is lighter than anything you carry now.` | You trim an ash branch to length. It is lighter than anything you carry now. | Du kürzt einen Eschenast auf Länge. Er ist leichter als alles, was du jetzt trägst. |
+| `Spar with a feeble goblin` | Spar with a feeble goblin | Übe gegen einen schwächlichen Goblin |
+| `You win with the staff alone. The sergeant grunts something like approval.` | You win with the staff alone. The sergeant grunts something like approval. | Du gewinnst allein mit dem Stab. Der Feldwebel brummt etwas, das wie Zustimmung klingt. |
+| `Run the training trail` | Run the training trail | Lauf den Trainingspfad |
+| `Three laps, then three more. Your footwork comes back on the last one.` | Three laps, then three more. Your footwork comes back on the last one. | Drei Runden, dann noch drei. In der letzten kehrt deine Beinarbeit zurück. |
+| `Beat a dire goblin cleanly` | Beat a dire goblin cleanly | Besiege einen düsteren Goblin sauber |
+| `No wasted swings. The sergeant counts them on his fingers.` | No wasted swings. The sergeant counts them on his fingers. | Kein vergeudeter Hieb. Der Feldwebel zählt sie an den Fingern ab. |
+| `Eat with the garrison` | Eat with the garrison | Iss mit der Garnison |
+| `The garrison cook remembers the sergeant. 'He still shouts at everyone?'` | The garrison cook remembers the sergeant. 'He still shouts at everyone?' | Der Koch der Garnison erinnert sich an den Feldwebel. 'Brüllt er immer noch alle an?' |
+| `Send word to the sergeant` | Send word to the sergeant | Schick dem Feldwebel Nachricht |
+| `You send a short note: two goblins down, footwork fixed.` | You send a short note: two goblins down, footwork fixed. | Du schickst eine kurze Notiz: zwei Goblins erledigt, Beinarbeit in Ordnung. |
+| `Break a feeble skeleton` | Break a feeble skeleton | Zerschlage ein schwächliches Skelett |
+| `Bone gives way under a clean blow. Heft without strike is noise, he always said.` | Bone gives way under a clean blow. Heft without strike is noise, he always said. | Knochen gibt unter einem sauberen Hieb nach. Wucht ohne Schlag ist nur Lärm, sagte er immer. |
+| `You clear it with the same drills you learned there.` | You clear it with the same drills you learned there. | Du bezwingst es mit denselben Übungen, die du dort gelernt hast. |
+| `Your party moves when you move. Good habits spread.` | Your party moves when you move. Good habits spread. | Deine Gruppe bewegt sich, wenn du dich bewegst. Gute Gewohnheiten färben ab. |
+| `Have your blade reforged` | Have your blade reforged | Lass deine Klinge neu schmieden |
+| `The smith grinds out years of nicks. It swings true again.` | The smith grinds out years of nicks. It swings true again. | Der Schmied schleift jahrelange Scharten heraus. Sie schwingt wieder sauber. |
+| `Fell an orc with clean blows` | Fell an orc with clean blows | Fälle einen Ork mit sauberen Hieben |
+| `The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.'` | The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.' | Der Ork geht nach drei Hieben zu Boden. Der Feldwebel reicht dir einen Knauf und einen Griff. 'Jetzt bist du bereit.' |
+| `Mastery: Sight and Draw` | Mastery: Sight and Draw | Meisterschaft: Zielen und Spannen |
+| `A hunter in the north asks you to shoot like a beginner again.` | A hunter in the north asks you to shoot like a beginner again. | Ein Jäger im Norden bittet dich, wieder wie ein Anfänger zu schießen. |
+| `Meet the northern hunter` | Meet the northern hunter | Triff den Jäger aus dem Norden |
+| `'You aim like someone who expects to hit. Good archers expect to miss. Come.'` | 'You aim like someone who expects to hit. Good archers expect to miss. Come.' | 'Du zielst wie jemand, der erwartet zu treffen. Gute Bogenschützen erwarten danebenzuschießen. Komm.' |
+| `Fletch a plain practice bow` | Fletch a plain practice bow | Fertige einen schlichten Übungsbogen |
+| `No runes, no gems. Just yew and string.` | No runes, no gems. Just yew and string. | Keine Runen, keine Edelsteine. Nur Eibe und Sehne. |
+| `Scout the hills for targets` | Scout the hills for targets | Suche in den Hügeln nach Zielen |
+| `You mark three trees and a stump at different ranges.` | You mark three trees and a stump at different ranges. | Du markierst drei Bäume und einen Baumstumpf in verschiedenen Entfernungen. |
+| `Take down a dire gnoll` | Take down a dire gnoll | Erlege einen düsteren Gnoll |
+| `One arrow, placed where the hunter pointed. 'Better.'` | One arrow, placed where the hunter pointed. 'Better.' | Ein Pfeil, genau dort, wo der Jäger hingezeigt hat. 'Besser.' |
+| `Cut fresh arrow shafts` | Cut fresh arrow shafts | Schneide frische Pfeilschäfte |
+| `You pick straight stems and trim them by eye.` | You pick straight stems and trim them by eye. | Du wählst gerade Triebe und kürzt sie nach Augenmaß. |
+| `Run the range drills` | Run the range drills | Absolviere die Übungen am Schießstand |
+| `Shoot, move, shoot. Your breath and your release line up again.` | Shoot, move, shoot. Your breath and your release line up again. | Schießen, bewegen, schießen. Atem und Abschuss sind wieder im Einklang. |
+| `Hit a golem at the joints` | Hit a golem at the joints | Triff einen Golem an den Gelenken |
+| `Stone is hard, joints are not. The golem folds.` | Stone is hard, joints are not. The golem folds. | Stein ist hart, Gelenke nicht. Der Golem klappt zusammen. |
+| `You call targets for the whole party. Nobody wastes a shot.` | You call targets for the whole party. Nobody wastes a shot. | Du sagst die Ziele für die ganze Gruppe an. Niemand vergeudet einen Schuss. |
+| `Eat with the hunters` | Eat with the hunters | Iss mit den Jägern |
+| `The hunters argue about wind. You agree with all of them.` | The hunters argue about wind. You agree with all of them. | Die Jäger streiten über den Wind. Du gibst allen recht. |
+| `Bank your spare arrows` | Bank your spare arrows | Bring deine Ersatzpfeile zur Bank |
+| `You store the spares. Travelling light is half the craft.` | You store the spares. Travelling light is half the craft. | Du lagerst die Ersatzpfeile ein. Mit leichtem Gepäck zu reisen ist die halbe Kunst. |
+| `You shoot from the back row and never lose sight of the front.` | You shoot from the back row and never lose sight of the front. | Du schießt aus der hinteren Reihe und verlierst die vordere nie aus den Augen. |
+| `Bring down a fell gnoll` | Bring down a fell gnoll | Strecke einen grausamen Gnoll nieder |
+| `Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.'` | Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.' | Zwei Schüsse, beide sauber. Der Jäger reicht dir eine Kerbe und eine Bogensehne. 'Behalte sie. Und verfehle immer seltener.' |
+| `Mastery: Focus and Surge` | Mastery: Focus and Surge | Meisterschaft: Fokus und Entladung |
+| `An eastern mage wants your first spells cast without force or fuss.` | An eastern mage wants your first spells cast without force or fuss. | Ein Magier aus dem Osten will deine ersten Zauber ohne Kraftakt und Getue gewirkt sehen. |
+| `Meet the eastern mage` | Meet the eastern mage | Triff den Magier aus dem Osten |
+| `'You push power like a mule pushes a cart. Let us start again, smaller.'` | 'You push power like a mule pushes a cart. Let us start again, smaller.' | 'Du schiebst Macht wie ein Maultier einen Karren. Fangen wir noch mal an, kleiner.' |
+| `Draw from a small fragment` | Draw from a small fragment | Schöpfe aus einem kleinen Fragment |
+| `The essence is faint. You have to listen for it.` | The essence is faint. You have to listen for it. | Die Essenz ist schwach. Du musst genau hinhören. |
+| `Charge a single dim essence` | Charge a single dim essence | Lade eine einzelne trübe Essenz auf |
+| `You charge it slowly. It holds better than anything you rushed.` | You charge it slowly. It holds better than anything you rushed. | Du lädst sie langsam auf. Sie hält besser als alles, was du je überstürzt hast. |
+| `Banish a feeble imp` | Banish a feeble imp | Verbanne einen schwächlichen Imp |
+| `A small spell, aimed well. The imp is gone before it can grin.` | A small spell, aimed well. The imp is gone before it can grin. | Ein kleiner Zauber, gut gezielt. Der Imp ist fort, bevor er grinsen kann. |
+| `Read the runes in the ashes` | Read the runes in the ashes | Lies die Runen in der Asche |
+| `Old travellers left warding marks here. You copy them out.` | Old travellers left warding marks here. You copy them out. | Alte Reisende haben hier Schutzzeichen hinterlassen. Du schreibst sie ab. |
+| `Tend a small herb plot` | Tend a small herb plot | Pflege ein kleines Kräuterbeet |
+| `The mage wants patience practised. You weed until your mind goes quiet.` | The mage wants patience practised. You weed until your mind goes quiet. | Der Magier will, dass du Geduld übst. Du jätest, bis dein Geist still wird. |
+| `Unmake a dire lich` | Unmake a dire lich | Vernichte einen düsteren Lich |
+| `You break its ward with the marks from the ashes.` | You break its ward with the marks from the ashes. | Du brichst seinen Schutz mit den Zeichen aus der Asche. |
+| `You cast half as often and hit twice as hard.` | You cast half as often and hit twice as hard. | Du zauberst halb so oft und triffst doppelt so hart. |
+| `Inscribe a beginner sigil` | Inscribe a beginner sigil | Graviere ein Anfängersiegel |
+| `Simple lines, clean joins. The mage keeps it as a sample.` | Simple lines, clean joins. The mage keeps it as a sample. | Einfache Linien, saubere Übergänge. Der Magier behält es als Muster. |
+| `Send your notes east` | Send your notes east | Schick deine Notizen nach Osten |
+| `Your notes on the lich go back to the mage by courier.` | Your notes on the lich go back to the mage by courier. | Deine Notizen über den Lich gehen per Kurier zurück zum Magier. |
+| `Your spells land on rhythm. The party fights to your timing.` | Your spells land on rhythm. The party fights to your timing. | Deine Zauber sitzen im Takt. Die Gruppe kämpft nach deinem Rhythmus. |
+| `Dispel a fell demon` | Dispel a fell demon | Banne einen grausamen Dämon |
+| `One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.'` | One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.' | Eine gebündelte Entladung, und der Dämon zerstiebt. Der Magier gibt dir eine Kugel und einen Katalysator. 'Kleine Zauber, große Wirkung.' |
+| `Mastery: Dodge and Defend` | Mastery: Dodge and Defend | Meisterschaft: Ausweichen und Verteidigung |
+| `A shieldwright wants you to relearn when to block and when to move.` | A shieldwright wants you to relearn when to block and when to move. | Eine Schildmacherin will, dass du neu lernst, wann du blockst und wann du dich bewegst. |
+| `Meet the shieldwright` | Meet the shieldwright | Triff die Schildmacherin |
+| `'You block everything. Some things you should just not be standing in front of.'` | 'You block everything. Some things you should just not be standing in front of.' | 'Du blockst alles. Vor manchen Dingen solltest du einfach nicht stehen.' |
+| `Hammer out a practice shield` | Hammer out a practice shield | Schmiede einen Übungsschild |
+| `Plain iron, a little too heavy. That is the point, she says.` | Plain iron, a little too heavy. That is the point, she says. | Schlichtes Eisen, ein wenig zu schwer. Genau darum geht es, sagt sie. |
+| `Dodge a feeble rat` | Dodge a feeble rat | Weiche einer schwächlichen Ratte aus |
+| `You step aside until it tires. You do not raise the shield once.` | You step aside until it tires. You do not raise the shield once. | Du trittst zur Seite, bis sie ermüdet. Den Schild hebst du kein einziges Mal. |
+| `Weave through the crowded alley` | Weave through the crowded alley | Schlängle dich durch die volle Gasse |
+| `Market day. You cross the alley without touching anyone.` | Market day. You cross the alley without touching anyone. | Markttag. Du durchquerst die Gasse, ohne jemanden zu berühren. |
+| `Block a feeble treant` | Block a feeble treant | Blocke einen schwächlichen Treant |
+| `Its branches thud off the shield. You keep your feet planted.` | Its branches thud off the shield. You keep your feet planted. | Seine Äste prallen dumpf vom Schild ab. Du bleibst fest stehen. |
+| `Hold against a dire treant` | Hold against a dire treant | Halte einem düsteren Treant stand |
+| `Block, step, block. You stop thinking about which comes next.` | Block, step, block. You stop thinking about which comes next. | Blocken, Schritt, blocken. Du denkst nicht mehr darüber nach, was als Nächstes kommt. |
+| `You take every hit meant for the party and none meant for you.` | You take every hit meant for the party and none meant for you. | Du fängst jeden Treffer ab, der der Gruppe gilt, und keinen, der dir gilt. |
+| `Gather bark for shield padding` | Gather bark for shield padding | Sammle Rinde als Schildpolsterung |
+| `Soft bark, layered thick. Your arm will thank you.` | Soft bark, layered thick. Your arm will thank you. | Weiche Rinde, dick geschichtet. Dein Arm wird es dir danken. |
+| `Send the shieldwright word` | Send the shieldwright word | Schick der Schildmacherin Nachricht |
+| `You report the treant fights. She replies with a single word: 'Again.'` | You report the treant fights. She replies with a single word: 'Again.' | Du berichtest von den Kämpfen gegen die Treants. Sie antwortet mit einem einzigen Wort: 'Nochmal.' |
+| `You read every swing before it comes.` | You read every swing before it comes. | Du liest jeden Hieb, bevor er kommt. |
+| `Reinforce the shield rim` | Reinforce the shield rim | Verstärke den Schildrand |
+| `The smith adds a band of steel to the rim. It feels finished now.` | The smith adds a band of steel to the rim. It feels finished now. | Der Schmied fügt dem Rand ein Stahlband hinzu. Jetzt fühlt er sich fertig an. |
+| `Outlast a fell orc` | Outlast a fell orc | Überdauere einen grausamen Ork |
+| `It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim.` | It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim. | Er schlägt zu, bis er kaum noch stehen kann. Du hast nie aufgehört, dich zu bewegen. Die Schildmacherin reicht dir eine Feder und eine Unterlegscheibe. |
+| `Mastery: Fish and Cook` | Mastery: Fish and Cook | Meisterschaft: Fischen und Kochen |
+| `A fishwife who fed half the coast wants your first catch cooked right.` | A fishwife who fed half the coast wants your first catch cooked right. | Eine Fischhändlerin, die die halbe Küste ernährt hat, will deinen ersten Fang richtig zubereitet sehen. |
+| `Meet the old fishwife` | Meet the old fishwife | Triff die alte Fischhändlerin |
+| `'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.'` | 'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.' | 'Große Fische, feine Pfannen. Wann hast du zuletzt eine Garnele richtig gekocht? Geh und finde es heraus.' |
+| `Cook over an open spit` | Cook over an open spit | Koche am offenen Spieß |
+| `No kitchen, no spices. You keep the fire low and the fish whole.` | No kitchen, no spices. You keep the fire low and the fish whole. | Keine Küche, keine Gewürze. Du hältst das Feuer klein und den Fisch ganz. |
+| `Fish the shallow pool` | Fish the shallow pool | Angle im seichten Teich |
+| `You catch a shrimp and remember the first one you ever landed.` | You catch a shrimp and remember the first one you ever landed. | Du fängst eine Garnele und denkst an die allererste, die du je an Land gezogen hast. |
+| `Fish a quiet stream` | Fish a quiet stream | Angle in einem stillen Bach |
+| `The stream is slow and so are you. You stop rushing the line.` | The stream is slow and so are you. You stop rushing the line. | Der Bach fließt langsam, und du bist es auch. Du hetzt die Schnur nicht mehr. |
+| `Grill your catch plainly` | Grill your catch plainly | Grille deinen Fang ganz schlicht |
+| `Salt and smoke. The fishwife would approve.` | Salt and smoke. The fishwife would approve. | Salz und Rauch. Die Fischhändlerin wäre einverstanden. |
+| `Try the far pool` | Try the far pool | Versuch es am fernen Teich |
+| `A perch bites on the third cast. You let it run before you reel.` | A perch bites on the third cast. You let it run before you reel. | Beim dritten Wurf beißt ein Barsch. Du lässt ihn laufen, bevor du einholst. |
+| `Fish the cold stream` | Fish the cold stream | Angle im kalten Bach |
+| `Cold hands, quick fish. You learn to strike faster.` | Cold hands, quick fish. You learn to strike faster. | Kalte Hände, flinke Fische. Du lernst, schneller anzuschlagen. |
+| `Cook at a mountain hearth` | Cook at a mountain hearth | Koche an einem Bergherd |
+| `The hearth cook shows you how to keep fish from drying out.` | The hearth cook shows you how to keep fish from drying out. | Der Herdkoch zeigt dir, wie man Fisch vor dem Austrocknen bewahrt. |
+| `Feed the mill workers` | Feed the mill workers | Verpflege die Mühlenarbeiter |
+| `You cook for a crew of twenty. Nothing comes back burned.` | You cook for a crew of twenty. Nothing comes back burned. | Du kochst für eine Mannschaft von zwanzig. Nichts kommt angebrannt zurück. |
+| `Cook on the tidefield spit` | Cook on the tidefield spit | Koche am Spieß im Gezeitenfeld |
+| `The fishwife's cousin tastes your work and sends word up the coast.` | The fishwife's cousin tastes your work and sends word up the coast. | Die Cousine der Fischhändlerin kostet dein Werk und schickt Nachricht die Küste hinauf. |
+| `Cook one perfect fillet` | Cook one perfect fillet | Koche ein perfektes Filet |
+| `One fillet, cooked through, still soft. You eat it yourself.` | One fillet, cooked through, still soft. You eat it yourself. | Ein Filet, durchgegart und doch zart. Du isst es selbst. |
+| `Land a catch at the seaside` | Land a catch at the seaside | Zieh am Meer einen Fang an Land |
+| `The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.'` | The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.' | Die Tiefseefische kämpfen hart, und du holst sie ein. Die Fischhändlerin schickt eine Angel und eine Pfanne. 'Jetzt bist du Fischer und Koch.' |
+| `Mastery: Mine and Smith` | Mastery: Mine and Smith | Meisterschaft: Bergbau und Schmieden |
+| `A forge master wants proof you still respect plain copper and tin.` | A forge master wants proof you still respect plain copper and tin. | Ein Schmiedemeister will Beweise, dass du schlichtes Kupfer und Zinn noch zu schätzen weißt. |
+| `Meet the forge master` | Meet the forge master | Triff den Schmiedemeister |
+| `'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.'` | 'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.' | 'Du rührst nur noch seltenes Erz an. Kupfer hat jede Halle in diesem Land gebaut. Geh und verdiene es dir neu.' |
+| `Work a copper bar` | Work a copper bar | Bearbeite einen Kupferbarren |
+| `You fold the bar slowly. It rings clean.` | You fold the bar slowly. It rings clean. | Du faltest den Barren langsam. Er klingt rein. |
+| `Mine at the old quarry` | Mine at the old quarry | Baue im alten Steinbruch ab |
+| `Copper and tin, by hand. Your swing settles into an old rhythm.` | Copper and tin, by hand. Your swing settles into an old rhythm. | Kupfer und Zinn, von Hand. Dein Schwung findet in einen alten Rhythmus. |
+| `Smelt your first batch` | Smelt your first batch | Schmelze deine erste Charge |
+| `You keep the heat even. No slag, no cracks.` | You keep the heat even. No slag, no cracks. | Du hältst die Hitze gleichmäßig. Keine Schlacke, keine Risse. |
+| `Follow a shallow vein` | Follow a shallow vein | Folge einer flachen Ader |
+| `The vein is thin but honest. You take only what it gives.` | The vein is thin but honest. You take only what it gives. | Die Ader ist dünn, aber ehrlich. Du nimmst nur, was sie hergibt. |
+| `Quarry stone and ore` | Quarry stone and ore | Brich Stein und Erz |
+| `Wind cuts through the quarry. You work until the cart is full.` | Wind cuts through the quarry. You work until the cart is full. | Wind fegt durch den Steinbruch. Du arbeitest, bis der Karren voll ist. |
+| `Chip out the iron seam` | Chip out the iron seam | Schlag die Eisenader heraus |
+| `The iron comes loose in good clean chunks.` | The iron comes loose in good clean chunks. | Das Eisen löst sich in schönen, sauberen Brocken. |
+| `Forge a plain nail` | Forge a plain nail | Schmiede einen einfachen Nagel |
+| `A nail is the hardest thing to forge well, the forge master said.` | A nail is the hardest thing to forge well, the forge master said. | Ein Nagel ist das Schwerste, was man gut schmieden kann, hat der Schmiedemeister gesagt. |
+| `Mine beside the old camp` | Mine beside the old camp | Baue neben dem alten Lager ab |
+| `Old miners left their marks here. You add yours under theirs.` | Old miners left their marks here. You add yours under theirs. | Alte Bergleute haben hier ihre Zeichen hinterlassen. Du setzt deines unter ihre. |
+| `Temper a beginner blade` | Temper a beginner blade | Härte eine Anfängerklinge |
+| `You quench it once and it holds an edge.` | You quench it once and it holds an edge. | Du schreckst sie einmal ab, und sie hält die Schneide. |
+| `Load a cart of ore` | Load a cart of ore | Belade einen Erzkarren |
+| `You load and haul. Your back remembers its first summer here.` | You load and haul. Your back remembers its first summer here. | Du lädst und schleppst. Dein Rücken erinnert sich an seinen ersten Sommer hier. |
+| `Mine the deepest shaft` | Mine the deepest shaft | Baue im tiefsten Schacht ab |
+| `You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.'` | You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.' | Du holst Erz aus der Tiefe, ohne einen Kratzer. Der Schmiedemeister schickt eine Spitzhacke und einen Hammer. 'Zurück am Anfang, und weit darüber hinaus.' |
+| `Mastery: Forage and Craft` | Mastery: Forage and Craft | Meisterschaft: Sammeln und Handwerk |
+| `A weaver asks you to gather and work the simplest materials again.` | A weaver asks you to gather and work the simplest materials again. | Eine Weberin bittet dich, wieder die einfachsten Materialien zu sammeln und zu verarbeiten. |
+| `Meet the weaver` | Meet the weaver | Triff die Weberin |
+| `'You work dragonhide and starspun now. Show me you can still make good strips from leather.'` | 'You work dragonhide and starspun now. Show me you can still make good strips from leather.' | 'Du verarbeitest jetzt Drachenhaut und Sternengespinst. Zeig mir, dass du aus Leder noch gute Streifen schneiden kannst.' |
+| `Cut leather into strips` | Cut leather into strips | Schneide Leder in Streifen |
+| `Even width, no ragged ends. The weaver checks every one.` | Even width, no ragged ends. The weaver checks every one. | Gleiche Breite, keine ausgefransten Enden. Die Weberin prüft jeden einzelnen. |
+| `Gather from the wild patch` | Gather from the wild patch | Sammle im Wildwuchs |
+| `You pick slowly and leave the young growth alone.` | You pick slowly and leave the young growth alone. | Du pflückst langsam und lässt die jungen Triebe stehen. |
+| `Forage the woodland patch` | Forage the woodland patch | Sammle im Waldstück |
+| `Linen grows thick here. You fill a sack before noon.` | Linen grows thick here. You fill a sack before noon. | Leinen wächst hier dicht. Du füllst einen Sack noch vor Mittag. |
+| `Search the fern thicket` | Search the fern thicket | Durchsuche das Farndickicht |
+| `Silk moths nest in the ferns. You take only the spent cocoons.` | Silk moths nest in the ferns. You take only the spent cocoons. | Seidenmotten nisten im Farn. Du nimmst nur die leeren Kokons. |
+| `Gather on the rocky patch` | Gather on the rocky patch | Sammle auf dem Felsgrund |
+| `Hardy plants, tough fibres. Good for rope.` | Hardy plants, tough fibres. Good for rope. | Zähe Pflanzen, robuste Fasern. Gut für Seile. |
+| `Spin linen into thread` | Spin linen into thread | Spinne Leinen zu Garn |
+| `You spin until the thread runs fine and even.` | You spin until the thread runs fine and even. | Du spinnst, bis der Faden fein und gleichmäßig läuft. |
+| `Forage the hillside patch` | Forage the hillside patch | Sammle am Hang |
+| `You know which leaves to take by touch now.` | You know which leaves to take by touch now. | Du weißt jetzt schon beim Berühren, welche Blätter du nehmen musst. |
+| `Gather hides from the thicket` | Gather hides from the thicket | Sammle Häute aus dem Dickicht |
+| `A hunter left hides to cure. You trade a day of work for them.` | A hunter left hides to cure. You trade a day of work for them. | Ein Jäger hat Häute zum Gerben zurückgelassen. Du tauschst einen Tag Arbeit dagegen. |
+| `Forage the fort patch` | Forage the fort patch | Sammle beim Fort |
+| `The fort guards point you to a patch nobody else bothers with.` | The fort guards point you to a patch nobody else bothers with. | Die Wachen des Forts zeigen dir eine Stelle, um die sich sonst niemand kümmert. |
+| `Craft a simple satchel` | Craft a simple satchel | Fertige eine einfache Umhängetasche |
+| `Strips, thread and a buckle. It is the best thing you have made in years.` | Strips, thread and a buckle. It is the best thing you have made in years. | Streifen, Garn und eine Schnalle. Es ist das Beste, was du seit Jahren gemacht hast. |
+| `Forage the deep wilds` | Forage the deep wilds | Sammle in der tiefen Wildnis |
+| `You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel.` | You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel. | Du kehrst mit seltenen Materialien und ruhigen Händen aus der Wildnis zurück. Die Weberin schickt eine Sichel und einen Meißel. |
+| `Mastery: Invoke and Imbue` | Mastery: Invoke and Imbue | Meisterschaft: Beschwörung und Durchdringen |
+| `An old enchanter wants your first dim essences drawn and charged again.` | An old enchanter wants your first dim essences drawn and charged again. | Ein alter Verzauberer will deine ersten trüben Essenzen noch einmal geschöpft und aufgeladen sehen. |
+| `Meet the old enchanter` | Meet the old enchanter | Triff den alten Verzauberer |
+| `'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.'` | 'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.' | 'Strahlend, himmlisch, göttlich. Wann hast du zuletzt eine trübe Essenz aufgeladen? Fang dort an.' |
+| `Charge a dim essence` | Charge a dim essence | Lade eine trübe Essenz auf |
+| `It takes almost nothing to charge. That is what makes it hard.` | It takes almost nothing to charge. That is what makes it hard. | Sie aufzuladen kostet fast nichts. Genau das macht es schwer. |
+| `The fragment hums faintly. You draw from it without cracking it.` | The fragment hums faintly. You draw from it without cracking it. | Das Fragment summt leise. Du schöpfst daraus, ohne es zu zerbrechen. |
+| `Charge at the glowing font` | Charge at the glowing font | Lade am glühenden Quell auf |
+| `You feed the font slowly. It answers in kind.` | You feed the font slowly. It answers in kind. | Du speist den Quell langsam. Er antwortet auf gleiche Weise. |
+| `Listen at the river fragment` | Listen at the river fragment | Lausche am Flussfragment |
+| `Faint essence, carried on the river wind.` | Faint essence, carried on the river wind. | Schwache Essenz, getragen vom Flusswind. |
+| `Charge a faint essence` | Charge a faint essence | Lade eine schwache Essenz auf |
+| `Clean light. The enchanter would keep this one.` | Clean light. The enchanter would keep this one. | Reines Licht. Diese würde der Verzauberer behalten. |
+| `Trace the ruined sigil` | Trace the ruined sigil | Zeichne das zerfallene Siegel nach |
+| `The old lines still hold power. You trace them without breaking them.` | The old lines still hold power. You trace them without breaking them. | Die alten Linien bergen noch Macht. Du zeichnest sie nach, ohne sie zu unterbrechen. |
+| `Charge essence at the sigil` | Charge essence at the sigil | Lade Essenz am Siegel auf |
+| `You charge three in a row without a flicker.` | You charge three in a row without a flicker. | Du lädst drei hintereinander auf, ohne ein Flackern. |
+| `Draw from the crystal` | Draw from the crystal | Schöpfe aus dem Kristall |
+| `The crystal gives more than you ask. You take only what you need.` | The crystal gives more than you ask. You take only what you need. | Der Kristall gibt mehr, als du verlangst. Du nimmst nur, was du brauchst. |
+| `Draw from the desert fragment` | Draw from the desert fragment | Schöpfe aus dem Wüstenfragment |
+| `Dry air, sharp essence. Your hands stay steady.` | Dry air, sharp essence. Your hands stay steady. | Trockene Luft, scharfe Essenz. Deine Hände bleiben ruhig. |
+| `Charge in the desert heat` | Charge in the desert heat | Lade in der Wüstenhitze auf |
+| `The heat fights you. You win by going slower.` | The heat fights you. You win by going slower. | Die Hitze kämpft gegen dich. Du gewinnst, indem du langsamer wirst. |
+| `Draw deep from the rift` | Draw deep from the rift | Schöpfe tief aus dem Riss |
+| `The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism.` | The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism. | Der Riss ergießt helle Essenz, und du hältst sie ganz. Der Verzauberer schickt einen Leitstab und ein Prisma. |
+| `Mastery: Farm and Brew` | Mastery: Farm and Brew | Meisterschaft: Anbau und Brauen |
+| `A herbalist wants you to grow and brew the plainest remedies again.` | A herbalist wants you to grow and brew the plainest remedies again. | Eine Kräuterkundige will, dass du wieder die schlichtesten Heilmittel anbaust und braust. |
+| `Meet the herbalist` | Meet the herbalist | Triff die Kräuterkundige |
+| `'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.'` | 'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.' | 'Seltene Blüten, feine Tonika. Kannst du noch Scharmützelwurzel anbauen und sauber brauen? Zeig es mir.' |
+| `Plant skirmish root` | Plant skirmish root | Pflanze Scharmützelwurzel |
+| `You plant in straight rows and water at dusk.` | You plant in straight rows and water at dusk. | Du pflanzt in geraden Reihen und gießt in der Dämmerung. |
+| `Weed the farm plot` | Weed the farm plot | Jäte das Ackerbeet |
+| `Weeds come up easy after rain. You clear the whole plot.` | Weeds come up easy after rain. You clear the whole plot. | Nach dem Regen lässt sich Unkraut leicht ziehen. Du jätest das ganze Beet. |
+| `Brew a simple tonic` | Brew a simple tonic | Braue ein einfaches Tonikum |
+| `Root, water and patience. It comes out clear.` | Root, water and patience. It comes out clear. | Wurzel, Wasser und Geduld. Es wird klar. |
+| `Harvest the hillside plot` | Harvest the hillside plot | Ernte das Beet am Hang ab |
+| `The hill soil is thin. You coax a small harvest out of it.` | The hill soil is thin. You coax a small harvest out of it. | Der Hangboden ist karg. Du lockst ihm eine kleine Ernte ab. |
+| `Grow herbs in cold soil` | Grow herbs in cold soil | Zieh Kräuter in kaltem Boden |
+| `Frost-hardy herbs, slow to grow and worth the wait.` | Frost-hardy herbs, slow to grow and worth the wait. | Frostharte Kräuter, langsam im Wuchs und das Warten wert. |
+| `Brew at the fern cauldron` | Brew at the fern cauldron | Braue am Farnkessel |
+| `You let it simmer twice as long as you used to. It is better for it.` | You let it simmer twice as long as you used to. It is better for it. | Du lässt es doppelt so lange köcheln wie früher. Es wird dadurch besser. |
+| `Brew a calming draught` | Brew a calming draught | Braue einen beruhigenden Trank |
+| `The draught settles your own nerves before anyone else's.` | The draught settles your own nerves before anyone else's. | Der Trank beruhigt deine eigenen Nerven vor denen aller anderen. |
+| `Brew for the mountain watch` | Brew for the mountain watch | Braue für die Bergwache |
+| `The watch drinks it cold. Nobody complains.` | The watch drinks it cold. Nobody complains. | Die Wache trinkt es kalt. Niemand beschwert sich. |
+| `Tend the pine plot` | Tend the pine plot | Pflege das Kiefernbeet |
+| `Needles in the soil, sharp herbs in the rows.` | Needles in the soil, sharp herbs in the rows. | Nadeln im Boden, scharfe Kräuter in den Reihen. |
+| `Brew one last plain remedy` | Brew one last plain remedy | Braue ein letztes schlichtes Heilmittel |
+| `The herbalist tastes it and nods once.` | The herbalist tastes it and nods once. | Die Kräuterkundige kostet es und nickt einmal. |
+| `Brew a master tonic` | Brew a master tonic | Braue ein Meistertonikum |
+| `You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar.` | You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar. | Du braust ein Tonikum, das dem Apotheker nie gelungen ist. Die Kräuterkundige schickt eine Pflanzkelle und einen Mörser. |
+| `Mastery: Plunder and Barter` | Mastery: Plunder and Barter | Meisterschaft: Plündern und Feilschen |
+| `A retired fence wants to see you work the small markets honestly again.` | A retired fence wants to see you work the small markets honestly again. | Ein Hehler im Ruhestand will sehen, wie du die kleinen Märkte wieder ehrlich bearbeitest. |
+| `Meet the retired fence` | Meet the retired fence | Triff den Hehler im Ruhestand |
+| `'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.'` | 'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.' | 'Du plünderst Tresore und kaufst ganze Märkte leer. Geh und zieh jemandem etwas aus der Tasche, dann verkauf, was du genommen hast, zu einem fairen Preis.' |
+| `Haggle at the small stalls` | Haggle at the small stalls | Feilsche an den kleinen Ständen |
+| `You argue a copper off a loaf of bread. The baker laughs.` | You argue a copper off a loaf of bread. The baker laughs. | Du handelst beim Brot eine Kupfermünze herunter. Der Bäcker lacht. |
+| `Lift a purse in the alley` | Lift a purse in the alley | Stibitze in der Gasse einen Geldbeutel |
+| `Small purse, quick hands. Nobody notices.` | Small purse, quick hands. Nobody notices. | Kleiner Beutel, flinke Hände. Niemand merkt es. |
+| `Pick a lock in the alley` | Pick a lock in the alley | Knacke in der Gasse ein Schloss |
+| `An old padlock. You open it with a bent nail.` | An old padlock. You open it with a bent nail. | Ein altes Vorhängeschloss. Du öffnest es mit einem verbogenen Nagel. |
+| `Shadow a merchant` | Shadow a merchant | Beschatte einen Händler |
+| `You follow him for an hour and learn where he keeps his coin.` | You follow him for an hour and learn where he keeps his coin. | Du folgst ihm eine Stunde lang und erfährst, wo er sein Geld aufbewahrt. |
+| `Sell a stolen trinket` | Sell a stolen trinket | Verkaufe ein gestohlenes Schmuckstück |
+| `You sell it back to its owner for a fair price. The fence would approve.` | You sell it back to its owner for a fair price. The fence would approve. | Du verkaufst es seinem Besitzer zu einem fairen Preis zurück. Der Hehler wäre einverstanden. |
+| `Slip past the watch` | Slip past the watch | Schleich dich an der Wache vorbei |
+| `The watch never looks up from their dice.` | The watch never looks up from their dice. | Die Wache blickt nie von ihren Würfeln auf. |
+| `Trade at the dockside stalls` | Trade at the dockside stalls | Handle an den Ständen am Hafen |
+| `Fish for rope, rope for coin. You come out ahead.` | Fish for rope, rope for coin. You come out ahead. | Fisch gegen Seil, Seil gegen Münzen. Du machst Gewinn. |
+| `Work the dock alley` | Work the dock alley | Nimm dir die Hafengasse vor |
+| `Sailors keep loose coin. You keep some of it.` | Sailors keep loose coin. You keep some of it. | Seeleute haben loses Geld dabei. Du behältst einen Teil davon. |
+| `Lift a guard captain's keys` | Lift a guard captain's keys | Stibitze die Schlüssel eines Wachhauptmanns |
+| `You borrow them and return them before he notices.` | You borrow them and return them before he notices. | Du leihst sie dir und bringst sie zurück, bevor er es merkt. |
+| `Fence goods in the cold alley` | Fence goods in the cold alley | Verscherble Diebesgut in der kalten Gasse |
+| `The buyer pays in full and asks no questions.` | The buyer pays in full and asks no questions. | Der Käufer zahlt den vollen Preis und stellt keine Fragen. |
+| `Strike a deal at the pirate market` | Strike a deal at the pirate market | Schließe einen Handel auf dem Piratenmarkt ab |
+| `You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales.` | You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales. | Du feilschst mit Piraten und gehst mit ihrer besten Ware. Der Hehler schickt einen Dietrich und eine Waage. |
+| `Mastery: Bard and Discover` | Mastery: Bard and Discover | Meisterschaft: Barde und Entdecken |
+| `A wandering minstrel wants new songs from the oldest campfires.` | A wandering minstrel wants new songs from the oldest campfires. | Ein fahrender Spielmann will neue Lieder von den ältesten Lagerfeuern. |
+| `Meet the wandering minstrel` | Meet the wandering minstrel | Triff den fahrenden Spielmann |
+| `'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.'` | 'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.' | 'Jeder Barde singt in den großen Hallen. Ich will Lieder von Lagerfeuern und von Orten, die niemand kartiert.' |
+| `Sing at the campfire` | Sing at the campfire | Sing am Lagerfeuer |
+| `Two travellers and a dog. You play until they fall asleep.` | Two travellers and a dog. You play until they fall asleep. | Zwei Reisende und ein Hund. Du spielst, bis sie einschlafen. |
+| `Survey the nearby hills` | Survey the nearby hills | Erkunde die nahen Hügel |
+| `You find an old marker stone and copy its carving.` | You find an old marker stone and copy its carving. | Du findest einen alten Markstein und zeichnest seine Gravur ab. |
+| `Map the frozen ridge` | Map the frozen ridge | Kartiere den gefrorenen Grat |
+| `Your map is rough but true. The minstrel likes rough.` | Your map is rough but true. The minstrel likes rough. | Deine Karte ist grob, aber genau. Der Spielmann mag grob. |
+| `Swap songs with the guards` | Swap songs with the guards | Tausche Lieder mit den Wachen |
+| `The guards know a verse you have never heard. You trade one of yours for it.` | The guards know a verse you have never heard. You trade one of yours for it. | Die Wachen kennen eine Strophe, die du nie gehört hast. Du tauschst eine deiner eigenen dagegen. |
+| `Search the old prospect` | Search the old prospect | Durchsuche die alte Schürfstelle |
+| `Under loose stones you find a tin cup with initials scratched in.` | Under loose stones you find a tin cup with initials scratched in. | Unter losen Steinen findest du einen Blechbecher mit eingeritzten Initialen. |
+| `Scout the frozen pass` | Scout the frozen pass | Erkunde den gefrorenen Pass |
+| `Wind has carved the pass into a strange shape. You sketch it.` | Wind has carved the pass into a strange shape. You sketch it. | Der Wind hat den Pass zu einer seltsamen Form geschliffen. Du skizzierst ihn. |
+| `Play for the frost watch` | Play for the frost watch | Spiel für die Frostwache |
+| `The watch claps with mittens on. It sounds like rain.` | The watch claps with mittens on. It sounds like rain. | Die Wache klatscht in Fäustlingen. Es klingt wie Regen. |
+| `Perform in the old tavern` | Perform in the old tavern | Tritt in der alten Taverne auf |
+| `You play the guards' verse. The tavern sings it back.` | You play the guards' verse. The tavern sings it back. | Du spielst die Strophe der Wachen. Die Taverne singt sie zurück. |
+| `Write a song by the fire` | Write a song by the fire | Schreib ein Lied am Feuer |
+| `You write about the tin cup and the carved pass.` | You write about the tin cup and the carved pass. | Du schreibst über den Blechbecher und den geschliffenen Pass. |
+| `Find the lost marker` | Find the lost marker | Finde den verlorenen Markstein |
+| `The last marker is half buried. You dig it out and read it.` | The last marker is half buried. You dig it out and read it. | Der letzte Markstein ist halb vergraben. Du gräbst ihn aus und liest ihn. |
+| `Chart the far reaches` | Chart the far reaches | Kartiere die fernen Weiten |
+| `You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens.` | You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens. | Du kartierst die fernen Weiten und schreibst dein Lied zur Karte. Der Spielmann schickt ein Instrument und eine Linse. |
+| `Mastery: Vigor and Slay` | Mastery: Vigor and Slay | Meisterschaft: Tatkraft und Erlegen |
+| `A slayer captain wants your stamina and your first kills done right again.` | A slayer captain wants your stamina and your first kills done right again. | Ein Hauptmann der Monsterjäger will deine Ausdauer und deine ersten Jagderfolge noch einmal sauber sehen. |
+| `Report to the slayer captain` | Report to the slayer captain | Melde dich beim Hauptmann der Monsterjäger |
+| `'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?'` | 'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?' | 'Du jagst die schlimmsten Kreaturen, die es gibt. Schön. Kannst du noch eine Runde über den Hof laufen und einen Golem ordentlich erlegen?' |
+| `Run the training yard` | Run the training yard | Lauf über den Übungshof |
+| `Ten laps, carrying a sandbag. You finish the last one sprinting.` | Ten laps, carrying a sandbag. You finish the last one sprinting. | Zehn Runden mit einem Sandsack. Die letzte beendest du im Sprint. |
+| `Slay a feeble golem` | Slay a feeble golem | Erlege einen schwächlichen Golem |
+| `You find the crack in its chest and strike there.` | You find the crack in its chest and strike there. | Du findest den Riss in seiner Brust und schlägst dort zu. |
+| `Drill in the frozen yard` | Drill in the frozen yard | Trainiere auf dem gefrorenen Hof |
+| `Ice underfoot. You learn to run without trusting the ground.` | Ice underfoot. You learn to run without trusting the ground. | Eis unter den Füßen. Du lernst zu laufen, ohne dem Boden zu trauen. |
+| `Slay a dire golem` | Slay a dire golem | Erlege einen düsteren Golem |
+| `Same crack, bigger golem. It falls the same way.` | Same crack, bigger golem. It falls the same way. | Derselbe Riss, ein größerer Golem. Er fällt genauso. |
+| `Climb the frost wall` | Climb the frost wall | Erklimme die Frostmauer |
+| `Hand over hand, no rope. Your arms burn and hold.` | Hand over hand, no rope. Your arms burn and hold. | Hand über Hand, ohne Seil. Deine Arme brennen und halten. |
+| `Sprint the mountain yard` | Sprint the mountain yard | Sprinte über den Hof in den Bergen |
+| `Thin air, long sprints. Your breath stays even.` | Thin air, long sprints. Your breath stays even. | Dünne Luft, lange Sprints. Dein Atem bleibt gleichmäßig. |
+| `Slay a dire skeleton` | Slay a dire skeleton | Erlege ein düsteres Skelett |
+| `You break it at the spine before it can rise.` | You break it at the spine before it can rise. | Du brichst ihm das Rückgrat, bevor es sich erheben kann. |
+| `Haul stone across the yard` | Haul stone across the yard | Schlepp Steine über den Hof |
+| `You carry stones until the yard master runs out of them.` | You carry stones until the yard master runs out of them. | Du trägst Steine, bis dem Hofmeister keine mehr bleiben. |
+| `Run the breakwood course` | Run the breakwood course | Lauf den Bruchholz-Parcours |
+| `Logs, ditches, walls. You clear it twice.` | Logs, ditches, walls. You clear it twice. | Baumstämme, Gräben, Mauern. Du bewältigst ihn zweimal. |
+| `Slay a dire treant` | Slay a dire treant | Erlege einen düsteren Treant |
+| `You take it apart one branch at a time.` | You take it apart one branch at a time. | Du nimmst ihn Ast für Ast auseinander. |
+| `Climb to the pinnacle` | Climb to the pinnacle | Klettere auf den Gipfel |
+| `You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.'` | You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.' | Du erreichst den Gipfel ohne Pause. Der Hauptmann schickt Trainingsschuhe und ein Ausmerzungsmesser. 'Fit genug, um alles zu jagen.' |
+| `Mastery: Luck and Alms` | Mastery: Luck and Alms | Meisterschaft: Glück und Almosen |
+| `An almoner believes fortune follows the generous. Spend a day proving it.` | An almoner believes fortune follows the generous. Spend a day proving it. | Ein Almosenpfleger glaubt, dass das Glück den Großzügigen folgt. Verbringe einen Tag damit, es zu beweisen. |
+| `Meet the almoner` | Meet the almoner | Triff den Almosenpfleger |
+| `'Give freely and luck finds you. Most people never test it. Come and test it.'` | 'Give freely and luck finds you. Most people never test it. Come and test it.' | 'Gib großzügig, und das Glück findet dich. Die meisten prüfen das nie. Komm und prüf es.' |
+| `Feed a hungry child` | Feed a hungry child | Gib einem hungrigen Kind zu essen |
+| `You buy bread for a child in the alley. On the way out you find a coin.` | You buy bread for a child in the alley. On the way out you find a coin. | Du kaufst einem Kind in der Gasse Brot. Auf dem Rückweg findest du eine Münze. |
+| `Pay a stranger's debt` | Pay a stranger's debt | Begleiche die Schulden einer Fremden |
+| `The stallholder is stunned. Then she gives you a lucky charm she carved.` | The stallholder is stunned. Then she gives you a lucky charm she carved. | Die Standbesitzerin ist sprachlos. Dann schenkt sie dir einen Glückstalisman, den sie selbst geschnitzt hat. |
+| `Buy a smith his tools back` | Buy a smith his tools back | Kauf einem Schmied sein Werkzeug zurück |
+| `The smith had pawned his hammer. You buy it back for him.` | The smith had pawned his hammer. You buy it back for him. | Der Schmied hatte seinen Hammer verpfändet. Du kaufst ihn für ihn zurück. |
+| `Donate to the town chest` | Donate to the town chest | Spende in die Stadtkasse |
+| `The banker counts your gift twice to be sure.` | The banker counts your gift twice to be sure. | Der Bankier zählt deine Spende zur Sicherheit zweimal. |
+| `Leave coin for the wardens` | Leave coin for the wardens | Hinterlass den Wächtern etwas Geld |
+| `The wardens are grateful. One of them gives you a tip about a dice game.` | The wardens are grateful. One of them gives you a tip about a dice game. | Die Wächter sind dankbar. Einer von ihnen gibt dir einen Tipp für ein Würfelspiel. |
+| `Play dice with the wardens` | Play dice with the wardens | Würfle mit den Wächtern |
+| `You win three rolls in a row and give the winnings back.` | You win three rolls in a row and give the winnings back. | Du gewinnst drei Würfe hintereinander und gibst den Gewinn zurück. |
+| `Plant a clover for luck` | Plant a clover for luck | Pflanze Klee als Glücksbringer |
+| `You find a four-leaf clover while planting. The almoner is not surprised.` | You find a four-leaf clover while planting. The almoner is not surprised. | Beim Pflanzen findest du ein vierblättriges Kleeblatt. Der Almosenpfleger ist nicht überrascht. |
+| `Fund the village well` | Fund the village well | Finanziere den Dorfbrunnen |
+| `The village will have clean water by spring.` | The village will have clean water by spring. | Bis zum Frühling hat das Dorf sauberes Wasser. |
+| `Pay the dockhands' wages` | Pay the dockhands' wages | Zahle den Hafenarbeitern ihren Lohn |
+| `The harbour master had run short. The dockhands cheer.` | The harbour master had run short. The dockhands cheer. | Dem Hafenmeister war das Geld ausgegangen. Die Hafenarbeiter jubeln. |
+| `Buy out a poor trader` | Buy out a poor trader | Kauf einer armen Händlerin alles ab |
+| `You buy her last fish at full price. She swears it will bring you luck.` | You buy her last fish at full price. She swears it will bring you luck. | Du kaufst ihr den letzten Fisch zum vollen Preis ab. Sie schwört, er wird dir Glück bringen. |
+| `Give at the great market` | Give at the great market | Spende auf dem großen Markt |
+| `You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer.` | You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer. | Du verschenkst auf dem Markt einen Geldbeutel und gewinnst auf dem Rückweg eine Tombola. Der Almosenpfleger schickt einen Talisman und ein Weihrauchfass. |
+| `Mastery: Delve and Fortify` | Mastery: Delve and Fortify | Meisterschaft: Ergründen und Festigen |
+| `A raid veteran wants every dungeon and Fortress wave run from the start.` | A raid veteran wants every dungeon and Fortress wave run from the start. | Ein Raid-Veteran will jedes Verlies und jede Gauntlet-Welle von Anfang an gespielt sehen. |
+| `Meet the raid veteran` | Meet the raid veteran | Triff den Raid-Veteranen |
+| `'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.'` | 'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.' | 'Du spielst die härtesten Raids mit geschlossenen Augen. Öffne sie. Fang beim ersten Verlies an.' |
+| `Hear the delvers' stories` | Hear the delvers' stories | Hör dir die Geschichten der Verliesgänger an |
+| `Old delvers trade stories of the first dungeon. You learn a route you never knew.` | Old delvers trade stories of the first dungeon. You learn a route you never knew. | Alte Verliesgänger tauschen Geschichten über das erste Verlies aus. Du lernst einen Weg, den du nie kanntest. |
+| `You clear it using the old route. It is faster than yours.` | You clear it using the old route. It is faster than yours. | Du bezwingst es über den alten Weg. Er ist schneller als deiner. |
+| `Hold the Fortress for 20 waves` | Hold the Fortress for 20 waves | Halte im Gauntlet 20 Wellen stand |
+| `You hold the walls with plain supplies. Twenty waves, no losses.` | You hold the walls with plain supplies. Twenty waves, no losses. | Du hältst die Mauern mit einfachen Vorräten. Zwanzig Wellen, keine Verluste. |
+| `Restock near the Fortress` | Restock near the Fortress | Füll beim Gauntlet deine Vorräte auf |
+| `You restock and swap stories with the Fortress crews.` | You restock and swap stories with the Fortress crews. | Du füllst deine Vorräte auf und tauschst Geschichten mit den Gauntlet-Mannschaften aus. |
+| `Patch your raid gear` | Patch your raid gear | Flicke deine Raid-Ausrüstung |
+| `Torn straps, cracked buckles. You fix them all yourself.` | Torn straps, cracked buckles. You fix them all yourself. | Gerissene Riemen, gesprungene Schnallen. Du reparierst alles selbst. |
+| `You lead the party and let them set the pace.` | You lead the party and let them set the pace. | Du führst die Gruppe an und lässt sie das Tempo bestimmen. |
+| `Hold the Fortress for 40 waves` | Hold the Fortress for 40 waves | Halte im Gauntlet 40 Wellen stand |
+| `Forty waves. Your deposits never stop.` | Forty waves. Your deposits never stop. | Vierzig Wellen. Deine Einlagen reißen nie ab. |
+| `Plan the Savage run` | Plan the Savage run | Plane den Lauf durchs Wilde Verlies |
+| `The veteran's notes cover every room. You add a few of your own.` | The veteran's notes cover every room. You add a few of your own. | Die Notizen des Veteranen decken jeden Raum ab. Du fügst ein paar eigene hinzu. |
+| `Clear a Savage Dungeon` | Clear a Savage Dungeon | Bezwinge ein Wildes Verlies |
+| `The Savage Dungeon goes the way the notes said it would.` | The Savage Dungeon goes the way the notes said it would. | Das Wilde Verlies verläuft genau so, wie die Notizen es vorhergesagt haben. |
+| `Hold the Fortress for 60 waves` | Hold the Fortress for 60 waves | Halte im Gauntlet 60 Wellen stand |
+| `Sixty waves. The walls hold because you planned them to.` | Sixty waves. The walls hold because you planned them to. | Sechzig Wellen. Die Mauern halten, weil du es so geplant hast. |
+| `Clear a Fell Dungeon` | Clear a Fell Dungeon | Bezwinge ein grausames Verlies |
+| `You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification.` | You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification. | Du bezwingst das grausame Verlies vom ersten bis zum letzten Raum. Der Veteran schickt einen Schädel und eine Befestigung. |
+| `Gather the masters` | Gather the masters | Versammle die Meister |
+| `Harvest the great orchard` | Harvest the great orchard | Ernte den großen Obstgarten ab |
+| `The best trees in the land, picked clean and left healthy.` | The best trees in the land, picked clean and left healthy. | Die besten Bäume des Landes, sauber abgeerntet und gesund zurückgelassen. |
+| `Fish the open sea` | Fish the open sea | Angle auf offener See |
+| `You bring in a catch the fishwife would frame.` | You bring in a catch the fishwife would frame. | Du holst einen Fang ein, den die Fischhändlerin einrahmen würde. |
+| `Draw from the obelisk` | Draw from the obelisk | Schöpfe aus dem Obelisken |
+| `The obelisk gives freely to someone who asks properly.` | The obelisk gives freely to someone who asks properly. | Der Obelisk gibt bereitwillig jedem, der richtig bittet. |
+| `Work the underground` | Work the underground | Arbeite im Untergrund |
+| `You take what you came for and leave no trace.` | You take what you came for and leave no trace. | Du nimmst, wofür du gekommen bist, und hinterlässt keine Spur. |
+| `Trade at the grand market` | Trade at the grand market | Handle auf dem Großmarkt |
+| `Every stall gives you its best price.` | Every stall gives you its best price. | Jeder Stand macht dir seinen besten Preis. |
+| `Forge at the great foundry` | Forge at the great foundry | Schmiede in der großen Gießerei |
+| `The foundry's masters stop to watch you work.` | The foundry's masters stop to watch you work. | Die Meister der Gießerei halten inne, um dir bei der Arbeit zuzusehen. |
+| `Perform at the royal court` | Perform at the royal court | Tritt am Königshof auf |
+| `The court stands for your last song.` | The court stands for your last song. | Beim letzten Lied erhebt sich der Hof. |
+| `Craft at the syndicate atelier` | Craft at the syndicate atelier | Fertige im Atelier des Syndikats |
+| `You craft a piece the atelier keeps on display.` | You craft a piece the atelier keeps on display. | Du fertigst ein Stück, das das Atelier ausstellt. |
+| `Forage the far wilds` | Forage the far wilds | Sammle in der fernen Wildnis |
+| `The wilds give up their rarest growth to you.` | The wilds give up their rarest growth to you. | Die Wildnis überlässt dir ihre seltensten Gewächse. |
+| `Run the long valley` | Run the long valley | Lauf durch das lange Tal |
+| `You run it end to end and keep your breath.` | You run it end to end and keep your breath. | Du läufst es von einem Ende zum anderen und bleibst bei Atem. |
+| `The masters have one more test, at the edges of the world.` | The masters have one more test, at the edges of the world. | Die Meister haben noch eine Prüfung, an den Rändern der Welt. |
+| `Meet the masters again` | Meet the masters again | Triff die Meister erneut |
+| `Forage the deep hollows` | Forage the deep hollows | Sammle in den tiefen Senken |
+| `You find growth down here no forager has named.` | You find growth down here no forager has named. | Hier unten findest du Gewächse, die noch kein Sammler benannt hat. |
+| `Mine the high ledge` | Mine the high ledge | Baue am hohen Sims ab |
+| `Ore from the ledge, brought down without a single slip.` | Ore from the ledge, brought down without a single slip. | Erz vom Sims, heruntergebracht ohne einen einzigen Fehltritt. |
+| `Fish the eastern coast` | Fish the eastern coast | Angle an der Ostküste |
+| `You land a fish from water nobody fishes.` | You land a fish from water nobody fishes. | Du fängst einen Fisch aus Gewässern, in denen niemand angelt. |
+| `Chart the ruined coast` | Chart the ruined coast | Kartiere die verfallene Küste |
+| `Your chart corrects three maps the cartographers trusted.` | Your chart corrects three maps the cartographers trusted. | Deine Karte berichtigt drei Karten, denen die Kartografen vertrauten. |
+| `Charge essence at the arc` | Charge essence at the arc | Lade Essenz am Lichtbogen auf |
+| `The arc burns bright and steady in your hands.` | The arc burns bright and steady in your hands. | Der Lichtbogen brennt hell und ruhig in deinen Händen. |
+| `Cook a feast for the masters` | Cook a feast for the masters | Koche ein Festmahl für die Meister |
+| `Fifteen masters, one table. Every plate comes back clean.` | Fifteen masters, one table. Every plate comes back clean. | Fünfzehn Meister, ein Tisch. Jeder Teller kommt leer zurück. |
+| `Draw from the last obelisk` | Draw from the last obelisk | Schöpfe aus dem letzten Obelisken |
+| `The obelisk at the end of the world answers you.` | The obelisk at the end of the world answers you. | Der Obelisk am Ende der Welt antwortet dir. |
+| `Play the eastern court` | Play the eastern court | Spiel am östlichen Hof |
+| `The court asks for the campfire songs. You play them all.` | The court asks for the campfire songs. You play them all. | Der Hof verlangt die Lagerfeuerlieder. Du spielst sie alle. |
+| `Brew the masters' remedy` | Brew the masters' remedy | Braue das Heilmittel der Meister |
+| `A remedy built from every plain herb you grew.` | A remedy built from every plain herb you grew. | Ein Heilmittel aus jedem schlichten Kraut, das du gezogen hast. |
+| `Bargain with the pirate lords` | Bargain with the pirate lords | Verhandle mit den Piratenfürsten |
+| `The pirate lords pay you to leave.` | The pirate lords pay you to leave. | Die Piratenfürsten bezahlen dich dafür, dass du gehst. |
+| `Clear an Ancient Dungeon` | Clear an Ancient Dungeon | Bezwinge ein Uraltes Verlies |
+| `The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.'` | The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.' | Die Meister warten am ältesten Verlies. Sie reichen dir einen zweiten Globus und eine Laterne. 'Jetzt musst du nichts mehr beweisen.' |
+| `[Q1] Enchanted Rod` | [Q1] Enchanted Rod | [Q1] verzauberte Angel |
+| `[Q1] Enchanted Pickaxe` | [Q1] Enchanted Pickaxe | [Q1] verzauberte Spitzhacke |
+| `[Q1] Enchanted Sickle` | [Q1] Enchanted Sickle | [Q1] verzauberte Sichel |
+| `[Q1] Enchanted Conduit` | [Q1] Enchanted Conduit | [Q1] verzauberter Leitkanal |
+| `[Q1] Enchanted Trowel` | [Q1] Enchanted Trowel | [Q1] verzauberte Pflanzkelle |
+| `[Q1] Enchanted Lockpick` | [Q1] Enchanted Lockpick | [Q1] verzauberter Dietrich |
+| `[Q1] Enchanted Instrument` | [Q1] Enchanted Instrument | [Q1] verzaubertes Instrument |
+| `[Q1] Enchanted Trainers` | [Q1] Enchanted Trainers | [Q1] verzauberte Turnschuhe |
+| `[Q1] Culling Knife` | [Q1] Culling Knife | [Q1] Ausmerzungsmesser |
+| `[Q1] Lucky Charm` | [Q1] Lucky Charm | [Q1] Glückstalisman |
+| `[Q1] Enchanted Censer` | [Q1] Enchanted Censer | [Q1] verzaubertes Weihrauchfass |
+| `[Q1] Enchanted Skillet` | [Q1] Enchanted Skillet | [Q1] verzauberte Pfanne |
+| `[Q1] Enchanted Hammer` | [Q1] Enchanted Hammer | [Q1] verzauberter Hammer |
+| `[Q1] Enchanted Chisel` | [Q1] Enchanted Chisel | [Q1] verzauberter Meißel |
+| `[Q1] Enchanted Prism` | [Q1] Enchanted Prism | [Q1] verzaubertes Prisma |
+| `[Q1] Enchanted Mortar` | [Q1] Enchanted Mortar | [Q1] verzauberter Mörser |
+| `[Q1] Enchanted Scales` | [Q1] Enchanted Scales | [Q1] verzauberte Schuppen |
+| `[Q1] Enchanted Lens` | [Q1] Enchanted Lens | [Q1] verzauberte Linse |
+| `[Q1] Enchanted Lantern` | [Q1] Enchanted Lantern | [Q1] verzauberte Laterne |
+| `[Q1] Enchanted Pommel` | [Q1] Enchanted Pommel | [Q1] verzauberter Knauf |
+| `[Q1] Enchanted Grip` | [Q1] Enchanted Grip | [Q1] verzauberter Griff |
+| `[Q1] Enchanted Notch` | [Q1] Enchanted Notch | [Q1] verzauberte Kerbe |
+| `[Q1] Enchanted Bowstring` | [Q1] Enchanted Bowstring | [Q1] verzauberte Bogensehne |
+| `[Q1] Enchanted Orb` | [Q1] Enchanted Orb | [Q1] verzauberte Kugel |
+| `[Q1] Enchanted Catalyst` | [Q1] Enchanted Catalyst | [Q1] verzauberter Katalysator |
+| `[Q1] Enchanted Spring` | [Q1] Enchanted Spring | [Q1] verzauberte Feder |
+| `[Q1] Enchanted Shim` | [Q1] Enchanted Shim | [Q1] verzauberte Unterlegscheibe |
+| `[Q1] Enchanted Salve` | [Q1] Enchanted Salve | [Q1] verzauberte Salbe |
+| `[Q1] Enchanted Relic` | [Q1] Enchanted Relic | [Q1] verzaubertes Relikt |
+| `[T1] Globe of Skills` | [T1] Globe of Skills | [T1] Globus der Fähigkeiten |
+| `[T2] Globe of Skills` | [T2] Globe of Skills | [T2] Globus der Fähigkeiten |
+| `[Q1] Enchanted Skull` | [Q1] Enchanted Skull | [Q1] verzauberter Schädel |
+| `[Q1] Enchanted Fortification` | [Q1] Enchanted Fortification | [Q1] verzauberte Befestigung |
+| `Earned by completing every quest. New quests re-lock it until they are done.` | Earned by completing every quest. New quests re-lock it until they are done. | Verdient durch den Abschluss aller Quests. Neue Quests sperren ihn wieder, bis sie erledigt sind. |
+| `New quests have arrived. Complete them to earn your Quest Cape back.` | New quests have arrived. Complete them to earn your Quest Cape back. | Neue Quests sind eingetroffen. Schließe sie ab, um deinen Quest-Umhang zurückzubekommen. |
+| `Quest Cape Unlocked!` | Quest Cape Unlocked! | Quest-Umhang freigeschaltet! |
+| `Unlock Requirements` | Unlock Requirements | Freischalt-Voraussetzungen |
+| `Q1` | Q1 | Q1 |
+| `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Globen der Fähigkeiten: +{0}% (+{1} Schritte/Sek) |
+| `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Quest-Umhang: +{0}% (+{1} Schritte/Sek) |
+| `@crit_pct_globes` | Globes of Skills: {0}% | Globen der Fähigkeiten: {0}% |
+| `@globes_count` | Globes of Skills {0}/{1} | Globen der Fähigkeiten {0}/{1} |
+| `@quest_cape_count` | Quest Cape {0}/{1} | Quest-Umhang {0}/{1} |
+| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% Bewegungsgeschwindigkeit, solange alle Quests abgeschlossen sind |
+| `@all_skills_lv` | All Skills Lv {0} | Alle Fähigkeiten St {0} |
+| `@b:auto_process` | +{0}% auto-process chance | +{0}% Chance auf Auto-Verarbeitung |
+| `@b:auto_bank` | +{0}% auto-bank chance | +{0}% Chance auf Auto-Einlagerung |
+| `@b:min_hit` | +{0} min hit | +{0} Min. Treffer |
+| `@b:max_hit` | +{0} max hit | +{0} Max. Treffer |
+| `@b:quest_cape_held` | Held while every quest is completed | Bleibt erhalten, solange alle Quests abgeschlossen sind |
+| `Mastery: The Feeble Trial` | Mastery: The Feeble Trial | Meisterschaft: Die schwächliche Prüfung |
+| `The masters test anyone who has survived a dungeon. The first trial starts close to home.` | The masters test anyone who has survived a dungeon. The first trial starts close to home. | Die Meister prüfen jeden, der ein Verlies überlebt hat. Die erste Prüfung beginnt gleich vor der Haustür. |
+| `Meet the masters at Fernstead` | Meet the masters at Fernstead | Triff die Meister in Fernstead |
+| `A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.'` | A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.' | Ein Meister in schlichtem Mantel wartet bei der Bank. 'Du hast ein Verlies von innen gesehen. Jetzt zeig uns, dass du die kleinen Dinge gut kannst.' |
+| `Cook at the Fernstead hearth` | Cook at the Fernstead hearth | Koche an der Fernstead-Feuerstelle |
+| `Simple bread, baked right. The master takes a bite and nods.` | Simple bread, baked right. The master takes a bite and nods. | Einfaches Brot, richtig gebacken. Der Meister beißt hinein und nickt. |
+| `Haggle at the stalls` | Haggle at the stalls | Feilsche an den Ständen |
+| `You walk away with a fair price and a new friend.` | You walk away with a fair price and a new friend. | Du gehst mit einem fairen Preis und einem neuen Freund davon. |
+| `Tend the Fernstead field` | Tend the Fernstead field | Bestelle das Fernstead-Feld |
+| `Straight rows and no weeds. The farmer asks who taught you.` | Straight rows and no weeds. The farmer asks who taught you. | Gerade Reihen und kein Unkraut. Der Bauer fragt, wer es dir beigebracht hat. |
+| `Forage the thicket` | Forage the thicket | Sammle im Dickicht |
+| `You come out with a full basket and not one scratch.` | You come out with a full basket and not one scratch. | Du kommst mit vollem Korb und ohne einen einzigen Kratzer heraus. |
+| `Survey the Woodgap hills` | Survey the Woodgap hills | Vermiss die Hügel bei Woodgap |
+| `Your notes fill the gaps on the old survey map.` | Your notes fill the gaps on the old survey map. | Deine Notizen füllen die Lücken auf der alten Vermessungskarte. |
+| `Work the Ironice smithy` | Work the Ironice smithy | Arbeite in der Ironice-Schmiede |
+| `A plain blade, balanced and sharp. The smith hangs it on the wall.` | A plain blade, balanced and sharp. The smith hangs it on the wall. | Eine schlichte Klinge, ausgewogen und scharf. Der Schmied hängt sie an die Wand. |
+| `Cut stone at the quarry` | Cut stone at the quarry | Brich Stein im Steinbruch |
+| `Clean blocks, cut square. The quarry boss has no complaints.` | Clean blocks, cut square. The quarry boss has no complaints. | Saubere Blöcke, rechtwinklig geschnitten. Der Vorarbeiter im Steinbruch hat nichts zu beanstanden. |
+| `Play at the Splitstone campfire` | Play at the Splitstone campfire | Spiel am Splitstone-Lagerfeuer |
+| `Travelers stop to listen. One of them is a master.` | Travelers stop to listen. One of them is a master. | Reisende bleiben stehen und hören zu. Einer von ihnen ist ein Meister. |
+| `Work the Pinegap alley` | Work the Pinegap alley | Arbeite in der Pinegap-Gasse |
+| `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Du stibitzt einen Geldbeutel und gibst ihn zurück, bevor der Besitzer es merkt. Der Meister lacht. |
+| `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Schöpfe aus dem Pinegap-Kristall |
+| `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Der Kristall summt, und die Essenz kommt rein heraus. |
+| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Die Meister warten am Eingang des Verlieses. 'Ein guter Anfang. Die nächste Prüfung liegt weiter draußen.' |
+| `Mastery: The Dire Trial` | Mastery: The Dire Trial | Meisterschaft: Die düstere Prüfung |
+| `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | Die zweite Prüfung führt dich in den kalten Westen, wo die Meister härter arbeiten. |
+| `Meet the masters at Timberchill` | Meet the masters at Timberchill | Triff die Meister in Timberchill |
+| `'The first trial was easy on purpose. This one is not.'` | 'The first trial was easy on purpose. This one is not.' | 'Die erste Prüfung war absichtlich leicht. Diese ist es nicht.' |
+| `Join the Timberchill expedition` | Join the Timberchill expedition | Schließ dich der Expedition von Timberchill an |
+| `You lead the expedition home with a full map and every pack mule.` | You lead the expedition home with a full map and every pack mule. | Du führst die Expedition mit vollständiger Karte und allen Packeseln nach Hause. |
+| `Cook in the Icemast kitchen` | Cook in the Icemast kitchen | Koche in der Icemast-Küche |
+| `Hot stew for a cold crew. Everyone asks for seconds.` | Hot stew for a cold crew. Everyone asks for seconds. | Heißer Eintopf für eine durchgefrorene Mannschaft. Alle wollen Nachschlag. |
+| `Fish the frozen lake` | Fish the frozen lake | Angle auf dem zugefrorenen See |
+| `You cut a hole in the ice and fill a bucket before noon.` | You cut a hole in the ice and fill a bucket before noon. | Du schlägst ein Loch ins Eis und füllst vor Mittag einen Eimer. |
+| `Forge at the Battlefrost smithy` | Forge at the Battlefrost smithy | Schmiede in Battlefrost |
+| `Armor for the frontier guard, every plate fitted.` | Armor for the frontier guard, every plate fitted. | Rüstung für die Grenzwache, jede Platte passgenau. |
+| `Brew for the Battlefrost garrison` | Brew for the Battlefrost garrison | Braue für die Garnison von Battlefrost |
+| `A strong ale for a long winter. The garrison approves.` | A strong ale for a long winter. The garrison approves. | Ein starkes Bier für einen langen Winter. Die Garnison ist zufrieden. |
+| `Play the Battlefrost tavern` | Play the Battlefrost tavern | Spiel in der Taverne von Battlefrost |
+| `A tavern full of soldiers sings along.` | A tavern full of soldiers sings along. | Eine Taverne voller Soldaten singt mit. |
+| `Draw from the Windhollow rift` | Draw from the Windhollow rift | Schöpfe aus dem Windhollow-Riss |
+| `The rift pulls back. You pull harder.` | The rift pulls back. You pull harder. | Der Riss zieht dagegen. Du ziehst stärker. |
+| `Charge the Windhollow conduit` | Charge the Windhollow conduit | Lade den Windhollow-Leitkanal auf |
+| `The conduit glows steady for the first time in years.` | The conduit glows steady for the first time in years. | Der Leitkanal leuchtet zum ersten Mal seit Jahren gleichmäßig. |
+| `Tend the Windhollow greenhouse` | Tend the Windhollow greenhouse | Pflege das Windhollow-Gewächshaus |
+| `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Grüne Blätter mitten im Winter. |
+| `Mine the Icevein seams` | Mine the Icevein seams | Baue die Erzadern von Icevein ab |
+| `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Du findest die Ader, die die Bergleute aufgegeben hatten. |
+| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Du hast in der Kälte durchgehalten. Als Nächstes wollen die Meister dich unter Druck sehen.' |
+| `Mastery: The Savage Trial` | Mastery: The Savage Trial | Meisterschaft: Die wilde Prüfung |
+| `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | Die dritte Prüfung führt durch den geschäftigen Süden, wo jedem Handwerk ein Meister zusieht. |
+| `Meet the masters at Shortha` | Meet the masters at Shortha | Triff die Meister in Shortha |
+| `'The south is loud and crowded. Do your best work anyway.'` | 'The south is loud and crowded. Do your best work anyway.' | 'Der Süden ist laut und voller Leute. Leiste trotzdem deine beste Arbeit.' |
+| `Build at the Shortha workshop` | Build at the Shortha workshop | Baue in der Werkstatt von Shortha |
+| `A cabinet with no gaps and no nails. The carpenter wants to buy it.` | A cabinet with no gaps and no nails. The carpenter wants to buy it. | Ein Schrank ohne Fugen und ohne Nägel. Der Schreiner will ihn kaufen. |
+| `Perform at the Shortha theatre` | Perform at the Shortha theatre | Tritt im Theater von Shortha auf |
+| `The crowd stays on its feet until the lamps go out.` | The crowd stays on its feet until the lamps go out. | Das Publikum bleibt auf den Beinen, bis die Lampen ausgehen. |
+| `Draw from the Shortha rift` | Draw from the Shortha rift | Schöpfe aus dem Riss von Shortha |
+| `The rift spits sparks. You take what you need.` | The rift spits sparks. You take what you need. | Der Riss sprüht Funken. Du nimmst dir, was du brauchst. |
+| `Pull the Shortha heist` | Pull the Shortha heist | Zieh den Raubzug in Shortha durch |
+| `In and out without a sound. The master checks the lock twice.` | In and out without a sound. The master checks the lock twice. | Rein und raus, ohne einen Laut. Der Meister prüft das Schloss zweimal. |
+| `Run the Shortha kitchen` | Run the Shortha kitchen | Leite die Küche in Shortha |
+| `Two hundred plates in one night. None come back.` | Two hundred plates in one night. None come back. | Zweihundert Teller in einer Nacht. Keiner wird zurückgeschickt. |
+| `Forage the Gilshore grove` | Forage the Gilshore grove | Sammle im Gilshore-Hain |
+| `You find the herbs the grove keeper hides from buyers.` | You find the herbs the grove keeper hides from buyers. | Du findest die Kräuter, die der Hainhüter vor den Käufern versteckt. |
+| `Fish off the Gilshore coast` | Fish off the Gilshore coast | Angle vor der Gilshore-Küste |
+| `A heavy net, hauled in alone.` | A heavy net, hauled in alone. | Ein schweres Netz, allein eingeholt. |
+| `Charge the Farmhold conduit` | Charge the Farmhold conduit | Lade den Farmhold-Leitkanal auf |
+| `The conduit takes a full charge and holds it.` | The conduit takes a full charge and holds it. | Der Leitkanal nimmt eine volle Ladung auf und hält sie. |
+| `Run the Farmhold valley` | Run the Farmhold valley | Lauf durch das Farmhold-Tal |
+| `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Du läufst das Tal zweimal ab, nur um es allen zu zeigen. |
+| `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Gieße in der Riverwatch-Gießerei |
+| `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Ein sauberer Guss ohne Blasen. Die Leute in der Gießerei klatschen. |
+| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Gut. Die Globen warten in den letzten beiden Prüfungen.' |
+| `Mastery: The Fell Trial` | Mastery: The Fell Trial | Meisterschaft: Die grausame Prüfung |
+| `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | Die vierte Prüfung schickt dich an die besten Arbeitsstätten des Landes. |
+| `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Die Meister drängen sich in der Bank. 'Drei Prüfungen bestanden. Jetzt zeig uns die beste Arbeit im ganzen Land.' |
+| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Die Meister warten am Eingang des Verlieses. Sie reichen dir einen gläsernen Globus. 'Der erste Globus. Er birgt jede Prüfung bis hierher.' |
+| `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Meisterschaft: Die uralte Prüfung |
+| `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Der erste Globus war für die Prüfungen. Der zweite ist für das, was dir niemand beigebracht hat.' |
+| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Belohnung aus der grausamen und der uralten Prüfung. Beide stapeln sich. |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Ozan |
 | Discover | Keşfet |
 
-## Lines to review (799)
+## Lines to review (1355)
 
 | Key | English | Current |
 |---|---|---|
@@ -869,3 +869,559 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tint` | Tint | Renklendirme |
 | `No tint` | No tint | Renklendirme yok |
 | `Pick any colour for the wings` | Pick any colour for the wings | Kanatlar için herhangi bir renk seç |
+| `Mastery: Life and Spirit` | Mastery: Life and Spirit | Ustalık: Yaşam ve Ruh |
+| `An old healer wants proof you still remember how to endure.` | An old healer wants proof you still remember how to endure. | Yaşlı bir şifacı, dayanmayı hâlâ hatırladığını kanıtlamanı istiyor. |
+| `Meet the old healer` | Meet the old healer | Yaşlı şifacıyla buluş |
+| `She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.'` | She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.' | Merhaba demeden önce nabzını yokluyor. 'Güçlü. Ama ders güç değil. Dayanmayı ilk öğrendiğin yere geri yürü.' |
+| `Rest by the old campfire` | Rest by the old campfire | Eski kamp ateşinin başında dinlen |
+| `You sit until the fire burns low. The healer nods when you stand without stiffness.` | You sit until the fire burns low. The healer nods when you stand without stiffness. | Ateş sönmeye yüz tutana kadar oturuyorsun. Hiç tutulmadan ayağa kalktığında şifacı başını sallıyor. |
+| `Share a plain meal` | Share a plain meal | Sade bir yemek paylaş |
+| `Bread, broth, nothing more. 'You forgot how little a body needs,' she says.` | Bread, broth, nothing more. 'You forgot how little a body needs,' she says. | Ekmek, et suyu, başka bir şey yok. 'Bir bedenin ne kadar az şeye ihtiyacı olduğunu unutmuşsun' diyor. |
+| `Outlast a feeble slime` | Outlast a feeble slime | Cılız bir balçığı yıprat |
+| `It barely scratches you. You let it tire itself out before you finish it.` | It barely scratches you. You let it tire itself out before you finish it. | Seni zar zor çiziyor. İşini bitirmeden önce kendi kendini yormasına izin veriyorsun. |
+| `Calm your breathing by the fire` | Calm your breathing by the fire | Ateşin başında nefesini sakinleştir |
+| `You count your breaths until the count stops mattering. Your spirit settles.` | You count your breaths until the count stops mattering. Your spirit settles. | Saymanın bir önemi kalmayana dek nefeslerini sayıyorsun. Ruhun duruluyor. |
+| `Eat with the road crews` | Eat with the road crews | Yol işçileriyle yemek ye |
+| `The crews talk about blisters and sore backs. You listen more than you speak.` | The crews talk about blisters and sore backs. You listen more than you speak. | İşçiler nasırlardan ve ağrıyan sırtlardan bahsediyor. Konuştuğundan çok dinliyorsun. |
+| `Take the ember slime calmly` | Take the ember slime calmly | Kor balçığını sakince karşıla |
+| `You let the heat wash past you and keep your footing.` | You let the heat wash past you and keep your footing. | Sıcaklığın yanından akıp geçmesine izin veriyor, dengeni koruyorsun. |
+| `Clear a Feeble Dungeon` | Clear a Feeble Dungeon | Cılız Zindan'ı temizle |
+| `The first dungeon feels small now. You walk it slowly, watching every step.` | The first dungeon feels small now. You walk it slowly, watching every step. | İlk zindan artık küçük geliyor. Her adımını gözeterek ağır ağır ilerliyorsun. |
+| `Report your progress` | Report your progress | İlerlemeni bildir |
+| `The healer's runner takes your notes. 'She says you are nearly there.'` | The healer's runner takes your notes. 'She says you are nearly there.' | Şifacının ulağı notlarını alıyor. 'Neredeyse vardığını söylüyor.' |
+| `Cook for a tired party` | Cook for a tired party | Yorgun bir grup için yemek pişir |
+| `You feed a party back from the deep. One of them falls asleep mid bite.` | You feed a party back from the deep. One of them falls asleep mid bite. | Derinlerden dönen bir grubu doyuruyorsun. İçlerinden biri lokmasının ortasında uyuyakalıyor. |
+| `Clear a Dire Dungeon` | Clear a Dire Dungeon | Korkunç Zindan'ı temizle |
+| `You come out of the Dire Dungeon with nothing worse than a bruise.` | You come out of the Dire Dungeon with nothing worse than a bruise. | Korkunç Zindan'dan bir çürükten öte zarar görmeden çıkıyorsun. |
+| `Stand firm against a fell demon` | Stand firm against a fell demon | Habis bir iblise karşı dimdik dur |
+| `The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.'` | The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.' | İblis sert vuruyor ama sen düşmüyorsun. Şifacı seni sonradan buluyor. 'Merhem ve kutsal emanet. Hediye değil, hak edildi.' |
+| `Mastery: Strike and Heft` | Mastery: Strike and Heft | Ustalık: Vuruş ve Kuvvet |
+| `A retired sergeant wants to see your first drills done properly again.` | A retired sergeant wants to see your first drills done properly again. | Emekli bir çavuş, ilk talimlerini yeniden doğru yaptığını görmek istiyor. |
+| `Report to the old sergeant` | Report to the old sergeant | Yaşlı çavuşa rapor ver |
+| `'Eighty years of swinging and you still lead with your shoulder? Back to the drills.'` | 'Eighty years of swinging and you still lead with your shoulder? Back to the drills.' | 'Seksen yıldır silah sallıyorsun ve hâlâ omzunla mı giriyorsun? Talime geri dön.' |
+| `Cut a practice staff` | Cut a practice staff | Bir talim asası kes |
+| `You trim an ash branch to length. It is lighter than anything you carry now.` | You trim an ash branch to length. It is lighter than anything you carry now. | Bir dişbudak dalını boyuna göre kırpıyorsun. Şimdi taşıdığın her şeyden daha hafif. |
+| `Spar with a feeble goblin` | Spar with a feeble goblin | Cılız bir goblinle idman yap |
+| `You win with the staff alone. The sergeant grunts something like approval.` | You win with the staff alone. The sergeant grunts something like approval. | Yalnızca asayla kazanıyorsun. Çavuş onaya benzer bir şey homurdanıyor. |
+| `Run the training trail` | Run the training trail | Talim patikasında koş |
+| `Three laps, then three more. Your footwork comes back on the last one.` | Three laps, then three more. Your footwork comes back on the last one. | Üç tur, sonra üç tur daha. Ayak işçiliğin sonuncusunda geri geliyor. |
+| `Beat a dire goblin cleanly` | Beat a dire goblin cleanly | Korkunç bir goblini temiz bir şekilde yen |
+| `No wasted swings. The sergeant counts them on his fingers.` | No wasted swings. The sergeant counts them on his fingers. | Boşa savrulan tek bir vuruş yok. Çavuş onları parmaklarıyla sayıyor. |
+| `Eat with the garrison` | Eat with the garrison | Garnizonla yemek ye |
+| `The garrison cook remembers the sergeant. 'He still shouts at everyone?'` | The garrison cook remembers the sergeant. 'He still shouts at everyone?' | Garnizon aşçısı çavuşu hatırlıyor. 'Hâlâ herkese bağırıyor mu?' |
+| `Send word to the sergeant` | Send word to the sergeant | Çavuşa haber gönder |
+| `You send a short note: two goblins down, footwork fixed.` | You send a short note: two goblins down, footwork fixed. | Kısa bir not gönderiyorsun: iki goblin yere serildi, ayak işçiliği düzeldi. |
+| `Break a feeble skeleton` | Break a feeble skeleton | Cılız bir iskeleti parçala |
+| `Bone gives way under a clean blow. Heft without strike is noise, he always said.` | Bone gives way under a clean blow. Heft without strike is noise, he always said. | Kemik temiz bir darbe altında pes ediyor. Vuruşsuz kuvvet gürültüden ibarettir, derdi hep. |
+| `You clear it with the same drills you learned there.` | You clear it with the same drills you learned there. | Orada öğrendiğin talimlerin aynısıyla temizliyorsun. |
+| `Your party moves when you move. Good habits spread.` | Your party moves when you move. Good habits spread. | Sen hareket edince grubun da hareket ediyor. İyi alışkanlıklar bulaşıcıdır. |
+| `Have your blade reforged` | Have your blade reforged | Kılıcını yeniden dövdür |
+| `The smith grinds out years of nicks. It swings true again.` | The smith grinds out years of nicks. It swings true again. | Demirci yılların çentiklerini taşlayıp gideriyor. Kılıç yine dosdoğru savruluyor. |
+| `Fell an orc with clean blows` | Fell an orc with clean blows | Bir orku temiz darbelerle devir |
+| `The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.'` | The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.' | Ork üç vuruşta yere seriliyor. Çavuş sana bir kılıç topuzu ve bir kabza veriyor. 'Artık hazırsın.' |
+| `Mastery: Sight and Draw` | Mastery: Sight and Draw | Ustalık: Görüş ve Çek |
+| `A hunter in the north asks you to shoot like a beginner again.` | A hunter in the north asks you to shoot like a beginner again. | Kuzeydeki bir avcı, yeniden bir acemi gibi atış yapmanı istiyor. |
+| `Meet the northern hunter` | Meet the northern hunter | Kuzeyli avcıyla buluş |
+| `'You aim like someone who expects to hit. Good archers expect to miss. Come.'` | 'You aim like someone who expects to hit. Good archers expect to miss. Come.' | 'Vurmayı bekleyen biri gibi nişan alıyorsun. İyi okçular ıskalamayı bekler. Gel.' |
+| `Fletch a plain practice bow` | Fletch a plain practice bow | Sade bir talim yayı yap |
+| `No runes, no gems. Just yew and string.` | No runes, no gems. Just yew and string. | Rün yok, mücevher yok. Sadece porsuk ağacı ve kiriş. |
+| `Scout the hills for targets` | Scout the hills for targets | Tepelerde hedef ara |
+| `You mark three trees and a stump at different ranges.` | You mark three trees and a stump at different ranges. | Farklı mesafelerde üç ağaç ve bir kütüğü işaretliyorsun. |
+| `Take down a dire gnoll` | Take down a dire gnoll | Korkunç bir gnollü indir |
+| `One arrow, placed where the hunter pointed. 'Better.'` | One arrow, placed where the hunter pointed. 'Better.' | Tek ok, tam avcının gösterdiği yere. 'Daha iyi.' |
+| `Cut fresh arrow shafts` | Cut fresh arrow shafts | Taze ok gövdeleri kes |
+| `You pick straight stems and trim them by eye.` | You pick straight stems and trim them by eye. | Düz saplar seçip onları göz kararı kırpıyorsun. |
+| `Run the range drills` | Run the range drills | Atış alanında talim yap |
+| `Shoot, move, shoot. Your breath and your release line up again.` | Shoot, move, shoot. Your breath and your release line up again. | At, hareket et, at. Nefesin ve bırakışın yeniden uyum içinde. |
+| `Hit a golem at the joints` | Hit a golem at the joints | Bir golemi eklem yerlerinden vur |
+| `Stone is hard, joints are not. The golem folds.` | Stone is hard, joints are not. The golem folds. | Taş serttir, eklemler değil. Golem katlanıp yığılıyor. |
+| `You call targets for the whole party. Nobody wastes a shot.` | You call targets for the whole party. Nobody wastes a shot. | Tüm grup için hedefleri sen belirliyorsun. Kimse atışını boşa harcamıyor. |
+| `Eat with the hunters` | Eat with the hunters | Avcılarla yemek ye |
+| `The hunters argue about wind. You agree with all of them.` | The hunters argue about wind. You agree with all of them. | Avcılar rüzgâr hakkında tartışıyor. Hepsine hak veriyorsun. |
+| `Bank your spare arrows` | Bank your spare arrows | Yedek oklarını bankaya koy |
+| `You store the spares. Travelling light is half the craft.` | You store the spares. Travelling light is half the craft. | Yedekleri saklıyorsun. Hafif yolculuk etmek işin yarısıdır. |
+| `You shoot from the back row and never lose sight of the front.` | You shoot from the back row and never lose sight of the front. | Arka sıradan atış yapıyor ve ön safı asla gözden kaçırmıyorsun. |
+| `Bring down a fell gnoll` | Bring down a fell gnoll | Habis bir gnollü indir |
+| `Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.'` | Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.' | İki atış, ikisi de temiz. Avcı sana bir çentik ve bir yay kirişi veriyor. 'Bunları sakla. Ve gitgide daha az ıskala.' |
+| `Mastery: Focus and Surge` | Mastery: Focus and Surge | Ustalık: Odak ve Dalga |
+| `An eastern mage wants your first spells cast without force or fuss.` | An eastern mage wants your first spells cast without force or fuss. | Doğulu bir büyücü, ilk büyülerini zorlamadan ve telaşsız yapmanı istiyor. |
+| `Meet the eastern mage` | Meet the eastern mage | Doğulu büyücüyle buluş |
+| `'You push power like a mule pushes a cart. Let us start again, smaller.'` | 'You push power like a mule pushes a cart. Let us start again, smaller.' | 'Gücü, katırın arabayı ittiği gibi itiyorsun. Baştan başlayalım, daha küçükten.' |
+| `Draw from a small fragment` | Draw from a small fragment | Küçük bir parçadan öz çek |
+| `The essence is faint. You have to listen for it.` | The essence is faint. You have to listen for it. | Öz çok zayıf. Onu duyabilmek için kulak kesilmen gerekiyor. |
+| `Charge a single dim essence` | Charge a single dim essence | Tek bir sönük özü yükle |
+| `You charge it slowly. It holds better than anything you rushed.` | You charge it slowly. It holds better than anything you rushed. | Onu yavaşça yüklüyorsun. Aceleyle yaptığın her şeyden daha iyi tutuyor. |
+| `Banish a feeble imp` | Banish a feeble imp | Cılız bir şeytancığı kov |
+| `A small spell, aimed well. The imp is gone before it can grin.` | A small spell, aimed well. The imp is gone before it can grin. | Küçük ama iyi nişan alınmış bir büyü. Şeytancık sırıtmaya fırsat bulamadan yok oluyor. |
+| `Read the runes in the ashes` | Read the runes in the ashes | Küllerdeki rünleri oku |
+| `Old travellers left warding marks here. You copy them out.` | Old travellers left warding marks here. You copy them out. | Eski yolcular buraya koruma işaretleri bırakmış. Onları kopyalıyorsun. |
+| `Tend a small herb plot` | Tend a small herb plot | Küçük bir şifalı ot tarhıyla ilgilen |
+| `The mage wants patience practised. You weed until your mind goes quiet.` | The mage wants patience practised. You weed until your mind goes quiet. | Büyücü sabır çalışmanı istiyor. Zihnin susana kadar ot yoluyorsun. |
+| `Unmake a dire lich` | Unmake a dire lich | Korkunç bir lich'i yok et |
+| `You break its ward with the marks from the ashes.` | You break its ward with the marks from the ashes. | Küllerden aldığın işaretlerle korumasını kırıyorsun. |
+| `You cast half as often and hit twice as hard.` | You cast half as often and hit twice as hard. | Yarı yarıya daha az büyü yapıyor, iki kat sert vuruyorsun. |
+| `Inscribe a beginner sigil` | Inscribe a beginner sigil | Basit bir acemi mührü çiz |
+| `Simple lines, clean joins. The mage keeps it as a sample.` | Simple lines, clean joins. The mage keeps it as a sample. | Sade çizgiler, temiz birleşimler. Büyücü onu örnek olarak saklıyor. |
+| `Send your notes east` | Send your notes east | Notlarını doğuya gönder |
+| `Your notes on the lich go back to the mage by courier.` | Your notes on the lich go back to the mage by courier. | Lich hakkındaki notların ulakla büyücüye geri gidiyor. |
+| `Your spells land on rhythm. The party fights to your timing.` | Your spells land on rhythm. The party fights to your timing. | Büyülerin ritme oturuyor. Grup senin zamanlamana göre savaşıyor. |
+| `Dispel a fell demon` | Dispel a fell demon | Habis bir iblisi dağıt |
+| `One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.'` | One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.' | Tek bir odaklı dalga ve iblis dağılıyor. Büyücü sana bir küre ve bir katalizör veriyor. 'Küçük büyüler, büyük sonuçlar.' |
+| `Mastery: Dodge and Defend` | Mastery: Dodge and Defend | Ustalık: Sıyrılma ve Savunma |
+| `A shieldwright wants you to relearn when to block and when to move.` | A shieldwright wants you to relearn when to block and when to move. | Bir kalkan ustası, ne zaman bloklayıp ne zaman hareket edeceğini yeniden öğrenmeni istiyor. |
+| `Meet the shieldwright` | Meet the shieldwright | Kalkan ustasıyla buluş |
+| `'You block everything. Some things you should just not be standing in front of.'` | 'You block everything. Some things you should just not be standing in front of.' | 'Her şeyi blokluyorsun. Bazı şeylerin önünde hiç durmaman gerekir.' |
+| `Hammer out a practice shield` | Hammer out a practice shield | Bir talim kalkanı döv |
+| `Plain iron, a little too heavy. That is the point, she says.` | Plain iron, a little too heavy. That is the point, she says. | Sade demir, biraz fazla ağır. Mesele de bu, diyor. |
+| `Dodge a feeble rat` | Dodge a feeble rat | Cılız bir sıçandan sıyrıl |
+| `You step aside until it tires. You do not raise the shield once.` | You step aside until it tires. You do not raise the shield once. | O yorulana kadar kenara çekiliyorsun. Kalkanı bir kez bile kaldırmıyorsun. |
+| `Weave through the crowded alley` | Weave through the crowded alley | Kalabalık sokakta süzülerek ilerle |
+| `Market day. You cross the alley without touching anyone.` | Market day. You cross the alley without touching anyone. | Pazar günü. Kimseye dokunmadan sokağı geçiyorsun. |
+| `Block a feeble treant` | Block a feeble treant | Cılız bir ağaç devini blokla |
+| `Its branches thud off the shield. You keep your feet planted.` | Its branches thud off the shield. You keep your feet planted. | Dalları kalkana tok bir sesle çarpıyor. Ayaklarını yere sağlam basıyorsun. |
+| `Hold against a dire treant` | Hold against a dire treant | Korkunç bir ağaç devine karşı diren |
+| `Block, step, block. You stop thinking about which comes next.` | Block, step, block. You stop thinking about which comes next. | Blok, adım, blok. Sırada ne olduğunu düşünmeyi bırakıyorsun. |
+| `You take every hit meant for the party and none meant for you.` | You take every hit meant for the party and none meant for you. | Gruba yönelik her darbeyi üstleniyor, sana yönelik hiçbirini almıyorsun. |
+| `Gather bark for shield padding` | Gather bark for shield padding | Kalkan dolgusu için ağaç kabuğu topla |
+| `Soft bark, layered thick. Your arm will thank you.` | Soft bark, layered thick. Your arm will thank you. | Yumuşak kabuk, kalın katmanlar. Kolun sana teşekkür edecek. |
+| `Send the shieldwright word` | Send the shieldwright word | Kalkan ustasına haber gönder |
+| `You report the treant fights. She replies with a single word: 'Again.'` | You report the treant fights. She replies with a single word: 'Again.' | Ağaç devleriyle dövüşlerini bildiriyorsun. Tek kelimeyle yanıt veriyor: 'Tekrar.' |
+| `You read every swing before it comes.` | You read every swing before it comes. | Her savuruşu gelmeden okuyorsun. |
+| `Reinforce the shield rim` | Reinforce the shield rim | Kalkanın kenarını güçlendir |
+| `The smith adds a band of steel to the rim. It feels finished now.` | The smith adds a band of steel to the rim. It feels finished now. | Demirci kenara bir çelik şerit ekliyor. Kalkan artık tamamlanmış gibi. |
+| `Outlast a fell orc` | Outlast a fell orc | Habis bir orku yıprat |
+| `It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim.` | It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim. | Ayakta zor durana kadar savuruyor. Sen hareket etmeyi hiç bırakmadın. Kalkan ustası sana bir yay ve bir ara pul veriyor. |
+| `Mastery: Fish and Cook` | Mastery: Fish and Cook | Ustalık: Balık Tut ve Pişir |
+| `A fishwife who fed half the coast wants your first catch cooked right.` | A fishwife who fed half the coast wants your first catch cooked right. | Kıyının yarısını doyurmuş bir balıkçı kadın, ilk avının doğru pişirilmesini istiyor. |
+| `Meet the old fishwife` | Meet the old fishwife | Yaşlı balıkçı kadınla buluş |
+| `'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.'` | 'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.' | 'Büyük balıklar, gösterişli tavalar. En son ne zaman bir karidesi düzgünce pişirdin? Git de öğren.' |
+| `Cook over an open spit` | Cook over an open spit | Açık bir şişte pişir |
+| `No kitchen, no spices. You keep the fire low and the fish whole.` | No kitchen, no spices. You keep the fire low and the fish whole. | Mutfak yok, baharat yok. Ateşi kısık, balığı bütün tutuyorsun. |
+| `Fish the shallow pool` | Fish the shallow pool | Sığ gölette balık tut |
+| `You catch a shrimp and remember the first one you ever landed.` | You catch a shrimp and remember the first one you ever landed. | Bir karides yakalıyor ve hayatında çıkardığın ilk karidesi hatırlıyorsun. |
+| `Fish a quiet stream` | Fish a quiet stream | Sakin bir derede balık tut |
+| `The stream is slow and so are you. You stop rushing the line.` | The stream is slow and so are you. You stop rushing the line. | Dere yavaş, sen de öyle. Oltayı aceleye getirmeyi bırakıyorsun. |
+| `Grill your catch plainly` | Grill your catch plainly | Avını sade bir şekilde ızgara yap |
+| `Salt and smoke. The fishwife would approve.` | Salt and smoke. The fishwife would approve. | Tuz ve duman. Balıkçı kadın bunu onaylardı. |
+| `Try the far pool` | Try the far pool | Uzaktaki göleti dene |
+| `A perch bites on the third cast. You let it run before you reel.` | A perch bites on the third cast. You let it run before you reel. | Üçüncü atışta bir levrek vuruyor. Makarayı sarmadan önce kaçmasına izin veriyorsun. |
+| `Fish the cold stream` | Fish the cold stream | Soğuk derede balık tut |
+| `Cold hands, quick fish. You learn to strike faster.` | Cold hands, quick fish. You learn to strike faster. | Soğuk eller, hızlı balık. Daha çabuk çekmeyi öğreniyorsun. |
+| `Cook at a mountain hearth` | Cook at a mountain hearth | Bir dağ ocağında pişir |
+| `The hearth cook shows you how to keep fish from drying out.` | The hearth cook shows you how to keep fish from drying out. | Ocağın aşçısı sana balığın kurumasını nasıl önleyeceğini gösteriyor. |
+| `Feed the mill workers` | Feed the mill workers | Değirmen işçilerini doyur |
+| `You cook for a crew of twenty. Nothing comes back burned.` | You cook for a crew of twenty. Nothing comes back burned. | Yirmi kişilik bir ekibe yemek pişiriyorsun. Hiçbir şey yanık dönmüyor. |
+| `Cook on the tidefield spit` | Cook on the tidefield spit | Gelgit düzlüğündeki şişte pişir |
+| `The fishwife's cousin tastes your work and sends word up the coast.` | The fishwife's cousin tastes your work and sends word up the coast. | Balıkçı kadının kuzeni yemeğini tadıyor ve kıyı boyunca haber salıyor. |
+| `Cook one perfect fillet` | Cook one perfect fillet | Kusursuz bir fileto pişir |
+| `One fillet, cooked through, still soft. You eat it yourself.` | One fillet, cooked through, still soft. You eat it yourself. | Tek bir fileto, tam pişmiş, hâlâ yumuşak. Onu kendin yiyorsun. |
+| `Land a catch at the seaside` | Land a catch at the seaside | Deniz kıyısında av çıkar |
+| `The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.'` | The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.' | Derin suların balıkları sıkı direniyor ama onları çekip çıkarıyorsun. Balıkçı kadın bir olta ve bir tava gönderiyor. 'Artık hem balıkçısın hem aşçı.' |
+| `Mastery: Mine and Smith` | Mastery: Mine and Smith | Ustalık: Madencilik ve Döv |
+| `A forge master wants proof you still respect plain copper and tin.` | A forge master wants proof you still respect plain copper and tin. | Bir demirhane ustası, sade bakıra ve kalaya hâlâ saygı duyduğunu kanıtlamanı istiyor. |
+| `Meet the forge master` | Meet the forge master | Demirhane ustasıyla buluş |
+| `'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.'` | 'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.' | 'Artık sadece nadir cevhere dokunuyorsun. Bu topraklardaki her salonu bakır inşa etti. Git ve onu yeniden hak et.' |
+| `Work a copper bar` | Work a copper bar | Bir bakır külçeyi işle |
+| `You fold the bar slowly. It rings clean.` | You fold the bar slowly. It rings clean. | Külçeyi yavaşça katlıyorsun. Tertemiz çınlıyor. |
+| `Mine at the old quarry` | Mine at the old quarry | Eski taş ocağında kazı yap |
+| `Copper and tin, by hand. Your swing settles into an old rhythm.` | Copper and tin, by hand. Your swing settles into an old rhythm. | Bakır ve kalay, elle. Kazma savuruşun eski bir ritme oturuyor. |
+| `Smelt your first batch` | Smelt your first batch | İlk partini erit |
+| `You keep the heat even. No slag, no cracks.` | You keep the heat even. No slag, no cracks. | Isıyı sabit tutuyorsun. Ne cüruf ne çatlak. |
+| `Follow a shallow vein` | Follow a shallow vein | Sığ bir damarı takip et |
+| `The vein is thin but honest. You take only what it gives.` | The vein is thin but honest. You take only what it gives. | Damar ince ama dürüst. Yalnızca verdiğini alıyorsun. |
+| `Quarry stone and ore` | Quarry stone and ore | Taş ve cevher çıkar |
+| `Wind cuts through the quarry. You work until the cart is full.` | Wind cuts through the quarry. You work until the cart is full. | Rüzgâr taş ocağını kesip geçiyor. Araba dolana kadar çalışıyorsun. |
+| `Chip out the iron seam` | Chip out the iron seam | Demir damarını yontarak çıkar |
+| `The iron comes loose in good clean chunks.` | The iron comes loose in good clean chunks. | Demir güzel, temiz parçalar halinde kopuyor. |
+| `Forge a plain nail` | Forge a plain nail | Sade bir çivi döv |
+| `A nail is the hardest thing to forge well, the forge master said.` | A nail is the hardest thing to forge well, the forge master said. | İyi dövülmesi en zor şey çividir, demişti demirhane ustası. |
+| `Mine beside the old camp` | Mine beside the old camp | Eski kampın yanında kazı yap |
+| `Old miners left their marks here. You add yours under theirs.` | Old miners left their marks here. You add yours under theirs. | Eski madenciler buraya izlerini bırakmış. Sen de kendininkini onlarınkinin altına ekliyorsun. |
+| `Temper a beginner blade` | Temper a beginner blade | Bir acemi kılıcına su ver |
+| `You quench it once and it holds an edge.` | You quench it once and it holds an edge. | Onu bir kez suya daldırıyorsun ve keskinliğini koruyor. |
+| `Load a cart of ore` | Load a cart of ore | Bir arabaya cevher yükle |
+| `You load and haul. Your back remembers its first summer here.` | You load and haul. Your back remembers its first summer here. | Yüklüyor ve taşıyorsun. Sırtın buradaki ilk yazını hatırlıyor. |
+| `Mine the deepest shaft` | Mine the deepest shaft | En derin maden kuyusunda kazı yap |
+| `You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.'` | You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.' | Derinlerden tek bir çizik almadan cevher çıkarıyorsun. Demirhane ustası bir kazma ve bir çekiç gönderiyor. 'Başladığın yere döndün ve çok daha ötesine geçtin.' |
+| `Mastery: Forage and Craft` | Mastery: Forage and Craft | Ustalık: Topla ve Üret |
+| `A weaver asks you to gather and work the simplest materials again.` | A weaver asks you to gather and work the simplest materials again. | Bir dokumacı, en basit malzemeleri yeniden toplayıp işlemeni istiyor. |
+| `Meet the weaver` | Meet the weaver | Dokumacıyla buluş |
+| `'You work dragonhide and starspun now. Show me you can still make good strips from leather.'` | 'You work dragonhide and starspun now. Show me you can still make good strips from leather.' | 'Artık ejderha derisi ve yıldız ipliğiyle çalışıyorsun. Bana hâlâ deriden güzel şeritler kesebildiğini göster.' |
+| `Cut leather into strips` | Cut leather into strips | Deriyi şeritler halinde kes |
+| `Even width, no ragged ends. The weaver checks every one.` | Even width, no ragged ends. The weaver checks every one. | Eşit genişlik, saçaklı uç yok. Dokumacı her birini kontrol ediyor. |
+| `Gather from the wild patch` | Gather from the wild patch | Yabani alandan topla |
+| `You pick slowly and leave the young growth alone.` | You pick slowly and leave the young growth alone. | Yavaşça topluyor ve genç filizlere dokunmuyorsun. |
+| `Forage the woodland patch` | Forage the woodland patch | Orman alanında topla |
+| `Linen grows thick here. You fill a sack before noon.` | Linen grows thick here. You fill a sack before noon. | Keten burada gür büyüyor. Öğleden önce bir çuval dolduruyorsun. |
+| `Search the fern thicket` | Search the fern thicket | Eğrelti çalılığını ara |
+| `Silk moths nest in the ferns. You take only the spent cocoons.` | Silk moths nest in the ferns. You take only the spent cocoons. | İpek güveleri eğreltilerde yuva yapıyor. Yalnızca boşalmış kozaları alıyorsun. |
+| `Gather on the rocky patch` | Gather on the rocky patch | Kayalık alanda topla |
+| `Hardy plants, tough fibres. Good for rope.` | Hardy plants, tough fibres. Good for rope. | Dayanıklı bitkiler, sağlam lifler. İp için ideal. |
+| `Spin linen into thread` | Spin linen into thread | Keteni eğirip iplik yap |
+| `You spin until the thread runs fine and even.` | You spin until the thread runs fine and even. | İplik ince ve düzgün akana kadar eğiriyorsun. |
+| `Forage the hillside patch` | Forage the hillside patch | Yamaçtaki alanda topla |
+| `You know which leaves to take by touch now.` | You know which leaves to take by touch now. | Artık hangi yaprakları alacağını dokunarak biliyorsun. |
+| `Gather hides from the thicket` | Gather hides from the thicket | Çalılıktan post topla |
+| `A hunter left hides to cure. You trade a day of work for them.` | A hunter left hides to cure. You trade a day of work for them. | Bir avcı postları tabaklanmaya bırakmış. Onları bir günlük emek karşılığında alıyorsun. |
+| `Forage the fort patch` | Forage the fort patch | Kale alanında topla |
+| `The fort guards point you to a patch nobody else bothers with.` | The fort guards point you to a patch nobody else bothers with. | Kale muhafızları seni başka kimsenin uğraşmadığı bir alana yönlendiriyor. |
+| `Craft a simple satchel` | Craft a simple satchel | Basit bir heybe üret |
+| `Strips, thread and a buckle. It is the best thing you have made in years.` | Strips, thread and a buckle. It is the best thing you have made in years. | Şeritler, iplik ve bir toka. Yıllardır yaptığın en iyi şey. |
+| `Forage the deep wilds` | Forage the deep wilds | Yaban diyarının derinliklerinde topla |
+| `You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel.` | You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel. | Yabandan nadir malzemeler ve titremeyen ellerle dönüyorsun. Dokumacı bir orak ve bir keski gönderiyor. |
+| `Mastery: Invoke and Imbue` | Mastery: Invoke and Imbue | Ustalık: Çağırma ve Aşıla |
+| `An old enchanter wants your first dim essences drawn and charged again.` | An old enchanter wants your first dim essences drawn and charged again. | Yaşlı bir efsuncu, ilk sönük özlerini yeniden çekip yüklemeni istiyor. |
+| `Meet the old enchanter` | Meet the old enchanter | Yaşlı efsuncuyla buluş |
+| `'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.'` | 'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.' | 'Parlak, göksel, ilahi. En son ne zaman sönük bir öz yükledin? Oradan başla.' |
+| `Charge a dim essence` | Charge a dim essence | Sönük bir öz yükle |
+| `It takes almost nothing to charge. That is what makes it hard.` | It takes almost nothing to charge. That is what makes it hard. | Yüklemek neredeyse hiçbir şey gerektirmiyor. Onu zorlaştıran da bu. |
+| `The fragment hums faintly. You draw from it without cracking it.` | The fragment hums faintly. You draw from it without cracking it. | Parça hafifçe uğulduyor. Onu çatlatmadan öz çekiyorsun. |
+| `Charge at the glowing font` | Charge at the glowing font | Işıldayan kaynakta öz yükle |
+| `You feed the font slowly. It answers in kind.` | You feed the font slowly. It answers in kind. | Kaynağı yavaşça besliyorsun. O da aynı şekilde karşılık veriyor. |
+| `Listen at the river fragment` | Listen at the river fragment | Nehir kenarındaki parçayı dinle |
+| `Faint essence, carried on the river wind.` | Faint essence, carried on the river wind. | Nehir rüzgârının taşıdığı zayıf bir öz. |
+| `Charge a faint essence` | Charge a faint essence | Zayıf bir öz yükle |
+| `Clean light. The enchanter would keep this one.` | Clean light. The enchanter would keep this one. | Temiz bir ışık. Efsuncu bunu saklardı. |
+| `Trace the ruined sigil` | Trace the ruined sigil | Harap mührün izini sür |
+| `The old lines still hold power. You trace them without breaking them.` | The old lines still hold power. You trace them without breaking them. | Eski çizgiler hâlâ güç taşıyor. Onları bozmadan üzerinden geçiyorsun. |
+| `Charge essence at the sigil` | Charge essence at the sigil | Mühürde öz yükle |
+| `You charge three in a row without a flicker.` | You charge three in a row without a flicker. | Üst üste üç tane yüklüyorsun, en ufak bir titreme olmadan. |
+| `Draw from the crystal` | Draw from the crystal | Kristalden öz çek |
+| `The crystal gives more than you ask. You take only what you need.` | The crystal gives more than you ask. You take only what you need. | Kristal istediğinden fazlasını veriyor. Yalnızca ihtiyacın olanı alıyorsun. |
+| `Draw from the desert fragment` | Draw from the desert fragment | Çöl parçasından öz çek |
+| `Dry air, sharp essence. Your hands stay steady.` | Dry air, sharp essence. Your hands stay steady. | Kuru hava, keskin öz. Ellerin titremiyor. |
+| `Charge in the desert heat` | Charge in the desert heat | Çöl sıcağında öz yükle |
+| `The heat fights you. You win by going slower.` | The heat fights you. You win by going slower. | Sıcak seninle savaşıyor. Yavaşlayarak kazanıyorsun. |
+| `Draw deep from the rift` | Draw deep from the rift | Yarıktan derinlemesine öz çek |
+| `The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism.` | The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism. | Yarık parlak bir öz döküyor ve sen hepsini tutuyorsun. Efsuncu bir iletken ve bir prizma gönderiyor. |
+| `Mastery: Farm and Brew` | Mastery: Farm and Brew | Ustalık: Çiftçilik ve Demle |
+| `A herbalist wants you to grow and brew the plainest remedies again.` | A herbalist wants you to grow and brew the plainest remedies again. | Bir otacı, en sade ilaçları yeniden yetiştirip demlemeni istiyor. |
+| `Meet the herbalist` | Meet the herbalist | Otacıyla buluş |
+| `'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.'` | 'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.' | 'Nadir çiçekler, gösterişli tonikler. Hâlâ çatışma kökü yetiştirip temiz bir şekilde demleyebilir misin? Göster bana.' |
+| `Plant skirmish root` | Plant skirmish root | Çatışma kökü dik |
+| `You plant in straight rows and water at dusk.` | You plant in straight rows and water at dusk. | Düz sıralar halinde dikip alacakaranlıkta suluyorsun. |
+| `Weed the farm plot` | Weed the farm plot | Tarla parselinin yabani otlarını yol |
+| `Weeds come up easy after rain. You clear the whole plot.` | Weeds come up easy after rain. You clear the whole plot. | Yağmurdan sonra yabani otlar kolayca çıkıyor. Bütün parseli temizliyorsun. |
+| `Brew a simple tonic` | Brew a simple tonic | Basit bir tonik demle |
+| `Root, water and patience. It comes out clear.` | Root, water and patience. It comes out clear. | Kök, su ve sabır. Berrak çıkıyor. |
+| `Harvest the hillside plot` | Harvest the hillside plot | Yamaçtaki parselde hasat yap |
+| `The hill soil is thin. You coax a small harvest out of it.` | The hill soil is thin. You coax a small harvest out of it. | Tepenin toprağı zayıf. Ondan güç bela küçük bir hasat çıkarıyorsun. |
+| `Grow herbs in cold soil` | Grow herbs in cold soil | Soğuk toprakta şifalı ot yetiştir |
+| `Frost-hardy herbs, slow to grow and worth the wait.` | Frost-hardy herbs, slow to grow and worth the wait. | Dona dayanıklı otlar; yavaş büyür ama beklemeye değer. |
+| `Brew at the fern cauldron` | Brew at the fern cauldron | Eğrelti kazanında demle |
+| `You let it simmer twice as long as you used to. It is better for it.` | You let it simmer twice as long as you used to. It is better for it. | Eskiden olduğundan iki kat uzun kaynatıyorsun. Bu ona iyi geliyor. |
+| `Brew a calming draught` | Brew a calming draught | Yatıştırıcı bir iksir demle |
+| `The draught settles your own nerves before anyone else's.` | The draught settles your own nerves before anyone else's. | İksir, herkesten önce senin sinirlerini yatıştırıyor. |
+| `Brew for the mountain watch` | Brew for the mountain watch | Dağ nöbetçileri için demle |
+| `The watch drinks it cold. Nobody complains.` | The watch drinks it cold. Nobody complains. | Nöbetçiler onu soğuk içiyor. Kimse şikâyet etmiyor. |
+| `Tend the pine plot` | Tend the pine plot | Çamlıktaki parsele bak |
+| `Needles in the soil, sharp herbs in the rows.` | Needles in the soil, sharp herbs in the rows. | Toprakta çam iğneleri, sıralarda keskin otlar. |
+| `Brew one last plain remedy` | Brew one last plain remedy | Son bir sade ilaç demle |
+| `The herbalist tastes it and nods once.` | The herbalist tastes it and nods once. | Otacı tadına bakıp bir kez başını sallıyor. |
+| `Brew a master tonic` | Brew a master tonic | Usta işi bir tonik demle |
+| `You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar.` | You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar. | Eczacının hiç başaramadığı bir tonik demliyorsun. Otacı bir bahçe malası ve bir havan gönderiyor. |
+| `Mastery: Plunder and Barter` | Mastery: Plunder and Barter | Ustalık: Yağmala ve Pazarlık |
+| `A retired fence wants to see you work the small markets honestly again.` | A retired fence wants to see you work the small markets honestly again. | Emekli bir çalıntı mal tüccarı, küçük pazarlarda yeniden dürüstçe çalıştığını görmek istiyor. |
+| `Meet the retired fence` | Meet the retired fence | Emekli çalıntı mal tüccarıyla buluş |
+| `'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.'` | 'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.' | 'Kasaları soyuyor, pazarları satın alıyorsun. Git birinin cebinden bir şey aşır, sonra aldığını adil bir fiyata sat.' |
+| `Haggle at the small stalls` | Haggle at the small stalls | Küçük tezgâhlarda pazarlık et |
+| `You argue a copper off a loaf of bread. The baker laughs.` | You argue a copper off a loaf of bread. The baker laughs. | Bir somun ekmekten bir bakır kırdırıyorsun. Fırıncı gülüyor. |
+| `Lift a purse in the alley` | Lift a purse in the alley | Ara sokakta bir kese aşır |
+| `Small purse, quick hands. Nobody notices.` | Small purse, quick hands. Nobody notices. | Küçük kese, çevik eller. Kimse fark etmiyor. |
+| `Pick a lock in the alley` | Pick a lock in the alley | Ara sokakta bir kilit aç |
+| `An old padlock. You open it with a bent nail.` | An old padlock. You open it with a bent nail. | Eski bir asma kilit. Onu eğri bir çiviyle açıyorsun. |
+| `Shadow a merchant` | Shadow a merchant | Bir tüccarı gizlice izle |
+| `You follow him for an hour and learn where he keeps his coin.` | You follow him for an hour and learn where he keeps his coin. | Onu bir saat takip ediyor ve parasını nerede sakladığını öğreniyorsun. |
+| `Sell a stolen trinket` | Sell a stolen trinket | Çalıntı bir biblo sat |
+| `You sell it back to its owner for a fair price. The fence would approve.` | You sell it back to its owner for a fair price. The fence would approve. | Onu adil bir fiyata sahibine geri satıyorsun. Çalıntı mal tüccarı bunu onaylardı. |
+| `Slip past the watch` | Slip past the watch | Bekçilerin yanından süzülüp geç |
+| `The watch never looks up from their dice.` | The watch never looks up from their dice. | Bekçiler zarlarından başlarını hiç kaldırmıyor. |
+| `Trade at the dockside stalls` | Trade at the dockside stalls | Rıhtım tezgâhlarında ticaret yap |
+| `Fish for rope, rope for coin. You come out ahead.` | Fish for rope, rope for coin. You come out ahead. | Balığa ip, ipe sikke. Kârlı çıkıyorsun. |
+| `Work the dock alley` | Work the dock alley | Rıhtım ara sokağında iş çevir |
+| `Sailors keep loose coin. You keep some of it.` | Sailors keep loose coin. You keep some of it. | Denizcilerin cebinde bozuk para olur. Bir kısmı sende kalıyor. |
+| `Lift a guard captain's keys` | Lift a guard captain's keys | Bir muhafız yüzbaşısının anahtarlarını aşır |
+| `You borrow them and return them before he notices.` | You borrow them and return them before he notices. | Onları ödünç alıyor ve o fark etmeden geri veriyorsun. |
+| `Fence goods in the cold alley` | Fence goods in the cold alley | Soğuk ara sokakta çalıntı mal sat |
+| `The buyer pays in full and asks no questions.` | The buyer pays in full and asks no questions. | Alıcı tam ödüyor ve soru sormuyor. |
+| `Strike a deal at the pirate market` | Strike a deal at the pirate market | Korsan pazarında anlaşma yap |
+| `You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales.` | You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales. | Korsanlarla pazarlık edip en iyi mallarıyla ayrılıyorsun. Çalıntı mal tüccarı bir maymuncuk ve bir terazi gönderiyor. |
+| `Mastery: Bard and Discover` | Mastery: Bard and Discover | Ustalık: Ozan ve Keşfet |
+| `A wandering minstrel wants new songs from the oldest campfires.` | A wandering minstrel wants new songs from the oldest campfires. | Gezgin bir çalgıcı, en eski kamp ateşlerinden yeni şarkılar istiyor. |
+| `Meet the wandering minstrel` | Meet the wandering minstrel | Gezgin çalgıcıyla buluş |
+| `'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.'` | 'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.' | 'Her ozan büyük salonlarda şarkı söyler. Ben kamp ateşlerinden ve kimsenin haritasını çıkarmadığı yerlerden şarkılar istiyorum.' |
+| `Sing at the campfire` | Sing at the campfire | Kamp ateşinde şarkı söyle |
+| `Two travellers and a dog. You play until they fall asleep.` | Two travellers and a dog. You play until they fall asleep. | İki yolcu ve bir köpek. Uyuyakalana kadar çalıyorsun. |
+| `Survey the nearby hills` | Survey the nearby hills | Yakındaki tepeleri araştır |
+| `You find an old marker stone and copy its carving.` | You find an old marker stone and copy its carving. | Eski bir işaret taşı buluyor ve oymasını kopyalıyorsun. |
+| `Map the frozen ridge` | Map the frozen ridge | Donmuş sırtın haritasını çıkar |
+| `Your map is rough but true. The minstrel likes rough.` | Your map is rough but true. The minstrel likes rough. | Haritan kaba ama doğru. Çalgıcı kabayı sever. |
+| `Swap songs with the guards` | Swap songs with the guards | Muhafızlarla şarkı değiş tokuş et |
+| `The guards know a verse you have never heard. You trade one of yours for it.` | The guards know a verse you have never heard. You trade one of yours for it. | Muhafızlar hiç duymadığın bir dize biliyor. Karşılığında kendi dizelerinden birini veriyorsun. |
+| `Search the old prospect` | Search the old prospect | Eski maden arama sahasını ara |
+| `Under loose stones you find a tin cup with initials scratched in.` | Under loose stones you find a tin cup with initials scratched in. | Gevşek taşların altında, üzerine baş harfler kazınmış teneke bir kupa buluyorsun. |
+| `Scout the frozen pass` | Scout the frozen pass | Donmuş geçidi keşfet |
+| `Wind has carved the pass into a strange shape. You sketch it.` | Wind has carved the pass into a strange shape. You sketch it. | Rüzgâr geçidi tuhaf bir biçime oymuş. Onun eskizini çiziyorsun. |
+| `Play for the frost watch` | Play for the frost watch | Ayaz nöbetçileri için çal |
+| `The watch claps with mittens on. It sounds like rain.` | The watch claps with mittens on. It sounds like rain. | Nöbetçiler eldivenleriyle alkışlıyor. Yağmur gibi ses çıkarıyor. |
+| `Perform in the old tavern` | Perform in the old tavern | Eski meyhanede sahneye çık |
+| `You play the guards' verse. The tavern sings it back.` | You play the guards' verse. The tavern sings it back. | Muhafızların dizesini çalıyorsun. Bütün meyhane sana eşlik ediyor. |
+| `Write a song by the fire` | Write a song by the fire | Ateşin başında bir şarkı yaz |
+| `You write about the tin cup and the carved pass.` | You write about the tin cup and the carved pass. | Teneke kupayı ve oyulmuş geçidi yazıyorsun. |
+| `Find the lost marker` | Find the lost marker | Kayıp işaret taşını bul |
+| `The last marker is half buried. You dig it out and read it.` | The last marker is half buried. You dig it out and read it. | Son işaret taşı yarı yarıya gömülü. Onu kazıp çıkarıyor ve okuyorsun. |
+| `Chart the far reaches` | Chart the far reaches | Uzak diyarların haritasını çıkar |
+| `You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens.` | You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens. | Uzak diyarların haritasını çıkarıyor ve şarkını haritaya döküyorsun. Çalgıcı bir çalgı ve bir mercek gönderiyor. |
+| `Mastery: Vigor and Slay` | Mastery: Vigor and Slay | Ustalık: Dinçlik ve Avlama |
+| `A slayer captain wants your stamina and your first kills done right again.` | A slayer captain wants your stamina and your first kills done right again. | Bir canavar avcıları yüzbaşısı, dayanıklılığını yeniden sınamak ve ilk avlarını doğru şekilde yaptığını görmek istiyor. |
+| `Report to the slayer captain` | Report to the slayer captain | Canavar avcıları yüzbaşısına rapor ver |
+| `'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?'` | 'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?' | 'Yaşayan en kötü şeyleri avlıyorsun. Güzel. Hâlâ bir avluda koşup bir golemi düzgünce öldürebilir misin?' |
+| `Run the training yard` | Run the training yard | Talim avlusunda koş |
+| `Ten laps, carrying a sandbag. You finish the last one sprinting.` | Ten laps, carrying a sandbag. You finish the last one sprinting. | Kum torbası taşıyarak on tur. Sonuncuyu depar atarak bitiriyorsun. |
+| `Slay a feeble golem` | Slay a feeble golem | Cılız bir golemi öldür |
+| `You find the crack in its chest and strike there.` | You find the crack in its chest and strike there. | Göğsündeki çatlağı bulup oraya vuruyorsun. |
+| `Drill in the frozen yard` | Drill in the frozen yard | Donmuş avluda talim yap |
+| `Ice underfoot. You learn to run without trusting the ground.` | Ice underfoot. You learn to run without trusting the ground. | Ayağının altında buz. Zemine güvenmeden koşmayı öğreniyorsun. |
+| `Slay a dire golem` | Slay a dire golem | Korkunç bir golemi öldür |
+| `Same crack, bigger golem. It falls the same way.` | Same crack, bigger golem. It falls the same way. | Aynı çatlak, daha büyük golem. Aynı şekilde düşüyor. |
+| `Climb the frost wall` | Climb the frost wall | Buz duvarına tırman |
+| `Hand over hand, no rope. Your arms burn and hold.` | Hand over hand, no rope. Your arms burn and hold. | Elle tutuna tutuna, ipsiz. Kolların yanıyor ama dayanıyor. |
+| `Sprint the mountain yard` | Sprint the mountain yard | Dağ avlusunda depar at |
+| `Thin air, long sprints. Your breath stays even.` | Thin air, long sprints. Your breath stays even. | Seyrek hava, uzun deparlar. Nefesin düzenli kalıyor. |
+| `Slay a dire skeleton` | Slay a dire skeleton | Korkunç bir iskeleti öldür |
+| `You break it at the spine before it can rise.` | You break it at the spine before it can rise. | Kalkamadan onu omurgasından kırıyorsun. |
+| `Haul stone across the yard` | Haul stone across the yard | Avlunun öbür ucuna taş taşı |
+| `You carry stones until the yard master runs out of them.` | You carry stones until the yard master runs out of them. | Avlu ustasının taşları bitene kadar taş taşıyorsun. |
+| `Run the breakwood course` | Run the breakwood course | Kütüklü engel parkurunu koş |
+| `Logs, ditches, walls. You clear it twice.` | Logs, ditches, walls. You clear it twice. | Kütükler, hendekler, duvarlar. Parkuru iki kez geçiyorsun. |
+| `Slay a dire treant` | Slay a dire treant | Korkunç bir ağaç devini öldür |
+| `You take it apart one branch at a time.` | You take it apart one branch at a time. | Onu dal dal söküyorsun. |
+| `Climb to the pinnacle` | Climb to the pinnacle | Zirveye tırman |
+| `You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.'` | You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.' | Durmadan tepeye ulaşıyorsun. Yüzbaşı bir çift koşu ayakkabısı ve bir ayıklayan bıçak gönderiyor. 'Artık her şeyi avlamaya hazırsın.' |
+| `Mastery: Luck and Alms` | Mastery: Luck and Alms | Ustalık: Şans ve Sadaka |
+| `An almoner believes fortune follows the generous. Spend a day proving it.` | An almoner believes fortune follows the generous. Spend a day proving it. | Bir sadaka dağıtıcısı, talihin cömertleri izlediğine inanıyor. Bunu kanıtlamak için bir gün harca. |
+| `Meet the almoner` | Meet the almoner | Sadaka dağıtıcısıyla buluş |
+| `'Give freely and luck finds you. Most people never test it. Come and test it.'` | 'Give freely and luck finds you. Most people never test it. Come and test it.' | 'Cömertçe ver, şans seni bulur. Çoğu insan bunu hiç denemez. Gel ve dene.' |
+| `Feed a hungry child` | Feed a hungry child | Aç bir çocuğu doyur |
+| `You buy bread for a child in the alley. On the way out you find a coin.` | You buy bread for a child in the alley. On the way out you find a coin. | Ara sokaktaki bir çocuğa ekmek alıyorsun. Çıkarken bir sikke buluyorsun. |
+| `Pay a stranger's debt` | Pay a stranger's debt | Bir yabancının borcunu öde |
+| `The stallholder is stunned. Then she gives you a lucky charm she carved.` | The stallholder is stunned. Then she gives you a lucky charm she carved. | Tezgâh sahibi kadın şaşkına dönüyor. Sonra sana kendi oyduğu şanslı bir tılsım veriyor. |
+| `Buy a smith his tools back` | Buy a smith his tools back | Bir demircinin aletlerini geri satın al |
+| `The smith had pawned his hammer. You buy it back for him.` | The smith had pawned his hammer. You buy it back for him. | Demirci çekicini rehine vermiş. Onun için geri satın alıyorsun. |
+| `Donate to the town chest` | Donate to the town chest | Kasabanın sandığına bağış yap |
+| `The banker counts your gift twice to be sure.` | The banker counts your gift twice to be sure. | Bankacı emin olmak için bağışını iki kez sayıyor. |
+| `Leave coin for the wardens` | Leave coin for the wardens | Koruculara sikke bırak |
+| `The wardens are grateful. One of them gives you a tip about a dice game.` | The wardens are grateful. One of them gives you a tip about a dice game. | Korucular minnettar. İçlerinden biri sana bir zar oyunu hakkında ipucu veriyor. |
+| `Play dice with the wardens` | Play dice with the wardens | Korucularla zar at |
+| `You win three rolls in a row and give the winnings back.` | You win three rolls in a row and give the winnings back. | Üst üste üç atış kazanıp kazancı geri veriyorsun. |
+| `Plant a clover for luck` | Plant a clover for luck | Uğur için bir yonca dik |
+| `You find a four-leaf clover while planting. The almoner is not surprised.` | You find a four-leaf clover while planting. The almoner is not surprised. | Dikim yaparken dört yapraklı bir yonca buluyorsun. Sadaka dağıtıcısı şaşırmıyor. |
+| `Fund the village well` | Fund the village well | Köy kuyusunu finanse et |
+| `The village will have clean water by spring.` | The village will have clean water by spring. | Köyün bahara kadar temiz suyu olacak. |
+| `Pay the dockhands' wages` | Pay the dockhands' wages | Liman işçilerinin ücretlerini öde |
+| `The harbour master had run short. The dockhands cheer.` | The harbour master had run short. The dockhands cheer. | Liman müdürünün parası yetmemişti. Liman işçileri sevinçle bağırıyor. |
+| `Buy out a poor trader` | Buy out a poor trader | Yoksul bir satıcının tüm malını satın al |
+| `You buy her last fish at full price. She swears it will bring you luck.` | You buy her last fish at full price. She swears it will bring you luck. | Son balığını tam fiyata alıyorsun. Sana şans getireceğine yemin ediyor. |
+| `Give at the great market` | Give at the great market | Büyük pazarda bağış yap |
+| `You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer.` | You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer. | Pazarda bir kese dağıtıyor ve çıkışta bir çekilişi kazanıyorsun. Sadaka dağıtıcısı bir tılsım ve bir buhurdan gönderiyor. |
+| `Mastery: Delve and Fortify` | Mastery: Delve and Fortify | Ustalık: Derinlik ve Tahkim |
+| `A raid veteran wants every dungeon and Fortress wave run from the start.` | A raid veteran wants every dungeon and Fortress wave run from the start. | Bir baskın gazisi, her zindanı ve her Geçit sınavı dalgasını baştan geçmeni istiyor. |
+| `Meet the raid veteran` | Meet the raid veteran | Baskın gazisiyle buluş |
+| `'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.'` | 'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.' | 'En zor baskınları gözün kapalı geçiyorsun. Aç onları. İlk zindandan başla.' |
+| `Hear the delvers' stories` | Hear the delvers' stories | Zindan kâşiflerinin hikâyelerini dinle |
+| `Old delvers trade stories of the first dungeon. You learn a route you never knew.` | Old delvers trade stories of the first dungeon. You learn a route you never knew. | Yaşlı kâşifler ilk zindanın hikâyelerini paylaşıyor. Hiç bilmediğin bir rota öğreniyorsun. |
+| `You clear it using the old route. It is faster than yours.` | You clear it using the old route. It is faster than yours. | Eski rotayı kullanarak temizliyorsun. Seninkinden daha hızlı. |
+| `Hold the Fortress for 20 waves` | Hold the Fortress for 20 waves | Geçit sınavında 20 dalga dayan |
+| `You hold the walls with plain supplies. Twenty waves, no losses.` | You hold the walls with plain supplies. Twenty waves, no losses. | Sade erzakla surları tutuyorsun. Yirmi dalga, sıfır kayıp. |
+| `Restock near the Fortress` | Restock near the Fortress | Geçit sınavının yakınında erzak yenile |
+| `You restock and swap stories with the Fortress crews.` | You restock and swap stories with the Fortress crews. | Erzak yeniliyor ve Geçit sınavı ekipleriyle hikâye paylaşıyorsun. |
+| `Patch your raid gear` | Patch your raid gear | Baskın teçhizatını yamala |
+| `Torn straps, cracked buckles. You fix them all yourself.` | Torn straps, cracked buckles. You fix them all yourself. | Yırtık kayışlar, çatlak tokalar. Hepsini kendin onarıyorsun. |
+| `You lead the party and let them set the pace.` | You lead the party and let them set the pace. | Grubu yönetiyor ve tempoyu onların belirlemesine izin veriyorsun. |
+| `Hold the Fortress for 40 waves` | Hold the Fortress for 40 waves | Geçit sınavında 40 dalga dayan |
+| `Forty waves. Your deposits never stop.` | Forty waves. Your deposits never stop. | Kırk dalga. Teslimatların hiç durmuyor. |
+| `Plan the Savage run` | Plan the Savage run | Vahşi Zindan seferini planla |
+| `The veteran's notes cover every room. You add a few of your own.` | The veteran's notes cover every room. You add a few of your own. | Gazinin notları her odayı kapsıyor. Birkaç tane de sen ekliyorsun. |
+| `Clear a Savage Dungeon` | Clear a Savage Dungeon | Vahşi Zindan'ı temizle |
+| `The Savage Dungeon goes the way the notes said it would.` | The Savage Dungeon goes the way the notes said it would. | Vahşi Zindan, notlarda yazdığı gibi geçiyor. |
+| `Hold the Fortress for 60 waves` | Hold the Fortress for 60 waves | Geçit sınavında 60 dalga dayan |
+| `Sixty waves. The walls hold because you planned them to.` | Sixty waves. The walls hold because you planned them to. | Altmış dalga. Surlar dayanıyor, çünkü sen öyle planladın. |
+| `Clear a Fell Dungeon` | Clear a Fell Dungeon | Habis Zindan'ı temizle |
+| `You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification.` | You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification. | Habis Zindan'ı ilk odadan son odaya kadar temizliyorsun. Gazi bir kafatası ve bir tahkimat gönderiyor. |
+| `Gather the masters` | Gather the masters | Ustaları topla |
+| `Harvest the great orchard` | Harvest the great orchard | Büyük meyve bahçesinde hasat yap |
+| `The best trees in the land, picked clean and left healthy.` | The best trees in the land, picked clean and left healthy. | Ülkenin en iyi ağaçları, tertemiz toplanmış ve sağlıklı bırakılmış. |
+| `Fish the open sea` | Fish the open sea | Açık denizde balık tut |
+| `You bring in a catch the fishwife would frame.` | You bring in a catch the fishwife would frame. | Balıkçı kadının çerçeveletip asacağı bir av çıkarıyorsun. |
+| `Draw from the obelisk` | Draw from the obelisk | Dikilitaştan öz çek |
+| `The obelisk gives freely to someone who asks properly.` | The obelisk gives freely to someone who asks properly. | Dikilitaş, doğru şekilde isteyene cömertçe verir. |
+| `Work the underground` | Work the underground | Yeraltı dünyasında iş çevir |
+| `You take what you came for and leave no trace.` | You take what you came for and leave no trace. | Ne için geldiysen alıyor ve iz bırakmıyorsun. |
+| `Trade at the grand market` | Trade at the grand market | Büyük çarşıda ticaret yap |
+| `Every stall gives you its best price.` | Every stall gives you its best price. | Her tezgâh sana en iyi fiyatını veriyor. |
+| `Forge at the great foundry` | Forge at the great foundry | Büyük dökümhanede döv |
+| `The foundry's masters stop to watch you work.` | The foundry's masters stop to watch you work. | Dökümhanenin ustaları seni çalışırken izlemek için duruyor. |
+| `Perform at the royal court` | Perform at the royal court | Kraliyet sarayında sahneye çık |
+| `The court stands for your last song.` | The court stands for your last song. | Son şarkında saray ayağa kalkıyor. |
+| `Craft at the syndicate atelier` | Craft at the syndicate atelier | Sendika atölyesinde üret |
+| `You craft a piece the atelier keeps on display.` | You craft a piece the atelier keeps on display. | Atölyenin vitrinde sergilediği bir parça üretiyorsun. |
+| `Forage the far wilds` | Forage the far wilds | Uzak yabanda topla |
+| `The wilds give up their rarest growth to you.` | The wilds give up their rarest growth to you. | Yaban diyarı en nadir bitkilerini sana veriyor. |
+| `Run the long valley` | Run the long valley | Uzun vadiyi baştan sona koş |
+| `You run it end to end and keep your breath.` | You run it end to end and keep your breath. | Bir uçtan öbür uca koşuyor ve nefesini koruyorsun. |
+| `The masters have one more test, at the edges of the world.` | The masters have one more test, at the edges of the world. | Ustaların dünyanın uçlarında bir imtihanı daha var. |
+| `Meet the masters again` | Meet the masters again | Ustalarla yeniden buluş |
+| `Forage the deep hollows` | Forage the deep hollows | Derin kovuklarda topla |
+| `You find growth down here no forager has named.` | You find growth down here no forager has named. | Burada, aşağıda hiçbir toplayıcının adını koymadığı bitkiler buluyorsun. |
+| `Mine the high ledge` | Mine the high ledge | Yüksek kaya çıkıntısında kazı yap |
+| `Ore from the ledge, brought down without a single slip.` | Ore from the ledge, brought down without a single slip. | Kaya çıkıntısından cevher, tek bir kayma olmadan indirildi. |
+| `Fish the eastern coast` | Fish the eastern coast | Doğu kıyısında balık tut |
+| `You land a fish from water nobody fishes.` | You land a fish from water nobody fishes. | Kimsenin balık tutmadığı sulardan bir balık çıkarıyorsun. |
+| `Chart the ruined coast` | Chart the ruined coast | Harap kıyının haritasını çıkar |
+| `Your chart corrects three maps the cartographers trusted.` | Your chart corrects three maps the cartographers trusted. | Haritan, haritacıların güvendiği üç haritayı düzeltiyor. |
+| `Charge essence at the arc` | Charge essence at the arc | Arkta öz yükle |
+| `The arc burns bright and steady in your hands.` | The arc burns bright and steady in your hands. | Ark ellerinde parlak ve sabit yanıyor. |
+| `Cook a feast for the masters` | Cook a feast for the masters | Ustalar için bir ziyafet pişir |
+| `Fifteen masters, one table. Every plate comes back clean.` | Fifteen masters, one table. Every plate comes back clean. | On beş usta, tek sofra. Her tabak tertemiz geri geliyor. |
+| `Draw from the last obelisk` | Draw from the last obelisk | Son dikilitaştan öz çek |
+| `The obelisk at the end of the world answers you.` | The obelisk at the end of the world answers you. | Dünyanın ucundaki dikilitaş sana yanıt veriyor. |
+| `Play the eastern court` | Play the eastern court | Doğu sarayında çal |
+| `The court asks for the campfire songs. You play them all.` | The court asks for the campfire songs. You play them all. | Saray kamp ateşi şarkılarını istiyor. Hepsini çalıyorsun. |
+| `Brew the masters' remedy` | Brew the masters' remedy | Ustaların ilacını demle |
+| `A remedy built from every plain herb you grew.` | A remedy built from every plain herb you grew. | Yetiştirdiğin her sade otla yapılmış bir ilaç. |
+| `Bargain with the pirate lords` | Bargain with the pirate lords | Korsan lordlarıyla pazarlık et |
+| `The pirate lords pay you to leave.` | The pirate lords pay you to leave. | Korsan lordları gitmen için sana para ödüyor. |
+| `Clear an Ancient Dungeon` | Clear an Ancient Dungeon | Kadim Zindan'ı temizle |
+| `The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.'` | The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.' | Ustalar en eski zindanda bekliyor. Sana ikinci bir küre ve bir fener veriyorlar. 'Artık kanıtlayacak hiçbir şeyin kalmadı.' |
+| `[Q1] Enchanted Rod` | [Q1] Enchanted Rod | [Q1] Büyülü olta |
+| `[Q1] Enchanted Pickaxe` | [Q1] Enchanted Pickaxe | [Q1] Büyülü kazma |
+| `[Q1] Enchanted Sickle` | [Q1] Enchanted Sickle | [Q1] Büyülü orak |
+| `[Q1] Enchanted Conduit` | [Q1] Enchanted Conduit | [Q1] Büyülü kanal |
+| `[Q1] Enchanted Trowel` | [Q1] Enchanted Trowel | [Q1] Büyülü mala |
+| `[Q1] Enchanted Lockpick` | [Q1] Enchanted Lockpick | [Q1] Büyülü maymuncuk |
+| `[Q1] Enchanted Instrument` | [Q1] Enchanted Instrument | [Q1] Büyülü çalgı |
+| `[Q1] Enchanted Trainers` | [Q1] Enchanted Trainers | [Q1] Büyülü spor ayakkabı |
+| `[Q1] Culling Knife` | [Q1] Culling Knife | [Q1] Ayıklayan bıçak |
+| `[Q1] Lucky Charm` | [Q1] Lucky Charm | [Q1] Şanslı tılsım |
+| `[Q1] Enchanted Censer` | [Q1] Enchanted Censer | [Q1] Büyülü buhurdan |
+| `[Q1] Enchanted Skillet` | [Q1] Enchanted Skillet | [Q1] Büyülü tava |
+| `[Q1] Enchanted Hammer` | [Q1] Enchanted Hammer | [Q1] Büyülü çekiç |
+| `[Q1] Enchanted Chisel` | [Q1] Enchanted Chisel | [Q1] Büyülü keski |
+| `[Q1] Enchanted Prism` | [Q1] Enchanted Prism | [Q1] Büyülü prizma |
+| `[Q1] Enchanted Mortar` | [Q1] Enchanted Mortar | [Q1] Büyülü havan |
+| `[Q1] Enchanted Scales` | [Q1] Enchanted Scales | [Q1] Büyülü pul |
+| `[Q1] Enchanted Lens` | [Q1] Enchanted Lens | [Q1] Büyülü mercek |
+| `[Q1] Enchanted Lantern` | [Q1] Enchanted Lantern | [Q1] Büyülü fener |
+| `[Q1] Enchanted Pommel` | [Q1] Enchanted Pommel | [Q1] Büyülü topuz |
+| `[Q1] Enchanted Grip` | [Q1] Enchanted Grip | [Q1] Büyülü kabza |
+| `[Q1] Enchanted Notch` | [Q1] Enchanted Notch | [Q1] Büyülü çentik |
+| `[Q1] Enchanted Bowstring` | [Q1] Enchanted Bowstring | [Q1] Büyülü yay kirişi |
+| `[Q1] Enchanted Orb` | [Q1] Enchanted Orb | [Q1] Büyülü küre |
+| `[Q1] Enchanted Catalyst` | [Q1] Enchanted Catalyst | [Q1] Büyülü katalizör |
+| `[Q1] Enchanted Spring` | [Q1] Enchanted Spring | [Q1] Büyülü yay |
+| `[Q1] Enchanted Shim` | [Q1] Enchanted Shim | [Q1] Büyülü kama |
+| `[Q1] Enchanted Salve` | [Q1] Enchanted Salve | [Q1] Büyülü merhem |
+| `[Q1] Enchanted Relic` | [Q1] Enchanted Relic | [Q1] Büyülü kalıntı |
+| `[T1] Globe of Skills` | [T1] Globe of Skills | [T1] Beceri küresi |
+| `[T2] Globe of Skills` | [T2] Globe of Skills | [T2] Beceri küresi |
+| `[Q1] Enchanted Skull` | [Q1] Enchanted Skull | [Q1] Büyülü kafatası |
+| `[Q1] Enchanted Fortification` | [Q1] Enchanted Fortification | [Q1] Büyülü tahkimat |
+| `Earned by completing every quest. New quests re-lock it until they are done.` | Earned by completing every quest. New quests re-lock it until they are done. | Tüm görevleri tamamlayarak kazanılır. Yeni görevler, tamamlanana kadar onu yeniden kilitler. |
+| `New quests have arrived. Complete them to earn your Quest Cape back.` | New quests have arrived. Complete them to earn your Quest Cape back. | Yeni görevler geldi. Görev pelerinini geri kazanmak için onları tamamla. |
+| `Quest Cape Unlocked!` | Quest Cape Unlocked! | Görev pelerini açıldı! |
+| `Unlock Requirements` | Unlock Requirements | Açılma gereksinimleri |
+| `Q1` | Q1 | Q1 |
+| `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Beceri küreleri: +{0}% (+{1} adım/sn) |
+| `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Görev pelerini: +{0}% (+{1} adım/sn) |
+| `@crit_pct_globes` | Globes of Skills: {0}% | Beceri küreleri: %{0} |
+| `@globes_count` | Globes of Skills {0}/{1} | Beceri küreleri {0}/{1} |
+| `@quest_cape_count` | Quest Cape {0}/{1} | Görev pelerini {0}/{1} |
+| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | Tüm görevler tamamlanmışken +{0}% hareket hızı |
+| `@all_skills_lv` | All Skills Lv {0} | Tüm Beceriler Sv {0} |
+| `@b:auto_process` | +{0}% auto-process chance | +{0}% otomatik işleme şansı |
+| `@b:auto_bank` | +{0}% auto-bank chance | +{0}% otomatik bankaya gönderme şansı |
+| `@b:min_hit` | +{0} min hit | +{0} min vuruş |
+| `@b:max_hit` | +{0} max hit | +{0} maks vuruş |
+| `@b:quest_cape_held` | Held while every quest is completed | Tüm görevler tamamlı olduğu sürece korunur |
+| `Mastery: The Feeble Trial` | Mastery: The Feeble Trial | Ustalık: Cılız İmtihan |
+| `The masters test anyone who has survived a dungeon. The first trial starts close to home.` | The masters test anyone who has survived a dungeon. The first trial starts close to home. | Ustalar, bir zindandan sağ çıkan herkesi sınar. İlk imtihan eve yakın bir yerde başlıyor. |
+| `Meet the masters at Fernstead` | Meet the masters at Fernstead | Fernstead'de ustalarla buluş |
+| `A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.'` | A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.' | Sade paltolu bir usta bankanın yanında bekliyor. 'Bir zindanın içini gördün. Şimdi bize küçük işleri de iyi yapabildiğini göster.' |
+| `Cook at the Fernstead hearth` | Cook at the Fernstead hearth | Fernstead ocağında yemek pişir |
+| `Simple bread, baked right. The master takes a bite and nods.` | Simple bread, baked right. The master takes a bite and nods. | Sade bir ekmek, tam kıvamında pişmiş. Usta bir ısırık alıp başını sallıyor. |
+| `Haggle at the stalls` | Haggle at the stalls | Tezgâhlarda pazarlık et |
+| `You walk away with a fair price and a new friend.` | You walk away with a fair price and a new friend. | Adil bir fiyat ve yeni bir dostla ayrılıyorsun. |
+| `Tend the Fernstead field` | Tend the Fernstead field | Fernstead tarlasına bak |
+| `Straight rows and no weeds. The farmer asks who taught you.` | Straight rows and no weeds. The farmer asks who taught you. | Düz sıralar, tek bir yabani ot yok. Çiftçi bunu sana kimin öğrettiğini soruyor. |
+| `Forage the thicket` | Forage the thicket | Çalılıkta topla |
+| `You come out with a full basket and not one scratch.` | You come out with a full basket and not one scratch. | Dolu bir sepetle ve tek bir çizik bile almadan çıkıyorsun. |
+| `Survey the Woodgap hills` | Survey the Woodgap hills | Woodgap tepelerini araştır |
+| `Your notes fill the gaps on the old survey map.` | Your notes fill the gaps on the old survey map. | Notların eski ölçüm haritasındaki boşlukları dolduruyor. |
+| `Work the Ironice smithy` | Work the Ironice smithy | Ironice demircisinde çalış |
+| `A plain blade, balanced and sharp. The smith hangs it on the wall.` | A plain blade, balanced and sharp. The smith hangs it on the wall. | Sade bir kılıç, dengeli ve keskin. Demirci onu duvara asıyor. |
+| `Cut stone at the quarry` | Cut stone at the quarry | Taş ocağında taş kes |
+| `Clean blocks, cut square. The quarry boss has no complaints.` | Clean blocks, cut square. The quarry boss has no complaints. | Temiz bloklar, gönyesinde kesilmiş. Taş ocağının ustabaşının hiçbir şikâyeti yok. |
+| `Play at the Splitstone campfire` | Play at the Splitstone campfire | Splitstone kamp ateşinde çal |
+| `Travelers stop to listen. One of them is a master.` | Travelers stop to listen. One of them is a master. | Yolcular dinlemek için duruyor. İçlerinden biri bir usta. |
+| `Work the Pinegap alley` | Work the Pinegap alley | Pinegap ara sokağında iş çevir |
+| `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Bir kese aşırıp sahibi fark etmeden geri veriyorsun. Usta gülüyor. |
+| `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Pinegap kristalinden öz çek |
+| `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Kristal uğulduyor ve öz tertemiz çıkıyor. |
+| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Ustalar zindanın ağzında bekliyor. 'İyi bir başlangıç. Sonraki imtihan daha uzakta.' |
+| `Mastery: The Dire Trial` | Mastery: The Dire Trial | Ustalık: Korkunç İmtihan |
+| `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | İkinci imtihan seni, ustaların daha sıkı çalıştığı soğuk batıya götürüyor. |
+| `Meet the masters at Timberchill` | Meet the masters at Timberchill | Timberchill'de ustalarla buluş |
+| `'The first trial was easy on purpose. This one is not.'` | 'The first trial was easy on purpose. This one is not.' | 'İlk imtihan bilerek kolaydı. Bu öyle değil.' |
+| `Join the Timberchill expedition` | Join the Timberchill expedition | Timberchill seferine katıl |
+| `You lead the expedition home with a full map and every pack mule.` | You lead the expedition home with a full map and every pack mule. | Seferi eksiksiz bir harita ve bütün yük katırlarıyla eve döndürüyorsun. |
+| `Cook in the Icemast kitchen` | Cook in the Icemast kitchen | Icemast mutfağında yemek pişir |
+| `Hot stew for a cold crew. Everyone asks for seconds.` | Hot stew for a cold crew. Everyone asks for seconds. | Üşüyen ekibe sıcak bir yahni. Herkes ikinci tabak istiyor. |
+| `Fish the frozen lake` | Fish the frozen lake | Donmuş gölde balık tut |
+| `You cut a hole in the ice and fill a bucket before noon.` | You cut a hole in the ice and fill a bucket before noon. | Buzda bir delik açıyor ve öğleden önce bir kova dolduruyorsun. |
+| `Forge at the Battlefrost smithy` | Forge at the Battlefrost smithy | Battlefrost demircisinde demir döv |
+| `Armor for the frontier guard, every plate fitted.` | Armor for the frontier guard, every plate fitted. | Sınır muhafızları için zırh, her plakası tam oturmuş. |
+| `Brew for the Battlefrost garrison` | Brew for the Battlefrost garrison | Battlefrost garnizonu için demle |
+| `A strong ale for a long winter. The garrison approves.` | A strong ale for a long winter. The garrison approves. | Uzun bir kış için sert bir bira. Garnizon onaylıyor. |
+| `Play the Battlefrost tavern` | Play the Battlefrost tavern | Battlefrost meyhanesinde çal |
+| `A tavern full of soldiers sings along.` | A tavern full of soldiers sings along. | Askerlerle dolu meyhane sana eşlik ediyor. |
+| `Draw from the Windhollow rift` | Draw from the Windhollow rift | Windhollow yarığından öz çek |
+| `The rift pulls back. You pull harder.` | The rift pulls back. You pull harder. | Yarık geri çekiyor. Sen daha sert çekiyorsun. |
+| `Charge the Windhollow conduit` | Charge the Windhollow conduit | Windhollow kanalında öz yükle |
+| `The conduit glows steady for the first time in years.` | The conduit glows steady for the first time in years. | Kanal yıllardır ilk kez sabit bir ışıkla parlıyor. |
+| `Tend the Windhollow greenhouse` | Tend the Windhollow greenhouse | Windhollow serasına bak |
+| `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Kışın ortasında yeşil yapraklar. |
+| `Mine the Icevein seams` | Mine the Icevein seams | Icevein damarlarını kaz |
+| `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Madencilerin vazgeçtiği damarı buluyorsun. |
+| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Soğukta dayandın. Sırada, ustalar seni baskı altında görmek istiyor.' |
+| `Mastery: The Savage Trial` | Mastery: The Savage Trial | Ustalık: Vahşi İmtihan |
+| `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | Üçüncü imtihan, her zanaatı bir ustanın gözlediği kalabalık güneyden geçiyor. |
+| `Meet the masters at Shortha` | Meet the masters at Shortha | Shortha'da ustalarla buluş |
+| `'The south is loud and crowded. Do your best work anyway.'` | 'The south is loud and crowded. Do your best work anyway.' | 'Güney gürültülü ve kalabalık. Yine de en iyi işini çıkar.' |
+| `Build at the Shortha workshop` | Build at the Shortha workshop | Shortha atölyesinde üret |
+| `A cabinet with no gaps and no nails. The carpenter wants to buy it.` | A cabinet with no gaps and no nails. The carpenter wants to buy it. | Ne aralığı ne çivisi olan bir dolap. Marangoz onu satın almak istiyor. |
+| `Perform at the Shortha theatre` | Perform at the Shortha theatre | Shortha tiyatrosunda sahneye çık |
+| `The crowd stays on its feet until the lamps go out.` | The crowd stays on its feet until the lamps go out. | Seyirciler lambalar sönene dek ayakta kalıyor. |
+| `Draw from the Shortha rift` | Draw from the Shortha rift | Shortha yarığından öz çek |
+| `The rift spits sparks. You take what you need.` | The rift spits sparks. You take what you need. | Yarık kıvılcım saçıyor. İhtiyacın olanı alıyorsun. |
+| `Pull the Shortha heist` | Pull the Shortha heist | Shortha soygununu gerçekleştir |
+| `In and out without a sound. The master checks the lock twice.` | In and out without a sound. The master checks the lock twice. | Ses çıkarmadan girip çıkıyorsun. Usta kilidi iki kez kontrol ediyor. |
+| `Run the Shortha kitchen` | Run the Shortha kitchen | Shortha mutfağını yönet |
+| `Two hundred plates in one night. None come back.` | Two hundred plates in one night. None come back. | Bir gecede iki yüz tabak. Hiçbiri geri gönderilmiyor. |
+| `Forage the Gilshore grove` | Forage the Gilshore grove | Gilshore korusunda topla |
+| `You find the herbs the grove keeper hides from buyers.` | You find the herbs the grove keeper hides from buyers. | Koru bekçisinin alıcılardan sakladığı otları buluyorsun. |
+| `Fish off the Gilshore coast` | Fish off the Gilshore coast | Gilshore açıklarında balık tut |
+| `A heavy net, hauled in alone.` | A heavy net, hauled in alone. | Ağır bir ağ, tek başına çekildi. |
+| `Charge the Farmhold conduit` | Charge the Farmhold conduit | Farmhold kanalında öz yükle |
+| `The conduit takes a full charge and holds it.` | The conduit takes a full charge and holds it. | Kanal tam yükü alıyor ve tutuyor. |
+| `Run the Farmhold valley` | Run the Farmhold valley | Farmhold vadisinde koş |
+| `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Sırf bir şeyi kanıtlamak için vadiyi iki kez koşuyorsun. |
+| `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Riverwatch dökümhanesinde döküm yap |
+| `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Kabarcıksız, temiz bir döküm. Dökümhane ekibi alkışlıyor. |
+| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Güzel. Küreler son iki imtihanda saklanıyor.' |
+| `Mastery: The Fell Trial` | Mastery: The Fell Trial | Ustalık: Habis İmtihan |
+| `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | Dördüncü imtihan seni ülkenin en iyi iş yerlerine gönderiyor. |
+| `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Ustalar bankayı dolduruyor. 'Üç imtihan tamam. Şimdi bize ülkenin en iyi işini göster.' |
+| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Ustalar zindanın ağzında bekliyor. Sana cam bir küre veriyorlar. 'İlk Küre. Şimdiye kadarki her imtihanı içinde taşır.' |
+| `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Ustalık: Kadim İmtihan |
+| `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'İlk Küre imtihanlar içindi. İkincisi, kimsenin sana öğretmedikleri için.' |
+| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Habis ve Kadim imtihanlarından kazanılır. İkisi de birikir. |

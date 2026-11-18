@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Temukan |
 
-## Lines to review (799)
+## Lines to review (1355)
 
 | Key | English | Current |
 |---|---|---|
@@ -869,3 +869,559 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tint` | Tint | Pewarnaan |
 | `No tint` | No tint | Tanpa pewarnaan |
 | `Pick any colour for the wings` | Pick any colour for the wings | Pilih warna apa pun untuk sayap |
+| `Mastery: Life and Spirit` | Mastery: Life and Spirit | Penguasaan: Kehidupan dan Roh |
+| `An old healer wants proof you still remember how to endure.` | An old healer wants proof you still remember how to endure. | Seorang tabib tua ingin bukti bahwa kamu masih ingat cara bertahan. |
+| `Meet the old healer` | Meet the old healer | Temui tabib tua |
+| `She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.'` | She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.' | Dia memeriksa denyut nadimu sebelum menyapa. 'Kuat. Tapi kekuatan bukan pelajarannya. Kembalilah ke tempat kamu pertama kali belajar bertahan.' |
+| `Rest by the old campfire` | Rest by the old campfire | Istirahat di dekat api unggun lama |
+| `You sit until the fire burns low. The healer nods when you stand without stiffness.` | You sit until the fire burns low. The healer nods when you stand without stiffness. | Kamu duduk hingga apinya meredup. Sang tabib mengangguk saat kamu berdiri tanpa kaku. |
+| `Share a plain meal` | Share a plain meal | Santap hidangan sederhana bersama |
+| `Bread, broth, nothing more. 'You forgot how little a body needs,' she says.` | Bread, broth, nothing more. 'You forgot how little a body needs,' she says. | Roti, kaldu, tak lebih. 'Kamu lupa betapa sedikit yang dibutuhkan tubuh,' katanya. |
+| `Outlast a feeble slime` | Outlast a feeble slime | Bertahan lebih lama dari slime lemah |
+| `It barely scratches you. You let it tire itself out before you finish it.` | It barely scratches you. You let it tire itself out before you finish it. | Ia nyaris tak menggoresmu. Kamu membiarkannya kelelahan sendiri sebelum menghabisinya. |
+| `Calm your breathing by the fire` | Calm your breathing by the fire | Tenangkan napasmu di dekat api |
+| `You count your breaths until the count stops mattering. Your spirit settles.` | You count your breaths until the count stops mattering. Your spirit settles. | Kamu menghitung napas hingga hitungan itu tak lagi penting. Rohmu menjadi tenang. |
+| `Eat with the road crews` | Eat with the road crews | Makan bersama para pekerja jalan |
+| `The crews talk about blisters and sore backs. You listen more than you speak.` | The crews talk about blisters and sore backs. You listen more than you speak. | Para pekerja membicarakan lecet dan punggung pegal. Kamu lebih banyak mendengar daripada bicara. |
+| `Take the ember slime calmly` | Take the ember slime calmly | Hadapi slime bara dengan tenang |
+| `You let the heat wash past you and keep your footing.` | You let the heat wash past you and keep your footing. | Kamu membiarkan panasnya berlalu dan tetap menjaga pijakanmu. |
+| `Clear a Feeble Dungeon` | Clear a Feeble Dungeon | Selesaikan Ruang Bawah Tanah Lemah |
+| `The first dungeon feels small now. You walk it slowly, watching every step.` | The first dungeon feels small now. You walk it slowly, watching every step. | Ruang bawah tanah pertama kini terasa kecil. Kamu menyusurinya perlahan, memperhatikan setiap langkah. |
+| `Report your progress` | Report your progress | Laporkan kemajuanmu |
+| `The healer's runner takes your notes. 'She says you are nearly there.'` | The healer's runner takes your notes. 'She says you are nearly there.' | Kurir sang tabib mengambil catatanmu. 'Katanya kamu hampir sampai.' |
+| `Cook for a tired party` | Cook for a tired party | Masak untuk kelompok yang kelelahan |
+| `You feed a party back from the deep. One of them falls asleep mid bite.` | You feed a party back from the deep. One of them falls asleep mid bite. | Kamu memberi makan kelompok yang baru kembali dari kedalaman. Salah satu dari mereka tertidur sambil mengunyah. |
+| `Clear a Dire Dungeon` | Clear a Dire Dungeon | Selesaikan Ruang Bawah Tanah Mengerikan |
+| `You come out of the Dire Dungeon with nothing worse than a bruise.` | You come out of the Dire Dungeon with nothing worse than a bruise. | Kamu keluar dari Ruang Bawah Tanah Mengerikan hanya dengan sebuah memar. |
+| `Stand firm against a fell demon` | Stand firm against a fell demon | Bertahan teguh melawan iblis bengis |
+| `The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.'` | The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.' | Iblis itu memukul keras dan kamu tidak tumbang. Sang tabib menemuimu setelahnya. 'Salep dan relik. Diperoleh, bukan diberikan.' |
+| `Mastery: Strike and Heft` | Mastery: Strike and Heft | Penguasaan: Pukulan dan Tenaga |
+| `A retired sergeant wants to see your first drills done properly again.` | A retired sergeant wants to see your first drills done properly again. | Seorang sersan pensiunan ingin melihat latihan pertamamu dilakukan dengan benar lagi. |
+| `Report to the old sergeant` | Report to the old sergeant | Melapor ke sersan tua |
+| `'Eighty years of swinging and you still lead with your shoulder? Back to the drills.'` | 'Eighty years of swinging and you still lead with your shoulder? Back to the drills.' | 'Delapan puluh tahun mengayun senjata dan kamu masih mengawali dengan bahu? Kembali berlatih.' |
+| `Cut a practice staff` | Cut a practice staff | Potong tongkat latihan |
+| `You trim an ash branch to length. It is lighter than anything you carry now.` | You trim an ash branch to length. It is lighter than anything you carry now. | Kamu memotong dahan pohon ash sesuai panjangnya. Tongkat itu lebih ringan daripada apa pun yang kamu bawa sekarang. |
+| `Spar with a feeble goblin` | Spar with a feeble goblin | Berlatih tanding dengan goblin lemah |
+| `You win with the staff alone. The sergeant grunts something like approval.` | You win with the staff alone. The sergeant grunts something like approval. | Kamu menang hanya dengan tongkat. Sang sersan menggerutu, seperti tanda setuju. |
+| `Run the training trail` | Run the training trail | Jalani jalur latihan |
+| `Three laps, then three more. Your footwork comes back on the last one.` | Three laps, then three more. Your footwork comes back on the last one. | Tiga putaran, lalu tiga lagi. Gerak kakimu kembali pada putaran terakhir. |
+| `Beat a dire goblin cleanly` | Beat a dire goblin cleanly | Kalahkan goblin mengerikan dengan bersih |
+| `No wasted swings. The sergeant counts them on his fingers.` | No wasted swings. The sergeant counts them on his fingers. | Tak ada ayunan yang sia-sia. Sang sersan menghitungnya dengan jari. |
+| `Eat with the garrison` | Eat with the garrison | Makan bersama garnisun |
+| `The garrison cook remembers the sergeant. 'He still shouts at everyone?'` | The garrison cook remembers the sergeant. 'He still shouts at everyone?' | Juru masak garnisun masih ingat sang sersan. 'Dia masih membentak semua orang?' |
+| `Send word to the sergeant` | Send word to the sergeant | Kirim kabar ke sersan |
+| `You send a short note: two goblins down, footwork fixed.` | You send a short note: two goblins down, footwork fixed. | Kamu mengirim catatan singkat: dua goblin tumbang, gerak kaki sudah diperbaiki. |
+| `Break a feeble skeleton` | Break a feeble skeleton | Hancurkan kerangka lemah |
+| `Bone gives way under a clean blow. Heft without strike is noise, he always said.` | Bone gives way under a clean blow. Heft without strike is noise, he always said. | Tulang remuk oleh satu pukulan bersih. Tenaga tanpa pukulan hanyalah bunyi kosong, begitu katanya selalu. |
+| `You clear it with the same drills you learned there.` | You clear it with the same drills you learned there. | Kamu menyelesaikannya dengan latihan yang sama yang kamu pelajari di sana. |
+| `Your party moves when you move. Good habits spread.` | Your party moves when you move. Good habits spread. | Kelompokmu bergerak saat kamu bergerak. Kebiasaan baik itu menular. |
+| `Have your blade reforged` | Have your blade reforged | Minta bilahmu ditempa ulang |
+| `The smith grinds out years of nicks. It swings true again.` | The smith grinds out years of nicks. It swings true again. | Pandai besi mengikis bekas gores bertahun-tahun. Ayunannya kembali lurus. |
+| `Fell an orc with clean blows` | Fell an orc with clean blows | Robohkan orc dengan pukulan bersih |
+| `The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.'` | The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.' | Orc itu tumbang dalam tiga pukulan. Sang sersan memberimu sebuah kepala gagang dan pegangan. 'Sekarang kamu siap.' |
+| `Mastery: Sight and Draw` | Mastery: Sight and Draw | Penguasaan: Bidik dan Tarik |
+| `A hunter in the north asks you to shoot like a beginner again.` | A hunter in the north asks you to shoot like a beginner again. | Seorang pemburu di utara memintamu memanah seperti pemula lagi. |
+| `Meet the northern hunter` | Meet the northern hunter | Temui pemburu dari utara |
+| `'You aim like someone who expects to hit. Good archers expect to miss. Come.'` | 'You aim like someone who expects to hit. Good archers expect to miss. Come.' | 'Kamu membidik seperti orang yang yakin akan kena. Pemanah yang baik siap untuk meleset. Ayo.' |
+| `Fletch a plain practice bow` | Fletch a plain practice bow | Buat busur latihan sederhana |
+| `No runes, no gems. Just yew and string.` | No runes, no gems. Just yew and string. | Tanpa rune, tanpa permata. Hanya kayu yew dan tali. |
+| `Scout the hills for targets` | Scout the hills for targets | Intai perbukitan untuk mencari sasaran |
+| `You mark three trees and a stump at different ranges.` | You mark three trees and a stump at different ranges. | Kamu menandai tiga pohon dan sebuah tunggul pada jarak berbeda. |
+| `Take down a dire gnoll` | Take down a dire gnoll | Jatuhkan gnoll mengerikan |
+| `One arrow, placed where the hunter pointed. 'Better.'` | One arrow, placed where the hunter pointed. 'Better.' | Satu anak panah, tepat di titik yang ditunjuk sang pemburu. 'Lebih baik.' |
+| `Cut fresh arrow shafts` | Cut fresh arrow shafts | Potong batang anak panah baru |
+| `You pick straight stems and trim them by eye.` | You pick straight stems and trim them by eye. | Kamu memilih batang yang lurus dan memangkasnya dengan perkiraan mata. |
+| `Run the range drills` | Run the range drills | Jalani latihan di lapangan panah |
+| `Shoot, move, shoot. Your breath and your release line up again.` | Shoot, move, shoot. Your breath and your release line up again. | Tembak, bergerak, tembak. Napas dan lepasan anak panahmu kembali selaras. |
+| `Hit a golem at the joints` | Hit a golem at the joints | Serang sendi golem |
+| `Stone is hard, joints are not. The golem folds.` | Stone is hard, joints are not. The golem folds. | Batu itu keras, sendinya tidak. Golem itu ambruk. |
+| `You call targets for the whole party. Nobody wastes a shot.` | You call targets for the whole party. Nobody wastes a shot. | Kamu menentukan sasaran untuk seluruh kelompok. Tak ada yang menyia-nyiakan tembakan. |
+| `Eat with the hunters` | Eat with the hunters | Makan bersama para pemburu |
+| `The hunters argue about wind. You agree with all of them.` | The hunters argue about wind. You agree with all of them. | Para pemburu berdebat soal angin. Kamu setuju dengan mereka semua. |
+| `Bank your spare arrows` | Bank your spare arrows | Simpan anak panah cadangan di bank |
+| `You store the spares. Travelling light is half the craft.` | You store the spares. Travelling light is half the craft. | Kamu menyimpan cadangannya. Bepergian ringan adalah separuh dari keahlian ini. |
+| `You shoot from the back row and never lose sight of the front.` | You shoot from the back row and never lose sight of the front. | Kamu memanah dari barisan belakang dan tak pernah kehilangan pandangan ke depan. |
+| `Bring down a fell gnoll` | Bring down a fell gnoll | Tumbangkan gnoll bengis |
+| `Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.'` | Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.' | Dua tembakan, keduanya bersih. Sang pemburu memberimu sebuah takik dan tali busur. 'Simpan ini. Teruslah makin jarang meleset.' |
+| `Mastery: Focus and Surge` | Mastery: Focus and Surge | Penguasaan: Fokus dan Lonjakan |
+| `An eastern mage wants your first spells cast without force or fuss.` | An eastern mage wants your first spells cast without force or fuss. | Seorang penyihir dari timur ingin mantra pertamamu dirapalkan tanpa paksaan atau keributan. |
+| `Meet the eastern mage` | Meet the eastern mage | Temui penyihir dari timur |
+| `'You push power like a mule pushes a cart. Let us start again, smaller.'` | 'You push power like a mule pushes a cart. Let us start again, smaller.' | 'Kamu mendorong kekuatan seperti bagal mendorong gerobak. Mari mulai lagi, lebih kecil.' |
+| `Draw from a small fragment` | Draw from a small fragment | Tarik dari serpihan kecil |
+| `The essence is faint. You have to listen for it.` | The essence is faint. You have to listen for it. | Esensnya samar. Kamu harus mendengarkannya baik-baik. |
+| `Charge a single dim essence` | Charge a single dim essence | Isi satu esens redup |
+| `You charge it slowly. It holds better than anything you rushed.` | You charge it slowly. It holds better than anything you rushed. | Kamu mengisinya perlahan. Ia bertahan lebih baik daripada apa pun yang kamu kerjakan terburu-buru. |
+| `Banish a feeble imp` | Banish a feeble imp | Usir imp lemah |
+| `A small spell, aimed well. The imp is gone before it can grin.` | A small spell, aimed well. The imp is gone before it can grin. | Mantra kecil, terarah dengan baik. Imp itu lenyap sebelum sempat menyeringai. |
+| `Read the runes in the ashes` | Read the runes in the ashes | Baca rune di dalam abu |
+| `Old travellers left warding marks here. You copy them out.` | Old travellers left warding marks here. You copy them out. | Para pengembara dahulu meninggalkan tanda penangkal di sini. Kamu menyalinnya. |
+| `Tend a small herb plot` | Tend a small herb plot | Rawat petak herba kecil |
+| `The mage wants patience practised. You weed until your mind goes quiet.` | The mage wants patience practised. You weed until your mind goes quiet. | Sang penyihir ingin kesabaran dilatih. Kamu mencabut gulma hingga pikiranmu hening. |
+| `Unmake a dire lich` | Unmake a dire lich | Musnahkan lich mengerikan |
+| `You break its ward with the marks from the ashes.` | You break its ward with the marks from the ashes. | Kamu mematahkan pelindungnya dengan tanda-tanda dari abu itu. |
+| `You cast half as often and hit twice as hard.` | You cast half as often and hit twice as hard. | Kamu merapal setengah sesering biasanya dan menyerang dua kali lebih keras. |
+| `Inscribe a beginner sigil` | Inscribe a beginner sigil | Torehkan sigil pemula |
+| `Simple lines, clean joins. The mage keeps it as a sample.` | Simple lines, clean joins. The mage keeps it as a sample. | Garis sederhana, sambungan rapi. Sang penyihir menyimpannya sebagai contoh. |
+| `Send your notes east` | Send your notes east | Kirim catatanmu ke timur |
+| `Your notes on the lich go back to the mage by courier.` | Your notes on the lich go back to the mage by courier. | Catatanmu tentang lich dikirim kembali ke sang penyihir lewat kurir. |
+| `Your spells land on rhythm. The party fights to your timing.` | Your spells land on rhythm. The party fights to your timing. | Mantramu mendarat seirama. Kelompokmu bertarung mengikuti iramamu. |
+| `Dispel a fell demon` | Dispel a fell demon | Lenyapkan iblis bengis |
+| `One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.'` | One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.' | Satu lonjakan terfokus dan iblis itu tercerai-berai. Sang penyihir memberimu sebuah bola dan katalis. 'Mantra kecil, hasil besar.' |
+| `Mastery: Dodge and Defend` | Mastery: Dodge and Defend | Penguasaan: Mengelak dan Bertahan |
+| `A shieldwright wants you to relearn when to block and when to move.` | A shieldwright wants you to relearn when to block and when to move. | Seorang pembuat perisai ingin kamu belajar ulang kapan menangkis dan kapan bergerak. |
+| `Meet the shieldwright` | Meet the shieldwright | Temui pembuat perisai |
+| `'You block everything. Some things you should just not be standing in front of.'` | 'You block everything. Some things you should just not be standing in front of.' | 'Kamu menangkis semuanya. Untuk beberapa hal, sebaiknya kamu tidak berdiri di depannya sama sekali.' |
+| `Hammer out a practice shield` | Hammer out a practice shield | Tempa perisai latihan |
+| `Plain iron, a little too heavy. That is the point, she says.` | Plain iron, a little too heavy. That is the point, she says. | Besi biasa, sedikit terlalu berat. Justru itu intinya, katanya. |
+| `Dodge a feeble rat` | Dodge a feeble rat | Hindari tikus lemah |
+| `You step aside until it tires. You do not raise the shield once.` | You step aside until it tires. You do not raise the shield once. | Kamu terus menghindar hingga ia lelah. Kamu tidak sekali pun mengangkat perisai. |
+| `Weave through the crowded alley` | Weave through the crowded alley | Meliuk di gang yang ramai |
+| `Market day. You cross the alley without touching anyone.` | Market day. You cross the alley without touching anyone. | Hari pasar. Kamu menyeberangi gang tanpa menyentuh siapa pun. |
+| `Block a feeble treant` | Block a feeble treant | Tangkis treant lemah |
+| `Its branches thud off the shield. You keep your feet planted.` | Its branches thud off the shield. You keep your feet planted. | Dahan-dahannya berdebam memantul dari perisai. Kakimu tetap tertanam. |
+| `Hold against a dire treant` | Hold against a dire treant | Bertahan melawan treant mengerikan |
+| `Block, step, block. You stop thinking about which comes next.` | Block, step, block. You stop thinking about which comes next. | Tangkis, melangkah, tangkis. Kamu berhenti memikirkan apa yang datang berikutnya. |
+| `You take every hit meant for the party and none meant for you.` | You take every hit meant for the party and none meant for you. | Kamu menerima setiap serangan yang ditujukan ke kelompok dan tak satu pun yang ditujukan kepadamu. |
+| `Gather bark for shield padding` | Gather bark for shield padding | Kumpulkan kulit kayu untuk bantalan perisai |
+| `Soft bark, layered thick. Your arm will thank you.` | Soft bark, layered thick. Your arm will thank you. | Kulit kayu lunak, berlapis tebal. Lenganmu akan berterima kasih. |
+| `Send the shieldwright word` | Send the shieldwright word | Kirim kabar ke pembuat perisai |
+| `You report the treant fights. She replies with a single word: 'Again.'` | You report the treant fights. She replies with a single word: 'Again.' | Kamu melaporkan pertarungan melawan treant. Ia membalas dengan satu kata: 'Lagi.' |
+| `You read every swing before it comes.` | You read every swing before it comes. | Kamu membaca setiap ayunan sebelum datang. |
+| `Reinforce the shield rim` | Reinforce the shield rim | Perkuat tepi perisai |
+| `The smith adds a band of steel to the rim. It feels finished now.` | The smith adds a band of steel to the rim. It feels finished now. | Pandai besi menambahkan sabuk baja pada tepinya. Kini rasanya sudah lengkap. |
+| `Outlast a fell orc` | Outlast a fell orc | Bertahan lebih lama dari orc bengis |
+| `It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim.` | It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim. | Ia terus mengayun hingga nyaris tak bisa berdiri. Kamu tak pernah berhenti bergerak. Sang pembuat perisai memberimu sebuah pegas dan pengganjal. |
+| `Mastery: Fish and Cook` | Mastery: Fish and Cook | Penguasaan: Memancing dan Masak |
+| `A fishwife who fed half the coast wants your first catch cooked right.` | A fishwife who fed half the coast wants your first catch cooked right. | Seorang penjual ikan yang dulu memberi makan separuh pesisir ingin tangkapan pertamamu dimasak dengan benar. |
+| `Meet the old fishwife` | Meet the old fishwife | Temui penjual ikan tua |
+| `'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.'` | 'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.' | 'Ikan besar, wajan mewah. Kapan terakhir kali kamu memasak udang dengan benar? Pergi dan cari tahu.' |
+| `Cook over an open spit` | Cook over an open spit | Masak di atas panggangan terbuka |
+| `No kitchen, no spices. You keep the fire low and the fish whole.` | No kitchen, no spices. You keep the fire low and the fish whole. | Tanpa dapur, tanpa rempah. Kamu menjaga api tetap kecil dan ikannya tetap utuh. |
+| `Fish the shallow pool` | Fish the shallow pool | Memancing di kolam dangkal |
+| `You catch a shrimp and remember the first one you ever landed.` | You catch a shrimp and remember the first one you ever landed. | Kamu menangkap udang dan teringat udang pertama yang pernah kamu dapatkan. |
+| `Fish a quiet stream` | Fish a quiet stream | Memancing di sungai kecil yang tenang |
+| `The stream is slow and so are you. You stop rushing the line.` | The stream is slow and so are you. You stop rushing the line. | Alirannya lambat, begitu pula kamu. Kamu berhenti terburu-buru menarik tali pancing. |
+| `Grill your catch plainly` | Grill your catch plainly | Panggang tangkapanmu apa adanya |
+| `Salt and smoke. The fishwife would approve.` | Salt and smoke. The fishwife would approve. | Garam dan asap. Sang penjual ikan pasti setuju. |
+| `Try the far pool` | Try the far pool | Coba kolam yang jauh |
+| `A perch bites on the third cast. You let it run before you reel.` | A perch bites on the third cast. You let it run before you reel. | Seekor ikan perch menyambar pada lemparan ketiga. Kamu membiarkannya berlari sebelum menggulung. |
+| `Fish the cold stream` | Fish the cold stream | Memancing di sungai yang dingin |
+| `Cold hands, quick fish. You learn to strike faster.` | Cold hands, quick fish. You learn to strike faster. | Tangan dingin, ikan gesit. Kamu belajar menyentak lebih cepat. |
+| `Cook at a mountain hearth` | Cook at a mountain hearth | Masak di perapian gunung |
+| `The hearth cook shows you how to keep fish from drying out.` | The hearth cook shows you how to keep fish from drying out. | Juru masak perapian menunjukkan cara menjaga ikan agar tidak kering. |
+| `Feed the mill workers` | Feed the mill workers | Beri makan para pekerja penggilingan |
+| `You cook for a crew of twenty. Nothing comes back burned.` | You cook for a crew of twenty. Nothing comes back burned. | Kamu memasak untuk dua puluh pekerja. Tak ada yang kembali gosong. |
+| `Cook on the tidefield spit` | Cook on the tidefield spit | Masak di panggangan Tidefield |
+| `The fishwife's cousin tastes your work and sends word up the coast.` | The fishwife's cousin tastes your work and sends word up the coast. | Sepupu sang penjual ikan mencicipi masakanmu dan mengirim kabar ke sepanjang pesisir. |
+| `Cook one perfect fillet` | Cook one perfect fillet | Masak satu fillet sempurna |
+| `One fillet, cooked through, still soft. You eat it yourself.` | One fillet, cooked through, still soft. You eat it yourself. | Satu fillet, matang merata, tetap lembut. Kamu memakannya sendiri. |
+| `Land a catch at the seaside` | Land a catch at the seaside | Dapatkan tangkapan di tepi laut |
+| `The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.'` | The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.' | Ikan laut dalam melawan keras dan kamu berhasil menariknya. Sang penjual ikan mengirimkan joran dan wajan. 'Sekarang kamu pemancing dan juru masak.' |
+| `Mastery: Mine and Smith` | Mastery: Mine and Smith | Penguasaan: Tambang dan Tempa |
+| `A forge master wants proof you still respect plain copper and tin.` | A forge master wants proof you still respect plain copper and tin. | Seorang ahli tempa ingin bukti bahwa kamu masih menghargai tembaga dan timah biasa. |
+| `Meet the forge master` | Meet the forge master | Temui ahli tempa |
+| `'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.'` | 'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.' | 'Sekarang kamu hanya menyentuh bijih langka. Tembaga membangun setiap balairung di negeri ini. Pergi dan dapatkan lagi.' |
+| `Work a copper bar` | Work a copper bar | Olah batangan tembaga |
+| `You fold the bar slowly. It rings clean.` | You fold the bar slowly. It rings clean. | Kamu melipat batangan itu perlahan. Bunyinya berdenting jernih. |
+| `Mine at the old quarry` | Mine at the old quarry | Menambang di tambang batu lama |
+| `Copper and tin, by hand. Your swing settles into an old rhythm.` | Copper and tin, by hand. Your swing settles into an old rhythm. | Tembaga dan timah, dengan tangan. Ayunanmu kembali ke irama lama. |
+| `Smelt your first batch` | Smelt your first batch | Lebur kumpulan pertamamu |
+| `You keep the heat even. No slag, no cracks.` | You keep the heat even. No slag, no cracks. | Kamu menjaga panas tetap merata. Tanpa terak, tanpa retakan. |
+| `Follow a shallow vein` | Follow a shallow vein | Ikuti urat bijih yang dangkal |
+| `The vein is thin but honest. You take only what it gives.` | The vein is thin but honest. You take only what it gives. | Uratnya tipis tapi jujur. Kamu hanya mengambil apa yang ia berikan. |
+| `Quarry stone and ore` | Quarry stone and ore | Gali batu dan bijih |
+| `Wind cuts through the quarry. You work until the cart is full.` | Wind cuts through the quarry. You work until the cart is full. | Angin menerpa tambang batu. Kamu bekerja hingga gerobak penuh. |
+| `Chip out the iron seam` | Chip out the iron seam | Pahat lapisan besi |
+| `The iron comes loose in good clean chunks.` | The iron comes loose in good clean chunks. | Besinya terlepas dalam bongkahan yang bagus dan bersih. |
+| `Forge a plain nail` | Forge a plain nail | Tempa paku biasa |
+| `A nail is the hardest thing to forge well, the forge master said.` | A nail is the hardest thing to forge well, the forge master said. | Paku adalah hal tersulit untuk ditempa dengan baik, kata sang ahli tempa. |
+| `Mine beside the old camp` | Mine beside the old camp | Menambang di samping perkemahan lama |
+| `Old miners left their marks here. You add yours under theirs.` | Old miners left their marks here. You add yours under theirs. | Para penambang dahulu meninggalkan tanda di sini. Kamu menambahkan tandamu di bawah tanda mereka. |
+| `Temper a beginner blade` | Temper a beginner blade | Sepuh bilah pemula |
+| `You quench it once and it holds an edge.` | You quench it once and it holds an edge. | Kamu mencelupnya sekali dan ketajamannya bertahan. |
+| `Load a cart of ore` | Load a cart of ore | Muat segerobak bijih |
+| `You load and haul. Your back remembers its first summer here.` | You load and haul. Your back remembers its first summer here. | Kamu memuat dan mengangkut. Punggungmu teringat musim panas pertamanya di sini. |
+| `Mine the deepest shaft` | Mine the deepest shaft | Menambang di lubang terdalam |
+| `You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.'` | You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.' | Kamu membawa naik bijih dari kedalaman tanpa segores luka. Sang ahli tempa mengirimkan beliung dan palu. 'Kembali ke tempat kamu memulai, dan jauh melampauinya.' |
+| `Mastery: Forage and Craft` | Mastery: Forage and Craft | Penguasaan: Ramu dan Kerajinan |
+| `A weaver asks you to gather and work the simplest materials again.` | A weaver asks you to gather and work the simplest materials again. | Seorang penenun memintamu mengumpulkan dan mengolah bahan paling sederhana lagi. |
+| `Meet the weaver` | Meet the weaver | Temui penenun |
+| `'You work dragonhide and starspun now. Show me you can still make good strips from leather.'` | 'You work dragonhide and starspun now. Show me you can still make good strips from leather.' | 'Sekarang kamu mengolah kulit naga dan benang bintang. Tunjukkan bahwa kamu masih bisa membuat tali kulit yang bagus.' |
+| `Cut leather into strips` | Cut leather into strips | Potong kulit menjadi tali |
+| `Even width, no ragged ends. The weaver checks every one.` | Even width, no ragged ends. The weaver checks every one. | Lebar rata, ujung tak berserabut. Sang penenun memeriksa setiap helainya. |
+| `Gather from the wild patch` | Gather from the wild patch | Kumpulkan dari petak liar |
+| `You pick slowly and leave the young growth alone.` | You pick slowly and leave the young growth alone. | Kamu memetik perlahan dan membiarkan tunas muda. |
+| `Forage the woodland patch` | Forage the woodland patch | Meramu di petak hutan |
+| `Linen grows thick here. You fill a sack before noon.` | Linen grows thick here. You fill a sack before noon. | Linen tumbuh lebat di sini. Kamu mengisi sekarung sebelum tengah hari. |
+| `Search the fern thicket` | Search the fern thicket | Telusuri semak pakis |
+| `Silk moths nest in the ferns. You take only the spent cocoons.` | Silk moths nest in the ferns. You take only the spent cocoons. | Ngengat sutra bersarang di pakis. Kamu hanya mengambil kepompong yang sudah kosong. |
+| `Gather on the rocky patch` | Gather on the rocky patch | Kumpulkan di petak berbatu |
+| `Hardy plants, tough fibres. Good for rope.` | Hardy plants, tough fibres. Good for rope. | Tanaman tangguh, serat kuat. Bagus untuk tali. |
+| `Spin linen into thread` | Spin linen into thread | Pintal linen menjadi benang |
+| `You spin until the thread runs fine and even.` | You spin until the thread runs fine and even. | Kamu memintal hingga benangnya halus dan rata. |
+| `Forage the hillside patch` | Forage the hillside patch | Meramu di petak lereng bukit |
+| `You know which leaves to take by touch now.` | You know which leaves to take by touch now. | Kini kamu tahu daun mana yang harus diambil hanya dengan sentuhan. |
+| `Gather hides from the thicket` | Gather hides from the thicket | Kumpulkan kulit hewan dari semak belukar |
+| `A hunter left hides to cure. You trade a day of work for them.` | A hunter left hides to cure. You trade a day of work for them. | Seorang pemburu meninggalkan kulit untuk disamak. Kamu menukarnya dengan kerja sehari. |
+| `Forage the fort patch` | Forage the fort patch | Meramu di petak benteng |
+| `The fort guards point you to a patch nobody else bothers with.` | The fort guards point you to a patch nobody else bothers with. | Para penjaga benteng menunjukkan petak yang tak dihiraukan orang lain. |
+| `Craft a simple satchel` | Craft a simple satchel | Buat tas selempang sederhana |
+| `Strips, thread and a buckle. It is the best thing you have made in years.` | Strips, thread and a buckle. It is the best thing you have made in years. | Tali kulit, benang, dan gesper. Inilah buatan terbaikmu selama bertahun-tahun. |
+| `Forage the deep wilds` | Forage the deep wilds | Meramu di alam liar terdalam |
+| `You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel.` | You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel. | Kamu kembali dari alam liar dengan bahan langka dan tangan yang mantap. Sang penenun mengirimkan sabit dan pahat. |
+| `Mastery: Invoke and Imbue` | Mastery: Invoke and Imbue | Penguasaan: Panggil dan Serapkan |
+| `An old enchanter wants your first dim essences drawn and charged again.` | An old enchanter wants your first dim essences drawn and charged again. | Seorang ahli pesona tua ingin esens redup pertamamu ditarik dan diisi lagi. |
+| `Meet the old enchanter` | Meet the old enchanter | Temui ahli pesona tua |
+| `'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.'` | 'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.' | 'Bercahaya, surgawi, ilahi. Kapan terakhir kali kamu mengisi esens redup? Mulailah dari situ.' |
+| `Charge a dim essence` | Charge a dim essence | Isi esens redup |
+| `It takes almost nothing to charge. That is what makes it hard.` | It takes almost nothing to charge. That is what makes it hard. | Hampir tak butuh apa-apa untuk mengisinya. Justru itu yang membuatnya sulit. |
+| `The fragment hums faintly. You draw from it without cracking it.` | The fragment hums faintly. You draw from it without cracking it. | Serpihan itu berdengung samar. Kamu menariknya tanpa membuatnya retak. |
+| `Charge at the glowing font` | Charge at the glowing font | Isi di sumber bercahaya |
+| `You feed the font slowly. It answers in kind.` | You feed the font slowly. It answers in kind. | Kamu mengalirkan energi ke sumber itu perlahan. Ia membalas setimpal. |
+| `Listen at the river fragment` | Listen at the river fragment | Dengarkan di serpihan sungai |
+| `Faint essence, carried on the river wind.` | Faint essence, carried on the river wind. | Esens samar, terbawa angin sungai. |
+| `Charge a faint essence` | Charge a faint essence | Isi esens samar |
+| `Clean light. The enchanter would keep this one.` | Clean light. The enchanter would keep this one. | Cahaya jernih. Sang ahli pesona pasti menyimpan yang ini. |
+| `Trace the ruined sigil` | Trace the ruined sigil | Telusuri sigil yang rusak |
+| `The old lines still hold power. You trace them without breaking them.` | The old lines still hold power. You trace them without breaking them. | Garis-garis lama itu masih menyimpan kekuatan. Kamu menelusurinya tanpa memutusnya. |
+| `Charge essence at the sigil` | Charge essence at the sigil | Isi esens di sigil |
+| `You charge three in a row without a flicker.` | You charge three in a row without a flicker. | Kamu mengisi tiga berturut-turut tanpa satu kedipan pun. |
+| `Draw from the crystal` | Draw from the crystal | Tarik dari kristal |
+| `The crystal gives more than you ask. You take only what you need.` | The crystal gives more than you ask. You take only what you need. | Kristal itu memberi lebih dari yang kamu minta. Kamu hanya mengambil yang kamu butuhkan. |
+| `Draw from the desert fragment` | Draw from the desert fragment | Tarik dari serpihan gurun |
+| `Dry air, sharp essence. Your hands stay steady.` | Dry air, sharp essence. Your hands stay steady. | Udara kering, esens tajam. Tanganmu tetap mantap. |
+| `Charge in the desert heat` | Charge in the desert heat | Isi di tengah panas gurun |
+| `The heat fights you. You win by going slower.` | The heat fights you. You win by going slower. | Panasnya melawanmu. Kamu menang dengan bergerak lebih lambat. |
+| `Draw deep from the rift` | Draw deep from the rift | Tarik dalam-dalam dari rekahan |
+| `The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism.` | The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism. | Rekahan itu mencurahkan esens terang dan kamu menampung semuanya. Sang ahli pesona mengirimkan konduit dan prisma. |
+| `Mastery: Farm and Brew` | Mastery: Farm and Brew | Penguasaan: Bertani dan Seduh |
+| `A herbalist wants you to grow and brew the plainest remedies again.` | A herbalist wants you to grow and brew the plainest remedies again. | Seorang ahli herba ingin kamu menanam dan meracik obat paling sederhana lagi. |
+| `Meet the herbalist` | Meet the herbalist | Temui ahli herba |
+| `'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.'` | 'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.' | 'Bunga langka, tonik mewah. Masih bisakah kamu menanam akar skirmish dan menyeduhnya dengan bersih? Tunjukkan padaku.' |
+| `Plant skirmish root` | Plant skirmish root | Tanam akar skirmish |
+| `You plant in straight rows and water at dusk.` | You plant in straight rows and water at dusk. | Kamu menanam dalam barisan lurus dan menyiram saat senja. |
+| `Weed the farm plot` | Weed the farm plot | Siangi petak kebun |
+| `Weeds come up easy after rain. You clear the whole plot.` | Weeds come up easy after rain. You clear the whole plot. | Gulma mudah tercabut setelah hujan. Kamu membersihkan seluruh petak. |
+| `Brew a simple tonic` | Brew a simple tonic | Seduh tonik sederhana |
+| `Root, water and patience. It comes out clear.` | Root, water and patience. It comes out clear. | Akar, air, dan kesabaran. Hasilnya jernih. |
+| `Harvest the hillside plot` | Harvest the hillside plot | Panen petak lereng bukit |
+| `The hill soil is thin. You coax a small harvest out of it.` | The hill soil is thin. You coax a small harvest out of it. | Tanah bukit itu tipis. Dengan sabar kamu memetik panen kecil darinya. |
+| `Grow herbs in cold soil` | Grow herbs in cold soil | Tanam herba di tanah dingin |
+| `Frost-hardy herbs, slow to grow and worth the wait.` | Frost-hardy herbs, slow to grow and worth the wait. | Herba tahan beku, lambat tumbuh dan sepadan dengan penantiannya. |
+| `Brew at the fern cauldron` | Brew at the fern cauldron | Seduh di kuali pakis |
+| `You let it simmer twice as long as you used to. It is better for it.` | You let it simmer twice as long as you used to. It is better for it. | Kamu membiarkannya mendidih pelan dua kali lebih lama dari biasanya. Hasilnya jadi lebih baik. |
+| `Brew a calming draught` | Brew a calming draught | Seduh ramuan penenang |
+| `The draught settles your own nerves before anyone else's.` | The draught settles your own nerves before anyone else's. | Ramuan itu menenangkan sarafmu sendiri sebelum saraf orang lain. |
+| `Brew for the mountain watch` | Brew for the mountain watch | Seduh untuk penjaga gunung |
+| `The watch drinks it cold. Nobody complains.` | The watch drinks it cold. Nobody complains. | Para penjaga meminumnya dingin. Tak ada yang mengeluh. |
+| `Tend the pine plot` | Tend the pine plot | Rawat petak pinus |
+| `Needles in the soil, sharp herbs in the rows.` | Needles in the soil, sharp herbs in the rows. | Daun jarum di tanah, herba tajam di barisan. |
+| `Brew one last plain remedy` | Brew one last plain remedy | Seduh satu obat sederhana terakhir |
+| `The herbalist tastes it and nods once.` | The herbalist tastes it and nods once. | Sang ahli herba mencicipinya dan mengangguk sekali. |
+| `Brew a master tonic` | Brew a master tonic | Seduh tonik tingkat ahli |
+| `You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar.` | You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar. | Kamu menyeduh tonik yang tak pernah berhasil dibuat sang apoteker. Sang ahli herba mengirimkan sekop tangan dan lumpang. |
+| `Mastery: Plunder and Barter` | Mastery: Plunder and Barter | Penguasaan: Jarah dan Tawar-menawar |
+| `A retired fence wants to see you work the small markets honestly again.` | A retired fence wants to see you work the small markets honestly again. | Seorang penadah pensiunan ingin melihatmu berdagang di pasar kecil dengan jujur lagi. |
+| `Meet the retired fence` | Meet the retired fence | Temui penadah pensiunan |
+| `'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.'` | 'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.' | 'Kamu merampok brankas dan memborong pasar. Pergilah mencopet, lalu jual hasilnya dengan harga wajar.' |
+| `Haggle at the small stalls` | Haggle at the small stalls | Tawar-menawar di kios kecil |
+| `You argue a copper off a loaf of bread. The baker laughs.` | You argue a copper off a loaf of bread. The baker laughs. | Kamu menawar sekeping tembaga dari harga sepotong roti. Sang tukang roti tertawa. |
+| `Lift a purse in the alley` | Lift a purse in the alley | Copet dompet di gang |
+| `Small purse, quick hands. Nobody notices.` | Small purse, quick hands. Nobody notices. | Dompet kecil, tangan cekatan. Tak ada yang sadar. |
+| `Pick a lock in the alley` | Pick a lock in the alley | Congkel gembok di gang |
+| `An old padlock. You open it with a bent nail.` | An old padlock. You open it with a bent nail. | Gembok tua. Kamu membukanya dengan paku bengkok. |
+| `Shadow a merchant` | Shadow a merchant | Buntuti seorang pedagang |
+| `You follow him for an hour and learn where he keeps his coin.` | You follow him for an hour and learn where he keeps his coin. | Kamu mengikutinya selama sejam dan tahu di mana ia menyimpan uangnya. |
+| `Sell a stolen trinket` | Sell a stolen trinket | Jual pernak-pernik curian |
+| `You sell it back to its owner for a fair price. The fence would approve.` | You sell it back to its owner for a fair price. The fence would approve. | Kamu menjualnya kembali ke pemiliknya dengan harga wajar. Sang penadah pasti setuju. |
+| `Slip past the watch` | Slip past the watch | Menyelinap melewati penjaga |
+| `The watch never looks up from their dice.` | The watch never looks up from their dice. | Para penjaga tak sekali pun mengalihkan pandangan dari dadu mereka. |
+| `Trade at the dockside stalls` | Trade at the dockside stalls | Berdagang di kios dermaga |
+| `Fish for rope, rope for coin. You come out ahead.` | Fish for rope, rope for coin. You come out ahead. | Ikan ditukar tali, tali ditukar koin. Kamu untung. |
+| `Work the dock alley` | Work the dock alley | Beraksi di gang dermaga |
+| `Sailors keep loose coin. You keep some of it.` | Sailors keep loose coin. You keep some of it. | Para pelaut menyimpan koin receh. Kamu mengambil sebagian. |
+| `Lift a guard captain's keys` | Lift a guard captain's keys | Copet kunci kapten penjaga |
+| `You borrow them and return them before he notices.` | You borrow them and return them before he notices. | Kamu meminjamnya dan mengembalikannya sebelum ia sadar. |
+| `Fence goods in the cold alley` | Fence goods in the cold alley | Jual barang curian di gang dingin |
+| `The buyer pays in full and asks no questions.` | The buyer pays in full and asks no questions. | Pembeli membayar penuh dan tak bertanya apa pun. |
+| `Strike a deal at the pirate market` | Strike a deal at the pirate market | Buat kesepakatan di pasar bajak laut |
+| `You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales.` | You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales. | Kamu menawar dengan para bajak laut dan pergi membawa barang terbaik mereka. Sang penadah mengirimkan alat pembobol kunci dan seperangkat timbangan. |
+| `Mastery: Bard and Discover` | Mastery: Bard and Discover | Penguasaan: Bard dan Temukan |
+| `A wandering minstrel wants new songs from the oldest campfires.` | A wandering minstrel wants new songs from the oldest campfires. | Seorang penyanyi kelana ingin lagu baru dari api unggun tertua. |
+| `Meet the wandering minstrel` | Meet the wandering minstrel | Temui penyanyi kelana |
+| `'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.'` | 'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.' | 'Setiap bard bernyanyi di aula besar. Aku ingin lagu dari api unggun, dan dari tempat yang tak dipetakan siapa pun.' |
+| `Sing at the campfire` | Sing at the campfire | Bernyanyi di api unggun |
+| `Two travellers and a dog. You play until they fall asleep.` | Two travellers and a dog. You play until they fall asleep. | Dua pengembara dan seekor anjing. Kamu bermain musik hingga mereka tertidur. |
+| `Survey the nearby hills` | Survey the nearby hills | Survei perbukitan terdekat |
+| `You find an old marker stone and copy its carving.` | You find an old marker stone and copy its carving. | Kamu menemukan batu penanda tua dan menyalin ukirannya. |
+| `Map the frozen ridge` | Map the frozen ridge | Petakan punggung bukit beku |
+| `Your map is rough but true. The minstrel likes rough.` | Your map is rough but true. The minstrel likes rough. | Petamu kasar tapi akurat. Sang penyanyi kelana suka yang kasar. |
+| `Swap songs with the guards` | Swap songs with the guards | Bertukar lagu dengan para penjaga |
+| `The guards know a verse you have never heard. You trade one of yours for it.` | The guards know a verse you have never heard. You trade one of yours for it. | Para penjaga tahu satu bait yang belum pernah kamu dengar. Kamu menukarnya dengan salah satu baitmu. |
+| `Search the old prospect` | Search the old prospect | Telusuri lokasi prospek lama |
+| `Under loose stones you find a tin cup with initials scratched in.` | Under loose stones you find a tin cup with initials scratched in. | Di bawah batu-batu lepas kamu menemukan cangkir timah dengan inisial tergores. |
+| `Scout the frozen pass` | Scout the frozen pass | Intai celah gunung yang beku |
+| `Wind has carved the pass into a strange shape. You sketch it.` | Wind has carved the pass into a strange shape. You sketch it. | Angin telah memahat celah itu menjadi bentuk yang aneh. Kamu membuat sketsanya. |
+| `Play for the frost watch` | Play for the frost watch | Bermain musik untuk para penjaga es |
+| `The watch claps with mittens on. It sounds like rain.` | The watch claps with mittens on. It sounds like rain. | Para penjaga bertepuk tangan dengan sarung tangan tebal. Suaranya seperti hujan. |
+| `Perform in the old tavern` | Perform in the old tavern | Tampil di kedai tua |
+| `You play the guards' verse. The tavern sings it back.` | You play the guards' verse. The tavern sings it back. | Kamu memainkan bait para penjaga. Seisi kedai ikut menyanyikannya. |
+| `Write a song by the fire` | Write a song by the fire | Tulis lagu di dekat api |
+| `You write about the tin cup and the carved pass.` | You write about the tin cup and the carved pass. | Kamu menulis tentang cangkir timah dan celah yang terpahat. |
+| `Find the lost marker` | Find the lost marker | Temukan penanda yang hilang |
+| `The last marker is half buried. You dig it out and read it.` | The last marker is half buried. You dig it out and read it. | Penanda terakhir setengah terkubur. Kamu menggalinya dan membacanya. |
+| `Chart the far reaches` | Chart the far reaches | Petakan wilayah terjauh |
+| `You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens.` | You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens. | Kamu memetakan wilayah terjauh dan menyelaraskan lagumu dengan peta itu. Sang penyanyi kelana mengirimkan alat musik dan lensa. |
+| `Mastery: Vigor and Slay` | Mastery: Vigor and Slay | Penguasaan: Kebugaran dan Bantai |
+| `A slayer captain wants your stamina and your first kills done right again.` | A slayer captain wants your stamina and your first kills done right again. | Seorang kapten pembantai ingin stamina dan buruan pertamamu dikerjakan dengan benar lagi. |
+| `Report to the slayer captain` | Report to the slayer captain | Melapor ke kapten pembantai |
+| `'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?'` | 'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?' | 'Kamu memburu makhluk terburuk yang hidup. Baiklah. Masih bisakah kamu berlari di lapangan dan membunuh golem dengan benar?' |
+| `Run the training yard` | Run the training yard | Berlari di lapangan latihan |
+| `Ten laps, carrying a sandbag. You finish the last one sprinting.` | Ten laps, carrying a sandbag. You finish the last one sprinting. | Sepuluh putaran sambil membawa karung pasir. Kamu menyelesaikan putaran terakhir sambil berlari kencang. |
+| `Slay a feeble golem` | Slay a feeble golem | Bantai golem lemah |
+| `You find the crack in its chest and strike there.` | You find the crack in its chest and strike there. | Kamu menemukan retakan di dadanya dan menyerang di situ. |
+| `Drill in the frozen yard` | Drill in the frozen yard | Berlatih di lapangan beku |
+| `Ice underfoot. You learn to run without trusting the ground.` | Ice underfoot. You learn to run without trusting the ground. | Es di bawah kaki. Kamu belajar berlari tanpa memercayai tanah. |
+| `Slay a dire golem` | Slay a dire golem | Bantai golem mengerikan |
+| `Same crack, bigger golem. It falls the same way.` | Same crack, bigger golem. It falls the same way. | Retakan yang sama, golem yang lebih besar. Ia tumbang dengan cara yang sama. |
+| `Climb the frost wall` | Climb the frost wall | Panjat tembok beku |
+| `Hand over hand, no rope. Your arms burn and hold.` | Hand over hand, no rope. Your arms burn and hold. | Tangan demi tangan, tanpa tali. Lenganmu terasa terbakar namun bertahan. |
+| `Sprint the mountain yard` | Sprint the mountain yard | Berlari kencang di lapangan gunung |
+| `Thin air, long sprints. Your breath stays even.` | Thin air, long sprints. Your breath stays even. | Udara tipis, lari cepat yang panjang. Napasmu tetap teratur. |
+| `Slay a dire skeleton` | Slay a dire skeleton | Bantai kerangka mengerikan |
+| `You break it at the spine before it can rise.` | You break it at the spine before it can rise. | Kamu mematahkan tulang punggungnya sebelum ia sempat bangkit. |
+| `Haul stone across the yard` | Haul stone across the yard | Angkut batu melintasi lapangan |
+| `You carry stones until the yard master runs out of them.` | You carry stones until the yard master runs out of them. | Kamu mengangkut batu hingga sang kepala lapangan kehabisan batu. |
+| `Run the breakwood course` | Run the breakwood course | Jalani lintasan Breakwood |
+| `Logs, ditches, walls. You clear it twice.` | Logs, ditches, walls. You clear it twice. | Batang kayu, parit, tembok. Kamu menuntaskannya dua kali. |
+| `Slay a dire treant` | Slay a dire treant | Bantai treant mengerikan |
+| `You take it apart one branch at a time.` | You take it apart one branch at a time. | Kamu mencabiknya satu dahan demi satu dahan. |
+| `Climb to the pinnacle` | Climb to the pinnacle | Panjat hingga ke puncak |
+| `You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.'` | You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.' | Kamu mencapai puncak tanpa berhenti. Sang kapten mengirimkan sepatu latihan dan pisau penyiangan. 'Siap memburu apa saja.' |
+| `Mastery: Luck and Alms` | Mastery: Luck and Alms | Penguasaan: Keberuntungan dan Sedekah |
+| `An almoner believes fortune follows the generous. Spend a day proving it.` | An almoner believes fortune follows the generous. Spend a day proving it. | Seorang pembagi sedekah percaya keberuntungan mengikuti orang yang dermawan. Habiskan sehari untuk membuktikannya. |
+| `Meet the almoner` | Meet the almoner | Temui pembagi sedekah |
+| `'Give freely and luck finds you. Most people never test it. Come and test it.'` | 'Give freely and luck finds you. Most people never test it. Come and test it.' | 'Berilah dengan ikhlas dan keberuntungan akan menemukanmu. Kebanyakan orang tak pernah mengujinya. Ayo kita uji.' |
+| `Feed a hungry child` | Feed a hungry child | Beri makan anak yang lapar |
+| `You buy bread for a child in the alley. On the way out you find a coin.` | You buy bread for a child in the alley. On the way out you find a coin. | Kamu membelikan roti untuk seorang anak di gang. Saat keluar kamu menemukan sekeping koin. |
+| `Pay a stranger's debt` | Pay a stranger's debt | Lunasi utang orang asing |
+| `The stallholder is stunned. Then she gives you a lucky charm she carved.` | The stallholder is stunned. Then she gives you a lucky charm she carved. | Pemilik kios itu tercengang. Lalu ia memberimu jimat keberuntungan yang diukirnya sendiri. |
+| `Buy a smith his tools back` | Buy a smith his tools back | Tebus kembali perkakas pandai besi |
+| `The smith had pawned his hammer. You buy it back for him.` | The smith had pawned his hammer. You buy it back for him. | Pandai besi itu telah menggadaikan palunya. Kamu menebusnya untuknya. |
+| `Donate to the town chest` | Donate to the town chest | Berdonasi ke kas kota |
+| `The banker counts your gift twice to be sure.` | The banker counts your gift twice to be sure. | Sang bankir menghitung sumbanganmu dua kali untuk memastikan. |
+| `Leave coin for the wardens` | Leave coin for the wardens | Tinggalkan koin untuk para pengawas |
+| `The wardens are grateful. One of them gives you a tip about a dice game.` | The wardens are grateful. One of them gives you a tip about a dice game. | Para pengawas berterima kasih. Salah satu dari mereka memberimu bocoran tentang permainan dadu. |
+| `Play dice with the wardens` | Play dice with the wardens | Main dadu dengan para pengawas |
+| `You win three rolls in a row and give the winnings back.` | You win three rolls in a row and give the winnings back. | Kamu menang tiga lemparan berturut-turut dan mengembalikan kemenangannya. |
+| `Plant a clover for luck` | Plant a clover for luck | Tanam semanggi pembawa keberuntungan |
+| `You find a four-leaf clover while planting. The almoner is not surprised.` | You find a four-leaf clover while planting. The almoner is not surprised. | Kamu menemukan semanggi berdaun empat saat menanam. Sang pembagi sedekah tidak terkejut. |
+| `Fund the village well` | Fund the village well | Danai sumur desa |
+| `The village will have clean water by spring.` | The village will have clean water by spring. | Desa itu akan punya air bersih saat musim semi tiba. |
+| `Pay the dockhands' wages` | Pay the dockhands' wages | Bayar upah para buruh dermaga |
+| `The harbour master had run short. The dockhands cheer.` | The harbour master had run short. The dockhands cheer. | Kepala pelabuhan kekurangan dana. Para buruh dermaga bersorak. |
+| `Buy out a poor trader` | Buy out a poor trader | Borong dagangan pedagang miskin |
+| `You buy her last fish at full price. She swears it will bring you luck.` | You buy her last fish at full price. She swears it will bring you luck. | Kamu membeli ikan terakhirnya dengan harga penuh. Ia bersumpah itu akan membawakanmu keberuntungan. |
+| `Give at the great market` | Give at the great market | Bersedekah di pasar besar |
+| `You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer.` | You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer. | Kamu menyedekahkan sekantong uang di pasar dan memenangkan undian saat keluar. Sang pembagi sedekah mengirimkan jimat dan pedupaan. |
+| `Mastery: Delve and Fortify` | Mastery: Delve and Fortify | Penguasaan: Gali dan Perkuat |
+| `A raid veteran wants every dungeon and Fortress wave run from the start.` | A raid veteran wants every dungeon and Fortress wave run from the start. | Seorang veteran raid ingin setiap ruang bawah tanah dan gelombang Gauntlet dijalani lagi dari awal. |
+| `Meet the raid veteran` | Meet the raid veteran | Temui veteran raid |
+| `'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.'` | 'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.' | 'Kamu menjalani raid tersulit dengan mata tertutup. Bukalah. Mulai dari ruang bawah tanah pertama.' |
+| `Hear the delvers' stories` | Hear the delvers' stories | Dengarkan kisah para penjelajah |
+| `Old delvers trade stories of the first dungeon. You learn a route you never knew.` | Old delvers trade stories of the first dungeon. You learn a route you never knew. | Para penjelajah tua bertukar kisah tentang ruang bawah tanah pertama. Kamu mempelajari rute yang tak pernah kamu ketahui. |
+| `You clear it using the old route. It is faster than yours.` | You clear it using the old route. It is faster than yours. | Kamu menuntaskannya lewat rute lama. Lebih cepat daripada rutemu. |
+| `Hold the Fortress for 20 waves` | Hold the Fortress for 20 waves | Pertahankan Gauntlet selama 20 gelombang |
+| `You hold the walls with plain supplies. Twenty waves, no losses.` | You hold the walls with plain supplies. Twenty waves, no losses. | Kamu mempertahankan tembok dengan perbekalan biasa. Dua puluh gelombang, tanpa korban. |
+| `Restock near the Fortress` | Restock near the Fortress | Isi ulang perbekalan di dekat Gauntlet |
+| `You restock and swap stories with the Fortress crews.` | You restock and swap stories with the Fortress crews. | Kamu mengisi ulang perbekalan dan bertukar cerita dengan para awak Gauntlet. |
+| `Patch your raid gear` | Patch your raid gear | Tambal perlengkapan raid-mu |
+| `Torn straps, cracked buckles. You fix them all yourself.` | Torn straps, cracked buckles. You fix them all yourself. | Tali sobek, gesper retak. Kamu memperbaiki semuanya sendiri. |
+| `You lead the party and let them set the pace.` | You lead the party and let them set the pace. | Kamu memimpin kelompok dan membiarkan mereka menentukan langkah. |
+| `Hold the Fortress for 40 waves` | Hold the Fortress for 40 waves | Pertahankan Gauntlet selama 40 gelombang |
+| `Forty waves. Your deposits never stop.` | Forty waves. Your deposits never stop. | Empat puluh gelombang. Setoranmu tak pernah berhenti. |
+| `Plan the Savage run` | Plan the Savage run | Rencanakan penyerbuan Ruang Bawah Tanah Buas |
+| `The veteran's notes cover every room. You add a few of your own.` | The veteran's notes cover every room. You add a few of your own. | Catatan sang veteran mencakup setiap ruangan. Kamu menambahkan beberapa catatanmu sendiri. |
+| `Clear a Savage Dungeon` | Clear a Savage Dungeon | Selesaikan Ruang Bawah Tanah Buas |
+| `The Savage Dungeon goes the way the notes said it would.` | The Savage Dungeon goes the way the notes said it would. | Ruang Bawah Tanah Buas berjalan persis seperti kata catatan itu. |
+| `Hold the Fortress for 60 waves` | Hold the Fortress for 60 waves | Pertahankan Gauntlet selama 60 gelombang |
+| `Sixty waves. The walls hold because you planned them to.` | Sixty waves. The walls hold because you planned them to. | Enam puluh gelombang. Tembok bertahan karena kamu merencanakannya begitu. |
+| `Clear a Fell Dungeon` | Clear a Fell Dungeon | Selesaikan Ruang Bawah Tanah Bengis |
+| `You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification.` | You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification. | Kamu menuntaskan Ruang Bawah Tanah Bengis dari ruang pertama hingga terakhir. Sang veteran mengirimkan tengkorak dan fortifikasi. |
+| `Gather the masters` | Gather the masters | Kumpulkan para guru |
+| `Harvest the great orchard` | Harvest the great orchard | Panen di kebun buah agung |
+| `The best trees in the land, picked clean and left healthy.` | The best trees in the land, picked clean and left healthy. | Pohon-pohon terbaik di negeri ini, dipetik bersih dan dibiarkan tetap sehat. |
+| `Fish the open sea` | Fish the open sea | Memancing di laut lepas |
+| `You bring in a catch the fishwife would frame.` | You bring in a catch the fishwife would frame. | Kamu membawa pulang tangkapan yang pantas dibingkai oleh sang penjual ikan. |
+| `Draw from the obelisk` | Draw from the obelisk | Tarik dari obelisk |
+| `The obelisk gives freely to someone who asks properly.` | The obelisk gives freely to someone who asks properly. | Obelisk itu memberi dengan murah hati kepada siapa pun yang meminta dengan benar. |
+| `Work the underground` | Work the underground | Beraksi di dunia bawah tanah |
+| `You take what you came for and leave no trace.` | You take what you came for and leave no trace. | Kamu mengambil apa yang kamu cari dan tak meninggalkan jejak. |
+| `Trade at the grand market` | Trade at the grand market | Berdagang di pasar raya |
+| `Every stall gives you its best price.` | Every stall gives you its best price. | Setiap kios memberimu harga terbaiknya. |
+| `Forge at the great foundry` | Forge at the great foundry | Menempa di pengecoran agung |
+| `The foundry's masters stop to watch you work.` | The foundry's masters stop to watch you work. | Para ahli pengecoran berhenti untuk melihatmu bekerja. |
+| `Perform at the royal court` | Perform at the royal court | Tampil di istana kerajaan |
+| `The court stands for your last song.` | The court stands for your last song. | Seisi istana berdiri untuk lagu terakhirmu. |
+| `Craft at the syndicate atelier` | Craft at the syndicate atelier | Berkarya di atelier sindikat |
+| `You craft a piece the atelier keeps on display.` | You craft a piece the atelier keeps on display. | Kamu membuat karya yang dipajang oleh atelier itu. |
+| `Forage the far wilds` | Forage the far wilds | Meramu di alam liar yang jauh |
+| `The wilds give up their rarest growth to you.` | The wilds give up their rarest growth to you. | Alam liar menyerahkan tumbuhan terlangkanya kepadamu. |
+| `Run the long valley` | Run the long valley | Berlari menyusuri lembah panjang |
+| `You run it end to end and keep your breath.` | You run it end to end and keep your breath. | Kamu berlari dari ujung ke ujung dan napasmu tetap terjaga. |
+| `The masters have one more test, at the edges of the world.` | The masters have one more test, at the edges of the world. | Para guru punya satu ujian lagi, di ujung dunia. |
+| `Meet the masters again` | Meet the masters again | Temui para guru lagi |
+| `Forage the deep hollows` | Forage the deep hollows | Meramu di ceruk terdalam |
+| `You find growth down here no forager has named.` | You find growth down here no forager has named. | Di bawah sini kamu menemukan tumbuhan yang belum pernah dinamai peramu mana pun. |
+| `Mine the high ledge` | Mine the high ledge | Menambang di birai tinggi |
+| `Ore from the ledge, brought down without a single slip.` | Ore from the ledge, brought down without a single slip. | Bijih dari birai, dibawa turun tanpa sekali pun tergelincir. |
+| `Fish the eastern coast` | Fish the eastern coast | Memancing di pesisir timur |
+| `You land a fish from water nobody fishes.` | You land a fish from water nobody fishes. | Kamu mendapatkan ikan dari perairan yang tak pernah dipancing siapa pun. |
+| `Chart the ruined coast` | Chart the ruined coast | Petakan pesisir yang hancur |
+| `Your chart corrects three maps the cartographers trusted.` | Your chart corrects three maps the cartographers trusted. | Petamu mengoreksi tiga peta yang dipercaya para kartografer. |
+| `Charge essence at the arc` | Charge essence at the arc | Isi esens di busur listrik |
+| `The arc burns bright and steady in your hands.` | The arc burns bright and steady in your hands. | Busur listrik itu menyala terang dan stabil di tanganmu. |
+| `Cook a feast for the masters` | Cook a feast for the masters | Masak jamuan untuk para guru |
+| `Fifteen masters, one table. Every plate comes back clean.` | Fifteen masters, one table. Every plate comes back clean. | Lima belas guru, satu meja. Setiap piring kembali bersih. |
+| `Draw from the last obelisk` | Draw from the last obelisk | Tarik dari obelisk terakhir |
+| `The obelisk at the end of the world answers you.` | The obelisk at the end of the world answers you. | Obelisk di ujung dunia menjawabmu. |
+| `Play the eastern court` | Play the eastern court | Tampil di istana timur |
+| `The court asks for the campfire songs. You play them all.` | The court asks for the campfire songs. You play them all. | Istana meminta lagu-lagu api unggun. Kamu memainkan semuanya. |
+| `Brew the masters' remedy` | Brew the masters' remedy | Seduh obat para guru |
+| `A remedy built from every plain herb you grew.` | A remedy built from every plain herb you grew. | Obat yang diracik dari setiap herba sederhana yang kamu tanam. |
+| `Bargain with the pirate lords` | Bargain with the pirate lords | Tawar-menawar dengan para raja bajak laut |
+| `The pirate lords pay you to leave.` | The pirate lords pay you to leave. | Para raja bajak laut membayarmu untuk pergi. |
+| `Clear an Ancient Dungeon` | Clear an Ancient Dungeon | Selesaikan Ruang Bawah Tanah Purba |
+| `The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.'` | The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.' | Para guru menunggu di ruang bawah tanah tertua. Mereka memberimu glob kedua dan sebuah lentera. 'Sekarang tak ada lagi yang perlu kamu buktikan.' |
+| `[Q1] Enchanted Rod` | [Q1] Enchanted Rod | [Q1] Joran tersihir |
+| `[Q1] Enchanted Pickaxe` | [Q1] Enchanted Pickaxe | [Q1] Beliung tersihir |
+| `[Q1] Enchanted Sickle` | [Q1] Enchanted Sickle | [Q1] Sabit tersihir |
+| `[Q1] Enchanted Conduit` | [Q1] Enchanted Conduit | [Q1] Saluran tersihir |
+| `[Q1] Enchanted Trowel` | [Q1] Enchanted Trowel | [Q1] Sekop tanam tersihir |
+| `[Q1] Enchanted Lockpick` | [Q1] Enchanted Lockpick | [Q1] Pembuka kunci tersihir |
+| `[Q1] Enchanted Instrument` | [Q1] Enchanted Instrument | [Q1] Instrumen tersihir |
+| `[Q1] Enchanted Trainers` | [Q1] Enchanted Trainers | [Q1] Sepatu lari tersihir |
+| `[Q1] Culling Knife` | [Q1] Culling Knife | [Q1] Pisau penyiangan |
+| `[Q1] Lucky Charm` | [Q1] Lucky Charm | [Q1] Jimat keberuntungan |
+| `[Q1] Enchanted Censer` | [Q1] Enchanted Censer | [Q1] Pedupaan tersihir |
+| `[Q1] Enchanted Skillet` | [Q1] Enchanted Skillet | [Q1] Wajan tersihir |
+| `[Q1] Enchanted Hammer` | [Q1] Enchanted Hammer | [Q1] Palu tersihir |
+| `[Q1] Enchanted Chisel` | [Q1] Enchanted Chisel | [Q1] Pahat tersihir |
+| `[Q1] Enchanted Prism` | [Q1] Enchanted Prism | [Q1] Prisma tersihir |
+| `[Q1] Enchanted Mortar` | [Q1] Enchanted Mortar | [Q1] Lumpang tersihir |
+| `[Q1] Enchanted Scales` | [Q1] Enchanted Scales | [Q1] Sisik tersihir |
+| `[Q1] Enchanted Lens` | [Q1] Enchanted Lens | [Q1] Lensa tersihir |
+| `[Q1] Enchanted Lantern` | [Q1] Enchanted Lantern | [Q1] Lentera tersihir |
+| `[Q1] Enchanted Pommel` | [Q1] Enchanted Pommel | [Q1] Gagang pedang tersihir |
+| `[Q1] Enchanted Grip` | [Q1] Enchanted Grip | [Q1] Pegangan tersihir |
+| `[Q1] Enchanted Notch` | [Q1] Enchanted Notch | [Q1] Takik tersihir |
+| `[Q1] Enchanted Bowstring` | [Q1] Enchanted Bowstring | [Q1] Tali busur tersihir |
+| `[Q1] Enchanted Orb` | [Q1] Enchanted Orb | [Q1] Bola tersihir |
+| `[Q1] Enchanted Catalyst` | [Q1] Enchanted Catalyst | [Q1] Katalis tersihir |
+| `[Q1] Enchanted Spring` | [Q1] Enchanted Spring | [Q1] Pegas tersihir |
+| `[Q1] Enchanted Shim` | [Q1] Enchanted Shim | [Q1] Pengganjal tersihir |
+| `[Q1] Enchanted Salve` | [Q1] Enchanted Salve | [Q1] Salep tersihir |
+| `[Q1] Enchanted Relic` | [Q1] Enchanted Relic | [Q1] Relik tersihir |
+| `[T1] Globe of Skills` | [T1] Globe of Skills | [T1] Glob keahlian |
+| `[T2] Globe of Skills` | [T2] Globe of Skills | [T2] Glob keahlian |
+| `[Q1] Enchanted Skull` | [Q1] Enchanted Skull | [Q1] Tengkorak tersihir |
+| `[Q1] Enchanted Fortification` | [Q1] Enchanted Fortification | [Q1] Benteng tersihir |
+| `Earned by completing every quest. New quests re-lock it until they are done.` | Earned by completing every quest. New quests re-lock it until they are done. | Didapat dengan menyelesaikan semua quest. Quest baru akan menguncinya lagi hingga selesai. |
+| `New quests have arrived. Complete them to earn your Quest Cape back.` | New quests have arrived. Complete them to earn your Quest Cape back. | Quest baru telah tiba. Selesaikan untuk mendapatkan kembali Jubah quest milikmu. |
+| `Quest Cape Unlocked!` | Quest Cape Unlocked! | Jubah quest terbuka! |
+| `Unlock Requirements` | Unlock Requirements | Persyaratan Buka Kunci |
+| `Q1` | Q1 | Q1 |
+| `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Glob keahlian: +{0}% (+{1} langkah/dtk) |
+| `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Jubah quest: +{0}% (+{1} langkah/dtk) |
+| `@crit_pct_globes` | Globes of Skills: {0}% | Glob keahlian: {0}% |
+| `@globes_count` | Globes of Skills {0}/{1} | Glob keahlian {0}/{1} |
+| `@quest_cape_count` | Quest Cape {0}/{1} | Jubah quest {0}/{1} |
+| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% kecepatan gerak selama semua quest selesai |
+| `@all_skills_lv` | All Skills Lv {0} | Semua Skill Lv {0} |
+| `@b:auto_process` | +{0}% auto-process chance | +{0}% peluang olah otomatis |
+| `@b:auto_bank` | +{0}% auto-bank chance | +{0}% peluang simpan ke bank otomatis |
+| `@b:min_hit` | +{0} min hit | +{0} pukulan min |
+| `@b:max_hit` | +{0} max hit | +{0} pukulan maks |
+| `@b:quest_cape_held` | Held while every quest is completed | Dimiliki selama semua quest selesai |
+| `Mastery: The Feeble Trial` | Mastery: The Feeble Trial | Penguasaan: Ujian Lemah |
+| `The masters test anyone who has survived a dungeon. The first trial starts close to home.` | The masters test anyone who has survived a dungeon. The first trial starts close to home. | Para guru menguji siapa pun yang pernah selamat dari ruang bawah tanah. Ujian pertama dimulai dekat rumah. |
+| `Meet the masters at Fernstead` | Meet the masters at Fernstead | Temui para guru di Fernstead |
+| `A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.'` | A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.' | Seorang guru bermantel sederhana menunggu di dekat bank. 'Kamu sudah melihat isi ruang bawah tanah. Sekarang tunjukkan pada kami bahwa kamu juga bisa mengerjakan hal-hal kecil dengan baik.' |
+| `Cook at the Fernstead hearth` | Cook at the Fernstead hearth | Memasak di perapian Fernstead |
+| `Simple bread, baked right. The master takes a bite and nods.` | Simple bread, baked right. The master takes a bite and nods. | Roti sederhana, dipanggang dengan benar. Sang guru menggigitnya dan mengangguk. |
+| `Haggle at the stalls` | Haggle at the stalls | Tawar-menawar di lapak |
+| `You walk away with a fair price and a new friend.` | You walk away with a fair price and a new friend. | Kamu pergi dengan harga yang wajar dan seorang teman baru. |
+| `Tend the Fernstead field` | Tend the Fernstead field | Rawat ladang Fernstead |
+| `Straight rows and no weeds. The farmer asks who taught you.` | Straight rows and no weeds. The farmer asks who taught you. | Barisan lurus tanpa gulma. Sang petani bertanya siapa yang mengajarimu. |
+| `Forage the thicket` | Forage the thicket | Meramu di semak belukar |
+| `You come out with a full basket and not one scratch.` | You come out with a full basket and not one scratch. | Kamu keluar dengan keranjang penuh tanpa satu goresan pun. |
+| `Survey the Woodgap hills` | Survey the Woodgap hills | Survei perbukitan Woodgap |
+| `Your notes fill the gaps on the old survey map.` | Your notes fill the gaps on the old survey map. | Catatanmu mengisi bagian yang kosong di peta survei lama. |
+| `Work the Ironice smithy` | Work the Ironice smithy | Bekerja di bengkel tempa Ironice |
+| `A plain blade, balanced and sharp. The smith hangs it on the wall.` | A plain blade, balanced and sharp. The smith hangs it on the wall. | Bilah sederhana, seimbang dan tajam. Sang pandai besi menggantungnya di dinding. |
+| `Cut stone at the quarry` | Cut stone at the quarry | Memotong batu di tambang |
+| `Clean blocks, cut square. The quarry boss has no complaints.` | Clean blocks, cut square. The quarry boss has no complaints. | Balok-balok rapi, terpotong siku. Mandor tambang tak punya keluhan. |
+| `Play at the Splitstone campfire` | Play at the Splitstone campfire | Bermain musik di api unggun Splitstone |
+| `Travelers stop to listen. One of them is a master.` | Travelers stop to listen. One of them is a master. | Para pengelana berhenti untuk mendengarkan. Salah satunya seorang guru. |
+| `Work the Pinegap alley` | Work the Pinegap alley | Beraksi di gang Pinegap |
+| `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Kamu mencopet dompet dan mengembalikannya sebelum pemiliknya sadar. Sang guru tertawa. |
+| `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Tarik dari kristal Pinegap |
+| `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Kristal itu berdengung, dan esensnya keluar bersih. |
+| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Para guru menunggu di mulut ruang bawah tanah. 'Awal yang bagus. Ujian berikutnya lebih jauh lagi.' |
+| `Mastery: The Dire Trial` | Mastery: The Dire Trial | Penguasaan: Ujian Mengerikan |
+| `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | Ujian kedua membawamu ke barat yang dingin, tempat para guru bekerja lebih keras. |
+| `Meet the masters at Timberchill` | Meet the masters at Timberchill | Temui para guru di Timberchill |
+| `'The first trial was easy on purpose. This one is not.'` | 'The first trial was easy on purpose. This one is not.' | 'Ujian pertama memang sengaja dibuat mudah. Yang ini tidak.' |
+| `Join the Timberchill expedition` | Join the Timberchill expedition | Ikuti ekspedisi Timberchill |
+| `You lead the expedition home with a full map and every pack mule.` | You lead the expedition home with a full map and every pack mule. | Kamu memimpin ekspedisi pulang dengan peta lengkap dan semua bagal pengangkutnya. |
+| `Cook in the Icemast kitchen` | Cook in the Icemast kitchen | Memasak di dapur Icemast |
+| `Hot stew for a cold crew. Everyone asks for seconds.` | Hot stew for a cold crew. Everyone asks for seconds. | Semur panas untuk awak yang kedinginan. Semua orang minta tambah. |
+| `Fish the frozen lake` | Fish the frozen lake | Memancing di danau beku |
+| `You cut a hole in the ice and fill a bucket before noon.` | You cut a hole in the ice and fill a bucket before noon. | Kamu melubangi es dan mengisi seember penuh sebelum tengah hari. |
+| `Forge at the Battlefrost smithy` | Forge at the Battlefrost smithy | Menempa di bengkel tempa Battlefrost |
+| `Armor for the frontier guard, every plate fitted.` | Armor for the frontier guard, every plate fitted. | Zirah untuk penjaga perbatasan, setiap lempengnya pas. |
+| `Brew for the Battlefrost garrison` | Brew for the Battlefrost garrison | Seduh untuk garnisun Battlefrost |
+| `A strong ale for a long winter. The garrison approves.` | A strong ale for a long winter. The garrison approves. | Bir kuat untuk musim dingin yang panjang. Garnisun menyukainya. |
+| `Play the Battlefrost tavern` | Play the Battlefrost tavern | Tampil di kedai minum Battlefrost |
+| `A tavern full of soldiers sings along.` | A tavern full of soldiers sings along. | Kedai yang penuh prajurit ikut bernyanyi. |
+| `Draw from the Windhollow rift` | Draw from the Windhollow rift | Tarik dari celah Windhollow |
+| `The rift pulls back. You pull harder.` | The rift pulls back. You pull harder. | Celah itu menarik balik. Kamu menarik lebih kuat. |
+| `Charge the Windhollow conduit` | Charge the Windhollow conduit | Isi saluran Windhollow |
+| `The conduit glows steady for the first time in years.` | The conduit glows steady for the first time in years. | Saluran itu menyala stabil untuk pertama kalinya dalam bertahun-tahun. |
+| `Tend the Windhollow greenhouse` | Tend the Windhollow greenhouse | Rawat rumah kaca Windhollow |
+| `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Daun hijau di tengah musim dingin. |
+| `Mine the Icevein seams` | Mine the Icevein seams | Menambang urat bijih Icevein |
+| `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Kamu menemukan urat bijih yang sudah ditinggalkan para penambang. |
+| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Kamu bertahan di tengah dingin. Selanjutnya, para guru ingin melihatmu di bawah tekanan.' |
+| `Mastery: The Savage Trial` | Mastery: The Savage Trial | Penguasaan: Ujian Buas |
+| `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | Ujian ketiga melintasi selatan yang ramai, tempat setiap bidang kerja diawasi seorang guru. |
+| `Meet the masters at Shortha` | Meet the masters at Shortha | Temui para guru di Shortha |
+| `'The south is loud and crowded. Do your best work anyway.'` | 'The south is loud and crowded. Do your best work anyway.' | 'Selatan itu bising dan sesak. Tetap kerjakan sebaik-baiknya.' |
+| `Build at the Shortha workshop` | Build at the Shortha workshop | Bertukang di bengkel Shortha |
+| `A cabinet with no gaps and no nails. The carpenter wants to buy it.` | A cabinet with no gaps and no nails. The carpenter wants to buy it. | Lemari tanpa celah dan tanpa paku. Sang tukang kayu ingin membelinya. |
+| `Perform at the Shortha theatre` | Perform at the Shortha theatre | Tampil di teater Shortha |
+| `The crowd stays on its feet until the lamps go out.` | The crowd stays on its feet until the lamps go out. | Penonton terus berdiri sampai lampu padam. |
+| `Draw from the Shortha rift` | Draw from the Shortha rift | Tarik dari celah Shortha |
+| `The rift spits sparks. You take what you need.` | The rift spits sparks. You take what you need. | Celah itu memercikkan bunga api. Kamu mengambil yang kamu perlukan. |
+| `Pull the Shortha heist` | Pull the Shortha heist | Jalankan perampokan Shortha |
+| `In and out without a sound. The master checks the lock twice.` | In and out without a sound. The master checks the lock twice. | Masuk dan keluar tanpa suara. Sang guru memeriksa kuncinya dua kali. |
+| `Run the Shortha kitchen` | Run the Shortha kitchen | Kelola dapur Shortha |
+| `Two hundred plates in one night. None come back.` | Two hundred plates in one night. None come back. | Dua ratus piring dalam satu malam. Tak satu pun dikembalikan. |
+| `Forage the Gilshore grove` | Forage the Gilshore grove | Meramu di rumpun Gilshore |
+| `You find the herbs the grove keeper hides from buyers.` | You find the herbs the grove keeper hides from buyers. | Kamu menemukan herba yang disembunyikan penjaga rumpun dari para pembeli. |
+| `Fish off the Gilshore coast` | Fish off the Gilshore coast | Memancing di lepas pantai Gilshore |
+| `A heavy net, hauled in alone.` | A heavy net, hauled in alone. | Jaring yang berat, ditarik sendirian. |
+| `Charge the Farmhold conduit` | Charge the Farmhold conduit | Isi saluran Farmhold |
+| `The conduit takes a full charge and holds it.` | The conduit takes a full charge and holds it. | Saluran itu menerima muatan penuh dan menahannya. |
+| `Run the Farmhold valley` | Run the Farmhold valley | Berlari menyusuri lembah Farmhold |
+| `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Kamu berlari menyusuri lembah itu dua kali hanya untuk membuktikan sesuatu. |
+| `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Menuang logam di pengecoran Riverwatch |
+| `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Tuangan bersih tanpa gelembung. Para pekerja pengecoran bertepuk tangan. |
+| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Bagus. Glob-glob itu disimpan di dua ujian terakhir.' |
+| `Mastery: The Fell Trial` | Mastery: The Fell Trial | Penguasaan: Ujian Bengis |
+| `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | Ujian keempat mengirimmu ke tempat-tempat kerja terbaik di negeri ini. |
+| `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Para guru memenuhi bank. 'Tiga ujian selesai. Sekarang tunjukkan karya terbaik di negeri ini.' |
+| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Para guru menunggu di mulut ruang bawah tanah. Mereka memberimu sebuah glob kaca. 'Glob Pertama. Di dalamnya tersimpan setiap ujian sejauh ini.' |
+| `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Penguasaan: Ujian Purba |
+| `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Glob Pertama untuk ujian-ujian itu. Yang kedua untuk apa yang tak pernah diajarkan siapa pun.' |
+| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Diberikan oleh Ujian Bengis dan Ujian Purba. Keduanya bertumpuk. |

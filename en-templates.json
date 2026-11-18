@@ -610,5 +610,17 @@
   "@b:spirit_mod": "+{0}x spirit modifier",
   "@b:hp_food_action": "+1 HP per food and skilling action",
   "@f:runs": "runs",
-  "@f:run": "run"
+  "@f:run": "run",
+  "@mv_globes": "Globes of Skills: +{0}% (+{1} steps/sec)",
+  "@mv_quest_cape": "Quest Cape: +{0}% (+{1} steps/sec)",
+  "@crit_pct_globes": "Globes of Skills: {0}%",
+  "@globes_count": "Globes of Skills {0}/{1}",
+  "@quest_cape_count": "Quest Cape {0}/{1}",
+  "@quest_cape_desc": "+{0}% movement speed while every quest is completed",
+  "@all_skills_lv": "All Skills Lv {0}",
+  "@b:auto_process": "+{0}% auto-process chance",
+  "@b:auto_bank": "+{0}% auto-bank chance",
+  "@b:min_hit": "+{0} min hit",
+  "@b:max_hit": "+{0} max hit",
+  "@b:quest_cape_held": "Held while every quest is completed"
 }

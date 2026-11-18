@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Ontdekken |
 
-## Lines to review (799)
+## Lines to review (1355)
 
 | Key | English | Current |
 |---|---|---|
@@ -869,3 +869,559 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tint` | Tint | Kleurtint |
 | `No tint` | No tint | Geen kleurtint |
 | `Pick any colour for the wings` | Pick any colour for the wings | Kies zelf een kleur voor de vleugels |
+| `Mastery: Life and Spirit` | Mastery: Life and Spirit | Meesterschap: Leven en Geest |
+| `An old healer wants proof you still remember how to endure.` | An old healer wants proof you still remember how to endure. | Een oude genezeres wil bewijs dat je nog weet hoe je volhoudt. |
+| `Meet the old healer` | Meet the old healer | Ontmoet de oude genezeres |
+| `She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.'` | She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.' | Ze voelt je pols voordat ze gedag zegt. 'Sterk. Maar kracht is niet de les. Ga terug naar waar je voor het eerst leerde volhouden.' |
+| `Rest by the old campfire` | Rest by the old campfire | Rust bij het oude kampvuur |
+| `You sit until the fire burns low. The healer nods when you stand without stiffness.` | You sit until the fire burns low. The healer nods when you stand without stiffness. | Je zit tot het vuur laag brandt. De genezeres knikt wanneer je zonder stijfheid opstaat. |
+| `Share a plain meal` | Share a plain meal | Deel een eenvoudige maaltijd |
+| `Bread, broth, nothing more. 'You forgot how little a body needs,' she says.` | Bread, broth, nothing more. 'You forgot how little a body needs,' she says. | Brood, bouillon, verder niets. 'Je was vergeten hoe weinig een lichaam nodig heeft,' zegt ze. |
+| `Outlast a feeble slime` | Outlast a feeble slime | Doorsta een zwak slijmwezen |
+| `It barely scratches you. You let it tire itself out before you finish it.` | It barely scratches you. You let it tire itself out before you finish it. | Het schrammt je amper. Je laat het zichzelf uitputten voordat je het afmaakt. |
+| `Calm your breathing by the fire` | Calm your breathing by the fire | Kalmeer je ademhaling bij het vuur |
+| `You count your breaths until the count stops mattering. Your spirit settles.` | You count your breaths until the count stops mattering. Your spirit settles. | Je telt je ademhalingen tot het tellen er niet meer toe doet. Je geest komt tot rust. |
+| `Eat with the road crews` | Eat with the road crews | Eet met de wegwerkers |
+| `The crews talk about blisters and sore backs. You listen more than you speak.` | The crews talk about blisters and sore backs. You listen more than you speak. | De wegwerkers praten over blaren en pijnlijke ruggen. Je luistert meer dan je praat. |
+| `Take the ember slime calmly` | Take the ember slime calmly | Trotseer het sintelslijm rustig |
+| `You let the heat wash past you and keep your footing.` | You let the heat wash past you and keep your footing. | Je laat de hitte langs je heen spoelen en houdt je evenwicht. |
+| `Clear a Feeble Dungeon` | Clear a Feeble Dungeon | Voltooi een Zwakke Kerker |
+| `The first dungeon feels small now. You walk it slowly, watching every step.` | The first dungeon feels small now. You walk it slowly, watching every step. | De eerste kerker voelt nu klein. Je loopt hem langzaam door en let op elke stap. |
+| `Report your progress` | Report your progress | Meld je voortgang |
+| `The healer's runner takes your notes. 'She says you are nearly there.'` | The healer's runner takes your notes. 'She says you are nearly there.' | De boodschapper van de genezeres neemt je aantekeningen aan. 'Ze zegt dat je er bijna bent.' |
+| `Cook for a tired party` | Cook for a tired party | Kook voor een vermoeide groep |
+| `You feed a party back from the deep. One of them falls asleep mid bite.` | You feed a party back from the deep. One of them falls asleep mid bite. | Je voedt een groep die terugkomt uit de diepte. Een van hen valt halverwege een hap in slaap. |
+| `Clear a Dire Dungeon` | Clear a Dire Dungeon | Voltooi een Grimmige Kerker |
+| `You come out of the Dire Dungeon with nothing worse than a bruise.` | You come out of the Dire Dungeon with nothing worse than a bruise. | Je komt uit de Grimmige Kerker met niets ergers dan een blauwe plek. |
+| `Stand firm against a fell demon` | Stand firm against a fell demon | Houd stand tegen een wrede demon |
+| `The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.'` | The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.' | De demon slaat hard en je valt niet. De genezeres vindt je daarna. 'Zalf en relikwie. Verdiend, niet gegeven.' |
+| `Mastery: Strike and Heft` | Mastery: Strike and Heft | Meesterschap: Slag en Kracht |
+| `A retired sergeant wants to see your first drills done properly again.` | A retired sergeant wants to see your first drills done properly again. | Een gepensioneerde sergeant wil je eerste oefeningen nog eens goed uitgevoerd zien. |
+| `Report to the old sergeant` | Report to the old sergeant | Meld je bij de oude sergeant |
+| `'Eighty years of swinging and you still lead with your shoulder? Back to the drills.'` | 'Eighty years of swinging and you still lead with your shoulder? Back to the drills.' | 'Tachtig jaar zwaaien en je leidt nog steeds met je schouder? Terug naar de oefeningen.' |
+| `Cut a practice staff` | Cut a practice staff | Snijd een oefenstaf |
+| `You trim an ash branch to length. It is lighter than anything you carry now.` | You trim an ash branch to length. It is lighter than anything you carry now. | Je snoeit een essentak op lengte. Hij is lichter dan alles wat je nu draagt. |
+| `Spar with a feeble goblin` | Spar with a feeble goblin | Oefen tegen een zwakke goblin |
+| `You win with the staff alone. The sergeant grunts something like approval.` | You win with the staff alone. The sergeant grunts something like approval. | Je wint met alleen de staf. De sergeant gromt iets wat op goedkeuring lijkt. |
+| `Run the training trail` | Run the training trail | Loop het trainingspad |
+| `Three laps, then three more. Your footwork comes back on the last one.` | Three laps, then three more. Your footwork comes back on the last one. | Drie rondes, dan nog drie. In de laatste komt je voetenwerk terug. |
+| `Beat a dire goblin cleanly` | Beat a dire goblin cleanly | Versla een grimmige goblin netjes |
+| `No wasted swings. The sergeant counts them on his fingers.` | No wasted swings. The sergeant counts them on his fingers. | Geen verspilde slagen. De sergeant telt ze op zijn vingers. |
+| `Eat with the garrison` | Eat with the garrison | Eet met het garnizoen |
+| `The garrison cook remembers the sergeant. 'He still shouts at everyone?'` | The garrison cook remembers the sergeant. 'He still shouts at everyone?' | De kok van het garnizoen herinnert zich de sergeant. 'Schreeuwt hij nog steeds tegen iedereen?' |
+| `Send word to the sergeant` | Send word to the sergeant | Stuur de sergeant bericht |
+| `You send a short note: two goblins down, footwork fixed.` | You send a short note: two goblins down, footwork fixed. | Je stuurt een kort briefje: twee goblins neer, voetenwerk hersteld. |
+| `Break a feeble skeleton` | Break a feeble skeleton | Breek een zwak skelet |
+| `Bone gives way under a clean blow. Heft without strike is noise, he always said.` | Bone gives way under a clean blow. Heft without strike is noise, he always said. | Bot geeft mee onder een zuivere klap. Kracht zonder slag is lawaai, zei hij altijd. |
+| `You clear it with the same drills you learned there.` | You clear it with the same drills you learned there. | Je voltooit hem met dezelfde oefeningen die je daar leerde. |
+| `Your party moves when you move. Good habits spread.` | Your party moves when you move. Good habits spread. | Je groep beweegt wanneer jij beweegt. Goede gewoonten zijn besmettelijk. |
+| `Have your blade reforged` | Have your blade reforged | Laat je kling opnieuw smeden |
+| `The smith grinds out years of nicks. It swings true again.` | The smith grinds out years of nicks. It swings true again. | De smid slijpt jaren aan kerven weg. Hij zwaait weer zuiver. |
+| `Fell an orc with clean blows` | Fell an orc with clean blows | Vel een ork met zuivere slagen |
+| `The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.'` | The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.' | De ork gaat neer in drie slagen. De sergeant geeft je een pommel en een greep. 'Nu ben je klaar.' |
+| `Mastery: Sight and Draw` | Mastery: Sight and Draw | Meesterschap: Zicht en Spannen |
+| `A hunter in the north asks you to shoot like a beginner again.` | A hunter in the north asks you to shoot like a beginner again. | Een jager in het noorden vraagt je weer te schieten als een beginner. |
+| `Meet the northern hunter` | Meet the northern hunter | Ontmoet de noordelijke jager |
+| `'You aim like someone who expects to hit. Good archers expect to miss. Come.'` | 'You aim like someone who expects to hit. Good archers expect to miss. Come.' | 'Je mikt als iemand die verwacht te raken. Goede boogschutters verwachten te missen. Kom.' |
+| `Fletch a plain practice bow` | Fletch a plain practice bow | Maak een eenvoudige oefenboog |
+| `No runes, no gems. Just yew and string.` | No runes, no gems. Just yew and string. | Geen runen, geen edelstenen. Alleen taxus en pees. |
+| `Scout the hills for targets` | Scout the hills for targets | Zoek in de heuvels naar doelwitten |
+| `You mark three trees and a stump at different ranges.` | You mark three trees and a stump at different ranges. | Je markeert drie bomen en een stronk op verschillende afstanden. |
+| `Take down a dire gnoll` | Take down a dire gnoll | Schakel een grimmige gnoll uit |
+| `One arrow, placed where the hunter pointed. 'Better.'` | One arrow, placed where the hunter pointed. 'Better.' | Eén pijl, precies waar de jager wees. 'Beter.' |
+| `Cut fresh arrow shafts` | Cut fresh arrow shafts | Snijd verse pijlschachten |
+| `You pick straight stems and trim them by eye.` | You pick straight stems and trim them by eye. | Je kiest rechte stengels en snoeit ze op het oog. |
+| `Run the range drills` | Run the range drills | Doe de oefeningen op de schietbaan |
+| `Shoot, move, shoot. Your breath and your release line up again.` | Shoot, move, shoot. Your breath and your release line up again. | Schieten, bewegen, schieten. Je adem en je loslaten vallen weer samen. |
+| `Hit a golem at the joints` | Hit a golem at the joints | Raak een golem in de gewrichten |
+| `Stone is hard, joints are not. The golem folds.` | Stone is hard, joints are not. The golem folds. | Steen is hard, gewrichten niet. De golem klapt in elkaar. |
+| `You call targets for the whole party. Nobody wastes a shot.` | You call targets for the whole party. Nobody wastes a shot. | Je roept doelen af voor de hele groep. Niemand verspilt een schot. |
+| `Eat with the hunters` | Eat with the hunters | Eet met de jagers |
+| `The hunters argue about wind. You agree with all of them.` | The hunters argue about wind. You agree with all of them. | De jagers bekvechten over de wind. Je geeft ze allemaal gelijk. |
+| `Bank your spare arrows` | Bank your spare arrows | Breng je reservepijlen naar de bank |
+| `You store the spares. Travelling light is half the craft.` | You store the spares. Travelling light is half the craft. | Je slaat de reserves op. Licht reizen is het halve vak. |
+| `You shoot from the back row and never lose sight of the front.` | You shoot from the back row and never lose sight of the front. | Je schiet vanaf de achterste rij en verliest de voorste nooit uit het oog. |
+| `Bring down a fell gnoll` | Bring down a fell gnoll | Haal een wrede gnoll neer |
+| `Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.'` | Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.' | Twee schoten, allebei zuiver. De jager geeft je een inkeping en een boogpees. 'Houd ze. En mis steeds minder.' |
+| `Mastery: Focus and Surge` | Mastery: Focus and Surge | Meesterschap: Focus en Uitbarsting |
+| `An eastern mage wants your first spells cast without force or fuss.` | An eastern mage wants your first spells cast without force or fuss. | Een oosterse magiër wil je eerste spreuken zien, zonder kracht of gedoe. |
+| `Meet the eastern mage` | Meet the eastern mage | Ontmoet de oosterse magiër |
+| `'You push power like a mule pushes a cart. Let us start again, smaller.'` | 'You push power like a mule pushes a cart. Let us start again, smaller.' | 'Je duwt macht zoals een muilezel een kar duwt. Laten we opnieuw beginnen, kleiner.' |
+| `Draw from a small fragment` | Draw from a small fragment | Put uit een klein fragment |
+| `The essence is faint. You have to listen for it.` | The essence is faint. You have to listen for it. | De essentie is vaag. Je moet ernaar luisteren. |
+| `Charge a single dim essence` | Charge a single dim essence | Laad één doffe essentie op |
+| `You charge it slowly. It holds better than anything you rushed.` | You charge it slowly. It holds better than anything you rushed. | Je laadt haar langzaam op. Ze houdt beter dan alles waarmee je je ooit haastte. |
+| `Banish a feeble imp` | Banish a feeble imp | Verban een zwakke imp |
+| `A small spell, aimed well. The imp is gone before it can grin.` | A small spell, aimed well. The imp is gone before it can grin. | Een kleine spreuk, goed gericht. De imp is weg voordat hij kan grijnzen. |
+| `Read the runes in the ashes` | Read the runes in the ashes | Lees de runen in de as |
+| `Old travellers left warding marks here. You copy them out.` | Old travellers left warding marks here. You copy them out. | Oude reizigers lieten hier beschermtekens achter. Je schrijft ze over. |
+| `Tend a small herb plot` | Tend a small herb plot | Verzorg een klein kruidenperkje |
+| `The mage wants patience practised. You weed until your mind goes quiet.` | The mage wants patience practised. You weed until your mind goes quiet. | De magiër wil dat je geduld oefent. Je wiedt tot je hoofd stil wordt. |
+| `Unmake a dire lich` | Unmake a dire lich | Vernietig een grimmige lich |
+| `You break its ward with the marks from the ashes.` | You break its ward with the marks from the ashes. | Je breekt zijn bescherming met de tekens uit de as. |
+| `You cast half as often and hit twice as hard.` | You cast half as often and hit twice as hard. | Je spreekt half zo vaak een spreuk uit en raakt twee keer zo hard. |
+| `Inscribe a beginner sigil` | Inscribe a beginner sigil | Graveer een beginnerszegel |
+| `Simple lines, clean joins. The mage keeps it as a sample.` | Simple lines, clean joins. The mage keeps it as a sample. | Eenvoudige lijnen, strakke verbindingen. De magiër bewaart het als voorbeeld. |
+| `Send your notes east` | Send your notes east | Stuur je aantekeningen naar het oosten |
+| `Your notes on the lich go back to the mage by courier.` | Your notes on the lich go back to the mage by courier. | Je aantekeningen over de lich gaan per koerier terug naar de magiër. |
+| `Your spells land on rhythm. The party fights to your timing.` | Your spells land on rhythm. The party fights to your timing. | Je spreuken landen op het ritme. De groep vecht op jouw timing. |
+| `Dispel a fell demon` | Dispel a fell demon | Verdrijf een wrede demon |
+| `One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.'` | One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.' | Eén gerichte uitbarsting en de demon spat uiteen. De magiër geeft je een bol en een katalysator. 'Kleine spreuken, grote resultaten.' |
+| `Mastery: Dodge and Defend` | Mastery: Dodge and Defend | Meesterschap: Ontwijken en Verdediging |
+| `A shieldwright wants you to relearn when to block and when to move.` | A shieldwright wants you to relearn when to block and when to move. | Een schildmaakster wil dat je opnieuw leert wanneer je blokkeert en wanneer je beweegt. |
+| `Meet the shieldwright` | Meet the shieldwright | Ontmoet de schildmaakster |
+| `'You block everything. Some things you should just not be standing in front of.'` | 'You block everything. Some things you should just not be standing in front of.' | 'Je blokkeert alles. Voor sommige dingen moet je gewoon niet blijven staan.' |
+| `Hammer out a practice shield` | Hammer out a practice shield | Smeed een oefenschild |
+| `Plain iron, a little too heavy. That is the point, she says.` | Plain iron, a little too heavy. That is the point, she says. | Gewoon ijzer, iets te zwaar. Daar gaat het juist om, zegt ze. |
+| `Dodge a feeble rat` | Dodge a feeble rat | Ontwijk een zwakke rat |
+| `You step aside until it tires. You do not raise the shield once.` | You step aside until it tires. You do not raise the shield once. | Je stapt opzij tot hij moe wordt. Je heft het schild geen enkele keer. |
+| `Weave through the crowded alley` | Weave through the crowded alley | Laveer door de drukke steeg |
+| `Market day. You cross the alley without touching anyone.` | Market day. You cross the alley without touching anyone. | Marktdag. Je steekt de steeg over zonder iemand aan te raken. |
+| `Block a feeble treant` | Block a feeble treant | Blokkeer een zwakke treant |
+| `Its branches thud off the shield. You keep your feet planted.` | Its branches thud off the shield. You keep your feet planted. | Zijn takken bonken tegen het schild. Je blijft stevig staan. |
+| `Hold against a dire treant` | Hold against a dire treant | Houd stand tegen een grimmige treant |
+| `Block, step, block. You stop thinking about which comes next.` | Block, step, block. You stop thinking about which comes next. | Blokkeren, stap, blokkeren. Je denkt niet meer na over wat er komt. |
+| `You take every hit meant for the party and none meant for you.` | You take every hit meant for the party and none meant for you. | Je vangt elke klap op die voor de groep bedoeld is, en geen enkele die voor jou bedoeld is. |
+| `Gather bark for shield padding` | Gather bark for shield padding | Verzamel schors voor schildvulling |
+| `Soft bark, layered thick. Your arm will thank you.` | Soft bark, layered thick. Your arm will thank you. | Zachte schors, dik gelaagd. Je arm zal je dankbaar zijn. |
+| `Send the shieldwright word` | Send the shieldwright word | Stuur de schildmaakster bericht |
+| `You report the treant fights. She replies with a single word: 'Again.'` | You report the treant fights. She replies with a single word: 'Again.' | Je meldt de gevechten met de treants. Ze antwoordt met één woord: 'Nogmaals.' |
+| `You read every swing before it comes.` | You read every swing before it comes. | Je leest elke zwaai voordat hij komt. |
+| `Reinforce the shield rim` | Reinforce the shield rim | Versterk de schildrand |
+| `The smith adds a band of steel to the rim. It feels finished now.` | The smith adds a band of steel to the rim. It feels finished now. | De smid voegt een stalen band toe aan de rand. Het voelt nu af. |
+| `Outlast a fell orc` | Outlast a fell orc | Doorsta een wrede ork |
+| `It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim.` | It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim. | Hij zwaait tot hij amper kan staan. Jij bent geen moment gestopt met bewegen. De schildmaakster geeft je een veer en een vulplaatje. |
+| `Mastery: Fish and Cook` | Mastery: Fish and Cook | Meesterschap: Vissen en Koken |
+| `A fishwife who fed half the coast wants your first catch cooked right.` | A fishwife who fed half the coast wants your first catch cooked right. | Een visvrouw die de halve kust voedde, wil je eerste vangst goed bereid zien. |
+| `Meet the old fishwife` | Meet the old fishwife | Ontmoet de oude visvrouw |
+| `'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.'` | 'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.' | 'Grote vissen, chique pannen. Wanneer heb je voor het laatst een garnaal goed gekookt? Ga het uitzoeken.' |
+| `Cook over an open spit` | Cook over an open spit | Kook boven een open spit |
+| `No kitchen, no spices. You keep the fire low and the fish whole.` | No kitchen, no spices. You keep the fire low and the fish whole. | Geen keuken, geen kruiden. Je houdt het vuur laag en de vis heel. |
+| `Fish the shallow pool` | Fish the shallow pool | Vis in de ondiepe poel |
+| `You catch a shrimp and remember the first one you ever landed.` | You catch a shrimp and remember the first one you ever landed. | Je vangt een garnaal en denkt terug aan de allereerste die je ooit binnenhaalde. |
+| `Fish a quiet stream` | Fish a quiet stream | Vis in een rustige beek |
+| `The stream is slow and so are you. You stop rushing the line.` | The stream is slow and so are you. You stop rushing the line. | De beek is traag, en jij ook. Je haast de lijn niet meer. |
+| `Grill your catch plainly` | Grill your catch plainly | Gril je vangst eenvoudig |
+| `Salt and smoke. The fishwife would approve.` | Salt and smoke. The fishwife would approve. | Zout en rook. De visvrouw zou het goedkeuren. |
+| `Try the far pool` | Try the far pool | Probeer de verre poel |
+| `A perch bites on the third cast. You let it run before you reel.` | A perch bites on the third cast. You let it run before you reel. | Bij de derde worp bijt een baars. Je laat hem lopen voordat je binnenhaalt. |
+| `Fish the cold stream` | Fish the cold stream | Vis in de koude beek |
+| `Cold hands, quick fish. You learn to strike faster.` | Cold hands, quick fish. You learn to strike faster. | Koude handen, snelle vis. Je leert sneller aan te slaan. |
+| `Cook at a mountain hearth` | Cook at a mountain hearth | Kook bij een berghaard |
+| `The hearth cook shows you how to keep fish from drying out.` | The hearth cook shows you how to keep fish from drying out. | De haardkok laat je zien hoe je vis niet laat uitdrogen. |
+| `Feed the mill workers` | Feed the mill workers | Voed de molenarbeiders |
+| `You cook for a crew of twenty. Nothing comes back burned.` | You cook for a crew of twenty. Nothing comes back burned. | Je kookt voor een ploeg van twintig. Niets komt aangebrand terug. |
+| `Cook on the tidefield spit` | Cook on the tidefield spit | Kook aan het spit op het getijdenveld |
+| `The fishwife's cousin tastes your work and sends word up the coast.` | The fishwife's cousin tastes your work and sends word up the coast. | De nicht van de visvrouw proeft je werk en stuurt bericht de kust op. |
+| `Cook one perfect fillet` | Cook one perfect fillet | Kook één perfecte filet |
+| `One fillet, cooked through, still soft. You eat it yourself.` | One fillet, cooked through, still soft. You eat it yourself. | Eén filet, doorgegaard en toch zacht. Je eet hem zelf op. |
+| `Land a catch at the seaside` | Land a catch at the seaside | Haal een vangst binnen aan zee |
+| `The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.'` | The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.' | De diepzeevissen vechten hard en jij haalt ze binnen. De visvrouw stuurt een hengel en een koekenpan. 'Nu ben je visser en kok.' |
+| `Mastery: Mine and Smith` | Mastery: Mine and Smith | Meesterschap: Mijnbouw en Smeden |
+| `A forge master wants proof you still respect plain copper and tin.` | A forge master wants proof you still respect plain copper and tin. | Een smidsmeester wil bewijs dat je gewoon koper en tin nog respecteert. |
+| `Meet the forge master` | Meet the forge master | Ontmoet de smidsmeester |
+| `'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.'` | 'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.' | 'Je raakt alleen nog zeldzaam erts aan. Koper bouwde elke zaal in dit land. Ga het opnieuw verdienen.' |
+| `Work a copper bar` | Work a copper bar | Bewerk een koperen staaf |
+| `You fold the bar slowly. It rings clean.` | You fold the bar slowly. It rings clean. | Je vouwt de staaf langzaam. Hij klinkt zuiver. |
+| `Mine at the old quarry` | Mine at the old quarry | Hak erts in de oude groeve |
+| `Copper and tin, by hand. Your swing settles into an old rhythm.` | Copper and tin, by hand. Your swing settles into an old rhythm. | Koper en tin, met de hand. Je zwaai valt in een oud ritme. |
+| `Smelt your first batch` | Smelt your first batch | Smelt je eerste partij |
+| `You keep the heat even. No slag, no cracks.` | You keep the heat even. No slag, no cracks. | Je houdt de hitte gelijkmatig. Geen slakken, geen barsten. |
+| `Follow a shallow vein` | Follow a shallow vein | Volg een ondiepe ader |
+| `The vein is thin but honest. You take only what it gives.` | The vein is thin but honest. You take only what it gives. | De ader is dun maar eerlijk. Je neemt alleen wat ze geeft. |
+| `Quarry stone and ore` | Quarry stone and ore | Hak steen en erts uit de groeve |
+| `Wind cuts through the quarry. You work until the cart is full.` | Wind cuts through the quarry. You work until the cart is full. | De wind snijdt door de groeve. Je werkt tot de kar vol is. |
+| `Chip out the iron seam` | Chip out the iron seam | Hak de ijzerader uit |
+| `The iron comes loose in good clean chunks.` | The iron comes loose in good clean chunks. | Het ijzer komt los in mooie, schone brokken. |
+| `Forge a plain nail` | Forge a plain nail | Smeed een eenvoudige spijker |
+| `A nail is the hardest thing to forge well, the forge master said.` | A nail is the hardest thing to forge well, the forge master said. | Een spijker is het moeilijkste om goed te smeden, zei de smidsmeester. |
+| `Mine beside the old camp` | Mine beside the old camp | Hak erts naast het oude kamp |
+| `Old miners left their marks here. You add yours under theirs.` | Old miners left their marks here. You add yours under theirs. | Oude mijnwerkers lieten hier hun tekens achter. Je zet de jouwe onder de hunne. |
+| `Temper a beginner blade` | Temper a beginner blade | Hard een beginnerskling |
+| `You quench it once and it holds an edge.` | You quench it once and it holds an edge. | Je schrikt hem één keer af en hij houdt een snede. |
+| `Load a cart of ore` | Load a cart of ore | Laad een kar met erts |
+| `You load and haul. Your back remembers its first summer here.` | You load and haul. Your back remembers its first summer here. | Je laadt en sleept. Je rug herinnert zich zijn eerste zomer hier. |
+| `Mine the deepest shaft` | Mine the deepest shaft | Hak erts in de diepste schacht |
+| `You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.'` | You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.' | Je haalt zonder een schram erts uit de diepte. De smidsmeester stuurt een houweel en een hamer. 'Terug waar je begon, en er ver voorbij.' |
+| `Mastery: Forage and Craft` | Mastery: Forage and Craft | Meesterschap: Verzamelen en Vervaardigen |
+| `A weaver asks you to gather and work the simplest materials again.` | A weaver asks you to gather and work the simplest materials again. | Een weefster vraagt je de eenvoudigste materialen weer te verzamelen en te bewerken. |
+| `Meet the weaver` | Meet the weaver | Ontmoet de weefster |
+| `'You work dragonhide and starspun now. Show me you can still make good strips from leather.'` | 'You work dragonhide and starspun now. Show me you can still make good strips from leather.' | 'Je bewerkt nu drakenhuid en sterrenspinsel. Laat zien dat je nog goede repen uit leer kunt snijden.' |
+| `Cut leather into strips` | Cut leather into strips | Snijd leer in repen |
+| `Even width, no ragged ends. The weaver checks every one.` | Even width, no ragged ends. The weaver checks every one. | Gelijke breedte, geen rafelige uiteinden. De weefster controleert ze stuk voor stuk. |
+| `Gather from the wild patch` | Gather from the wild patch | Verzamel bij het wilde veldje |
+| `You pick slowly and leave the young growth alone.` | You pick slowly and leave the young growth alone. | Je plukt langzaam en laat de jonge scheuten staan. |
+| `Forage the woodland patch` | Forage the woodland patch | Verzamel op het bosveldje |
+| `Linen grows thick here. You fill a sack before noon.` | Linen grows thick here. You fill a sack before noon. | Linnen groeit hier dicht. Je vult een zak voor de middag. |
+| `Search the fern thicket` | Search the fern thicket | Doorzoek het varenbosje |
+| `Silk moths nest in the ferns. You take only the spent cocoons.` | Silk moths nest in the ferns. You take only the spent cocoons. | Zijdemotten nestelen in de varens. Je neemt alleen de lege cocons. |
+| `Gather on the rocky patch` | Gather on the rocky patch | Verzamel op het rotsige veldje |
+| `Hardy plants, tough fibres. Good for rope.` | Hardy plants, tough fibres. Good for rope. | Taaie planten, sterke vezels. Goed voor touw. |
+| `Spin linen into thread` | Spin linen into thread | Spin linnen tot draad |
+| `You spin until the thread runs fine and even.` | You spin until the thread runs fine and even. | Je spint tot de draad fijn en gelijkmatig loopt. |
+| `Forage the hillside patch` | Forage the hillside patch | Verzamel op het heuvelveldje |
+| `You know which leaves to take by touch now.` | You know which leaves to take by touch now. | Je weet nu op de tast welke bladeren je moet nemen. |
+| `Gather hides from the thicket` | Gather hides from the thicket | Verzamel huiden uit het struikgewas |
+| `A hunter left hides to cure. You trade a day of work for them.` | A hunter left hides to cure. You trade a day of work for them. | Een jager liet huiden achter om te looien. Je ruilt er een dag werk voor. |
+| `Forage the fort patch` | Forage the fort patch | Verzamel bij het fortveldje |
+| `The fort guards point you to a patch nobody else bothers with.` | The fort guards point you to a patch nobody else bothers with. | De wachters van het fort wijzen je een veldje waar verder niemand naar omkijkt. |
+| `Craft a simple satchel` | Craft a simple satchel | Maak een eenvoudige schoudertas |
+| `Strips, thread and a buckle. It is the best thing you have made in years.` | Strips, thread and a buckle. It is the best thing you have made in years. | Repen, draad en een gesp. Het is het beste wat je in jaren hebt gemaakt. |
+| `Forage the deep wilds` | Forage the deep wilds | Verzamel in de diepe wildernis |
+| `You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel.` | You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel. | Je keert terug uit de wildernis met zeldzame materialen en vaste handen. De weefster stuurt een sikkel en een beitel. |
+| `Mastery: Invoke and Imbue` | Mastery: Invoke and Imbue | Meesterschap: Aanroepen en Doordrenken |
+| `An old enchanter wants your first dim essences drawn and charged again.` | An old enchanter wants your first dim essences drawn and charged again. | Een oude betoveraar wil je eerste doffe essenties opnieuw geput en opgeladen zien. |
+| `Meet the old enchanter` | Meet the old enchanter | Ontmoet de oude betoveraar |
+| `'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.'` | 'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.' | 'Stralend, hemels, goddelijk. Wanneer heb je voor het laatst een doffe essentie opgeladen? Begin daar.' |
+| `Charge a dim essence` | Charge a dim essence | Laad een doffe essentie op |
+| `It takes almost nothing to charge. That is what makes it hard.` | It takes almost nothing to charge. That is what makes it hard. | Het kost bijna niets om haar op te laden. Dat maakt het juist moeilijk. |
+| `The fragment hums faintly. You draw from it without cracking it.` | The fragment hums faintly. You draw from it without cracking it. | Het fragment zoemt zachtjes. Je put eruit zonder het te breken. |
+| `Charge at the glowing font` | Charge at the glowing font | Laad op bij de gloeiende bron |
+| `You feed the font slowly. It answers in kind.` | You feed the font slowly. It answers in kind. | Je voedt de bron langzaam. Hij antwoordt op dezelfde wijze. |
+| `Listen at the river fragment` | Listen at the river fragment | Luister bij het rivierfragment |
+| `Faint essence, carried on the river wind.` | Faint essence, carried on the river wind. | Vage essentie, meegevoerd door de rivierwind. |
+| `Charge a faint essence` | Charge a faint essence | Laad een vage essentie op |
+| `Clean light. The enchanter would keep this one.` | Clean light. The enchanter would keep this one. | Zuiver licht. Deze zou de betoveraar houden. |
+| `Trace the ruined sigil` | Trace the ruined sigil | Trek het vervallen zegel na |
+| `The old lines still hold power. You trace them without breaking them.` | The old lines still hold power. You trace them without breaking them. | De oude lijnen bevatten nog macht. Je trekt ze na zonder ze te breken. |
+| `Charge essence at the sigil` | Charge essence at the sigil | Laad essentie op bij het zegel |
+| `You charge three in a row without a flicker.` | You charge three in a row without a flicker. | Je laadt er drie achter elkaar op zonder een flikkering. |
+| `Draw from the crystal` | Draw from the crystal | Put uit het kristal |
+| `The crystal gives more than you ask. You take only what you need.` | The crystal gives more than you ask. You take only what you need. | Het kristal geeft meer dan je vraagt. Je neemt alleen wat je nodig hebt. |
+| `Draw from the desert fragment` | Draw from the desert fragment | Put uit het woestijnfragment |
+| `Dry air, sharp essence. Your hands stay steady.` | Dry air, sharp essence. Your hands stay steady. | Droge lucht, scherpe essentie. Je handen blijven vast. |
+| `Charge in the desert heat` | Charge in the desert heat | Laad op in de woestijnhitte |
+| `The heat fights you. You win by going slower.` | The heat fights you. You win by going slower. | De hitte vecht tegen je. Je wint door langzamer te gaan. |
+| `Draw deep from the rift` | Draw deep from the rift | Put diep uit de scheur |
+| `The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism.` | The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism. | De scheur stort heldere essentie uit en jij houdt alles vast. De betoveraar stuurt een geleider en een prisma. |
+| `Mastery: Farm and Brew` | Mastery: Farm and Brew | Meesterschap: Landbouw en Brouwen |
+| `A herbalist wants you to grow and brew the plainest remedies again.` | A herbalist wants you to grow and brew the plainest remedies again. | Een kruidenvrouw wil dat je de eenvoudigste middeltjes weer kweekt en brouwt. |
+| `Meet the herbalist` | Meet the herbalist | Ontmoet de kruidenvrouw |
+| `'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.'` | 'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.' | 'Zeldzame bloemen, chique tonica. Kun je nog schermutselwortel kweken en zuiver brouwen? Laat zien.' |
+| `Plant skirmish root` | Plant skirmish root | Plant schermutselwortel |
+| `You plant in straight rows and water at dusk.` | You plant in straight rows and water at dusk. | Je plant in rechte rijen en geeft water bij schemering. |
+| `Weed the farm plot` | Weed the farm plot | Wied het akkerperceel |
+| `Weeds come up easy after rain. You clear the whole plot.` | Weeds come up easy after rain. You clear the whole plot. | Na regen komt onkruid er makkelijk uit. Je wiedt het hele perceel. |
+| `Brew a simple tonic` | Brew a simple tonic | Brouw een eenvoudig tonicum |
+| `Root, water and patience. It comes out clear.` | Root, water and patience. It comes out clear. | Wortel, water en geduld. Het wordt helder. |
+| `Harvest the hillside plot` | Harvest the hillside plot | Oogst het heuvelperceel |
+| `The hill soil is thin. You coax a small harvest out of it.` | The hill soil is thin. You coax a small harvest out of it. | De heuvelgrond is schraal. Je lokt er een kleine oogst uit. |
+| `Grow herbs in cold soil` | Grow herbs in cold soil | Kweek kruiden in koude grond |
+| `Frost-hardy herbs, slow to grow and worth the wait.` | Frost-hardy herbs, slow to grow and worth the wait. | Vorstbestendige kruiden, traag groeiend en het wachten waard. |
+| `Brew at the fern cauldron` | Brew at the fern cauldron | Brouw bij de varenketel |
+| `You let it simmer twice as long as you used to. It is better for it.` | You let it simmer twice as long as you used to. It is better for it. | Je laat het twee keer zo lang sudderen als vroeger. Het wordt er beter van. |
+| `Brew a calming draught` | Brew a calming draught | Brouw een kalmerende drank |
+| `The draught settles your own nerves before anyone else's.` | The draught settles your own nerves before anyone else's. | De drank kalmeert je eigen zenuwen eerder dan die van wie dan ook. |
+| `Brew for the mountain watch` | Brew for the mountain watch | Brouw voor de bergwacht |
+| `The watch drinks it cold. Nobody complains.` | The watch drinks it cold. Nobody complains. | De wacht drinkt het koud. Niemand klaagt. |
+| `Tend the pine plot` | Tend the pine plot | Verzorg het dennenperceel |
+| `Needles in the soil, sharp herbs in the rows.` | Needles in the soil, sharp herbs in the rows. | Naalden in de grond, pittige kruiden in de rijen. |
+| `Brew one last plain remedy` | Brew one last plain remedy | Brouw een laatste eenvoudig middel |
+| `The herbalist tastes it and nods once.` | The herbalist tastes it and nods once. | De kruidenvrouw proeft het en knikt één keer. |
+| `Brew a master tonic` | Brew a master tonic | Brouw een meestertonicum |
+| `You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar.` | You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar. | Je brouwt een tonicum dat de apotheker nooit gelukt is. De kruidenvrouw stuurt een plantschepje en een vijzel. |
+| `Mastery: Plunder and Barter` | Mastery: Plunder and Barter | Meesterschap: Plunder en Ruilhandel |
+| `A retired fence wants to see you work the small markets honestly again.` | A retired fence wants to see you work the small markets honestly again. | Een gepensioneerde heler wil zien dat je de kleine markten weer eerlijk bewerkt. |
+| `Meet the retired fence` | Meet the retired fence | Ontmoet de gepensioneerde heler |
+| `'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.'` | 'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.' | 'Je berooft kluizen en koopt hele markten op. Ga iemands zakken rollen en verkoop wat je pakte voor een eerlijke prijs.' |
+| `Haggle at the small stalls` | Haggle at the small stalls | Ding af bij de kleine kraampjes |
+| `You argue a copper off a loaf of bread. The baker laughs.` | You argue a copper off a loaf of bread. The baker laughs. | Je dingt een koperstuk af op een brood. De bakker lacht. |
+| `Lift a purse in the alley` | Lift a purse in the alley | Pik een beurs in de steeg |
+| `Small purse, quick hands. Nobody notices.` | Small purse, quick hands. Nobody notices. | Kleine beurs, snelle handen. Niemand merkt het. |
+| `Pick a lock in the alley` | Pick a lock in the alley | Kraak een slot in de steeg |
+| `An old padlock. You open it with a bent nail.` | An old padlock. You open it with a bent nail. | Een oud hangslot. Je opent het met een kromme spijker. |
+| `Shadow a merchant` | Shadow a merchant | Schaduw een koopman |
+| `You follow him for an hour and learn where he keeps his coin.` | You follow him for an hour and learn where he keeps his coin. | Je volgt hem een uur en ontdekt waar hij zijn geld bewaart. |
+| `Sell a stolen trinket` | Sell a stolen trinket | Verkoop een gestolen snuisterij |
+| `You sell it back to its owner for a fair price. The fence would approve.` | You sell it back to its owner for a fair price. The fence would approve. | Je verkoopt het terug aan de eigenaar voor een eerlijke prijs. De heler zou het goedkeuren. |
+| `Slip past the watch` | Slip past the watch | Glip langs de wacht |
+| `The watch never looks up from their dice.` | The watch never looks up from their dice. | De wacht kijkt geen moment op van de dobbelstenen. |
+| `Trade at the dockside stalls` | Trade at the dockside stalls | Handel bij de kraampjes aan de kade |
+| `Fish for rope, rope for coin. You come out ahead.` | Fish for rope, rope for coin. You come out ahead. | Vis voor touw, touw voor munten. Je houdt er winst aan over. |
+| `Work the dock alley` | Work the dock alley | Bewerk de havensteeg |
+| `Sailors keep loose coin. You keep some of it.` | Sailors keep loose coin. You keep some of it. | Zeelui hebben los geld bij zich. Jij houdt er wat van. |
+| `Lift a guard captain's keys` | Lift a guard captain's keys | Pik de sleutels van een wachtkapitein |
+| `You borrow them and return them before he notices.` | You borrow them and return them before he notices. | Je leent ze en brengt ze terug voordat hij het merkt. |
+| `Fence goods in the cold alley` | Fence goods in the cold alley | Zet gestolen waar af in de koude steeg |
+| `The buyer pays in full and asks no questions.` | The buyer pays in full and asks no questions. | De koper betaalt volledig en stelt geen vragen. |
+| `Strike a deal at the pirate market` | Strike a deal at the pirate market | Sluit een deal op de piratenmarkt |
+| `You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales.` | You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales. | Je onderhandelt met piraten en vertrekt met hun beste waar. De heler stuurt een slothaak en een weegschaal. |
+| `Mastery: Bard and Discover` | Mastery: Bard and Discover | Meesterschap: Bard en Ontdekken |
+| `A wandering minstrel wants new songs from the oldest campfires.` | A wandering minstrel wants new songs from the oldest campfires. | Een rondtrekkende minstreel wil nieuwe liederen van de oudste kampvuren. |
+| `Meet the wandering minstrel` | Meet the wandering minstrel | Ontmoet de rondtrekkende minstreel |
+| `'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.'` | 'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.' | 'Elke bard zingt in de grote zalen. Ik wil liederen van kampvuren, en van plekken die niemand in kaart brengt.' |
+| `Sing at the campfire` | Sing at the campfire | Zing bij het kampvuur |
+| `Two travellers and a dog. You play until they fall asleep.` | Two travellers and a dog. You play until they fall asleep. | Twee reizigers en een hond. Je speelt tot ze in slaap vallen. |
+| `Survey the nearby hills` | Survey the nearby hills | Verken de nabije heuvels |
+| `You find an old marker stone and copy its carving.` | You find an old marker stone and copy its carving. | Je vindt een oude grenssteen en neemt het snijwerk over. |
+| `Map the frozen ridge` | Map the frozen ridge | Breng de bevroren bergkam in kaart |
+| `Your map is rough but true. The minstrel likes rough.` | Your map is rough but true. The minstrel likes rough. | Je kaart is ruw maar klopt. De minstreel houdt van ruw. |
+| `Swap songs with the guards` | Swap songs with the guards | Wissel liederen uit met de wachters |
+| `The guards know a verse you have never heard. You trade one of yours for it.` | The guards know a verse you have never heard. You trade one of yours for it. | De wachters kennen een couplet dat je nog nooit hebt gehoord. Je ruilt er een van jezelf voor. |
+| `Search the old prospect` | Search the old prospect | Doorzoek de oude proefput |
+| `Under loose stones you find a tin cup with initials scratched in.` | Under loose stones you find a tin cup with initials scratched in. | Onder losse stenen vind je een tinnen beker met ingekraste initialen. |
+| `Scout the frozen pass` | Scout the frozen pass | Verken de bevroren pas |
+| `Wind has carved the pass into a strange shape. You sketch it.` | Wind has carved the pass into a strange shape. You sketch it. | De wind heeft de pas in een vreemde vorm uitgesleten. Je schetst hem. |
+| `Play for the frost watch` | Play for the frost watch | Speel voor de vorstwacht |
+| `The watch claps with mittens on. It sounds like rain.` | The watch claps with mittens on. It sounds like rain. | De wacht klapt met wanten aan. Het klinkt als regen. |
+| `Perform in the old tavern` | Perform in the old tavern | Treed op in de oude taverne |
+| `You play the guards' verse. The tavern sings it back.` | You play the guards' verse. The tavern sings it back. | Je speelt het couplet van de wachters. De taverne zingt het terug. |
+| `Write a song by the fire` | Write a song by the fire | Schrijf een lied bij het vuur |
+| `You write about the tin cup and the carved pass.` | You write about the tin cup and the carved pass. | Je schrijft over de tinnen beker en de uitgesleten pas. |
+| `Find the lost marker` | Find the lost marker | Vind de verloren grenssteen |
+| `The last marker is half buried. You dig it out and read it.` | The last marker is half buried. You dig it out and read it. | De laatste grenssteen is half begraven. Je graaft hem uit en leest hem. |
+| `Chart the far reaches` | Chart the far reaches | Breng de verre uithoeken in kaart |
+| `You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens.` | You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens. | Je brengt de verre uithoeken in kaart en schrijft je lied bij de kaart. De minstreel stuurt een instrument en een lens. |
+| `Mastery: Vigor and Slay` | Mastery: Vigor and Slay | Meesterschap: Levenslust en Slacht |
+| `A slayer captain wants your stamina and your first kills done right again.` | A slayer captain wants your stamina and your first kills done right again. | Een kapitein van de monsterjagers wil je uithoudingsvermogen en je eerste prooien weer goed gedaan zien. |
+| `Report to the slayer captain` | Report to the slayer captain | Meld je bij de kapitein van de monsterjagers |
+| `'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?'` | 'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?' | 'Je jaagt op de ergste wezens die er zijn. Prima. Kun je nog een rondje over het terrein rennen en een golem fatsoenlijk doden?' |
+| `Run the training yard` | Run the training yard | Ren over het oefenterrein |
+| `Ten laps, carrying a sandbag. You finish the last one sprinting.` | Ten laps, carrying a sandbag. You finish the last one sprinting. | Tien rondes, met een zandzak. De laatste ren je sprintend uit. |
+| `Slay a feeble golem` | Slay a feeble golem | Dood een zwakke golem |
+| `You find the crack in its chest and strike there.` | You find the crack in its chest and strike there. | Je vindt de barst in zijn borst en slaat daar toe. |
+| `Drill in the frozen yard` | Drill in the frozen yard | Train op het bevroren terrein |
+| `Ice underfoot. You learn to run without trusting the ground.` | Ice underfoot. You learn to run without trusting the ground. | IJs onder je voeten. Je leert rennen zonder de grond te vertrouwen. |
+| `Slay a dire golem` | Slay a dire golem | Dood een grimmige golem |
+| `Same crack, bigger golem. It falls the same way.` | Same crack, bigger golem. It falls the same way. | Dezelfde barst, grotere golem. Hij valt op dezelfde manier. |
+| `Climb the frost wall` | Climb the frost wall | Beklim de vorstmuur |
+| `Hand over hand, no rope. Your arms burn and hold.` | Hand over hand, no rope. Your arms burn and hold. | Hand over hand, zonder touw. Je armen branden en houden het. |
+| `Sprint the mountain yard` | Sprint the mountain yard | Sprint over het bergterrein |
+| `Thin air, long sprints. Your breath stays even.` | Thin air, long sprints. Your breath stays even. | IJle lucht, lange sprints. Je adem blijft gelijkmatig. |
+| `Slay a dire skeleton` | Slay a dire skeleton | Dood een grimmig skelet |
+| `You break it at the spine before it can rise.` | You break it at the spine before it can rise. | Je breekt zijn ruggengraat voordat het kan opstaan. |
+| `Haul stone across the yard` | Haul stone across the yard | Sleep stenen over het terrein |
+| `You carry stones until the yard master runs out of them.` | You carry stones until the yard master runs out of them. | Je draagt stenen tot de terreinmeester er geen meer heeft. |
+| `Run the breakwood course` | Run the breakwood course | Loop het breekhoutparcours |
+| `Logs, ditches, walls. You clear it twice.` | Logs, ditches, walls. You clear it twice. | Boomstammen, sloten, muren. Je haalt het twee keer. |
+| `Slay a dire treant` | Slay a dire treant | Dood een grimmige treant |
+| `You take it apart one branch at a time.` | You take it apart one branch at a time. | Je haalt hem tak voor tak uit elkaar. |
+| `Climb to the pinnacle` | Climb to the pinnacle | Klim naar de top |
+| `You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.'` | You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.' | Je bereikt de top zonder te stoppen. De kapitein stuurt sportschoenen en een uitdunnend mes. 'Fit genoeg om op alles te jagen.' |
+| `Mastery: Luck and Alms` | Mastery: Luck and Alms | Meesterschap: Geluk en Aalmoes |
+| `An almoner believes fortune follows the generous. Spend a day proving it.` | An almoner believes fortune follows the generous. Spend a day proving it. | Een aalmoezenier gelooft dat het geluk de vrijgevigen volgt. Besteed een dag om het te bewijzen. |
+| `Meet the almoner` | Meet the almoner | Ontmoet de aalmoezenier |
+| `'Give freely and luck finds you. Most people never test it. Come and test it.'` | 'Give freely and luck finds you. Most people never test it. Come and test it.' | 'Geef ruimhartig en het geluk vindt je. De meeste mensen testen het nooit. Kom het testen.' |
+| `Feed a hungry child` | Feed a hungry child | Geef een hongerig kind te eten |
+| `You buy bread for a child in the alley. On the way out you find a coin.` | You buy bread for a child in the alley. On the way out you find a coin. | Je koopt brood voor een kind in de steeg. Op weg naar buiten vind je een munt. |
+| `Pay a stranger's debt` | Pay a stranger's debt | Betaal de schuld van een vreemde |
+| `The stallholder is stunned. Then she gives you a lucky charm she carved.` | The stallholder is stunned. Then she gives you a lucky charm she carved. | De marktkoopvrouw is sprakeloos. Dan geeft ze je een gelukstalisman die ze zelf heeft gesneden. |
+| `Buy a smith his tools back` | Buy a smith his tools back | Koop het gereedschap van een smid terug |
+| `The smith had pawned his hammer. You buy it back for him.` | The smith had pawned his hammer. You buy it back for him. | De smid had zijn hamer verpand. Jij koopt hem voor hem terug. |
+| `Donate to the town chest` | Donate to the town chest | Doneer aan de stadskas |
+| `The banker counts your gift twice to be sure.` | The banker counts your gift twice to be sure. | De bankier telt je gift voor de zekerheid twee keer. |
+| `Leave coin for the wardens` | Leave coin for the wardens | Laat munten achter voor de hoeders |
+| `The wardens are grateful. One of them gives you a tip about a dice game.` | The wardens are grateful. One of them gives you a tip about a dice game. | De hoeders zijn dankbaar. Een van hen geeft je een tip over een dobbelspel. |
+| `Play dice with the wardens` | Play dice with the wardens | Dobbel met de hoeders |
+| `You win three rolls in a row and give the winnings back.` | You win three rolls in a row and give the winnings back. | Je wint drie worpen op rij en geeft de winst terug. |
+| `Plant a clover for luck` | Plant a clover for luck | Plant een klavertje voor geluk |
+| `You find a four-leaf clover while planting. The almoner is not surprised.` | You find a four-leaf clover while planting. The almoner is not surprised. | Tijdens het planten vind je een klavertjevier. De aalmoezenier is niet verbaasd. |
+| `Fund the village well` | Fund the village well | Financier de dorpsput |
+| `The village will have clean water by spring.` | The village will have clean water by spring. | Tegen de lente heeft het dorp schoon water. |
+| `Pay the dockhands' wages` | Pay the dockhands' wages | Betaal het loon van de havenarbeiders |
+| `The harbour master had run short. The dockhands cheer.` | The harbour master had run short. The dockhands cheer. | De havenmeester kwam tekort. De havenarbeiders juichen. |
+| `Buy out a poor trader` | Buy out a poor trader | Koop een arme handelaarster leeg |
+| `You buy her last fish at full price. She swears it will bring you luck.` | You buy her last fish at full price. She swears it will bring you luck. | Je koopt haar laatste vis voor de volle prijs. Ze zweert dat het je geluk zal brengen. |
+| `Give at the great market` | Give at the great market | Geef op de grote markt |
+| `You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer.` | You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer. | Je geeft een beurs weg op de markt en wint op de terugweg een loterij. De aalmoezenier stuurt een talisman en een wierookvat. |
+| `Mastery: Delve and Fortify` | Mastery: Delve and Fortify | Meesterschap: Delven en Verstevigen |
+| `A raid veteran wants every dungeon and Fortress wave run from the start.` | A raid veteran wants every dungeon and Fortress wave run from the start. | Een raidveteraan wil elke kerker en elke Gauntlet-golf vanaf het begin gespeeld zien. |
+| `Meet the raid veteran` | Meet the raid veteran | Ontmoet de raidveteraan |
+| `'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.'` | 'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.' | 'Je speelt de zwaarste raids met je ogen dicht. Doe ze open. Begin bij de eerste kerker.' |
+| `Hear the delvers' stories` | Hear the delvers' stories | Hoor de verhalen van de delvers |
+| `Old delvers trade stories of the first dungeon. You learn a route you never knew.` | Old delvers trade stories of the first dungeon. You learn a route you never knew. | Oude delvers wisselen verhalen uit over de eerste kerker. Je leert een route die je nooit kende. |
+| `You clear it using the old route. It is faster than yours.` | You clear it using the old route. It is faster than yours. | Je voltooit hem via de oude route. Die is sneller dan de jouwe. |
+| `Hold the Fortress for 20 waves` | Hold the Fortress for 20 waves | Houd 20 golven stand in de Gauntlet |
+| `You hold the walls with plain supplies. Twenty waves, no losses.` | You hold the walls with plain supplies. Twenty waves, no losses. | Je houdt de muren met eenvoudige voorraden. Twintig golven, geen verliezen. |
+| `Restock near the Fortress` | Restock near the Fortress | Vul je voorraad aan bij de Gauntlet |
+| `You restock and swap stories with the Fortress crews.` | You restock and swap stories with the Fortress crews. | Je vult je voorraad aan en wisselt verhalen uit met de Gauntlet-ploegen. |
+| `Patch your raid gear` | Patch your raid gear | Lap je raiduitrusting op |
+| `Torn straps, cracked buckles. You fix them all yourself.` | Torn straps, cracked buckles. You fix them all yourself. | Gescheurde riemen, gebarsten gespen. Je repareert ze allemaal zelf. |
+| `You lead the party and let them set the pace.` | You lead the party and let them set the pace. | Je leidt de groep en laat hen het tempo bepalen. |
+| `Hold the Fortress for 40 waves` | Hold the Fortress for 40 waves | Houd 40 golven stand in de Gauntlet |
+| `Forty waves. Your deposits never stop.` | Forty waves. Your deposits never stop. | Veertig golven. Je stortingen houden nooit op. |
+| `Plan the Savage run` | Plan the Savage run | Plan de tocht door de Woeste Kerker |
+| `The veteran's notes cover every room. You add a few of your own.` | The veteran's notes cover every room. You add a few of your own. | De aantekeningen van de veteraan beslaan elke kamer. Je voegt er zelf een paar aan toe. |
+| `Clear a Savage Dungeon` | Clear a Savage Dungeon | Voltooi een Woeste Kerker |
+| `The Savage Dungeon goes the way the notes said it would.` | The Savage Dungeon goes the way the notes said it would. | De Woeste Kerker verloopt precies zoals de aantekeningen zeiden. |
+| `Hold the Fortress for 60 waves` | Hold the Fortress for 60 waves | Houd 60 golven stand in de Gauntlet |
+| `Sixty waves. The walls hold because you planned them to.` | Sixty waves. The walls hold because you planned them to. | Zestig golven. De muren houden stand omdat jij het zo gepland hebt. |
+| `Clear a Fell Dungeon` | Clear a Fell Dungeon | Voltooi een Wrede Kerker |
+| `You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification.` | You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification. | Je voltooit de Wrede Kerker van de eerste tot de laatste kamer. De veteraan stuurt een schedel en een versterking. |
+| `Gather the masters` | Gather the masters | Roep de meesters bijeen |
+| `Harvest the great orchard` | Harvest the great orchard | Oogst de grote boomgaard |
+| `The best trees in the land, picked clean and left healthy.` | The best trees in the land, picked clean and left healthy. | De beste bomen van het land, schoon geplukt en gezond achtergelaten. |
+| `Fish the open sea` | Fish the open sea | Vis op open zee |
+| `You bring in a catch the fishwife would frame.` | You bring in a catch the fishwife would frame. | Je haalt een vangst binnen die de visvrouw zou inlijsten. |
+| `Draw from the obelisk` | Draw from the obelisk | Put uit de obelisk |
+| `The obelisk gives freely to someone who asks properly.` | The obelisk gives freely to someone who asks properly. | De obelisk geeft gul aan wie het netjes vraagt. |
+| `Work the underground` | Work the underground | Werk in de ondergrond |
+| `You take what you came for and leave no trace.` | You take what you came for and leave no trace. | Je neemt waarvoor je kwam en laat geen spoor achter. |
+| `Trade at the grand market` | Trade at the grand market | Handel op de grote bazaar |
+| `Every stall gives you its best price.` | Every stall gives you its best price. | Elke kraam geeft je zijn beste prijs. |
+| `Forge at the great foundry` | Forge at the great foundry | Smeed in de grote gieterij |
+| `The foundry's masters stop to watch you work.` | The foundry's masters stop to watch you work. | De meesters van de gieterij houden op om je te zien werken. |
+| `Perform at the royal court` | Perform at the royal court | Treed op aan het koninklijk hof |
+| `The court stands for your last song.` | The court stands for your last song. | Het hof staat op voor je laatste lied. |
+| `Craft at the syndicate atelier` | Craft at the syndicate atelier | Vervaardig in het atelier van het syndicaat |
+| `You craft a piece the atelier keeps on display.` | You craft a piece the atelier keeps on display. | Je vervaardigt een stuk dat het atelier tentoonstelt. |
+| `Forage the far wilds` | Forage the far wilds | Verzamel in de verre wildernis |
+| `The wilds give up their rarest growth to you.` | The wilds give up their rarest growth to you. | De wildernis staat haar zeldzaamste gewassen aan je af. |
+| `Run the long valley` | Run the long valley | Ren door de lange vallei |
+| `You run it end to end and keep your breath.` | You run it end to end and keep your breath. | Je rent hem van begin tot eind en blijft op adem. |
+| `The masters have one more test, at the edges of the world.` | The masters have one more test, at the edges of the world. | De meesters hebben nog één beproeving, aan de randen van de wereld. |
+| `Meet the masters again` | Meet the masters again | Ontmoet de meesters opnieuw |
+| `Forage the deep hollows` | Forage the deep hollows | Verzamel in de diepe holten |
+| `You find growth down here no forager has named.` | You find growth down here no forager has named. | Hier beneden vind je gewassen die nog geen verzamelaar een naam gaf. |
+| `Mine the high ledge` | Mine the high ledge | Hak erts op de hoge richel |
+| `Ore from the ledge, brought down without a single slip.` | Ore from the ledge, brought down without a single slip. | Erts van de richel, naar beneden gebracht zonder één misstap. |
+| `Fish the eastern coast` | Fish the eastern coast | Vis aan de oostkust |
+| `You land a fish from water nobody fishes.` | You land a fish from water nobody fishes. | Je vangt een vis uit water waar niemand vist. |
+| `Chart the ruined coast` | Chart the ruined coast | Breng de verwoeste kust in kaart |
+| `Your chart corrects three maps the cartographers trusted.` | Your chart corrects three maps the cartographers trusted. | Je kaart verbetert drie kaarten waarop de cartografen vertrouwden. |
+| `Charge essence at the arc` | Charge essence at the arc | Laad essentie op bij de lichtboog |
+| `The arc burns bright and steady in your hands.` | The arc burns bright and steady in your hands. | De lichtboog brandt fel en gestaag in je handen. |
+| `Cook a feast for the masters` | Cook a feast for the masters | Kook een feestmaal voor de meesters |
+| `Fifteen masters, one table. Every plate comes back clean.` | Fifteen masters, one table. Every plate comes back clean. | Vijftien meesters, één tafel. Elk bord komt leeg terug. |
+| `Draw from the last obelisk` | Draw from the last obelisk | Put uit de laatste obelisk |
+| `The obelisk at the end of the world answers you.` | The obelisk at the end of the world answers you. | De obelisk aan het einde van de wereld geeft je antwoord. |
+| `Play the eastern court` | Play the eastern court | Speel aan het oostelijke hof |
+| `The court asks for the campfire songs. You play them all.` | The court asks for the campfire songs. You play them all. | Het hof vraagt om de kampvuurliederen. Je speelt ze allemaal. |
+| `Brew the masters' remedy` | Brew the masters' remedy | Brouw het middel van de meesters |
+| `A remedy built from every plain herb you grew.` | A remedy built from every plain herb you grew. | Een middel gemaakt van elk eenvoudig kruid dat je kweekte. |
+| `Bargain with the pirate lords` | Bargain with the pirate lords | Onderhandel met de piratenheren |
+| `The pirate lords pay you to leave.` | The pirate lords pay you to leave. | De piratenheren betalen je om te vertrekken. |
+| `Clear an Ancient Dungeon` | Clear an Ancient Dungeon | Voltooi een Aloude Kerker |
+| `The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.'` | The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.' | De meesters wachten bij de oudste kerker. Ze geven je een tweede globe en een lantaarn. 'Nu hoef je niets meer te bewijzen.' |
+| `[Q1] Enchanted Rod` | [Q1] Enchanted Rod | [Q1] Betoverde hengel |
+| `[Q1] Enchanted Pickaxe` | [Q1] Enchanted Pickaxe | [Q1] Betoverde houweel |
+| `[Q1] Enchanted Sickle` | [Q1] Enchanted Sickle | [Q1] Betoverde sikkel |
+| `[Q1] Enchanted Conduit` | [Q1] Enchanted Conduit | [Q1] Betoverde geleider |
+| `[Q1] Enchanted Trowel` | [Q1] Enchanted Trowel | [Q1] Betoverde plantschep |
+| `[Q1] Enchanted Lockpick` | [Q1] Enchanted Lockpick | [Q1] Betoverde loper |
+| `[Q1] Enchanted Instrument` | [Q1] Enchanted Instrument | [Q1] Betoverd instrument |
+| `[Q1] Enchanted Trainers` | [Q1] Enchanted Trainers | [Q1] Betoverde sportschoenen |
+| `[Q1] Culling Knife` | [Q1] Culling Knife | [Q1] Uitdunnend mes |
+| `[Q1] Lucky Charm` | [Q1] Lucky Charm | [Q1] Gelukstalisman |
+| `[Q1] Enchanted Censer` | [Q1] Enchanted Censer | [Q1] Betoverd wierookvat |
+| `[Q1] Enchanted Skillet` | [Q1] Enchanted Skillet | [Q1] Betoverde koekenpan |
+| `[Q1] Enchanted Hammer` | [Q1] Enchanted Hammer | [Q1] Betoverde hamer |
+| `[Q1] Enchanted Chisel` | [Q1] Enchanted Chisel | [Q1] Betoverde beitel |
+| `[Q1] Enchanted Prism` | [Q1] Enchanted Prism | [Q1] Betoverd prisma |
+| `[Q1] Enchanted Mortar` | [Q1] Enchanted Mortar | [Q1] Betoverde vijzel |
+| `[Q1] Enchanted Scales` | [Q1] Enchanted Scales | [Q1] Betoverde schubben |
+| `[Q1] Enchanted Lens` | [Q1] Enchanted Lens | [Q1] Betoverde lens |
+| `[Q1] Enchanted Lantern` | [Q1] Enchanted Lantern | [Q1] Betoverde lantaarn |
+| `[Q1] Enchanted Pommel` | [Q1] Enchanted Pommel | [Q1] Betoverde knop |
+| `[Q1] Enchanted Grip` | [Q1] Enchanted Grip | [Q1] Betoverde greep |
+| `[Q1] Enchanted Notch` | [Q1] Enchanted Notch | [Q1] Betoverde inkeping |
+| `[Q1] Enchanted Bowstring` | [Q1] Enchanted Bowstring | [Q1] Betoverde boogpees |
+| `[Q1] Enchanted Orb` | [Q1] Enchanted Orb | [Q1] Betoverde bol |
+| `[Q1] Enchanted Catalyst` | [Q1] Enchanted Catalyst | [Q1] Betoverde katalysator |
+| `[Q1] Enchanted Spring` | [Q1] Enchanted Spring | [Q1] Betoverde veer |
+| `[Q1] Enchanted Shim` | [Q1] Enchanted Shim | [Q1] Betoverd vulplaatje |
+| `[Q1] Enchanted Salve` | [Q1] Enchanted Salve | [Q1] Betoverde zalf |
+| `[Q1] Enchanted Relic` | [Q1] Enchanted Relic | [Q1] Betoverd relikwie |
+| `[T1] Globe of Skills` | [T1] Globe of Skills | [T1] Vaardigheidsglobe |
+| `[T2] Globe of Skills` | [T2] Globe of Skills | [T2] Vaardigheidsglobe |
+| `[Q1] Enchanted Skull` | [Q1] Enchanted Skull | [Q1] Betoverde schedel |
+| `[Q1] Enchanted Fortification` | [Q1] Enchanted Fortification | [Q1] Betoverde versterking |
+| `Earned by completing every quest. New quests re-lock it until they are done.` | Earned by completing every quest. New quests re-lock it until they are done. | Verdiend door elke quest te voltooien. Nieuwe quests vergrendelen hem opnieuw tot ze voltooid zijn. |
+| `New quests have arrived. Complete them to earn your Quest Cape back.` | New quests have arrived. Complete them to earn your Quest Cape back. | Er zijn nieuwe quests verschenen. Voltooi ze om je Quest-mantel terug te verdienen. |
+| `Quest Cape Unlocked!` | Quest Cape Unlocked! | Quest-mantel ontgrendeld! |
+| `Unlock Requirements` | Unlock Requirements | Vereisten voor ontgrendeling |
+| `Q1` | Q1 | Q1 |
+| `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Vaardigheidsglobes: +{0}% (+{1} stappen/sec) |
+| `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Quest-mantel: +{0}% (+{1} stappen/sec) |
+| `@crit_pct_globes` | Globes of Skills: {0}% | Vaardigheidsglobes: {0}% |
+| `@globes_count` | Globes of Skills {0}/{1} | Vaardigheidsglobes {0}/{1} |
+| `@quest_cape_count` | Quest Cape {0}/{1} | Quest-mantel {0}/{1} |
+| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% bewegingssnelheid zolang elke quest voltooid is |
+| `@all_skills_lv` | All Skills Lv {0} | Alle Vaardigheden Niv {0} |
+| `@b:auto_process` | +{0}% auto-process chance | +{0}% kans op auto-verwerking |
+| `@b:auto_bank` | +{0}% auto-bank chance | +{0}% kans op auto-banken |
+| `@b:min_hit` | +{0} min hit | +{0} min. treffer |
+| `@b:max_hit` | +{0} max hit | +{0} max. treffer |
+| `@b:quest_cape_held` | Held while every quest is completed | Behouden zolang elke quest voltooid is |
+| `Mastery: The Feeble Trial` | Mastery: The Feeble Trial | Meesterschap: De Zwakke Proef |
+| `The masters test anyone who has survived a dungeon. The first trial starts close to home.` | The masters test anyone who has survived a dungeon. The first trial starts close to home. | De meesters testen iedereen die een kerker heeft overleefd. De eerste proef begint dicht bij huis. |
+| `Meet the masters at Fernstead` | Meet the masters at Fernstead | Ontmoet de meesters in Fernstead |
+| `A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.'` | A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.' | Bij de bank wacht een meester in een eenvoudige jas. 'Je hebt een kerker van binnen gezien. Laat ons nu zien dat je de kleine dingen goed kunt.' |
+| `Cook at the Fernstead hearth` | Cook at the Fernstead hearth | Kook bij de Fernstead-haard |
+| `Simple bread, baked right. The master takes a bite and nods.` | Simple bread, baked right. The master takes a bite and nods. | Eenvoudig brood, goed gebakken. De meester neemt een hap en knikt. |
+| `Haggle at the stalls` | Haggle at the stalls | Ding af bij de kramen |
+| `You walk away with a fair price and a new friend.` | You walk away with a fair price and a new friend. | Je vertrekt met een eerlijke prijs en een nieuwe vriend. |
+| `Tend the Fernstead field` | Tend the Fernstead field | Verzorg het Fernstead-veld |
+| `Straight rows and no weeds. The farmer asks who taught you.` | Straight rows and no weeds. The farmer asks who taught you. | Rechte rijen en geen onkruid. De boer vraagt wie het je heeft geleerd. |
+| `Forage the thicket` | Forage the thicket | Verzamel in het struikgewas |
+| `You come out with a full basket and not one scratch.` | You come out with a full basket and not one scratch. | Je komt eruit met een volle mand en geen enkele schram. |
+| `Survey the Woodgap hills` | Survey the Woodgap hills | Meet de heuvels bij Woodgap op |
+| `Your notes fill the gaps on the old survey map.` | Your notes fill the gaps on the old survey map. | Je aantekeningen vullen de gaten op de oude opmetingskaart. |
+| `Work the Ironice smithy` | Work the Ironice smithy | Werk in de Ironice-smederij |
+| `A plain blade, balanced and sharp. The smith hangs it on the wall.` | A plain blade, balanced and sharp. The smith hangs it on the wall. | Een eenvoudige kling, goed in balans en scherp. De smid hangt hem aan de muur. |
+| `Cut stone at the quarry` | Cut stone at the quarry | Hak steen in de groeve |
+| `Clean blocks, cut square. The quarry boss has no complaints.` | Clean blocks, cut square. The quarry boss has no complaints. | Nette blokken, haaks gehakt. De baas van de groeve heeft niets te klagen. |
+| `Play at the Splitstone campfire` | Play at the Splitstone campfire | Speel bij het Splitstone-kampvuur |
+| `Travelers stop to listen. One of them is a master.` | Travelers stop to listen. One of them is a master. | Reizigers blijven staan om te luisteren. Een van hen is een meester. |
+| `Work the Pinegap alley` | Work the Pinegap alley | Werk in de Pinegap-steeg |
+| `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Je pikt een beurs en geeft hem terug voordat de eigenaar het merkt. De meester lacht. |
+| `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Put uit het Pinegap-kristal |
+| `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Het kristal zoemt en de essentie komt er zuiver uit. |
+| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | De meesters wachten bij de ingang van de kerker. 'Een goed begin. De volgende proef ligt verder weg.' |
+| `Mastery: The Dire Trial` | Mastery: The Dire Trial | Meesterschap: De Grimmige Proef |
+| `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | De tweede proef brengt je naar het koude westen, waar de meesters harder werken. |
+| `Meet the masters at Timberchill` | Meet the masters at Timberchill | Ontmoet de meesters in Timberchill |
+| `'The first trial was easy on purpose. This one is not.'` | 'The first trial was easy on purpose. This one is not.' | 'De eerste proef was met opzet makkelijk. Deze niet.' |
+| `Join the Timberchill expedition` | Join the Timberchill expedition | Sluit je aan bij de Timberchill-expeditie |
+| `You lead the expedition home with a full map and every pack mule.` | You lead the expedition home with a full map and every pack mule. | Je brengt de expeditie thuis met een volledige kaart en alle pakezels. |
+| `Cook in the Icemast kitchen` | Cook in the Icemast kitchen | Kook in de Icemast-keuken |
+| `Hot stew for a cold crew. Everyone asks for seconds.` | Hot stew for a cold crew. Everyone asks for seconds. | Warme stoofpot voor een koude ploeg. Iedereen wil nog een bord. |
+| `Fish the frozen lake` | Fish the frozen lake | Vis op het bevroren meer |
+| `You cut a hole in the ice and fill a bucket before noon.` | You cut a hole in the ice and fill a bucket before noon. | Je hakt een wak in het ijs en vult voor de middag een emmer. |
+| `Forge at the Battlefrost smithy` | Forge at the Battlefrost smithy | Smeed in de Battlefrost-smederij |
+| `Armor for the frontier guard, every plate fitted.` | Armor for the frontier guard, every plate fitted. | Harnassen voor de grenswacht, elke plaat op maat. |
+| `Brew for the Battlefrost garrison` | Brew for the Battlefrost garrison | Brouw voor het garnizoen van Battlefrost |
+| `A strong ale for a long winter. The garrison approves.` | A strong ale for a long winter. The garrison approves. | Een sterk bier voor een lange winter. Het garnizoen keurt het goed. |
+| `Play the Battlefrost tavern` | Play the Battlefrost tavern | Speel in de Battlefrost-taverne |
+| `A tavern full of soldiers sings along.` | A tavern full of soldiers sings along. | Een taverne vol soldaten zingt mee. |
+| `Draw from the Windhollow rift` | Draw from the Windhollow rift | Put uit de Windhollow-kloof |
+| `The rift pulls back. You pull harder.` | The rift pulls back. You pull harder. | De kloof trekt terug. Jij trekt harder. |
+| `Charge the Windhollow conduit` | Charge the Windhollow conduit | Laad het Windhollow-geleidekanaal op |
+| `The conduit glows steady for the first time in years.` | The conduit glows steady for the first time in years. | Het geleidekanaal gloeit voor het eerst in jaren gelijkmatig. |
+| `Tend the Windhollow greenhouse` | Tend the Windhollow greenhouse | Verzorg de Windhollow-kas |
+| `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Groene bladeren midden in de winter. |
+| `Mine the Icevein seams` | Mine the Icevein seams | Hak erts uit de aders van Icevein |
+| `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Je vindt de ader die de mijnwerkers hadden opgegeven. |
+| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Je hield stand in de kou. Nu willen de meesters je onder druk zien.' |
+| `Mastery: The Savage Trial` | Mastery: The Savage Trial | Meesterschap: De Woeste Proef |
+| `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | De derde proef loopt door het drukke zuiden, waar bij elk ambacht een meester toekijkt. |
+| `Meet the masters at Shortha` | Meet the masters at Shortha | Ontmoet de meesters in Shortha |
+| `'The south is loud and crowded. Do your best work anyway.'` | 'The south is loud and crowded. Do your best work anyway.' | 'Het zuiden is luidruchtig en vol. Lever toch je beste werk.' |
+| `Build at the Shortha workshop` | Build at the Shortha workshop | Bouw in de Shortha-werkplaats |
+| `A cabinet with no gaps and no nails. The carpenter wants to buy it.` | A cabinet with no gaps and no nails. The carpenter wants to buy it. | Een kast zonder kieren en zonder spijkers. De timmerman wil hem kopen. |
+| `Perform at the Shortha theatre` | Perform at the Shortha theatre | Treed op in het Shortha-theater |
+| `The crowd stays on its feet until the lamps go out.` | The crowd stays on its feet until the lamps go out. | Het publiek blijft staan tot de lampen uitgaan. |
+| `Draw from the Shortha rift` | Draw from the Shortha rift | Put uit de Shortha-kloof |
+| `The rift spits sparks. You take what you need.` | The rift spits sparks. You take what you need. | De kloof spuwt vonken. Je neemt wat je nodig hebt. |
+| `Pull the Shortha heist` | Pull the Shortha heist | Pleeg de roofoverval in Shortha |
+| `In and out without a sound. The master checks the lock twice.` | In and out without a sound. The master checks the lock twice. | Erin en eruit zonder geluid. De meester controleert het slot twee keer. |
+| `Run the Shortha kitchen` | Run the Shortha kitchen | Leid de keuken in Shortha |
+| `Two hundred plates in one night. None come back.` | Two hundred plates in one night. None come back. | Tweehonderd borden in één avond. Er komt er niet één terug. |
+| `Forage the Gilshore grove` | Forage the Gilshore grove | Verzamel in het Gilshore-bosje |
+| `You find the herbs the grove keeper hides from buyers.` | You find the herbs the grove keeper hides from buyers. | Je vindt de kruiden die de hoeder van het bosje voor kopers verstopt. |
+| `Fish off the Gilshore coast` | Fish off the Gilshore coast | Vis voor de Gilshore-kust |
+| `A heavy net, hauled in alone.` | A heavy net, hauled in alone. | Een zwaar net, in je eentje binnengehaald. |
+| `Charge the Farmhold conduit` | Charge the Farmhold conduit | Laad het Farmhold-geleidekanaal op |
+| `The conduit takes a full charge and holds it.` | The conduit takes a full charge and holds it. | Het geleidekanaal neemt een volle lading op en houdt die vast. |
+| `Run the Farmhold valley` | Run the Farmhold valley | Ren door de Farmhold-vallei |
+| `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Je rent de vallei twee keer door, gewoon om iets te bewijzen. |
+| `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Giet in de Riverwatch-gieterij |
+| `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Een zuivere gietbeurt zonder luchtbellen. De gieterijploeg applaudisseert. |
+| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Goed. De globes wachten in de laatste twee proeven.' |
+| `Mastery: The Fell Trial` | Mastery: The Fell Trial | Meesterschap: De Wrede Proef |
+| `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | De vierde proef stuurt je naar de beste werkplaatsen van het land. |
+| `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | De meesters verdringen zich in de bank. 'Drie proeven gehaald. Laat ons nu het beste werk van het land zien.' |
+| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | De meesters wachten bij de ingang van de kerker. Ze geven je een glazen globe. 'De Eerste Globe. Hij bevat elke proef tot nu toe.' |
+| `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Meesterschap: De Aloude Proef |
+| `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'De Eerste Globe was voor de proeven. De tweede is voor wat niemand je heeft geleerd.' |
+| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Beloning uit de Wrede en de Aloude Proef. Beide zijn stapelbaar. |

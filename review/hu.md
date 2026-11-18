@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bárd |
 | Discover | Felfedezés |
 
-## Lines to review (799)
+## Lines to review (1355)
 
 | Key | English | Current |
 |---|---|---|
@@ -869,3 +869,559 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tint` | Tint | Színezés |
 | `No tint` | No tint | Nincs színezés |
 | `Pick any colour for the wings` | Pick any colour for the wings | Válassz bármilyen színt a szárnyaknak |
+| `Mastery: Life and Spirit` | Mastery: Life and Spirit | Mesterség: Élet és Szellem |
+| `An old healer wants proof you still remember how to endure.` | An old healer wants proof you still remember how to endure. | Egy idős gyógyító bizonyítékot vár, hogy még emlékszel, hogyan kell kitartani. |
+| `Meet the old healer` | Meet the old healer | Találkozz az idős gyógyítóval |
+| `She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.'` | She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.' | Előbb a pulzusodat nézi meg, csak aztán köszön. 'Erős. De nem az erő a lecke. Menj vissza oda, ahol először megtanultál kitartani.' |
+| `Rest by the old campfire` | Rest by the old campfire | Pihenj meg a régi tábortűznél |
+| `You sit until the fire burns low. The healer nods when you stand without stiffness.` | You sit until the fire burns low. The healer nods when you stand without stiffness. | Addig ülsz, amíg a tűz le nem hamvad. A gyógyító bólint, amikor merevség nélkül állsz fel. |
+| `Share a plain meal` | Share a plain meal | Osztozz egy egyszerű étkezésen |
+| `Bread, broth, nothing more. 'You forgot how little a body needs,' she says.` | Bread, broth, nothing more. 'You forgot how little a body needs,' she says. | Kenyér, húsleves, semmi több. 'Elfelejtetted, milyen kevés kell a testnek', mondja. |
+| `Outlast a feeble slime` | Outlast a feeble slime | Vészeld át a harcot egy gyenge nyálkával |
+| `It barely scratches you. You let it tire itself out before you finish it.` | It barely scratches you. You let it tire itself out before you finish it. | Alig karcol meg. Hagyod, hogy kifárassza magát, mielőtt végzel vele. |
+| `Calm your breathing by the fire` | Calm your breathing by the fire | Nyugtasd meg a légzésed a tűznél |
+| `You count your breaths until the count stops mattering. Your spirit settles.` | You count your breaths until the count stops mattering. Your spirit settles. | Számolod a lélegzeteidet, amíg a számolásnak már nincs jelentősége. A szellemed megnyugszik. |
+| `Eat with the road crews` | Eat with the road crews | Egyél az útépítőkkel |
+| `The crews talk about blisters and sore backs. You listen more than you speak.` | The crews talk about blisters and sore backs. You listen more than you speak. | Az útépítők vízhólyagokról és fájós hátról beszélnek. Többet hallgatsz, mint beszélsz. |
+| `Take the ember slime calmly` | Take the ember slime calmly | Fogadd nyugodtan a parázsnyálkát |
+| `You let the heat wash past you and keep your footing.` | You let the heat wash past you and keep your footing. | Hagyod, hogy a hőség elhaladjon melletted, és szilárdan állva maradsz. |
+| `Clear a Feeble Dungeon` | Clear a Feeble Dungeon | Teljesíts egy Gyenge tömlöcöt |
+| `The first dungeon feels small now. You walk it slowly, watching every step.` | The first dungeon feels small now. You walk it slowly, watching every step. | Az első tömlöc most kicsinek tűnik. Lassan végigjárod, minden lépésre figyelve. |
+| `Report your progress` | Report your progress | Számolj be a haladásodról |
+| `The healer's runner takes your notes. 'She says you are nearly there.'` | The healer's runner takes your notes. 'She says you are nearly there.' | A gyógyító küldönce átveszi a jegyzeteidet. 'Azt üzeni, hogy már majdnem ott tartasz.' |
+| `Cook for a tired party` | Cook for a tired party | Főzz egy fáradt csapatnak |
+| `You feed a party back from the deep. One of them falls asleep mid bite.` | You feed a party back from the deep. One of them falls asleep mid bite. | Megeteted a mélyből visszatért csapatot. Egyikük evés közben elalszik. |
+| `Clear a Dire Dungeon` | Clear a Dire Dungeon | Teljesíts egy Baljós tömlöcöt |
+| `You come out of the Dire Dungeon with nothing worse than a bruise.` | You come out of the Dire Dungeon with nothing worse than a bruise. | Egy zúzódásnál nagyobb baj nélkül jössz ki a Baljós tömlöcből. |
+| `Stand firm against a fell demon` | Stand firm against a fell demon | Állj szilárdan egy kegyetlen démonnal szemben |
+| `The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.'` | The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.' | A démon nagyot üt, de nem esel el. Utána a gyógyító rád talál. 'Kenőcs és ereklye. Kiérdemelted, nem ajándék.' |
+| `Mastery: Strike and Heft` | Mastery: Strike and Heft | Mesterség: Csapás és Izomerő |
+| `A retired sergeant wants to see your first drills done properly again.` | A retired sergeant wants to see your first drills done properly again. | Egy nyugalmazott őrmester újra látni akarja, hogy rendesen végzed az első gyakorlataidat. |
+| `Report to the old sergeant` | Report to the old sergeant | Jelentkezz az öreg őrmesternél |
+| `'Eighty years of swinging and you still lead with your shoulder? Back to the drills.'` | 'Eighty years of swinging and you still lead with your shoulder? Back to the drills.' | 'Nyolcvan év suhintás, és még mindig a válladdal indítasz? Vissza a gyakorlatokhoz.' |
+| `Cut a practice staff` | Cut a practice staff | Vágj egy gyakorlóbotot |
+| `You trim an ash branch to length. It is lighter than anything you carry now.` | You trim an ash branch to length. It is lighter than anything you carry now. | Méretre vágsz egy kőrisfaágat. Könnyebb bárminél, amit most hordasz. |
+| `Spar with a feeble goblin` | Spar with a feeble goblin | Gyakorolj egy gyenge goblinnal |
+| `You win with the staff alone. The sergeant grunts something like approval.` | You win with the staff alone. The sergeant grunts something like approval. | Csak a bottal nyersz. Az őrmester valami helyeslésfélét morog. |
+| `Run the training trail` | Run the training trail | Fusd le az edzőösvényt |
+| `Three laps, then three more. Your footwork comes back on the last one.` | Three laps, then three more. Your footwork comes back on the last one. | Három kör, aztán még három. Az utolsóra visszatér a lábmunkád. |
+| `Beat a dire goblin cleanly` | Beat a dire goblin cleanly | Győzz le tisztán egy baljós goblint |
+| `No wasted swings. The sergeant counts them on his fingers.` | No wasted swings. The sergeant counts them on his fingers. | Egyetlen elpazarolt suhintás sincs. Az őrmester az ujjain számolja őket. |
+| `Eat with the garrison` | Eat with the garrison | Egyél a helyőrséggel |
+| `The garrison cook remembers the sergeant. 'He still shouts at everyone?'` | The garrison cook remembers the sergeant. 'He still shouts at everyone?' | A helyőrség szakácsa emlékszik az őrmesterre. 'Még mindig mindenkivel kiabál?' |
+| `Send word to the sergeant` | Send word to the sergeant | Küldj hírt az őrmesternek |
+| `You send a short note: two goblins down, footwork fixed.` | You send a short note: two goblins down, footwork fixed. | Rövid üzenetet küldesz: két goblin legyőzve, lábmunka rendbe téve. |
+| `Break a feeble skeleton` | Break a feeble skeleton | Törj össze egy gyenge csontvázat |
+| `Bone gives way under a clean blow. Heft without strike is noise, he always said.` | Bone gives way under a clean blow. Heft without strike is noise, he always said. | A csont enged egy tiszta ütés alatt. A csapás nélküli izomerő csak zaj, mondogatta mindig. |
+| `You clear it with the same drills you learned there.` | You clear it with the same drills you learned there. | Ugyanazokkal a gyakorlatokkal teljesíted, amelyeket ott tanultál. |
+| `Your party moves when you move. Good habits spread.` | Your party moves when you move. Good habits spread. | A csapatod akkor mozdul, amikor te. A jó szokások ragadósak. |
+| `Have your blade reforged` | Have your blade reforged | Kovácsoltasd újra a pengédet |
+| `The smith grinds out years of nicks. It swings true again.` | The smith grinds out years of nicks. It swings true again. | A kovács kicsiszolja az évek csorbáit. A penge ismét pontosan lendül. |
+| `Fell an orc with clean blows` | Fell an orc with clean blows | Terítsd le egy orkot tiszta csapásokkal |
+| `The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.'` | The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.' | Az ork három csapásra összeesik. Az őrmester átnyújt egy kardgombot és egy markolatot. 'Most már készen állsz.' |
+| `Mastery: Sight and Draw` | Mastery: Sight and Draw | Mesterség: Célzás és Felajzás |
+| `A hunter in the north asks you to shoot like a beginner again.` | A hunter in the north asks you to shoot like a beginner again. | Egy északi vadász arra kér, hogy újra úgy lőj, mint egy kezdő. |
+| `Meet the northern hunter` | Meet the northern hunter | Találkozz az északi vadásszal |
+| `'You aim like someone who expects to hit. Good archers expect to miss. Come.'` | 'You aim like someone who expects to hit. Good archers expect to miss. Come.' | 'Úgy célzol, mint aki biztos a találatban. A jó íjászok arra számítanak, hogy hibáznak. Gyere.' |
+| `Fletch a plain practice bow` | Fletch a plain practice bow | Készíts egy egyszerű gyakorlóíjat |
+| `No runes, no gems. Just yew and string.` | No runes, no gems. Just yew and string. | Se rúnák, se drágakövek. Csak tiszafa és ideg. |
+| `Scout the hills for targets` | Scout the hills for targets | Keress célpontokat a dombokon |
+| `You mark three trees and a stump at different ranges.` | You mark three trees and a stump at different ranges. | Megjelölsz három fát és egy tönköt különböző távolságokban. |
+| `Take down a dire gnoll` | Take down a dire gnoll | Teríts le egy baljós gnollt |
+| `One arrow, placed where the hunter pointed. 'Better.'` | One arrow, placed where the hunter pointed. 'Better.' | Egyetlen nyílvessző, pont oda, ahová a vadász mutatott. 'Jobb.' |
+| `Cut fresh arrow shafts` | Cut fresh arrow shafts | Vágj friss nyílvesszőszárakat |
+| `You pick straight stems and trim them by eye.` | You pick straight stems and trim them by eye. | Egyenes szárakat választasz, és szemmértékre vágod őket. |
+| `Run the range drills` | Run the range drills | Végezd el a lőtéri gyakorlatokat |
+| `Shoot, move, shoot. Your breath and your release line up again.` | Shoot, move, shoot. Your breath and your release line up again. | Lövés, mozgás, lövés. A légzésed és az elengedés újra összhangba kerül. |
+| `Hit a golem at the joints` | Hit a golem at the joints | Találd el egy gólem ízületeit |
+| `Stone is hard, joints are not. The golem folds.` | Stone is hard, joints are not. The golem folds. | A kő kemény, az ízületek nem. A gólem összecsuklik. |
+| `You call targets for the whole party. Nobody wastes a shot.` | You call targets for the whole party. Nobody wastes a shot. | Te jelölöd ki a célpontokat az egész csapatnak. Senki sem pazarol el egyetlen lövést sem. |
+| `Eat with the hunters` | Eat with the hunters | Egyél a vadászokkal |
+| `The hunters argue about wind. You agree with all of them.` | The hunters argue about wind. You agree with all of them. | A vadászok a szélen vitatkoznak. Mindegyikükkel egyetértesz. |
+| `Bank your spare arrows` | Bank your spare arrows | Tedd a bankba a tartalék nyílvesszőidet |
+| `You store the spares. Travelling light is half the craft.` | You store the spares. Travelling light is half the craft. | Elteszed a tartalékot. A könnyű utazás a mesterség fele. |
+| `You shoot from the back row and never lose sight of the front.` | You shoot from the back row and never lose sight of the front. | A hátsó sorból lősz, és sosem téveszted szem elől az első sort. |
+| `Bring down a fell gnoll` | Bring down a fell gnoll | Teríts le egy kegyetlen gnollt |
+| `Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.'` | Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.' | Két lövés, mindkettő tiszta. A vadász átnyújt egy rovátkát és egy íjhúrt. 'Tartsd meg őket. És hibázz egyre kevesebbet.' |
+| `Mastery: Focus and Surge` | Mastery: Focus and Surge | Mesterség: Fókusz és Roham |
+| `An eastern mage wants your first spells cast without force or fuss.` | An eastern mage wants your first spells cast without force or fuss. | Egy keleti mágus azt akarja, hogy az első varázslataidat erőltetés és felhajtás nélkül vesd be. |
+| `Meet the eastern mage` | Meet the eastern mage | Találkozz a keleti mágussal |
+| `'You push power like a mule pushes a cart. Let us start again, smaller.'` | 'You push power like a mule pushes a cart. Let us start again, smaller.' | 'Úgy tolod az erőt, ahogy az öszvér a szekeret. Kezdjük újra, kisebben.' |
+| `Draw from a small fragment` | Draw from a small fragment | Meríts egy kis töredékből |
+| `The essence is faint. You have to listen for it.` | The essence is faint. You have to listen for it. | Az eszencia gyenge. Fülelned kell rá. |
+| `Charge a single dim essence` | Charge a single dim essence | Tölts fel egyetlen halvány eszenciát |
+| `You charge it slowly. It holds better than anything you rushed.` | You charge it slowly. It holds better than anything you rushed. | Lassan töltöd fel. Jobban kitart, mint bármi, amit elsiettél. |
+| `Banish a feeble imp` | Banish a feeble imp | Űzz el egy gyenge manót |
+| `A small spell, aimed well. The imp is gone before it can grin.` | A small spell, aimed well. The imp is gone before it can grin. | Kis varázslat, jól célozva. A manó eltűnik, mielőtt elvigyorodhatna. |
+| `Read the runes in the ashes` | Read the runes in the ashes | Olvasd el a rúnákat a hamuban |
+| `Old travellers left warding marks here. You copy them out.` | Old travellers left warding marks here. You copy them out. | Régi utazók óvójeleket hagytak itt. Lemásolod őket. |
+| `Tend a small herb plot` | Tend a small herb plot | Gondozz egy kis gyógynövényparcellát |
+| `The mage wants patience practised. You weed until your mind goes quiet.` | The mage wants patience practised. You weed until your mind goes quiet. | A mágus azt akarja, hogy türelmet gyakorolj. Addig gyomlálsz, amíg el nem csendesül az elméd. |
+| `Unmake a dire lich` | Unmake a dire lich | Semmisíts meg egy baljós lichet |
+| `You break its ward with the marks from the ashes.` | You break its ward with the marks from the ashes. | A hamuban talált jelekkel töröd meg a védelmét. |
+| `You cast half as often and hit twice as hard.` | You cast half as often and hit twice as hard. | Feleannyiszor varázsolsz, és kétszer olyan erősen találsz. |
+| `Inscribe a beginner sigil` | Inscribe a beginner sigil | Rajzolj meg egy kezdő pecsétet |
+| `Simple lines, clean joins. The mage keeps it as a sample.` | Simple lines, clean joins. The mage keeps it as a sample. | Egyszerű vonalak, tiszta illesztések. A mágus megtartja mintának. |
+| `Send your notes east` | Send your notes east | Küldd el keletre a jegyzeteidet |
+| `Your notes on the lich go back to the mage by courier.` | Your notes on the lich go back to the mage by courier. | A lichről írt jegyzeteid futárral jutnak vissza a mágushoz. |
+| `Your spells land on rhythm. The party fights to your timing.` | Your spells land on rhythm. The party fights to your timing. | A varázslataid ütemre csapnak be. A csapat a te időzítésedre harcol. |
+| `Dispel a fell demon` | Dispel a fell demon | Oszlass szét egy kegyetlen démont |
+| `One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.'` | One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.' | Egyetlen összpontosított roham, és a démon szétfoszlik. A mágus egy gömböt és egy katalizátort ad neked. 'Kis varázslatok, nagy eredmények.' |
+| `Mastery: Dodge and Defend` | Mastery: Dodge and Defend | Mesterség: Kitérés és Védelem |
+| `A shieldwright wants you to relearn when to block and when to move.` | A shieldwright wants you to relearn when to block and when to move. | Egy pajzskészítő azt akarja, hogy újra megtanuld, mikor blokkolj és mikor mozdulj. |
+| `Meet the shieldwright` | Meet the shieldwright | Találkozz a pajzskészítővel |
+| `'You block everything. Some things you should just not be standing in front of.'` | 'You block everything. Some things you should just not be standing in front of.' | 'Mindent blokkolsz. Bizonyos dolgok elé egyszerűen nem kellene odaállnod.' |
+| `Hammer out a practice shield` | Hammer out a practice shield | Kovácsolj egy gyakorlópajzsot |
+| `Plain iron, a little too heavy. That is the point, she says.` | Plain iron, a little too heavy. That is the point, she says. | Sima vas, kicsit túl nehéz. Éppen ez a lényeg, mondja. |
+| `Dodge a feeble rat` | Dodge a feeble rat | Térj ki egy gyenge patkány elől |
+| `You step aside until it tires. You do not raise the shield once.` | You step aside until it tires. You do not raise the shield once. | Addig lépsz félre, amíg el nem fárad. Egyszer sem emeled fel a pajzsot. |
+| `Weave through the crowded alley` | Weave through the crowded alley | Lavírozz át a zsúfolt sikátoron |
+| `Market day. You cross the alley without touching anyone.` | Market day. You cross the alley without touching anyone. | Piaci nap. Úgy kelsz át a sikátoron, hogy senkihez sem érsz hozzá. |
+| `Block a feeble treant` | Block a feeble treant | Blokkolj egy gyenge treantot |
+| `Its branches thud off the shield. You keep your feet planted.` | Its branches thud off the shield. You keep your feet planted. | Az ágai tompán puffannak a pajzson. Szilárdan a helyeden maradsz. |
+| `Hold against a dire treant` | Hold against a dire treant | Tarts ki egy baljós treanttal szemben |
+| `Block, step, block. You stop thinking about which comes next.` | Block, step, block. You stop thinking about which comes next. | Blokk, lépés, blokk. Már nem gondolkodsz azon, mi jön ezután. |
+| `You take every hit meant for the party and none meant for you.` | You take every hit meant for the party and none meant for you. | Minden ütést felfogsz, ami a csapatnak szólt, és egyet sem, ami neked. |
+| `Gather bark for shield padding` | Gather bark for shield padding | Gyűjts kérget a pajzs bélelésére |
+| `Soft bark, layered thick. Your arm will thank you.` | Soft bark, layered thick. Your arm will thank you. | Puha kéreg, vastagon rétegezve. A karod hálás lesz. |
+| `Send the shieldwright word` | Send the shieldwright word | Küldj hírt a pajzskészítőnek |
+| `You report the treant fights. She replies with a single word: 'Again.'` | You report the treant fights. She replies with a single word: 'Again.' | Beszámolsz a treantok elleni harcokról. Egyetlen szóval válaszol: 'Újra.' |
+| `You read every swing before it comes.` | You read every swing before it comes. | Minden lendítést kiolvasol, mielőtt megérkezne. |
+| `Reinforce the shield rim` | Reinforce the shield rim | Erősítsd meg a pajzs peremét |
+| `The smith adds a band of steel to the rim. It feels finished now.` | The smith adds a band of steel to the rim. It feels finished now. | A kovács acélpántot tesz a peremre. Most már késznek érződik. |
+| `Outlast a fell orc` | Outlast a fell orc | Tarts ki egy kegyetlen orkkal szemben |
+| `It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim.` | It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim. | Addig csapkod, amíg alig áll a lábán. Te egy pillanatra sem álltál meg. A pajzskészítő átnyújt egy rugót és egy alátétet. |
+| `Mastery: Fish and Cook` | Mastery: Fish and Cook | Mesterség: Halászat és Főzés |
+| `A fishwife who fed half the coast wants your first catch cooked right.` | A fishwife who fed half the coast wants your first catch cooked right. | Egy halaskofa, aki a fél partvidéket etette, azt akarja, hogy az első fogásodat rendesen elkészítsd. |
+| `Meet the old fishwife` | Meet the old fishwife | Találkozz az öreg halaskofával |
+| `'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.'` | 'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.' | 'Nagy halak, puccos serpenyők. Mikor sütöttél meg utoljára rendesen egy garnélarákot? Menj, és derítsd ki.' |
+| `Cook over an open spit` | Cook over an open spit | Süss nyárson, szabad tűzön |
+| `No kitchen, no spices. You keep the fire low and the fish whole.` | No kitchen, no spices. You keep the fire low and the fish whole. | Se konyha, se fűszer. Kis lángon tartod a tüzet, és egészben a halat. |
+| `Fish the shallow pool` | Fish the shallow pool | Halássz a sekély tavacskában |
+| `You catch a shrimp and remember the first one you ever landed.` | You catch a shrimp and remember the first one you ever landed. | Kifogsz egy garnélarákot, és eszedbe jut a legelső, amit valaha kifogtál. |
+| `Fish a quiet stream` | Fish a quiet stream | Halássz egy csendes patakban |
+| `The stream is slow and so are you. You stop rushing the line.` | The stream is slow and so are you. You stop rushing the line. | A patak lassú, és te is az vagy. Már nem siettetsz a zsinórral. |
+| `Grill your catch plainly` | Grill your catch plainly | Grillezd meg egyszerűen a fogásodat |
+| `Salt and smoke. The fishwife would approve.` | Salt and smoke. The fishwife would approve. | Só és füst. A halaskofa elégedett lenne. |
+| `Try the far pool` | Try the far pool | Próbáld meg a távoli tavacskát |
+| `A perch bites on the third cast. You let it run before you reel.` | A perch bites on the third cast. You let it run before you reel. | A harmadik dobásra egy sügér kap rá. Hagyod futni, mielőtt behúzod. |
+| `Fish the cold stream` | Fish the cold stream | Halássz a hideg patakban |
+| `Cold hands, quick fish. You learn to strike faster.` | Cold hands, quick fish. You learn to strike faster. | Hideg kéz, gyors hal. Megtanulsz gyorsabban bevágni. |
+| `Cook at a mountain hearth` | Cook at a mountain hearth | Főzz egy hegyi tűzhelynél |
+| `The hearth cook shows you how to keep fish from drying out.` | The hearth cook shows you how to keep fish from drying out. | A tűzhely szakácsa megmutatja, hogyan ne száradjon ki a hal. |
+| `Feed the mill workers` | Feed the mill workers | Etesd meg a malom munkásait |
+| `You cook for a crew of twenty. Nothing comes back burned.` | You cook for a crew of twenty. Nothing comes back burned. | Húszfős csapatnak főzöl. Semmi sem jön vissza odaégve. |
+| `Cook on the tidefield spit` | Cook on the tidefield spit | Főzz a tidefieldi nyárson |
+| `The fishwife's cousin tastes your work and sends word up the coast.` | The fishwife's cousin tastes your work and sends word up the coast. | A halaskofa unokatestvére megkóstolja a főztödet, és hírét viszi a parton. |
+| `Cook one perfect fillet` | Cook one perfect fillet | Készíts el egy tökéletes filét |
+| `One fillet, cooked through, still soft. You eat it yourself.` | One fillet, cooked through, still soft. You eat it yourself. | Egy filé, átsütve, mégis puha. Megeszed magad. |
+| `Land a catch at the seaside` | Land a catch at the seaside | Fogj valamit a tengerparton |
+| `The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.'` | The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.' | A mélységi halak keményen küzdenek, de kihúzod őket. A halaskofa küld egy horgászbotot és egy serpenyőt. 'Most már halász és szakács is vagy.' |
+| `Mastery: Mine and Smith` | Mastery: Mine and Smith | Mesterség: Bányászat és Kovácsolás |
+| `A forge master wants proof you still respect plain copper and tin.` | A forge master wants proof you still respect plain copper and tin. | Egy kovácsmester bizonyítékot vár, hogy még mindig tiszteled az egyszerű rezet és ónt. |
+| `Meet the forge master` | Meet the forge master | Találkozz a kovácsmesterrel |
+| `'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.'` | 'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.' | 'Most már csak ritka érchez nyúlsz. A réz építette e föld minden csarnokát. Menj, és érdemeld ki újra.' |
+| `Work a copper bar` | Work a copper bar | Munkálj meg egy rézrudat |
+| `You fold the bar slowly. It rings clean.` | You fold the bar slowly. It rings clean. | Lassan hajtogatod a rudat. Tisztán cseng. |
+| `Mine at the old quarry` | Mine at the old quarry | Bányássz a régi kőfejtőben |
+| `Copper and tin, by hand. Your swing settles into an old rhythm.` | Copper and tin, by hand. Your swing settles into an old rhythm. | Réz és ón, kézzel. A lendítésed beáll egy régi ritmusba. |
+| `Smelt your first batch` | Smelt your first batch | Olvaszd ki az első adagodat |
+| `You keep the heat even. No slag, no cracks.` | You keep the heat even. No slag, no cracks. | Egyenletesen tartod a hőt. Se salak, se repedés. |
+| `Follow a shallow vein` | Follow a shallow vein | Kövess egy sekély eret |
+| `The vein is thin but honest. You take only what it gives.` | The vein is thin but honest. You take only what it gives. | Az ér vékony, de becsületes. Csak azt veszed el, amit ad. |
+| `Quarry stone and ore` | Quarry stone and ore | Fejts követ és ércet |
+| `Wind cuts through the quarry. You work until the cart is full.` | Wind cuts through the quarry. You work until the cart is full. | A szél átsüvít a kőfejtőn. Addig dolgozol, amíg meg nem telik a csille. |
+| `Chip out the iron seam` | Chip out the iron seam | Fejtsd ki a vaseret |
+| `The iron comes loose in good clean chunks.` | The iron comes loose in good clean chunks. | A vas szép, tiszta darabokban válik le. |
+| `Forge a plain nail` | Forge a plain nail | Kovácsolj egy egyszerű szöget |
+| `A nail is the hardest thing to forge well, the forge master said.` | A nail is the hardest thing to forge well, the forge master said. | Jól kovácsolni a szöget a legnehezebb, mondta a kovácsmester. |
+| `Mine beside the old camp` | Mine beside the old camp | Bányássz a régi tábor mellett |
+| `Old miners left their marks here. You add yours under theirs.` | Old miners left their marks here. You add yours under theirs. | Régi bányászok hagyták itt a jeleiket. Te az övéik alá teszed a tiédet. |
+| `Temper a beginner blade` | Temper a beginner blade | Edzz meg egy kezdőpengét |
+| `You quench it once and it holds an edge.` | You quench it once and it holds an edge. | Egyszer edzed meg, és megtartja az élét. |
+| `Load a cart of ore` | Load a cart of ore | Rakj meg egy csillét érccel |
+| `You load and haul. Your back remembers its first summer here.` | You load and haul. Your back remembers its first summer here. | Rakodsz és húzod. A hátad emlékszik az első itteni nyarára. |
+| `Mine the deepest shaft` | Mine the deepest shaft | Bányássz a legmélyebb aknában |
+| `You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.'` | You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.' | Egy karcolás nélkül hozod fel az ércet a mélyből. A kovácsmester küld egy csákányt és egy kalapácsot. 'Vissza oda, ahol kezdted, és jóval tovább.' |
+| `Mastery: Forage and Craft` | Mastery: Forage and Craft | Mesterség: Gyűjtögetés és Kézművesség |
+| `A weaver asks you to gather and work the simplest materials again.` | A weaver asks you to gather and work the simplest materials again. | Egy takács arra kér, hogy újra gyűjtsd és dolgozd fel a legegyszerűbb anyagokat. |
+| `Meet the weaver` | Meet the weaver | Találkozz a takáccsal |
+| `'You work dragonhide and starspun now. Show me you can still make good strips from leather.'` | 'You work dragonhide and starspun now. Show me you can still make good strips from leather.' | 'Most sárkánybőrrel és csillagfonállal dolgozol. Mutasd meg, hogy még mindig tudsz jó szíjakat vágni bőrből.' |
+| `Cut leather into strips` | Cut leather into strips | Vágj bőrt szíjakra |
+| `Even width, no ragged ends. The weaver checks every one.` | Even width, no ragged ends. The weaver checks every one. | Egyenletes szélesség, rojtos végek nélkül. A takács mindegyiket ellenőrzi. |
+| `Gather from the wild patch` | Gather from the wild patch | Gyűjtögess a vadon nőtt ágyásban |
+| `You pick slowly and leave the young growth alone.` | You pick slowly and leave the young growth alone. | Lassan szedsz, és a fiatal hajtásokat békén hagyod. |
+| `Forage the woodland patch` | Forage the woodland patch | Gyűjtögess az erdei ágyásban |
+| `Linen grows thick here. You fill a sack before noon.` | Linen grows thick here. You fill a sack before noon. | Itt sűrűn nő a len. Délre megtöltesz egy zsákot. |
+| `Search the fern thicket` | Search the fern thicket | Kutasd át a páfrányos bozótot |
+| `Silk moths nest in the ferns. You take only the spent cocoons.` | Silk moths nest in the ferns. You take only the spent cocoons. | A páfrányok közt selyemlepkék fészkelnek. Csak az elhagyott gubókat veszed el. |
+| `Gather on the rocky patch` | Gather on the rocky patch | Gyűjtögess a köves ágyásban |
+| `Hardy plants, tough fibres. Good for rope.` | Hardy plants, tough fibres. Good for rope. | Szívós növények, erős rostok. Jók kötélnek. |
+| `Spin linen into thread` | Spin linen into thread | Fonj cérnát a lenből |
+| `You spin until the thread runs fine and even.` | You spin until the thread runs fine and even. | Addig fonsz, amíg a cérna finom és egyenletes nem lesz. |
+| `Forage the hillside patch` | Forage the hillside patch | Gyűjtögess a domboldali ágyásban |
+| `You know which leaves to take by touch now.` | You know which leaves to take by touch now. | Most már tapintásból tudod, melyik leveleket kell leszedni. |
+| `Gather hides from the thicket` | Gather hides from the thicket | Gyűjts bőröket a bozótból |
+| `A hunter left hides to cure. You trade a day of work for them.` | A hunter left hides to cure. You trade a day of work for them. | Egy vadász kikészítésre hagyott itt bőröket. Egy napi munkáért cserébe megkapod őket. |
+| `Forage the fort patch` | Forage the fort patch | Gyűjtögess az erőd melletti ágyásban |
+| `The fort guards point you to a patch nobody else bothers with.` | The fort guards point you to a patch nobody else bothers with. | Az erőd őrei egy olyan ágyáshoz irányítanak, amivel senki más nem foglalkozik. |
+| `Craft a simple satchel` | Craft a simple satchel | Készíts egy egyszerű tarisznyát |
+| `Strips, thread and a buckle. It is the best thing you have made in years.` | Strips, thread and a buckle. It is the best thing you have made in years. | Szíjak, cérna és egy csat. Évek óta ez a legjobb, amit készítettél. |
+| `Forage the deep wilds` | Forage the deep wilds | Gyűjtögess a mély vadonban |
+| `You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel.` | You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel. | Ritka anyagokkal és biztos kézzel térsz vissza a vadonból. A takács küld egy sarlót és egy vésőt. |
+| `Mastery: Invoke and Imbue` | Mastery: Invoke and Imbue | Mesterség: Megidézés és Átitatás |
+| `An old enchanter wants your first dim essences drawn and charged again.` | An old enchanter wants your first dim essences drawn and charged again. | Egy öreg bűvölő azt akarja, hogy újra merítsd és töltsd fel az első halvány eszenciáidat. |
+| `Meet the old enchanter` | Meet the old enchanter | Találkozz az öreg bűvölővel |
+| `'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.'` | 'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.' | 'Sugárzó, égi, isteni. Mikor töltöttél fel utoljára egy halvány eszenciát? Ott kezdd.' |
+| `Charge a dim essence` | Charge a dim essence | Tölts fel egy halvány eszenciát |
+| `It takes almost nothing to charge. That is what makes it hard.` | It takes almost nothing to charge. That is what makes it hard. | Szinte semmi sem kell a feltöltéséhez. Éppen ettől nehéz. |
+| `The fragment hums faintly. You draw from it without cracking it.` | The fragment hums faintly. You draw from it without cracking it. | A töredék halkan zümmög. Úgy merítesz belőle, hogy nem reped meg. |
+| `Charge at the glowing font` | Charge at the glowing font | Tölts fel az izzó forrásnál |
+| `You feed the font slowly. It answers in kind.` | You feed the font slowly. It answers in kind. | Lassan táplálod a forrást. Ugyanígy válaszol. |
+| `Listen at the river fragment` | Listen at the river fragment | Fülelj a folyami töredéknél |
+| `Faint essence, carried on the river wind.` | Faint essence, carried on the river wind. | Pislákoló eszencia, amelyet a folyami szél hoz. |
+| `Charge a faint essence` | Charge a faint essence | Tölts fel egy pislákoló eszenciát |
+| `Clean light. The enchanter would keep this one.` | Clean light. The enchanter would keep this one. | Tiszta fény. Ezt a bűvölő megtartaná. |
+| `Trace the ruined sigil` | Trace the ruined sigil | Kövesd végig a romos pecsét vonalait |
+| `The old lines still hold power. You trace them without breaking them.` | The old lines still hold power. You trace them without breaking them. | A régi vonalak még mindig erőt hordoznak. Úgy követed őket, hogy nem szakítod meg. |
+| `Charge essence at the sigil` | Charge essence at the sigil | Tölts fel eszenciát a pecsétnél |
+| `You charge three in a row without a flicker.` | You charge three in a row without a flicker. | Hármat töltesz fel egymás után egyetlen megremegés nélkül. |
+| `Draw from the crystal` | Draw from the crystal | Meríts a kristályból |
+| `The crystal gives more than you ask. You take only what you need.` | The crystal gives more than you ask. You take only what you need. | A kristály többet ad, mint amit kérsz. Csak annyit veszel el, amennyi kell. |
+| `Draw from the desert fragment` | Draw from the desert fragment | Meríts a sivatagi töredékből |
+| `Dry air, sharp essence. Your hands stay steady.` | Dry air, sharp essence. Your hands stay steady. | Száraz levegő, éles eszencia. A kezed biztos marad. |
+| `Charge in the desert heat` | Charge in the desert heat | Tölts fel a sivatagi hőségben |
+| `The heat fights you. You win by going slower.` | The heat fights you. You win by going slower. | A hőség ellened dolgozik. Úgy győzöl, hogy lassítasz. |
+| `Draw deep from the rift` | Draw deep from the rift | Meríts mélyen a hasadékból |
+| `The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism.` | The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism. | A hasadékból fényes eszencia ömlik, és te az egészet megtartod. A bűvölő küld egy vezetőcsatornát és egy prizmát. |
+| `Mastery: Farm and Brew` | Mastery: Farm and Brew | Mesterség: Gazdálkodás és Sörfőzés |
+| `A herbalist wants you to grow and brew the plainest remedies again.` | A herbalist wants you to grow and brew the plainest remedies again. | Egy gyógynövényész azt akarja, hogy újra a legegyszerűbb gyógyszereket termeszd és főzd. |
+| `Meet the herbalist` | Meet the herbalist | Találkozz a gyógynövényésszel |
+| `'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.'` | 'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.' | 'Ritka virágok, puccos tonikok. Tudsz még csetepaté gyökeret termeszteni, és tisztán főzetet készíteni belőle? Mutasd meg.' |
+| `Plant skirmish root` | Plant skirmish root | Ültess csetepaté gyökeret |
+| `You plant in straight rows and water at dusk.` | You plant in straight rows and water at dusk. | Egyenes sorokba ültetsz, és alkonyatkor öntözöl. |
+| `Weed the farm plot` | Weed the farm plot | Gyomláld ki a parcellát |
+| `Weeds come up easy after rain. You clear the whole plot.` | Weeds come up easy after rain. You clear the whole plot. | Eső után könnyen jön a gyom. Az egész parcellát kitisztítod. |
+| `Brew a simple tonic` | Brew a simple tonic | Főzz egy egyszerű tonikot |
+| `Root, water and patience. It comes out clear.` | Root, water and patience. It comes out clear. | Gyökér, víz és türelem. Tisztán jön ki. |
+| `Harvest the hillside plot` | Harvest the hillside plot | Takarítsd be a domboldali parcellát |
+| `The hill soil is thin. You coax a small harvest out of it.` | The hill soil is thin. You coax a small harvest out of it. | A dombi talaj sovány. Kicsalogatsz belőle egy kis termést. |
+| `Grow herbs in cold soil` | Grow herbs in cold soil | Termessz gyógynövényt hideg talajban |
+| `Frost-hardy herbs, slow to grow and worth the wait.` | Frost-hardy herbs, slow to grow and worth the wait. | Fagytűrő gyógynövények, lassan nőnek, de megéri várni rájuk. |
+| `Brew at the fern cauldron` | Brew at the fern cauldron | Főzz a páfrányos üstnél |
+| `You let it simmer twice as long as you used to. It is better for it.` | You let it simmer twice as long as you used to. It is better for it. | Kétszer annyi ideig hagyod rotyogni, mint régen. Jót tesz neki. |
+| `Brew a calming draught` | Brew a calming draught | Főzz egy nyugtató főzetet |
+| `The draught settles your own nerves before anyone else's.` | The draught settles your own nerves before anyone else's. | A főzet előbb a te idegeidet nyugtatja meg, mint bárki másét. |
+| `Brew for the mountain watch` | Brew for the mountain watch | Főzz a hegyi őrségnek |
+| `The watch drinks it cold. Nobody complains.` | The watch drinks it cold. Nobody complains. | Az őrség hidegen issza. Senki sem panaszkodik. |
+| `Tend the pine plot` | Tend the pine plot | Gondozd a fenyves parcellát |
+| `Needles in the soil, sharp herbs in the rows.` | Needles in the soil, sharp herbs in the rows. | Tűlevél a talajban, csípős gyógynövények a sorokban. |
+| `Brew one last plain remedy` | Brew one last plain remedy | Főzz egy utolsó egyszerű gyógyszert |
+| `The herbalist tastes it and nods once.` | The herbalist tastes it and nods once. | A gyógynövényész megkóstolja, és egyszer bólint. |
+| `Brew a master tonic` | Brew a master tonic | Főzz egy mestertonikot |
+| `You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar.` | You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar. | Olyan tonikot főzöl, amilyet a patikusnak még sosem sikerült. A gyógynövényész küld egy ültetőkanalat és egy mozsarat. |
+| `Mastery: Plunder and Barter` | Mastery: Plunder and Barter | Mesterség: Fosztogatás és Alku |
+| `A retired fence wants to see you work the small markets honestly again.` | A retired fence wants to see you work the small markets honestly again. | Egy visszavonult orgazda újra látni akarja, hogy becsületesen dolgozod meg a kis piacokat. |
+| `Meet the retired fence` | Meet the retired fence | Találkozz a visszavonult orgazdával |
+| `'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.'` | 'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.' | 'Kincstárakat rabolsz ki, és felvásárolod a piacokat. Menj, emelj el valamit egy zsebből, aztán add el tisztességes áron, amit elvettél.' |
+| `Haggle at the small stalls` | Haggle at the small stalls | Alkudozz a kis standoknál |
+| `You argue a copper off a loaf of bread. The baker laughs.` | You argue a copper off a loaf of bread. The baker laughs. | Lealkudsz egy rezet egy vekni kenyér árából. A pék nevet. |
+| `Lift a purse in the alley` | Lift a purse in the alley | Emelj el egy erszényt a sikátorban |
+| `Small purse, quick hands. Nobody notices.` | Small purse, quick hands. Nobody notices. | Kis erszény, gyors kéz. Senki sem veszi észre. |
+| `Pick a lock in the alley` | Pick a lock in the alley | Nyiss ki egy zárat a sikátorban |
+| `An old padlock. You open it with a bent nail.` | An old padlock. You open it with a bent nail. | Egy régi lakat. Egy meggörbült szöggel nyitod ki. |
+| `Shadow a merchant` | Shadow a merchant | Kövess egy kereskedőt |
+| `You follow him for an hour and learn where he keeps his coin.` | You follow him for an hour and learn where he keeps his coin. | Egy órán át követed, és megtudod, hol tartja a pénzét. |
+| `Sell a stolen trinket` | Sell a stolen trinket | Adj el egy lopott csecsebecsét |
+| `You sell it back to its owner for a fair price. The fence would approve.` | You sell it back to its owner for a fair price. The fence would approve. | Tisztességes áron eladod a saját tulajdonosának. Az orgazda elégedett lenne. |
+| `Slip past the watch` | Slip past the watch | Osonj el az őrség mellett |
+| `The watch never looks up from their dice.` | The watch never looks up from their dice. | Az őrség fel sem néz a kockáiból. |
+| `Trade at the dockside stalls` | Trade at the dockside stalls | Kereskedj a kikötői standoknál |
+| `Fish for rope, rope for coin. You come out ahead.` | Fish for rope, rope for coin. You come out ahead. | Halat kötélért, kötelet pénzért. Nyereséggel jössz ki. |
+| `Work the dock alley` | Work the dock alley | Dolgozz a kikötői sikátorban |
+| `Sailors keep loose coin. You keep some of it.` | Sailors keep loose coin. You keep some of it. | A tengerészeknél laza aprópénz van. Egy részét megtartod. |
+| `Lift a guard captain's keys` | Lift a guard captain's keys | Emeld el egy őrkapitány kulcsait |
+| `You borrow them and return them before he notices.` | You borrow them and return them before he notices. | Kölcsönveszed őket, és visszaadod, mielőtt észrevenné. |
+| `Fence goods in the cold alley` | Fence goods in the cold alley | Passzold le a lopott árut a hideg sikátorban |
+| `The buyer pays in full and asks no questions.` | The buyer pays in full and asks no questions. | A vevő teljes árat fizet, és nem kérdez semmit. |
+| `Strike a deal at the pirate market` | Strike a deal at the pirate market | Köss üzletet a Kalózpiacon |
+| `You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales.` | You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales. | Alkudozol a kalózokkal, és a legjobb áruikkal távozol. Az orgazda küld egy tolvajkulcsot és egy mérleget. |
+| `Mastery: Bard and Discover` | Mastery: Bard and Discover | Mesterség: Bárd és Felfedezés |
+| `A wandering minstrel wants new songs from the oldest campfires.` | A wandering minstrel wants new songs from the oldest campfires. | Egy vándor dalnok új dalokat akar a legrégibb tábortüzektől. |
+| `Meet the wandering minstrel` | Meet the wandering minstrel | Találkozz a vándor dalnokkal |
+| `'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.'` | 'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.' | 'Minden bárd a nagy csarnokokban énekel. Én tábortüzek dalait akarom, és olyan helyekét, amelyeket senki sem térképez fel.' |
+| `Sing at the campfire` | Sing at the campfire | Énekelj a tábortűznél |
+| `Two travellers and a dog. You play until they fall asleep.` | Two travellers and a dog. You play until they fall asleep. | Két utazó és egy kutya. Addig játszol, amíg el nem alszanak. |
+| `Survey the nearby hills` | Survey the nearby hills | Mérd fel a közeli dombokat |
+| `You find an old marker stone and copy its carving.` | You find an old marker stone and copy its carving. | Találsz egy régi jelzőkövet, és lemásolod a faragását. |
+| `Map the frozen ridge` | Map the frozen ridge | Térképezd fel a fagyott gerincet |
+| `Your map is rough but true. The minstrel likes rough.` | Your map is rough but true. The minstrel likes rough. | A térképed durva, de pontos. A dalnok szereti a durvát. |
+| `Swap songs with the guards` | Swap songs with the guards | Cserélj dalokat az őrökkel |
+| `The guards know a verse you have never heard. You trade one of yours for it.` | The guards know a verse you have never heard. You trade one of yours for it. | Az őrök ismernek egy versszakot, amit még sosem hallottál. Elcseréled egy sajátodra. |
+| `Search the old prospect` | Search the old prospect | Kutass a régi kutatóhelyen |
+| `Under loose stones you find a tin cup with initials scratched in.` | Under loose stones you find a tin cup with initials scratched in. | Laza kövek alatt egy bádogbögrét találsz, belekarcolt monogrammal. |
+| `Scout the frozen pass` | Scout the frozen pass | Derítsd fel a fagyott hágót |
+| `Wind has carved the pass into a strange shape. You sketch it.` | Wind has carved the pass into a strange shape. You sketch it. | A szél különös formájúra faragta a hágót. Lerajzolod. |
+| `Play for the frost watch` | Play for the frost watch | Játssz a fagyos őrségnek |
+| `The watch claps with mittens on. It sounds like rain.` | The watch claps with mittens on. It sounds like rain. | Az őrség egyujjas kesztyűben tapsol. Olyan, mint az eső. |
+| `Perform in the old tavern` | Perform in the old tavern | Lépj fel a régi tavernában |
+| `You play the guards' verse. The tavern sings it back.` | You play the guards' verse. The tavern sings it back. | Eljátszod az őrök versszakát. A taverna visszaénekli. |
+| `Write a song by the fire` | Write a song by the fire | Írj dalt a tűz mellett |
+| `You write about the tin cup and the carved pass.` | You write about the tin cup and the carved pass. | A bádogbögréről és a faragott hágóról írsz. |
+| `Find the lost marker` | Find the lost marker | Keresd meg az elveszett jelzőkövet |
+| `The last marker is half buried. You dig it out and read it.` | The last marker is half buried. You dig it out and read it. | Az utolsó jelzőkő félig a földben van. Kiásod és elolvasod. |
+| `Chart the far reaches` | Chart the far reaches | Térképezd fel a távoli vidékeket |
+| `You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens.` | You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens. | Feltérképezed a távoli vidékeket, és a térképhez írod a dalodat. A dalnok küld egy hangszert és egy lencsét. |
+| `Mastery: Vigor and Slay` | Mastery: Vigor and Slay | Mesterség: Tetterő és Mészárlás |
+| `A slayer captain wants your stamina and your first kills done right again.` | A slayer captain wants your stamina and your first kills done right again. | Egy szörnyvadász-kapitány újra látni akarja az állóképességedet, és hogy rendesen elejted az első prédáidat. |
+| `Report to the slayer captain` | Report to the slayer captain | Jelentkezz a szörnyvadász-kapitánynál |
+| `'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?'` | 'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?' | 'A legrosszabb élőlényekre vadászol. Rendben. De körbe tudsz még futni egy udvart, és rendesen megölni egy gólemet?' |
+| `Run the training yard` | Run the training yard | Fusd körbe az edzőudvart |
+| `Ten laps, carrying a sandbag. You finish the last one sprinting.` | Ten laps, carrying a sandbag. You finish the last one sprinting. | Tíz kör egy homokzsákkal. Az utolsót sprintelve fejezed be. |
+| `Slay a feeble golem` | Slay a feeble golem | Pusztíts el egy gyenge gólemet |
+| `You find the crack in its chest and strike there.` | You find the crack in its chest and strike there. | Megtalálod a repedést a mellkasán, és oda sújtasz. |
+| `Drill in the frozen yard` | Drill in the frozen yard | Gyakorolj a fagyott udvaron |
+| `Ice underfoot. You learn to run without trusting the ground.` | Ice underfoot. You learn to run without trusting the ground. | Jég a lábad alatt. Megtanulsz úgy futni, hogy nem bízol a talajban. |
+| `Slay a dire golem` | Slay a dire golem | Pusztíts el egy baljós gólemet |
+| `Same crack, bigger golem. It falls the same way.` | Same crack, bigger golem. It falls the same way. | Ugyanaz a repedés, nagyobb gólem. Ugyanúgy dől el. |
+| `Climb the frost wall` | Climb the frost wall | Mássz fel a fagyfalon |
+| `Hand over hand, no rope. Your arms burn and hold.` | Hand over hand, no rope. Your arms burn and hold. | Kéz kéz után, kötél nélkül. A karod ég, de bírja. |
+| `Sprint the mountain yard` | Sprint the mountain yard | Sprintelj végig a hegyi udvaron |
+| `Thin air, long sprints. Your breath stays even.` | Thin air, long sprints. Your breath stays even. | Ritka levegő, hosszú sprintek. A légzésed egyenletes marad. |
+| `Slay a dire skeleton` | Slay a dire skeleton | Pusztíts el egy baljós csontvázat |
+| `You break it at the spine before it can rise.` | You break it at the spine before it can rise. | Eltöröd a gerincénél, mielőtt felkelhetne. |
+| `Haul stone across the yard` | Haul stone across the yard | Hordj követ át az udvaron |
+| `You carry stones until the yard master runs out of them.` | You carry stones until the yard master runs out of them. | Addig hordod a köveket, amíg az udvar gazdájának el nem fogynak. |
+| `Run the breakwood course` | Run the breakwood course | Fusd le a breakwoodi akadálypályát |
+| `Logs, ditches, walls. You clear it twice.` | Logs, ditches, walls. You clear it twice. | Rönkök, árkok, falak. Kétszer is teljesíted. |
+| `Slay a dire treant` | Slay a dire treant | Pusztíts el egy baljós treantot |
+| `You take it apart one branch at a time.` | You take it apart one branch at a time. | Ágról ágra szeded szét. |
+| `Climb to the pinnacle` | Climb to the pinnacle | Mássz fel az oromra |
+| `You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.'` | You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.' | Megállás nélkül érsz fel a csúcsra. A kapitány küld egy edzőcipőt és egy selejtező kést. 'Készen állsz, hogy bármire vadássz.' |
+| `Mastery: Luck and Alms` | Mastery: Luck and Alms | Mesterség: Szerencse és Alamizsna |
+| `An almoner believes fortune follows the generous. Spend a day proving it.` | An almoner believes fortune follows the generous. Spend a day proving it. | Egy alamizsnás hiszi, hogy a szerencse a nagylelkűeket követi. Tölts el egy napot azzal, hogy bebizonyítod. |
+| `Meet the almoner` | Meet the almoner | Találkozz az alamizsnással |
+| `'Give freely and luck finds you. Most people never test it. Come and test it.'` | 'Give freely and luck finds you. Most people never test it. Come and test it.' | 'Adj bőkezűen, és a szerencse rád talál. A legtöbben sosem próbálják ki. Gyere, és próbáld ki.' |
+| `Feed a hungry child` | Feed a hungry child | Etess meg egy éhes gyereket |
+| `You buy bread for a child in the alley. On the way out you find a coin.` | You buy bread for a child in the alley. On the way out you find a coin. | Kenyeret veszel egy gyereknek a sikátorban. Kifelé menet találsz egy érmét. |
+| `Pay a stranger's debt` | Pay a stranger's debt | Fizesd ki egy idegen tartozását |
+| `The stallholder is stunned. Then she gives you a lucky charm she carved.` | The stallholder is stunned. Then she gives you a lucky charm she carved. | A standos asszony elképed. Aztán ad neked egy szerencsés talizmánt, amit ő maga faragott. |
+| `Buy a smith his tools back` | Buy a smith his tools back | Vásárold vissza egy kovács szerszámait |
+| `The smith had pawned his hammer. You buy it back for him.` | The smith had pawned his hammer. You buy it back for him. | A kovács zálogba adta a kalapácsát. Visszaveszed neki. |
+| `Donate to the town chest` | Donate to the town chest | Adakozz a városi ládába |
+| `The banker counts your gift twice to be sure.` | The banker counts your gift twice to be sure. | A bankár kétszer is megszámolja az adományodat, hogy biztos legyen. |
+| `Leave coin for the wardens` | Leave coin for the wardens | Hagyj pénzt az őrzőknek |
+| `The wardens are grateful. One of them gives you a tip about a dice game.` | The wardens are grateful. One of them gives you a tip about a dice game. | Az őrzők hálásak. Egyikük tippet ad egy kockajátékról. |
+| `Play dice with the wardens` | Play dice with the wardens | Kockázz az őrzőkkel |
+| `You win three rolls in a row and give the winnings back.` | You win three rolls in a row and give the winnings back. | Háromszor nyersz egymás után, és visszaadod a nyereményt. |
+| `Plant a clover for luck` | Plant a clover for luck | Ültess lóherét szerencsére |
+| `You find a four-leaf clover while planting. The almoner is not surprised.` | You find a four-leaf clover while planting. The almoner is not surprised. | Ültetés közben négylevelű lóherét találsz. Az alamizsnás nem lepődik meg. |
+| `Fund the village well` | Fund the village well | Finanszírozd a falu kútját |
+| `The village will have clean water by spring.` | The village will have clean water by spring. | Tavaszra tiszta víz lesz a faluban. |
+| `Pay the dockhands' wages` | Pay the dockhands' wages | Fizesd ki a rakodómunkások bérét |
+| `The harbour master had run short. The dockhands cheer.` | The harbour master had run short. The dockhands cheer. | A kikötőmesternek elfogyott a pénze. A rakodómunkások ujjonganak. |
+| `Buy out a poor trader` | Buy out a poor trader | Vásárold fel egy szegény kereskedő áruját |
+| `You buy her last fish at full price. She swears it will bring you luck.` | You buy her last fish at full price. She swears it will bring you luck. | Teljes áron megveszed az utolsó halát. Megesküszik, hogy szerencsét hoz neked. |
+| `Give at the great market` | Give at the great market | Adakozz a nagy piacon |
+| `You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer.` | You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer. | Elajándékozol egy erszényt a piacon, és kifelé menet megnyersz egy tombolát. Az alamizsnás küld egy talizmánt és egy füstölőt. |
+| `Mastery: Delve and Fortify` | Mastery: Delve and Fortify | Mesterség: Feltárás és Megerősítés |
+| `A raid veteran wants every dungeon and Fortress wave run from the start.` | A raid veteran wants every dungeon and Fortress wave run from the start. | Egy veterán portyázó azt akarja, hogy minden tömlöcöt és minden Próbatétel-hullámot az elejétől teljesíts. |
+| `Meet the raid veteran` | Meet the raid veteran | Találkozz a veterán portyázóval |
+| `'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.'` | 'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.' | 'Csukott szemmel teljesíted a legnehezebb portyákat. Nyisd ki. Kezdd az első tömlöccel.' |
+| `Hear the delvers' stories` | Hear the delvers' stories | Hallgasd meg a tömlöcjárók történeteit |
+| `Old delvers trade stories of the first dungeon. You learn a route you never knew.` | Old delvers trade stories of the first dungeon. You learn a route you never knew. | Öreg tömlöcjárók mesélnek az első tömlöcről. Megtanulsz egy útvonalat, amelyet sosem ismertél. |
+| `You clear it using the old route. It is faster than yours.` | You clear it using the old route. It is faster than yours. | A régi útvonalon teljesíted. Gyorsabb, mint a tiéd. |
+| `Hold the Fortress for 20 waves` | Hold the Fortress for 20 waves | Tarts ki a Próbatételben 20 hullámon át |
+| `You hold the walls with plain supplies. Twenty waves, no losses.` | You hold the walls with plain supplies. Twenty waves, no losses. | Egyszerű készletekkel tartod a falakat. Húsz hullám, veszteség nélkül. |
+| `Restock near the Fortress` | Restock near the Fortress | Töltsd fel a készleteidet a Próbatétel közelében |
+| `You restock and swap stories with the Fortress crews.` | You restock and swap stories with the Fortress crews. | Feltöltöd a készleteidet, és történeteket cserélsz a Próbatétel csapataival. |
+| `Patch your raid gear` | Patch your raid gear | Foltozd meg a portyafelszerelésedet |
+| `Torn straps, cracked buckles. You fix them all yourself.` | Torn straps, cracked buckles. You fix them all yourself. | Szakadt szíjak, repedt csatok. Mindet magad javítod meg. |
+| `You lead the party and let them set the pace.` | You lead the party and let them set the pace. | Te vezeted a csapatot, de hagyod, hogy ők diktálják a tempót. |
+| `Hold the Fortress for 40 waves` | Hold the Fortress for 40 waves | Tarts ki a Próbatételben 40 hullámon át |
+| `Forty waves. Your deposits never stop.` | Forty waves. Your deposits never stop. | Negyven hullám. Egy pillanatra sem állsz le a leadással. |
+| `Plan the Savage run` | Plan the Savage run | Tervezd meg a portyát a Vad tömlöcbe |
+| `The veteran's notes cover every room. You add a few of your own.` | The veteran's notes cover every room. You add a few of your own. | A veterán jegyzetei minden termet lefednek. Hozzáteszel néhányat a sajátjaidból. |
+| `Clear a Savage Dungeon` | Clear a Savage Dungeon | Teljesíts egy Vad tömlöcöt |
+| `The Savage Dungeon goes the way the notes said it would.` | The Savage Dungeon goes the way the notes said it would. | A Vad tömlöc pontosan úgy alakul, ahogy a jegyzetek megjósolták. |
+| `Hold the Fortress for 60 waves` | Hold the Fortress for 60 waves | Tarts ki a Próbatételben 60 hullámon át |
+| `Sixty waves. The walls hold because you planned them to.` | Sixty waves. The walls hold because you planned them to. | Hatvan hullám. A falak kitartanak, mert így tervezted. |
+| `Clear a Fell Dungeon` | Clear a Fell Dungeon | Teljesíts egy Kegyetlen tömlöcöt |
+| `You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification.` | You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification. | Az első teremtől az utolsóig teljesíted a Kegyetlen tömlöcöt. A veterán küld egy koponyát és egy erődítést. |
+| `Gather the masters` | Gather the masters | Gyűjtsd össze a mestereket |
+| `Harvest the great orchard` | Harvest the great orchard | Takarítsd be a nagy gyümölcsöst |
+| `The best trees in the land, picked clean and left healthy.` | The best trees in the land, picked clean and left healthy. | A föld legjobb fái, tisztára szedve és egészségesen hagyva. |
+| `Fish the open sea` | Fish the open sea | Halássz a nyílt tengeren |
+| `You bring in a catch the fishwife would frame.` | You bring in a catch the fishwife would frame. | Olyan fogást hozol be, amit a halaskofa bekeretezne. |
+| `Draw from the obelisk` | Draw from the obelisk | Meríts az obeliszkből |
+| `The obelisk gives freely to someone who asks properly.` | The obelisk gives freely to someone who asks properly. | Az obeliszk szívesen ad annak, aki illően kér. |
+| `Work the underground` | Work the underground | Dolgozz az alvilágban |
+| `You take what you came for and leave no trace.` | You take what you came for and leave no trace. | Elviszed, amiért jöttél, és nem hagysz nyomot. |
+| `Trade at the grand market` | Trade at the grand market | Kereskedj a Nagy Piacon |
+| `Every stall gives you its best price.` | Every stall gives you its best price. | Minden stand a legjobb árát adja neked. |
+| `Forge at the great foundry` | Forge at the great foundry | Kovácsolj a nagy öntödében |
+| `The foundry's masters stop to watch you work.` | The foundry's masters stop to watch you work. | Az öntöde mesterei megállnak, hogy nézzék, ahogy dolgozol. |
+| `Perform at the royal court` | Perform at the royal court | Lépj fel a királyi udvarban |
+| `The court stands for your last song.` | The court stands for your last song. | Az udvar feláll az utolsó dalodra. |
+| `Craft at the syndicate atelier` | Craft at the syndicate atelier | Készíts valamit a Szindikátus atelierjében |
+| `You craft a piece the atelier keeps on display.` | You craft a piece the atelier keeps on display. | Olyan darabot készítesz, amelyet az atelier kiállít. |
+| `Forage the far wilds` | Forage the far wilds | Gyűjtögess a távoli vadonban |
+| `The wilds give up their rarest growth to you.` | The wilds give up their rarest growth to you. | A vadon neked adja a legritkább növényeit. |
+| `Run the long valley` | Run the long valley | Fusd végig a hosszú völgyet |
+| `You run it end to end and keep your breath.` | You run it end to end and keep your breath. | Végigfutod az elejétől a végéig, és nem fulladsz ki. |
+| `The masters have one more test, at the edges of the world.` | The masters have one more test, at the edges of the world. | A mestereknek van még egy próbájuk, a világ peremén. |
+| `Meet the masters again` | Meet the masters again | Találkozz újra a mesterekkel |
+| `Forage the deep hollows` | Forage the deep hollows | Gyűjtögess a mély üregekben |
+| `You find growth down here no forager has named.` | You find growth down here no forager has named. | Olyan növényekre bukkansz itt lent, amelyeknek egy gyűjtögető sem adott még nevet. |
+| `Mine the high ledge` | Mine the high ledge | Bányássz a magas párkányon |
+| `Ore from the ledge, brought down without a single slip.` | Ore from the ledge, brought down without a single slip. | Érc a párkányról, egyetlen megcsúszás nélkül lehozva. |
+| `Fish the eastern coast` | Fish the eastern coast | Halássz a keleti parton |
+| `You land a fish from water nobody fishes.` | You land a fish from water nobody fishes. | Olyan vízből fogsz halat, ahol senki sem halászik. |
+| `Chart the ruined coast` | Chart the ruined coast | Térképezd fel a romos partot |
+| `Your chart corrects three maps the cartographers trusted.` | Your chart corrects three maps the cartographers trusted. | A térképed három olyan térképet javít ki, amelyekben a térképészek megbíztak. |
+| `Charge essence at the arc` | Charge essence at the arc | Tölts fel eszenciát az ívfénynél |
+| `The arc burns bright and steady in your hands.` | The arc burns bright and steady in your hands. | Az ívfény fényesen és egyenletesen ég a kezedben. |
+| `Cook a feast for the masters` | Cook a feast for the masters | Főzz lakomát a mestereknek |
+| `Fifteen masters, one table. Every plate comes back clean.` | Fifteen masters, one table. Every plate comes back clean. | Tizenöt mester, egy asztal. Minden tányér üresen jön vissza. |
+| `Draw from the last obelisk` | Draw from the last obelisk | Meríts az utolsó obeliszkből |
+| `The obelisk at the end of the world answers you.` | The obelisk at the end of the world answers you. | A világ végén álló obeliszk válaszol neked. |
+| `Play the eastern court` | Play the eastern court | Játssz a keleti udvarban |
+| `The court asks for the campfire songs. You play them all.` | The court asks for the campfire songs. You play them all. | Az udvar a tábortűzi dalokat kéri. Mindet eljátszod. |
+| `Brew the masters' remedy` | Brew the masters' remedy | Főzd meg a mesterek gyógyszerét |
+| `A remedy built from every plain herb you grew.` | A remedy built from every plain herb you grew. | Gyógyszer minden egyszerű gyógynövényből, amit termesztettél. |
+| `Bargain with the pirate lords` | Bargain with the pirate lords | Alkudozz a kalózurakkal |
+| `The pirate lords pay you to leave.` | The pirate lords pay you to leave. | A kalózurak fizetnek neked, hogy elmenj. |
+| `Clear an Ancient Dungeon` | Clear an Ancient Dungeon | Teljesíts egy Ősi tömlöcöt |
+| `The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.'` | The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.' | A mesterek a legrégibb tömlöcnél várnak. Átnyújtanak egy második glóbuszt és egy lámpást. 'Most már nincs mit bizonyítanod.' |
+| `[Q1] Enchanted Rod` | [Q1] Enchanted Rod | [Q1] Elvarázsolt horgászbot |
+| `[Q1] Enchanted Pickaxe` | [Q1] Enchanted Pickaxe | [Q1] Elvarázsolt csákány |
+| `[Q1] Enchanted Sickle` | [Q1] Enchanted Sickle | [Q1] Elvarázsolt sarló |
+| `[Q1] Enchanted Conduit` | [Q1] Enchanted Conduit | [Q1] Elvarázsolt vezetőcsatorna |
+| `[Q1] Enchanted Trowel` | [Q1] Enchanted Trowel | [Q1] Elvarázsolt ültetőkanál |
+| `[Q1] Enchanted Lockpick` | [Q1] Enchanted Lockpick | [Q1] Elvarázsolt tolvajkulcs |
+| `[Q1] Enchanted Instrument` | [Q1] Enchanted Instrument | [Q1] Elvarázsolt hangszer |
+| `[Q1] Enchanted Trainers` | [Q1] Enchanted Trainers | [Q1] Elvarázsolt edzőcipő |
+| `[Q1] Culling Knife` | [Q1] Culling Knife | [Q1] Selejtező kés |
+| `[Q1] Lucky Charm` | [Q1] Lucky Charm | [Q1] Szerencsés talizmán |
+| `[Q1] Enchanted Censer` | [Q1] Enchanted Censer | [Q1] Elvarázsolt füstölő |
+| `[Q1] Enchanted Skillet` | [Q1] Enchanted Skillet | [Q1] Elvarázsolt serpenyő |
+| `[Q1] Enchanted Hammer` | [Q1] Enchanted Hammer | [Q1] Elvarázsolt kalapács |
+| `[Q1] Enchanted Chisel` | [Q1] Enchanted Chisel | [Q1] Elvarázsolt véső |
+| `[Q1] Enchanted Prism` | [Q1] Enchanted Prism | [Q1] Elvarázsolt prizma |
+| `[Q1] Enchanted Mortar` | [Q1] Enchanted Mortar | [Q1] Elvarázsolt mozsár |
+| `[Q1] Enchanted Scales` | [Q1] Enchanted Scales | [Q1] Elvarázsolt pikkely |
+| `[Q1] Enchanted Lens` | [Q1] Enchanted Lens | [Q1] Elvarázsolt lencse |
+| `[Q1] Enchanted Lantern` | [Q1] Enchanted Lantern | [Q1] Elvarázsolt lámpás |
+| `[Q1] Enchanted Pommel` | [Q1] Enchanted Pommel | [Q1] Elvarázsolt kardgomb |
+| `[Q1] Enchanted Grip` | [Q1] Enchanted Grip | [Q1] Elvarázsolt markolat |
+| `[Q1] Enchanted Notch` | [Q1] Enchanted Notch | [Q1] Elvarázsolt rovátka |
+| `[Q1] Enchanted Bowstring` | [Q1] Enchanted Bowstring | [Q1] Elvarázsolt íjhúr |
+| `[Q1] Enchanted Orb` | [Q1] Enchanted Orb | [Q1] Elvarázsolt gömb |
+| `[Q1] Enchanted Catalyst` | [Q1] Enchanted Catalyst | [Q1] Elvarázsolt katalizátor |
+| `[Q1] Enchanted Spring` | [Q1] Enchanted Spring | [Q1] Elvarázsolt rugó |
+| `[Q1] Enchanted Shim` | [Q1] Enchanted Shim | [Q1] Elvarázsolt alátét |
+| `[Q1] Enchanted Salve` | [Q1] Enchanted Salve | [Q1] Elvarázsolt kenőcs |
+| `[Q1] Enchanted Relic` | [Q1] Enchanted Relic | [Q1] Elvarázsolt ereklye |
+| `[T1] Globe of Skills` | [T1] Globe of Skills | [T1] Képességek glóbusza |
+| `[T2] Globe of Skills` | [T2] Globe of Skills | [T2] Képességek glóbusza |
+| `[Q1] Enchanted Skull` | [Q1] Enchanted Skull | [Q1] Elvarázsolt koponya |
+| `[Q1] Enchanted Fortification` | [Q1] Enchanted Fortification | [Q1] Elvarázsolt erődítés |
+| `Earned by completing every quest. New quests re-lock it until they are done.` | Earned by completing every quest. New quests re-lock it until they are done. | Minden küldetés teljesítésével szerezhető meg. Az új küldetések újra zárolják, amíg nem teljesíted őket. |
+| `New quests have arrived. Complete them to earn your Quest Cape back.` | New quests have arrived. Complete them to earn your Quest Cape back. | Új küldetések érkeztek. Teljesítsd őket, hogy visszaszerezd a Küldetésköpenyt. |
+| `Quest Cape Unlocked!` | Quest Cape Unlocked! | Küldetésköpeny feloldva! |
+| `Unlock Requirements` | Unlock Requirements | Feloldási követelmények |
+| `Q1` | Q1 | Q1 |
+| `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Képességek glóbuszai: +{0}% (+{1} lépés/mp) |
+| `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Küldetésköpeny: +{0}% (+{1} lépés/mp) |
+| `@crit_pct_globes` | Globes of Skills: {0}% | Képességek glóbuszai: {0}% |
+| `@globes_count` | Globes of Skills {0}/{1} | Képességek glóbuszai {0}/{1} |
+| `@quest_cape_count` | Quest Cape {0}/{1} | Küldetésköpeny {0}/{1} |
+| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% mozgássebesség, amíg minden küldetés teljesítve van |
+| `@all_skills_lv` | All Skills Lv {0} | Minden képesség Sz {0} |
+| `@b:auto_process` | +{0}% auto-process chance | +{0}% automatikus feldolgozási esély |
+| `@b:auto_bank` | +{0}% auto-bank chance | +{0}% automatikus bankba küldési esély |
+| `@b:min_hit` | +{0} min hit | +{0} min. találat |
+| `@b:max_hit` | +{0} max hit | +{0} max. találat |
+| `@b:quest_cape_held` | Held while every quest is completed | Addig a tiéd, amíg minden küldetés teljesítve van |
+| `Mastery: The Feeble Trial` | Mastery: The Feeble Trial | Mesterség: A gyenge próba |
+| `The masters test anyone who has survived a dungeon. The first trial starts close to home.` | The masters test anyone who has survived a dungeon. The first trial starts close to home. | A mesterek próbára tesznek mindenkit, aki túlélt egy tömlöcöt. Az első próba közel az otthonodhoz kezdődik. |
+| `Meet the masters at Fernstead` | Meet the masters at Fernstead | Találkozz a mesterekkel Fernsteadben |
+| `A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.'` | A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.' | Egy egyszerű kabátos mester vár a banknál. 'Láttál már tömlöcöt belülről. Most mutasd meg, hogy a kis dolgokat is jól csinálod.' |
+| `Cook at the Fernstead hearth` | Cook at the Fernstead hearth | Főzz Fernstead tűzhelyénél |
+| `Simple bread, baked right. The master takes a bite and nods.` | Simple bread, baked right. The master takes a bite and nods. | Egyszerű kenyér, jól megsütve. A mester beleharap és bólint. |
+| `Haggle at the stalls` | Haggle at the stalls | Alkudozz a standoknál |
+| `You walk away with a fair price and a new friend.` | You walk away with a fair price and a new friend. | Tisztességes árral és egy új baráttal távozol. |
+| `Tend the Fernstead field` | Tend the Fernstead field | Gondozd Fernstead mezejét |
+| `Straight rows and no weeds. The farmer asks who taught you.` | Straight rows and no weeds. The farmer asks who taught you. | Egyenes sorok, gyom sehol. A gazda megkérdezi, ki tanított. |
+| `Forage the thicket` | Forage the thicket | Gyűjtögess a bozótban |
+| `You come out with a full basket and not one scratch.` | You come out with a full basket and not one scratch. | Teli kosárral és egyetlen karcolás nélkül jössz ki. |
+| `Survey the Woodgap hills` | Survey the Woodgap hills | Mérd fel Woodgap dombjait |
+| `Your notes fill the gaps on the old survey map.` | Your notes fill the gaps on the old survey map. | A jegyzeteid kitöltik a régi felmérési térkép hézagait. |
+| `Work the Ironice smithy` | Work the Ironice smithy | Dolgozz Ironice kovácsműhelyében |
+| `A plain blade, balanced and sharp. The smith hangs it on the wall.` | A plain blade, balanced and sharp. The smith hangs it on the wall. | Egyszerű penge, kiegyensúlyozott és éles. A kovács kiakasztja a falra. |
+| `Cut stone at the quarry` | Cut stone at the quarry | Fejts követ a kőfejtőben |
+| `Clean blocks, cut square. The quarry boss has no complaints.` | Clean blocks, cut square. The quarry boss has no complaints. | Tiszta tömbök, derékszögben vágva. A kőfejtő főnökének nincs panasza. |
+| `Play at the Splitstone campfire` | Play at the Splitstone campfire | Játssz Splitstone tábortüzénél |
+| `Travelers stop to listen. One of them is a master.` | Travelers stop to listen. One of them is a master. | Az utazók megállnak hallgatni. Egyikük mester. |
+| `Work the Pinegap alley` | Work the Pinegap alley | Dolgozz Pinegap sikátorában |
+| `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Elemelsz egy erszényt, és visszaadod, mielőtt a gazdája észrevenné. A mester nevet. |
+| `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Meríts Pinegap kristályából |
+| `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | A kristály zümmög, és az eszencia tisztán jön ki. |
+| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | A mesterek a tömlöc bejáratánál várnak. 'Jó kezdet. A következő próba messzebb vár.' |
+| `Mastery: The Dire Trial` | Mastery: The Dire Trial | Mesterség: A baljós próba |
+| `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | A második próba a hideg nyugatra visz, ahol a mesterek keményebben dolgoznak. |
+| `Meet the masters at Timberchill` | Meet the masters at Timberchill | Találkozz a mesterekkel Timberchillben |
+| `'The first trial was easy on purpose. This one is not.'` | 'The first trial was easy on purpose. This one is not.' | 'Az első próba szándékosan volt könnyű. Ez nem az.' |
+| `Join the Timberchill expedition` | Join the Timberchill expedition | Csatlakozz Timberchill expedíciójához |
+| `You lead the expedition home with a full map and every pack mule.` | You lead the expedition home with a full map and every pack mule. | Teljes térképpel és az összes málhás öszvérrel vezeted haza az expedíciót. |
+| `Cook in the Icemast kitchen` | Cook in the Icemast kitchen | Főzz Icemast konyhájában |
+| `Hot stew for a cold crew. Everyone asks for seconds.` | Hot stew for a cold crew. Everyone asks for seconds. | Forró ragu a fagyos legénységnek. Mindenki repetát kér. |
+| `Fish the frozen lake` | Fish the frozen lake | Halássz a befagyott tavon |
+| `You cut a hole in the ice and fill a bucket before noon.` | You cut a hole in the ice and fill a bucket before noon. | Léket vágsz a jégbe, és délre megtöltesz egy vödröt. |
+| `Forge at the Battlefrost smithy` | Forge at the Battlefrost smithy | Kovácsolj Battlefrost kovácsműhelyében |
+| `Armor for the frontier guard, every plate fitted.` | Armor for the frontier guard, every plate fitted. | Páncél a határőrségnek, minden lemez pontosan illesztve. |
+| `Brew for the Battlefrost garrison` | Brew for the Battlefrost garrison | Főzz sört Battlefrost helyőrségének |
+| `A strong ale for a long winter. The garrison approves.` | A strong ale for a long winter. The garrison approves. | Erős sör a hosszú télre. A helyőrség elégedett. |
+| `Play the Battlefrost tavern` | Play the Battlefrost tavern | Játssz Battlefrost tavernájában |
+| `A tavern full of soldiers sings along.` | A tavern full of soldiers sings along. | Egy katonákkal teli taverna énekel veled. |
+| `Draw from the Windhollow rift` | Draw from the Windhollow rift | Meríts Windhollow hasadékából |
+| `The rift pulls back. You pull harder.` | The rift pulls back. You pull harder. | A hasadék visszahúz. Te erősebben húzol. |
+| `Charge the Windhollow conduit` | Charge the Windhollow conduit | Töltsd fel Windhollow vezetékét |
+| `The conduit glows steady for the first time in years.` | The conduit glows steady for the first time in years. | A vezeték évek óta először világít egyenletesen. |
+| `Tend the Windhollow greenhouse` | Tend the Windhollow greenhouse | Gondozd Windhollow üvegházát |
+| `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Zöld levelek a tél közepén. |
+| `Mine the Icevein seams` | Mine the Icevein seams | Bányászd Icevein ereit |
+| `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Megtalálod az eret, amelyet a bányászok feladtak. |
+| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Kitartottál a hidegben. Most a mesterek nyomás alatt akarnak látni.' |
+| `Mastery: The Savage Trial` | Mastery: The Savage Trial | Mesterség: A vad próba |
+| `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | A harmadik próba a nyüzsgő délen át vezet, ahol minden szakmát egy mester figyel. |
+| `Meet the masters at Shortha` | Meet the masters at Shortha | Találkozz a mesterekkel Shorthában |
+| `'The south is loud and crowded. Do your best work anyway.'` | 'The south is loud and crowded. Do your best work anyway.' | 'A dél hangos és zsúfolt. Akkor is a legjobb munkádat add.' |
+| `Build at the Shortha workshop` | Build at the Shortha workshop | Építs Shortha műhelyében |
+| `A cabinet with no gaps and no nails. The carpenter wants to buy it.` | A cabinet with no gaps and no nails. The carpenter wants to buy it. | Egy szekrény rések és szögek nélkül. Az asztalos meg akarja venni. |
+| `Perform at the Shortha theatre` | Perform at the Shortha theatre | Lépj fel Shortha színházában |
+| `The crowd stays on its feet until the lamps go out.` | The crowd stays on its feet until the lamps go out. | A közönség addig áll, amíg ki nem alszanak a lámpák. |
+| `Draw from the Shortha rift` | Draw from the Shortha rift | Meríts Shortha hasadékából |
+| `The rift spits sparks. You take what you need.` | The rift spits sparks. You take what you need. | A hasadék szikrákat köp. Elveszed, amire szükséged van. |
+| `Pull the Shortha heist` | Pull the Shortha heist | Hajtsd végre a Shortha-i rablást |
+| `In and out without a sound. The master checks the lock twice.` | In and out without a sound. The master checks the lock twice. | Be és ki, egyetlen hang nélkül. A mester kétszer is ellenőrzi a zárat. |
+| `Run the Shortha kitchen` | Run the Shortha kitchen | Vezesd Shortha konyháját |
+| `Two hundred plates in one night. None come back.` | Two hundred plates in one night. None come back. | Kétszáz tányér egyetlen éjszaka alatt. Egyet sem küldenek vissza. |
+| `Forage the Gilshore grove` | Forage the Gilshore grove | Gyűjtögess Gilshore ligetében |
+| `You find the herbs the grove keeper hides from buyers.` | You find the herbs the grove keeper hides from buyers. | Megtalálod a gyógynövényeket, amelyeket a liget őre a vevők elől rejteget. |
+| `Fish off the Gilshore coast` | Fish off the Gilshore coast | Halássz Gilshore partjainál |
+| `A heavy net, hauled in alone.` | A heavy net, hauled in alone. | Egy nehéz háló, egyedül behúzva. |
+| `Charge the Farmhold conduit` | Charge the Farmhold conduit | Töltsd fel Farmhold vezetékét |
+| `The conduit takes a full charge and holds it.` | The conduit takes a full charge and holds it. | A vezeték teljes töltést kap, és meg is tartja. |
+| `Run the Farmhold valley` | Run the Farmhold valley | Fusd végig Farmhold völgyét |
+| `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Kétszer is végigfutod a völgyet, csak hogy bebizonyíts valamit. |
+| `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Önts Riverwatch öntödéjében |
+| `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Tiszta öntés, buborékok nélkül. Az öntöde legénysége tapsol. |
+| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Jó. A glóbuszokat az utolsó két próbánál őrzik.' |
+| `Mastery: The Fell Trial` | Mastery: The Fell Trial | Mesterség: A kegyetlen próba |
+| `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | A negyedik próba a föld legjobb munkahelyeire küld. |
+| `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | A mesterek tolonganak a bankban. 'Három próba megvan. Most mutasd meg nekünk a föld legjobb munkáját.' |
+| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | A mesterek a tömlöc bejáratánál várnak. Átnyújtanak egy üvegből készült glóbuszt. 'Az első glóbusz. Minden eddigi próbát magában hordoz.' |
+| `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Mesterség: Az ősi próba |
+| `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Az első glóbusz a próbákért járt. A második azért jár, amit senki sem tanított meg neked.' |
+| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | A kegyetlen és az ősi próba jutalma. Mindkettő halmozódik. |

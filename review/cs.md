@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Objevování |
 
-## Lines to review (799)
+## Lines to review (1355)
 
 | Key | English | Current |
 |---|---|---|
@@ -869,3 +869,559 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tint` | Tint | Zabarvení |
 | `No tint` | No tint | Bez zabarvení |
 | `Pick any colour for the wings` | Pick any colour for the wings | Vyber libovolnou barvu křídel |
+| `Mastery: Life and Spirit` | Mastery: Life and Spirit | Mistrovství: Život a Duch |
+| `An old healer wants proof you still remember how to endure.` | An old healer wants proof you still remember how to endure. | Stará léčitelka chce důkaz, že si stále pamatuješ, jak vydržet. |
+| `Meet the old healer` | Meet the old healer | Setkej se se starou léčitelkou |
+| `She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.'` | She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.' | Než tě pozdraví, zkontroluje ti tep. „Silný. Ale o sílu tu nejde. Vrať se tam, kde ses poprvé učil vydržet.“ |
+| `Rest by the old campfire` | Rest by the old campfire | Odpočiň si u starého táboráku |
+| `You sit until the fire burns low. The healer nods when you stand without stiffness.` | You sit until the fire burns low. The healer nods when you stand without stiffness. | Sedíš, dokud oheň nepohasne. Léčitelka přikývne, když vstaneš bez ztuhlosti. |
+| `Share a plain meal` | Share a plain meal | Poděl se o prosté jídlo |
+| `Bread, broth, nothing more. 'You forgot how little a body needs,' she says.` | Bread, broth, nothing more. 'You forgot how little a body needs,' she says. | Chléb, vývar, nic víc. „Zapomněl jsi, jak málo tělo potřebuje,“ říká. |
+| `Outlast a feeble slime` | Outlast a feeble slime | Vydrž proti chabému slizu |
+| `It barely scratches you. You let it tire itself out before you finish it.` | It barely scratches you. You let it tire itself out before you finish it. | Sotva tě poškrábe. Necháš ho, ať se unaví, než ho dorazíš. |
+| `Calm your breathing by the fire` | Calm your breathing by the fire | Uklidni dech u ohně |
+| `You count your breaths until the count stops mattering. Your spirit settles.` | You count your breaths until the count stops mattering. Your spirit settles. | Počítáš nádechy, dokud na počtu nepřestane záležet. Tvůj duch se zklidní. |
+| `Eat with the road crews` | Eat with the road crews | Najez se s cestáři |
+| `The crews talk about blisters and sore backs. You listen more than you speak.` | The crews talk about blisters and sore backs. You listen more than you speak. | Cestáři mluví o puchýřích a bolavých zádech. Víc posloucháš, než mluvíš. |
+| `Take the ember slime calmly` | Take the ember slime calmly | Postav se klidně žhnoucímu slizu |
+| `You let the heat wash past you and keep your footing.` | You let the heat wash past you and keep your footing. | Necháš horko přejít kolem sebe a udržíš se pevně na nohou. |
+| `Clear a Feeble Dungeon` | Clear a Feeble Dungeon | Vyčisti Chabý Žalář |
+| `The first dungeon feels small now. You walk it slowly, watching every step.` | The first dungeon feels small now. You walk it slowly, watching every step. | První žalář ti teď připadá malý. Procházíš ho pomalu a hlídáš každý krok. |
+| `Report your progress` | Report your progress | Podej zprávu o postupu |
+| `The healer's runner takes your notes. 'She says you are nearly there.'` | The healer's runner takes your notes. 'She says you are nearly there.' | Poslíček léčitelky převezme tvé poznámky. „Říká, že už jsi skoro u cíle.“ |
+| `Cook for a tired party` | Cook for a tired party | Uvař pro unavenou družinu |
+| `You feed a party back from the deep. One of them falls asleep mid bite.` | You feed a party back from the deep. One of them falls asleep mid bite. | Krmíš družinu, která se vrátila z hlubin. Jeden z nich usne uprostřed sousta. |
+| `Clear a Dire Dungeon` | Clear a Dire Dungeon | Vyčisti Hrozivý Žalář |
+| `You come out of the Dire Dungeon with nothing worse than a bruise.` | You come out of the Dire Dungeon with nothing worse than a bruise. | Z Hrozivého Žaláře vyjdeš nanejvýš s modřinou. |
+| `Stand firm against a fell demon` | Stand firm against a fell demon | Odolej zlovolnému démonovi |
+| `The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.'` | The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.' | Démon tvrdě udeří, ale ty nepadneš. Léčitelka tě pak najde. „Mast a relikvie. Zasloužené, ne darované.“ |
+| `Mastery: Strike and Heft` | Mastery: Strike and Heft | Mistrovství: Úder a Zámah |
+| `A retired sergeant wants to see your first drills done properly again.` | A retired sergeant wants to see your first drills done properly again. | Vysloužilý seržant chce znovu vidět, jak pořádně zvládáš svá první cvičení. |
+| `Report to the old sergeant` | Report to the old sergeant | Hlas se u starého seržanta |
+| `'Eighty years of swinging and you still lead with your shoulder? Back to the drills.'` | 'Eighty years of swinging and you still lead with your shoulder? Back to the drills.' | „Osmdesát let máchání a pořád vedeš ránu ramenem? Zpátky k výcviku.“ |
+| `Cut a practice staff` | Cut a practice staff | Uřízni cvičnou hůl |
+| `You trim an ash branch to length. It is lighter than anything you carry now.` | You trim an ash branch to length. It is lighter than anything you carry now. | Zkrátíš jasanovou větev na délku. Je lehčí než cokoli, co teď nosíš. |
+| `Spar with a feeble goblin` | Spar with a feeble goblin | Utkej se v cvičném souboji s chabým goblinem |
+| `You win with the staff alone. The sergeant grunts something like approval.` | You win with the staff alone. The sergeant grunts something like approval. | Vyhraješ jen s holí. Seržant zabručí něco jako souhlas. |
+| `Run the training trail` | Run the training trail | Proběhni cvičnou stezku |
+| `Three laps, then three more. Your footwork comes back on the last one.` | Three laps, then three more. Your footwork comes back on the last one. | Tři kola, pak další tři. V posledním se ti vrátí práce nohou. |
+| `Beat a dire goblin cleanly` | Beat a dire goblin cleanly | Čistě poraz hrozivého goblina |
+| `No wasted swings. The sergeant counts them on his fingers.` | No wasted swings. The sergeant counts them on his fingers. | Žádné zbytečné máchnutí. Seržant je počítá na prstech. |
+| `Eat with the garrison` | Eat with the garrison | Najez se s posádkou |
+| `The garrison cook remembers the sergeant. 'He still shouts at everyone?'` | The garrison cook remembers the sergeant. 'He still shouts at everyone?' | Kuchař posádky si seržanta pamatuje. „Pořád na všechny křičí?“ |
+| `Send word to the sergeant` | Send word to the sergeant | Pošli zprávu seržantovi |
+| `You send a short note: two goblins down, footwork fixed.` | You send a short note: two goblins down, footwork fixed. | Pošleš krátký vzkaz: dva goblini padli, práce nohou opravena. |
+| `Break a feeble skeleton` | Break a feeble skeleton | Rozbij chabého kostlivce |
+| `Bone gives way under a clean blow. Heft without strike is noise, he always said.` | Bone gives way under a clean blow. Heft without strike is noise, he always said. | Kost povolí pod čistou ranou. Zámah bez úderu je jen hluk, říkával vždycky. |
+| `You clear it with the same drills you learned there.` | You clear it with the same drills you learned there. | Vyčistíš ho stejnými cviky, které ses tam naučil. |
+| `Your party moves when you move. Good habits spread.` | Your party moves when you move. Good habits spread. | Tvá družina se pohne, když se pohneš ty. Dobré návyky se šíří. |
+| `Have your blade reforged` | Have your blade reforged | Nech si překovat čepel |
+| `The smith grinds out years of nicks. It swings true again.` | The smith grinds out years of nicks. It swings true again. | Kovář vybrousí vruby z mnoha let. Čepel zase jde přesně. |
+| `Fell an orc with clean blows` | Fell an orc with clean blows | Slož orka čistými ranami |
+| `The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.'` | The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.' | Ork padne po třech úderech. Seržant ti podá hlavici a úchop. „Teď jsi připraven.“ |
+| `Mastery: Sight and Draw` | Mastery: Sight and Draw | Mistrovství: Míření a Nátah |
+| `A hunter in the north asks you to shoot like a beginner again.` | A hunter in the north asks you to shoot like a beginner again. | Lovec ze severu tě žádá, abys znovu střílel jako začátečník. |
+| `Meet the northern hunter` | Meet the northern hunter | Setkej se se severským lovcem |
+| `'You aim like someone who expects to hit. Good archers expect to miss. Come.'` | 'You aim like someone who expects to hit. Good archers expect to miss. Come.' | „Míříš jako někdo, kdo čeká, že trefí. Dobří lučištníci čekají, že minou. Pojď.“ |
+| `Fletch a plain practice bow` | Fletch a plain practice bow | Vyrob jednoduchý cvičný luk |
+| `No runes, no gems. Just yew and string.` | No runes, no gems. Just yew and string. | Žádné runy, žádné drahokamy. Jen tis a tětiva. |
+| `Scout the hills for targets` | Scout the hills for targets | Vyhledej v kopcích cíle |
+| `You mark three trees and a stump at different ranges.` | You mark three trees and a stump at different ranges. | Označíš tři stromy a pařez v různých vzdálenostech. |
+| `Take down a dire gnoll` | Take down a dire gnoll | Slož hrozivého gnolla |
+| `One arrow, placed where the hunter pointed. 'Better.'` | One arrow, placed where the hunter pointed. 'Better.' | Jeden šíp, přesně tam, kam lovec ukázal. „Lepší.“ |
+| `Cut fresh arrow shafts` | Cut fresh arrow shafts | Nařež čerstvé dříky šípů |
+| `You pick straight stems and trim them by eye.` | You pick straight stems and trim them by eye. | Vybíráš rovné stonky a zkracuješ je od oka. |
+| `Run the range drills` | Run the range drills | Absolvuj cvičení na střelnici |
+| `Shoot, move, shoot. Your breath and your release line up again.` | Shoot, move, shoot. Your breath and your release line up again. | Výstřel, pohyb, výstřel. Dech a vypuštění tětivy jsou zase v souladu. |
+| `Hit a golem at the joints` | Hit a golem at the joints | Zasáhni golema do kloubů |
+| `Stone is hard, joints are not. The golem folds.` | Stone is hard, joints are not. The golem folds. | Kámen je tvrdý, klouby ne. Golem se složí. |
+| `You call targets for the whole party. Nobody wastes a shot.` | You call targets for the whole party. Nobody wastes a shot. | Určuješ cíle celé družině. Nikdo neplýtvá střelou. |
+| `Eat with the hunters` | Eat with the hunters | Najez se s lovci |
+| `The hunters argue about wind. You agree with all of them.` | The hunters argue about wind. You agree with all of them. | Lovci se hádají o vítr. Souhlasíš se všemi. |
+| `Bank your spare arrows` | Bank your spare arrows | Ulož náhradní šípy do banky |
+| `You store the spares. Travelling light is half the craft.` | You store the spares. Travelling light is half the craft. | Uložíš zásobu. Cestovat nalehko je půlka umění. |
+| `You shoot from the back row and never lose sight of the front.` | You shoot from the back row and never lose sight of the front. | Střílíš ze zadní řady a nikdy neztratíš přehled o přední linii. |
+| `Bring down a fell gnoll` | Bring down a fell gnoll | Slož zlovolného gnolla |
+| `Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.'` | Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.' | Dva výstřely, oba čisté. Lovec ti podá zářez a tětivu. „Nech si je. A miň čím dál méně.“ |
+| `Mastery: Focus and Surge` | Mastery: Focus and Surge | Mistrovství: Soustředění a Příval |
+| `An eastern mage wants your first spells cast without force or fuss.` | An eastern mage wants your first spells cast without force or fuss. | Východní mág chce, abys sesílal svá první kouzla bez násilí a bez okolků. |
+| `Meet the eastern mage` | Meet the eastern mage | Setkej se s východním mágem |
+| `'You push power like a mule pushes a cart. Let us start again, smaller.'` | 'You push power like a mule pushes a cart. Let us start again, smaller.' | „Tlačíš moc, jako když mula tlačí vůz. Začněme znovu, a skromněji.“ |
+| `Draw from a small fragment` | Draw from a small fragment | Čerpej z malého úlomku |
+| `The essence is faint. You have to listen for it.` | The essence is faint. You have to listen for it. | Esence je mdlá. Musíš se do ní zaposlouchat. |
+| `Charge a single dim essence` | Charge a single dim essence | Nabij jednu matnou esenci |
+| `You charge it slowly. It holds better than anything you rushed.` | You charge it slowly. It holds better than anything you rushed. | Nabíjíš ji pomalu. Drží lépe než cokoli, co jsi uspěchal. |
+| `Banish a feeble imp` | Banish a feeble imp | Vyžeň chabého skřítka |
+| `A small spell, aimed well. The imp is gone before it can grin.` | A small spell, aimed well. The imp is gone before it can grin. | Malé kouzlo, dobře mířené. Skřítek zmizí dřív, než se stihne zašklebit. |
+| `Read the runes in the ashes` | Read the runes in the ashes | Přečti runy v popelu |
+| `Old travellers left warding marks here. You copy them out.` | Old travellers left warding marks here. You copy them out. | Dávní poutníci tu zanechali ochranná znamení. Opíšeš si je. |
+| `Tend a small herb plot` | Tend a small herb plot | Starej se o malou bylinkovou parcelu |
+| `The mage wants patience practised. You weed until your mind goes quiet.` | The mage wants patience practised. You weed until your mind goes quiet. | Mág chce, abys cvičil trpělivost. Pleješ, dokud se ti mysl neutiší. |
+| `Unmake a dire lich` | Unmake a dire lich | Znič hrozivého licha |
+| `You break its ward with the marks from the ashes.` | You break its ward with the marks from the ashes. | Prolomíš jeho ochranu znameními z popela. |
+| `You cast half as often and hit twice as hard.` | You cast half as often and hit twice as hard. | Sesíláš o polovinu méně často a zasahuješ dvakrát silněji. |
+| `Inscribe a beginner sigil` | Inscribe a beginner sigil | Vyryj začátečnický sigil |
+| `Simple lines, clean joins. The mage keeps it as a sample.` | Simple lines, clean joins. The mage keeps it as a sample. | Jednoduché čáry, čisté spoje. Mág si ho nechá jako vzor. |
+| `Send your notes east` | Send your notes east | Pošli své poznámky na východ |
+| `Your notes on the lich go back to the mage by courier.` | Your notes on the lich go back to the mage by courier. | Tvé poznámky o lichovi putují zpět k mágovi po kurýrovi. |
+| `Your spells land on rhythm. The party fights to your timing.` | Your spells land on rhythm. The party fights to your timing. | Tvá kouzla dopadají v rytmu. Družina bojuje podle tvého načasování. |
+| `Dispel a fell demon` | Dispel a fell demon | Rozptyl zlovolného démona |
+| `One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.'` | One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.' | Jeden soustředěný příval a démon se rozplyne. Mág ti dá kouli a katalyzátor. „Malá kouzla, velké výsledky.“ |
+| `Mastery: Dodge and Defend` | Mastery: Dodge and Defend | Mistrovství: Úhyb a Obrana |
+| `A shieldwright wants you to relearn when to block and when to move.` | A shieldwright wants you to relearn when to block and when to move. | Štítařka chce, aby ses znovu naučil, kdy blokovat a kdy uhnout. |
+| `Meet the shieldwright` | Meet the shieldwright | Setkej se se štítařkou |
+| `'You block everything. Some things you should just not be standing in front of.'` | 'You block everything. Some things you should just not be standing in front of.' | „Blokuješ všechno. Před některými věcmi bys prostě neměl stát.“ |
+| `Hammer out a practice shield` | Hammer out a practice shield | Vykovej cvičný štít |
+| `Plain iron, a little too heavy. That is the point, she says.` | Plain iron, a little too heavy. That is the point, she says. | Obyčejné železo, trochu moc těžké. O to právě jde, říká. |
+| `Dodge a feeble rat` | Dodge a feeble rat | Uhýbej chabé kryse |
+| `You step aside until it tires. You do not raise the shield once.` | You step aside until it tires. You do not raise the shield once. | Uhýbáš, dokud se neunaví. Štít ani jednou nezvedneš. |
+| `Weave through the crowded alley` | Weave through the crowded alley | Proplétej se přeplněnou uličkou |
+| `Market day. You cross the alley without touching anyone.` | Market day. You cross the alley without touching anyone. | Trhový den. Projdeš uličkou, aniž by ses kohokoli dotkl. |
+| `Block a feeble treant` | Block a feeble treant | Blokuj chabého treanta |
+| `Its branches thud off the shield. You keep your feet planted.` | Its branches thud off the shield. You keep your feet planted. | Jeho větve duní o štít. Stojíš pevně na nohou. |
+| `Hold against a dire treant` | Hold against a dire treant | Odolej hrozivému treantovi |
+| `Block, step, block. You stop thinking about which comes next.` | Block, step, block. You stop thinking about which comes next. | Blok, krok, blok. Přestaneš přemýšlet, co přijde dál. |
+| `You take every hit meant for the party and none meant for you.` | You take every hit meant for the party and none meant for you. | Přijmeš každou ránu určenou družině a žádnou určenou tobě. |
+| `Gather bark for shield padding` | Gather bark for shield padding | Nasbírej kůru na vycpávku štítu |
+| `Soft bark, layered thick. Your arm will thank you.` | Soft bark, layered thick. Your arm will thank you. | Měkká kůra v silných vrstvách. Tvá paže ti poděkuje. |
+| `Send the shieldwright word` | Send the shieldwright word | Pošli štítařce zprávu |
+| `You report the treant fights. She replies with a single word: 'Again.'` | You report the treant fights. She replies with a single word: 'Again.' | Podáš zprávu o bojích s treanty. Odpoví jediným slovem: „Znovu.“ |
+| `You read every swing before it comes.` | You read every swing before it comes. | Přečteš každý rozmach dřív, než přijde. |
+| `Reinforce the shield rim` | Reinforce the shield rim | Zpevni okraj štítu |
+| `The smith adds a band of steel to the rim. It feels finished now.` | The smith adds a band of steel to the rim. It feels finished now. | Kovář přidá na okraj ocelový pás. Teď už působí hotově. |
+| `Outlast a fell orc` | Outlast a fell orc | Vydrž proti zlovolnému orkovi |
+| `It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim.` | It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim. | Máchá, dokud se sotva drží na nohou. Ty ses ani na chvíli nepřestal hýbat. Štítařka ti podá pružinu a podložku. |
+| `Mastery: Fish and Cook` | Mastery: Fish and Cook | Mistrovství: Rybařit a Vařit |
+| `A fishwife who fed half the coast wants your first catch cooked right.` | A fishwife who fed half the coast wants your first catch cooked right. | Prodavačka ryb, která nakrmila půl pobřeží, chce, abys svůj první úlovek uvařil správně. |
+| `Meet the old fishwife` | Meet the old fishwife | Setkej se se starou prodavačkou ryb |
+| `'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.'` | 'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.' | „Velké ryby, nóbl pánve. Kdy jsi naposledy pořádně uvařil krevetu? Jdi to zjistit.“ |
+| `Cook over an open spit` | Cook over an open spit | Vař na rožni pod širým nebem |
+| `No kitchen, no spices. You keep the fire low and the fish whole.` | No kitchen, no spices. You keep the fire low and the fish whole. | Žádná kuchyně, žádné koření. Držíš malý oheň a rybu vcelku. |
+| `Fish the shallow pool` | Fish the shallow pool | Rybař v mělké tůni |
+| `You catch a shrimp and remember the first one you ever landed.` | You catch a shrimp and remember the first one you ever landed. | Chytíš krevetu a vzpomeneš si na tu úplně první, kterou jsi kdy vytáhl. |
+| `Fish a quiet stream` | Fish a quiet stream | Rybař v tichém potoce |
+| `The stream is slow and so are you. You stop rushing the line.` | The stream is slow and so are you. You stop rushing the line. | Potok je pomalý a ty taky. Přestaneš s vlascem spěchat. |
+| `Grill your catch plainly` | Grill your catch plainly | Ugriluj úlovek bez přídavků |
+| `Salt and smoke. The fishwife would approve.` | Salt and smoke. The fishwife would approve. | Sůl a kouř. Prodavačka ryb by byla spokojená. |
+| `Try the far pool` | Try the far pool | Zkus vzdálenou tůň |
+| `A perch bites on the third cast. You let it run before you reel.` | A perch bites on the third cast. You let it run before you reel. | Okoun zabere při třetím nahození. Necháš ho běžet, než začneš navíjet. |
+| `Fish the cold stream` | Fish the cold stream | Rybař ve studeném potoce |
+| `Cold hands, quick fish. You learn to strike faster.` | Cold hands, quick fish. You learn to strike faster. | Studené ruce, rychlé ryby. Učíš se zasekávat rychleji. |
+| `Cook at a mountain hearth` | Cook at a mountain hearth | Vař u horského krbu |
+| `The hearth cook shows you how to keep fish from drying out.` | The hearth cook shows you how to keep fish from drying out. | Kuchař u krbu ti ukáže, jak zabránit tomu, aby ryba vyschla. |
+| `Feed the mill workers` | Feed the mill workers | Nakrm dělníky z mlýna |
+| `You cook for a crew of twenty. Nothing comes back burned.` | You cook for a crew of twenty. Nothing comes back burned. | Vaříš pro dvacet lidí. Nic se nevrátí připálené. |
+| `Cook on the tidefield spit` | Cook on the tidefield spit | Vař na kose v Tidefieldu |
+| `The fishwife's cousin tastes your work and sends word up the coast.` | The fishwife's cousin tastes your work and sends word up the coast. | Bratranec prodavačky ryb ochutná tvé jídlo a rozešle zprávu po celém pobřeží. |
+| `Cook one perfect fillet` | Cook one perfect fillet | Připrav jeden dokonalý filet |
+| `One fillet, cooked through, still soft. You eat it yourself.` | One fillet, cooked through, still soft. You eat it yourself. | Jeden filet, propečený, a přesto měkký. Sníš ho sám. |
+| `Land a catch at the seaside` | Land a catch at the seaside | Ulov něco na pobřeží |
+| `The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.'` | The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.' | Hlubinné ryby tvrdě bojují, ale ty je vytáhneš. Prodavačka ryb pošle prut a pánev. „Teď jsi rybář i kuchař.“ |
+| `Mastery: Mine and Smith` | Mastery: Mine and Smith | Mistrovství: Těžba a Kovat |
+| `A forge master wants proof you still respect plain copper and tin.` | A forge master wants proof you still respect plain copper and tin. | Mistr kovárny chce důkaz, že si stále vážíš obyčejné mědi a cínu. |
+| `Meet the forge master` | Meet the forge master | Setkej se s mistrem kovárny |
+| `'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.'` | 'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.' | „Teď saháš jen na vzácnou rudu. Z mědi byla postavena každá síň v této zemi. Jdi si ji znovu zasloužit.“ |
+| `Work a copper bar` | Work a copper bar | Zpracuj měděný ingot |
+| `You fold the bar slowly. It rings clean.` | You fold the bar slowly. It rings clean. | Pomalu ingot přeložíš. Zvoní čistě. |
+| `Mine at the old quarry` | Mine at the old quarry | Těž ve starém lomu |
+| `Copper and tin, by hand. Your swing settles into an old rhythm.` | Copper and tin, by hand. Your swing settles into an old rhythm. | Měď a cín, ručně. Tvé máchnutí se usadí ve starém rytmu. |
+| `Smelt your first batch` | Smelt your first batch | Roztav svou první várku |
+| `You keep the heat even. No slag, no cracks.` | You keep the heat even. No slag, no cracks. | Udržuješ rovnoměrný žár. Žádná struska, žádné praskliny. |
+| `Follow a shallow vein` | Follow a shallow vein | Sleduj mělkou žílu |
+| `The vein is thin but honest. You take only what it gives.` | The vein is thin but honest. You take only what it gives. | Žíla je tenká, ale poctivá. Bereš jen to, co dá. |
+| `Quarry stone and ore` | Quarry stone and ore | Vylom kámen a rudu |
+| `Wind cuts through the quarry. You work until the cart is full.` | Wind cuts through the quarry. You work until the cart is full. | Lomem profukuje vítr. Pracuješ, dokud není vozík plný. |
+| `Chip out the iron seam` | Chip out the iron seam | Vysekej železnou žílu |
+| `The iron comes loose in good clean chunks.` | The iron comes loose in good clean chunks. | Železo se uvolňuje v pěkných čistých kusech. |
+| `Forge a plain nail` | Forge a plain nail | Vykovej obyčejný hřebík |
+| `A nail is the hardest thing to forge well, the forge master said.` | A nail is the hardest thing to forge well, the forge master said. | Hřebík je nejtěžší dobře vykovat, říkal mistr kovárny. |
+| `Mine beside the old camp` | Mine beside the old camp | Těž u starého tábora |
+| `Old miners left their marks here. You add yours under theirs.` | Old miners left their marks here. You add yours under theirs. | Staří horníci tu zanechali své značky. Přidáš tu svou pod ty jejich. |
+| `Temper a beginner blade` | Temper a beginner blade | Zakal začátečnickou čepel |
+| `You quench it once and it holds an edge.` | You quench it once and it holds an edge. | Jednou ji zakalíš a drží ostří. |
+| `Load a cart of ore` | Load a cart of ore | Naplň vozík rudou |
+| `You load and haul. Your back remembers its first summer here.` | You load and haul. Your back remembers its first summer here. | Nakládáš a táhneš. Tvá záda si pamatují své první léto tady. |
+| `Mine the deepest shaft` | Mine the deepest shaft | Těž v nejhlubší šachtě |
+| `You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.'` | You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.' | Vyneseš rudu z hlubin bez jediného škrábnutí. Mistr kovárny pošle krumpáč a kladivo. „Zpátky tam, kde jsi začal, a daleko za tím.“ |
+| `Mastery: Forage and Craft` | Mastery: Forage and Craft | Mistrovství: Sbírat a Vyrobit |
+| `A weaver asks you to gather and work the simplest materials again.` | A weaver asks you to gather and work the simplest materials again. | Tkadlena tě žádá, abys znovu sbíral a zpracovával ty nejjednodušší materiály. |
+| `Meet the weaver` | Meet the weaver | Setkej se s tkadlenou |
+| `'You work dragonhide and starspun now. Show me you can still make good strips from leather.'` | 'You work dragonhide and starspun now. Show me you can still make good strips from leather.' | „Teď pracuješ s dračí kůží a hvězdnou přízí. Ukaž mi, že pořád umíš nařezat z kůže dobré řemínky.“ |
+| `Cut leather into strips` | Cut leather into strips | Nařež kůži na řemínky |
+| `Even width, no ragged ends. The weaver checks every one.` | Even width, no ragged ends. The weaver checks every one. | Stejná šířka, žádné roztřepené konce. Tkadlena kontroluje každý. |
+| `Gather from the wild patch` | Gather from the wild patch | Sbírej na divokém záhonu |
+| `You pick slowly and leave the young growth alone.` | You pick slowly and leave the young growth alone. | Sbíráš pomalu a mladé výhonky necháváš být. |
+| `Forage the woodland patch` | Forage the woodland patch | Sbírej na lesním záhonu |
+| `Linen grows thick here. You fill a sack before noon.` | Linen grows thick here. You fill a sack before noon. | Roste tu hustý len. Pytel naplníš před polednem. |
+| `Search the fern thicket` | Search the fern thicket | Prohledej kapradinovou houštinu |
+| `Silk moths nest in the ferns. You take only the spent cocoons.` | Silk moths nest in the ferns. You take only the spent cocoons. | V kapradí hnízdí bource. Bereš jen opuštěné kokony. |
+| `Gather on the rocky patch` | Gather on the rocky patch | Sbírej na skalnatém záhonu |
+| `Hardy plants, tough fibres. Good for rope.` | Hardy plants, tough fibres. Good for rope. | Odolné rostliny, pevná vlákna. Dobré na provaz. |
+| `Spin linen into thread` | Spin linen into thread | Upřeď ze lnu nit |
+| `You spin until the thread runs fine and even.` | You spin until the thread runs fine and even. | Předeš, dokud nit neběží jemně a rovnoměrně. |
+| `Forage the hillside patch` | Forage the hillside patch | Sbírej na záhonu na svahu |
+| `You know which leaves to take by touch now.` | You know which leaves to take by touch now. | Teď už podle hmatu poznáš, které listy vzít. |
+| `Gather hides from the thicket` | Gather hides from the thicket | Posbírej kůže z houštiny |
+| `A hunter left hides to cure. You trade a day of work for them.` | A hunter left hides to cure. You trade a day of work for them. | Lovec tu nechal kůže k vydělání. Vyměníš je za den práce. |
+| `Forage the fort patch` | Forage the fort patch | Sbírej na záhonu u tvrze |
+| `The fort guards point you to a patch nobody else bothers with.` | The fort guards point you to a patch nobody else bothers with. | Strážní z tvrze tě navedou na záhon, o který se nikdo jiný nestará. |
+| `Craft a simple satchel` | Craft a simple satchel | Vyrob jednoduchou brašnu |
+| `Strips, thread and a buckle. It is the best thing you have made in years.` | Strips, thread and a buckle. It is the best thing you have made in years. | Řemínky, nit a přezka. Je to to nejlepší, co jsi za poslední roky vyrobil. |
+| `Forage the deep wilds` | Forage the deep wilds | Sbírej v hluboké pustině |
+| `You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel.` | You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel. | Vracíš se z pustiny se vzácnými materiály a jistýma rukama. Tkadlena pošle srp a dláto. |
+| `Mastery: Invoke and Imbue` | Mastery: Invoke and Imbue | Mistrovství: Vyvolat a Prosytit |
+| `An old enchanter wants your first dim essences drawn and charged again.` | An old enchanter wants your first dim essences drawn and charged again. | Starý zaklínač chce, abys znovu čerpal a nabíjel své první matné esence. |
+| `Meet the old enchanter` | Meet the old enchanter | Setkej se se starým zaklínačem |
+| `'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.'` | 'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.' | „Zářivá, nebeská, božská. Kdy jsi naposledy nabil matnou esenci? Začni tam.“ |
+| `Charge a dim essence` | Charge a dim essence | Nabij matnou esenci |
+| `It takes almost nothing to charge. That is what makes it hard.` | It takes almost nothing to charge. That is what makes it hard. | Nabít ji nestojí skoro nic. Právě proto je to těžké. |
+| `The fragment hums faintly. You draw from it without cracking it.` | The fragment hums faintly. You draw from it without cracking it. | Úlomek slabě bzučí. Čerpáš z něj, aniž bys ho rozbil. |
+| `Charge at the glowing font` | Charge at the glowing font | Nabíjej u zářícího pramene |
+| `You feed the font slowly. It answers in kind.` | You feed the font slowly. It answers in kind. | Pramen krmíš pomalu. Odpovídá ti stejně. |
+| `Listen at the river fragment` | Listen at the river fragment | Naslouchej u říčního úlomku |
+| `Faint essence, carried on the river wind.` | Faint essence, carried on the river wind. | Mdlá esence nesená říčním větrem. |
+| `Charge a faint essence` | Charge a faint essence | Nabij mdlou esenci |
+| `Clean light. The enchanter would keep this one.` | Clean light. The enchanter would keep this one. | Čisté světlo. Tuhle by si zaklínač nechal. |
+| `Trace the ruined sigil` | Trace the ruined sigil | Obkresli zničený sigil |
+| `The old lines still hold power. You trace them without breaking them.` | The old lines still hold power. You trace them without breaking them. | Staré linie stále mají moc. Obkreslíš je, aniž bys je přerušil. |
+| `Charge essence at the sigil` | Charge essence at the sigil | Nabíjej esenci u sigilu |
+| `You charge three in a row without a flicker.` | You charge three in a row without a flicker. | Nabiješ tři za sebou bez jediného zablikání. |
+| `Draw from the crystal` | Draw from the crystal | Čerpej z krystalu |
+| `The crystal gives more than you ask. You take only what you need.` | The crystal gives more than you ask. You take only what you need. | Krystal dává víc, než žádáš. Bereš jen tolik, kolik potřebuješ. |
+| `Draw from the desert fragment` | Draw from the desert fragment | Čerpej z pouštního úlomku |
+| `Dry air, sharp essence. Your hands stay steady.` | Dry air, sharp essence. Your hands stay steady. | Suchý vzduch, ostrá esence. Ruce ti zůstávají klidné. |
+| `Charge in the desert heat` | Charge in the desert heat | Nabíjej v pouštním žáru |
+| `The heat fights you. You win by going slower.` | The heat fights you. You win by going slower. | Žár s tebou bojuje. Vyhraješ tím, že zpomalíš. |
+| `Draw deep from the rift` | Draw deep from the rift | Čerpej hluboko z trhliny |
+| `The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism.` | The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism. | Z trhliny se valí jasná esence a ty ji celou udržíš. Zaklínač pošle vodič a hranol. |
+| `Mastery: Farm and Brew` | Mastery: Farm and Brew | Mistrovství: Pěstovat a Vaření piva |
+| `A herbalist wants you to grow and brew the plainest remedies again.` | A herbalist wants you to grow and brew the plainest remedies again. | Bylinkářka chce, abys znovu pěstoval a vařil ty nejprostší léky. |
+| `Meet the herbalist` | Meet the herbalist | Setkej se s bylinkářkou |
+| `'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.'` | 'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.' | „Vzácné květy, nóbl tonika. Umíš ještě vypěstovat kořen šarvátky a čistě z něj uvařit lektvar? Ukaž mi to.“ |
+| `Plant skirmish root` | Plant skirmish root | Zasaď kořen šarvátky |
+| `You plant in straight rows and water at dusk.` | You plant in straight rows and water at dusk. | Sázíš v rovných řádcích a za soumraku zaléváš. |
+| `Weed the farm plot` | Weed the farm plot | Vypleť parcelu |
+| `Weeds come up easy after rain. You clear the whole plot.` | Weeds come up easy after rain. You clear the whole plot. | Po dešti jde plevel snadno ven. Vyčistíš celou parcelu. |
+| `Brew a simple tonic` | Brew a simple tonic | Uvař jednoduché tonikum |
+| `Root, water and patience. It comes out clear.` | Root, water and patience. It comes out clear. | Kořen, voda a trpělivost. Vyjde čiré. |
+| `Harvest the hillside plot` | Harvest the hillside plot | Skliď parcelu na svahu |
+| `The hill soil is thin. You coax a small harvest out of it.` | The hill soil is thin. You coax a small harvest out of it. | Půda na kopci je chudá. Vymámíš z ní malou úrodu. |
+| `Grow herbs in cold soil` | Grow herbs in cold soil | Vypěstuj byliny ve studené půdě |
+| `Frost-hardy herbs, slow to grow and worth the wait.` | Frost-hardy herbs, slow to grow and worth the wait. | Mrazuvzdorné byliny, rostou pomalu a vyplatí se na ně počkat. |
+| `Brew at the fern cauldron` | Brew at the fern cauldron | Vař u kapradinového kotle |
+| `You let it simmer twice as long as you used to. It is better for it.` | You let it simmer twice as long as you used to. It is better for it. | Necháš ho vařit dvakrát déle než dřív. Prospěje mu to. |
+| `Brew a calming draught` | Brew a calming draught | Uvař uklidňující nápoj |
+| `The draught settles your own nerves before anyone else's.` | The draught settles your own nerves before anyone else's. | Nápoj uklidní tvé vlastní nervy dřív než kohokoli jiného. |
+| `Brew for the mountain watch` | Brew for the mountain watch | Vař pro horskou hlídku |
+| `The watch drinks it cold. Nobody complains.` | The watch drinks it cold. Nobody complains. | Hlídka ho pije studený. Nikdo si nestěžuje. |
+| `Tend the pine plot` | Tend the pine plot | Starej se o borovou parcelu |
+| `Needles in the soil, sharp herbs in the rows.` | Needles in the soil, sharp herbs in the rows. | Jehličí v půdě, ostré byliny v řádcích. |
+| `Brew one last plain remedy` | Brew one last plain remedy | Uvař poslední prostý lék |
+| `The herbalist tastes it and nods once.` | The herbalist tastes it and nods once. | Bylinkářka ho ochutná a jednou přikývne. |
+| `Brew a master tonic` | Brew a master tonic | Uvař mistrovské tonikum |
+| `You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar.` | You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar. | Uvaříš tonikum, které se lékárníkovi nikdy nepovedlo. Bylinkářka pošle lopatku a hmoždíř. |
+| `Mastery: Plunder and Barter` | Mastery: Plunder and Barter | Mistrovství: Plenění a Handlování |
+| `A retired fence wants to see you work the small markets honestly again.` | A retired fence wants to see you work the small markets honestly again. | Překupník na odpočinku chce znovu vidět, jak poctivě obchoduješ na malých trzích. |
+| `Meet the retired fence` | Meet the retired fence | Setkej se s překupníkem na odpočinku |
+| `'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.'` | 'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.' | „Vykrádáš trezory a skupuješ celé trhy. Jdi někomu vybrat kapsu a pak to, cos vzal, prodej za férovou cenu.“ |
+| `Haggle at the small stalls` | Haggle at the small stalls | Smlouvej u malých stánků |
+| `You argue a copper off a loaf of bread. The baker laughs.` | You argue a copper off a loaf of bread. The baker laughs. | Usmlouváš měďák z bochníku chleba. Pekař se zasměje. |
+| `Lift a purse in the alley` | Lift a purse in the alley | Ukradni měšec v uličce |
+| `Small purse, quick hands. Nobody notices.` | Small purse, quick hands. Nobody notices. | Malý měšec, rychlé ruce. Nikdo si ničeho nevšimne. |
+| `Pick a lock in the alley` | Pick a lock in the alley | Otevři zámek paklíčem v uličce |
+| `An old padlock. You open it with a bent nail.` | An old padlock. You open it with a bent nail. | Starý visací zámek. Otevřeš ho ohnutým hřebíkem. |
+| `Shadow a merchant` | Shadow a merchant | Sleduj kupce |
+| `You follow him for an hour and learn where he keeps his coin.` | You follow him for an hour and learn where he keeps his coin. | Hodinu ho sleduješ a zjistíš, kde má peníze. |
+| `Sell a stolen trinket` | Sell a stolen trinket | Prodej ukradenou cetku |
+| `You sell it back to its owner for a fair price. The fence would approve.` | You sell it back to its owner for a fair price. The fence would approve. | Prodáš ji zpět majiteli za férovou cenu. Překupník by byl spokojen. |
+| `Slip past the watch` | Slip past the watch | Proklouzni kolem hlídky |
+| `The watch never looks up from their dice.` | The watch never looks up from their dice. | Hlídka ani jednou nezvedne oči od kostek. |
+| `Trade at the dockside stalls` | Trade at the dockside stalls | Obchoduj u stánků v docích |
+| `Fish for rope, rope for coin. You come out ahead.` | Fish for rope, rope for coin. You come out ahead. | Ryby za provaz, provaz za mince. Vyjdeš v plusu. |
+| `Work the dock alley` | Work the dock alley | Pracuj v uličce u doků |
+| `Sailors keep loose coin. You keep some of it.` | Sailors keep loose coin. You keep some of it. | Námořníci nosí volné mince. Část si necháš ty. |
+| `Lift a guard captain's keys` | Lift a guard captain's keys | Ukradni klíče kapitána stráže |
+| `You borrow them and return them before he notices.` | You borrow them and return them before he notices. | Půjčíš si je a vrátíš je dřív, než si toho všimne. |
+| `Fence goods in the cold alley` | Fence goods in the cold alley | Zpeněž kradené zboží ve studené uličce |
+| `The buyer pays in full and asks no questions.` | The buyer pays in full and asks no questions. | Kupec zaplatí celou částku a na nic se neptá. |
+| `Strike a deal at the pirate market` | Strike a deal at the pirate market | Uzavři obchod na Pirátském trhu |
+| `You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales.` | You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales. | Smlouváš s piráty a odcházíš s jejich nejlepším zbožím. Překupník pošle paklíč a váhy. |
+| `Mastery: Bard and Discover` | Mastery: Bard and Discover | Mistrovství: Bard a Objevování |
+| `A wandering minstrel wants new songs from the oldest campfires.` | A wandering minstrel wants new songs from the oldest campfires. | Potulný pěvec chce nové písně od nejstarších táboráků. |
+| `Meet the wandering minstrel` | Meet the wandering minstrel | Setkej se s potulným pěvcem |
+| `'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.'` | 'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.' | „Každý bard zpívá ve velkých síních. Já chci písně od táboráků a z míst, která nikdo nezmapoval.“ |
+| `Sing at the campfire` | Sing at the campfire | Zazpívej u táboráku |
+| `Two travellers and a dog. You play until they fall asleep.` | Two travellers and a dog. You play until they fall asleep. | Dva poutníci a pes. Hraješ, dokud neusnou. |
+| `Survey the nearby hills` | Survey the nearby hills | Prozkoumej okolní kopce |
+| `You find an old marker stone and copy its carving.` | You find an old marker stone and copy its carving. | Najdeš starý mezník a obkreslíš jeho rytinu. |
+| `Map the frozen ridge` | Map the frozen ridge | Zmapuj zamrzlý hřeben |
+| `Your map is rough but true. The minstrel likes rough.` | Your map is rough but true. The minstrel likes rough. | Tvá mapa je hrubá, ale pravdivá. Pěvec má hrubé rád. |
+| `Swap songs with the guards` | Swap songs with the guards | Vyměň si písně se strážemi |
+| `The guards know a verse you have never heard. You trade one of yours for it.` | The guards know a verse you have never heard. You trade one of yours for it. | Stráže znají sloku, kterou jsi nikdy neslyšel. Vyměníš za ni jednu ze svých. |
+| `Search the old prospect` | Search the old prospect | Prohledej staré naleziště |
+| `Under loose stones you find a tin cup with initials scratched in.` | Under loose stones you find a tin cup with initials scratched in. | Pod uvolněnými kameny najdeš cínový hrnek s vyrytými iniciálami. |
+| `Scout the frozen pass` | Scout the frozen pass | Prozkoumej zamrzlý průsmyk |
+| `Wind has carved the pass into a strange shape. You sketch it.` | Wind has carved the pass into a strange shape. You sketch it. | Vítr vytvaroval průsmyk do podivného tvaru. Načrtneš si ho. |
+| `Play for the frost watch` | Play for the frost watch | Zahraj pro mrazovou hlídku |
+| `The watch claps with mittens on. It sounds like rain.` | The watch claps with mittens on. It sounds like rain. | Hlídka tleská v palčácích. Zní to jako déšť. |
+| `Perform in the old tavern` | Perform in the old tavern | Vystup ve staré krčmě |
+| `You play the guards' verse. The tavern sings it back.` | You play the guards' verse. The tavern sings it back. | Zahraješ sloku stráží. Krčma ti ji zazpívá zpátky. |
+| `Write a song by the fire` | Write a song by the fire | Napiš píseň u ohně |
+| `You write about the tin cup and the carved pass.` | You write about the tin cup and the carved pass. | Píšeš o cínovém hrnku a vytesaném průsmyku. |
+| `Find the lost marker` | Find the lost marker | Najdi ztracený mezník |
+| `The last marker is half buried. You dig it out and read it.` | The last marker is half buried. You dig it out and read it. | Poslední mezník je napůl zasypaný. Vykopeš ho a přečteš. |
+| `Chart the far reaches` | Chart the far reaches | Zmapuj daleké končiny |
+| `You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens.` | You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens. | Zmapuješ daleké končiny a k mapě složíš píseň. Pěvec pošle nástroj a čočku. |
+| `Mastery: Vigor and Slay` | Mastery: Vigor and Slay | Mistrovství: Vitalita a Hubení |
+| `A slayer captain wants your stamina and your first kills done right again.` | A slayer captain wants your stamina and your first kills done right again. | Kapitán hubitelů chce, abys znovu prokázal výdrž a pořádně zopakoval svá první zabití. |
+| `Report to the slayer captain` | Report to the slayer captain | Hlas se u kapitána hubitelů |
+| `'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?'` | 'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?' | „Lovíš ty nejhorší tvory na světě. Dobře. Dokážeš ještě oběhnout nádvoří a pořádně zabít golema?“ |
+| `Run the training yard` | Run the training yard | Oběhni cvičné nádvoří |
+| `Ten laps, carrying a sandbag. You finish the last one sprinting.` | Ten laps, carrying a sandbag. You finish the last one sprinting. | Deset kol s pytlem písku. Poslední dobíháš sprintem. |
+| `Slay a feeble golem` | Slay a feeble golem | Zahub chabého golema |
+| `You find the crack in its chest and strike there.` | You find the crack in its chest and strike there. | Najdeš prasklinu v jeho hrudi a udeříš tam. |
+| `Drill in the frozen yard` | Drill in the frozen yard | Cvič na zamrzlém nádvoří |
+| `Ice underfoot. You learn to run without trusting the ground.` | Ice underfoot. You learn to run without trusting the ground. | Led pod nohama. Učíš se běhat, aniž bys věřil zemi. |
+| `Slay a dire golem` | Slay a dire golem | Zahub hrozivého golema |
+| `Same crack, bigger golem. It falls the same way.` | Same crack, bigger golem. It falls the same way. | Stejná prasklina, větší golem. Padne stejně. |
+| `Climb the frost wall` | Climb the frost wall | Vyšplhej na mrazovou stěnu |
+| `Hand over hand, no rope. Your arms burn and hold.` | Hand over hand, no rope. Your arms burn and hold. | Ruku za rukou, bez lana. Paže pálí, ale drží. |
+| `Sprint the mountain yard` | Sprint the mountain yard | Proběhni sprintem horské nádvoří |
+| `Thin air, long sprints. Your breath stays even.` | Thin air, long sprints. Your breath stays even. | Řídký vzduch, dlouhé sprinty. Dech ti zůstává klidný. |
+| `Slay a dire skeleton` | Slay a dire skeleton | Zahub hrozivého kostlivce |
+| `You break it at the spine before it can rise.` | You break it at the spine before it can rise. | Zlomíš mu páteř dřív, než se stihne zvednout. |
+| `Haul stone across the yard` | Haul stone across the yard | Přenes kameny přes nádvoří |
+| `You carry stones until the yard master runs out of them.` | You carry stones until the yard master runs out of them. | Nosíš kameny, dokud správci nádvoří nedojdou. |
+| `Run the breakwood course` | Run the breakwood course | Proběhni překážkovou dráhu v Breakwoodu |
+| `Logs, ditches, walls. You clear it twice.` | Logs, ditches, walls. You clear it twice. | Klády, příkopy, zdi. Zdoláš ji dvakrát. |
+| `Slay a dire treant` | Slay a dire treant | Zahub hrozivého treanta |
+| `You take it apart one branch at a time.` | You take it apart one branch at a time. | Rozebereš ho větev po větvi. |
+| `Climb to the pinnacle` | Climb to the pinnacle | Vyšplhej na vrcholek |
+| `You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.'` | You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.' | Dostaneš se nahoru bez zastavení. Kapitán pošle tenisky a vyhlazovací nůž. „Připraven lovit cokoli.“ |
+| `Mastery: Luck and Alms` | Mastery: Luck and Alms | Mistrovství: Štěstí a Almužna |
+| `An almoner believes fortune follows the generous. Spend a day proving it.` | An almoner believes fortune follows the generous. Spend a day proving it. | Almužník věří, že štěstí přeje štědrým. Stráv den tím, že to dokážeš. |
+| `Meet the almoner` | Meet the almoner | Setkej se s almužníkem |
+| `'Give freely and luck finds you. Most people never test it. Come and test it.'` | 'Give freely and luck finds you. Most people never test it. Come and test it.' | „Dávej štědře a štěstí si tě najde. Většina lidí to nikdy nevyzkouší. Pojď to vyzkoušet.“ |
+| `Feed a hungry child` | Feed a hungry child | Nakrm hladové dítě |
+| `You buy bread for a child in the alley. On the way out you find a coin.` | You buy bread for a child in the alley. On the way out you find a coin. | Koupíš chleba dítěti v uličce. Cestou ven najdeš minci. |
+| `Pay a stranger's debt` | Pay a stranger's debt | Splať dluh cizinky |
+| `The stallholder is stunned. Then she gives you a lucky charm she carved.` | The stallholder is stunned. Then she gives you a lucky charm she carved. | Stánkařka je ohromená. Pak ti dá šťastný talisman, který sama vyřezala. |
+| `Buy a smith his tools back` | Buy a smith his tools back | Kup kováři zpět jeho nářadí |
+| `The smith had pawned his hammer. You buy it back for him.` | The smith had pawned his hammer. You buy it back for him. | Kovář zastavil své kladivo. Koupíš mu ho zpátky. |
+| `Donate to the town chest` | Donate to the town chest | Přispěj do městské truhly |
+| `The banker counts your gift twice to be sure.` | The banker counts your gift twice to be sure. | Bankéř tvůj dar pro jistotu přepočítá dvakrát. |
+| `Leave coin for the wardens` | Leave coin for the wardens | Nech mince strážcům |
+| `The wardens are grateful. One of them gives you a tip about a dice game.` | The wardens are grateful. One of them gives you a tip about a dice game. | Strážci jsou vděční. Jeden z nich ti prozradí tip na hru v kostky. |
+| `Play dice with the wardens` | Play dice with the wardens | Zahraj si kostky se strážci |
+| `You win three rolls in a row and give the winnings back.` | You win three rolls in a row and give the winnings back. | Vyhraješ tři hody za sebou a výhru vrátíš. |
+| `Plant a clover for luck` | Plant a clover for luck | Zasaď jetel pro štěstí |
+| `You find a four-leaf clover while planting. The almoner is not surprised.` | You find a four-leaf clover while planting. The almoner is not surprised. | Při sázení najdeš čtyřlístek. Almužník není překvapen. |
+| `Fund the village well` | Fund the village well | Financuj vesnickou studnu |
+| `The village will have clean water by spring.` | The village will have clean water by spring. | Vesnice bude mít do jara čistou vodu. |
+| `Pay the dockhands' wages` | Pay the dockhands' wages | Vyplať mzdy přístavním dělníkům |
+| `The harbour master had run short. The dockhands cheer.` | The harbour master had run short. The dockhands cheer. | Přístavnímu mistrovi došly peníze. Přístavní dělníci jásají. |
+| `Buy out a poor trader` | Buy out a poor trader | Vykup zboží chudé obchodnice |
+| `You buy her last fish at full price. She swears it will bring you luck.` | You buy her last fish at full price. She swears it will bring you luck. | Koupíš její poslední rybu za plnou cenu. Přísahá, že ti to přinese štěstí. |
+| `Give at the great market` | Give at the great market | Daruj na velkém trhu |
+| `You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer.` | You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer. | Rozdáš na trhu měšec a cestou ven vyhraješ tombolu. Almužník pošle talisman a kadidelnici. |
+| `Mastery: Delve and Fortify` | Mastery: Delve and Fortify | Mistrovství: Průnik a Opevnění |
+| `A raid veteran wants every dungeon and Fortress wave run from the start.` | A raid veteran wants every dungeon and Fortress wave run from the start. | Veterán nájezdů chce, abys prošel každý žalář a každou vlnu Gauntletu od začátku. |
+| `Meet the raid veteran` | Meet the raid veteran | Setkej se s veteránem nájezdů |
+| `'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.'` | 'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.' | „Nejtěžší nájezdy zvládáš se zavřenýma očima. Otevři je. Začni od prvního žaláře.“ |
+| `Hear the delvers' stories` | Hear the delvers' stories | Vyslechni příběhy průzkumníků žalářů |
+| `Old delvers trade stories of the first dungeon. You learn a route you never knew.` | Old delvers trade stories of the first dungeon. You learn a route you never knew. | Staří průzkumníci si vyměňují příběhy o prvním žaláři. Naučíš se cestu, kterou jsi nikdy neznal. |
+| `You clear it using the old route. It is faster than yours.` | You clear it using the old route. It is faster than yours. | Vyčistíš ho starou cestou. Je rychlejší než ta tvoje. |
+| `Hold the Fortress for 20 waves` | Hold the Fortress for 20 waves | Ubraň Gauntlet po dobu 20 vln |
+| `You hold the walls with plain supplies. Twenty waves, no losses.` | You hold the walls with plain supplies. Twenty waves, no losses. | Udržíš hradby s obyčejnými zásobami. Dvacet vln, žádné ztráty. |
+| `Restock near the Fortress` | Restock near the Fortress | Doplň zásoby u Gauntletu |
+| `You restock and swap stories with the Fortress crews.` | You restock and swap stories with the Fortress crews. | Doplníš zásoby a vyměníš si historky s posádkami Gauntletu. |
+| `Patch your raid gear` | Patch your raid gear | Zalátej svou nájezdovou výstroj |
+| `Torn straps, cracked buckles. You fix them all yourself.` | Torn straps, cracked buckles. You fix them all yourself. | Roztržené řemeny, prasklé přezky. Všechno opravíš sám. |
+| `You lead the party and let them set the pace.` | You lead the party and let them set the pace. | Vedeš družinu a necháš ji určovat tempo. |
+| `Hold the Fortress for 40 waves` | Hold the Fortress for 40 waves | Ubraň Gauntlet po dobu 40 vln |
+| `Forty waves. Your deposits never stop.` | Forty waves. Your deposits never stop. | Čtyřicet vln. Tvé dodávky nikdy neustanou. |
+| `Plan the Savage run` | Plan the Savage run | Naplánuj výpravu do Divokého Žaláře |
+| `The veteran's notes cover every room. You add a few of your own.` | The veteran's notes cover every room. You add a few of your own. | Veteránovy poznámky pokrývají každou místnost. Přidáš pár svých. |
+| `Clear a Savage Dungeon` | Clear a Savage Dungeon | Vyčisti Divoký Žalář |
+| `The Savage Dungeon goes the way the notes said it would.` | The Savage Dungeon goes the way the notes said it would. | V Divokém Žaláři jde všechno tak, jak poznámky předpovídaly. |
+| `Hold the Fortress for 60 waves` | Hold the Fortress for 60 waves | Ubraň Gauntlet po dobu 60 vln |
+| `Sixty waves. The walls hold because you planned them to.` | Sixty waves. The walls hold because you planned them to. | Šedesát vln. Hradby drží, protože jsi to tak naplánoval. |
+| `Clear a Fell Dungeon` | Clear a Fell Dungeon | Vyčisti Zlovolný Žalář |
+| `You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification.` | You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification. | Vyčistíš Zlovolný Žalář od první místnosti po poslední. Veterán pošle lebku a opevnění. |
+| `Gather the masters` | Gather the masters | Svolej mistry |
+| `Harvest the great orchard` | Harvest the great orchard | Skliď velký sad |
+| `The best trees in the land, picked clean and left healthy.` | The best trees in the land, picked clean and left healthy. | Nejlepší stromy v zemi, očesané dočista a ponechané zdravé. |
+| `Fish the open sea` | Fish the open sea | Rybař na otevřeném moři |
+| `You bring in a catch the fishwife would frame.` | You bring in a catch the fishwife would frame. | Vytáhneš úlovek, který by si prodavačka ryb zarámovala. |
+| `Draw from the obelisk` | Draw from the obelisk | Čerpej z obelisku |
+| `The obelisk gives freely to someone who asks properly.` | The obelisk gives freely to someone who asks properly. | Obelisk ochotně dává tomu, kdo požádá, jak se patří. |
+| `Work the underground` | Work the underground | Pracuj v podzemí |
+| `You take what you came for and leave no trace.` | You take what you came for and leave no trace. | Vezmeš si, pro co jsi přišel, a nezanecháš stopu. |
+| `Trade at the grand market` | Trade at the grand market | Obchoduj na Velkém trhu |
+| `Every stall gives you its best price.` | Every stall gives you its best price. | Každý stánek ti dá svou nejlepší cenu. |
+| `Forge at the great foundry` | Forge at the great foundry | Kovej ve velké slévárně |
+| `The foundry's masters stop to watch you work.` | The foundry's masters stop to watch you work. | Mistři slévárny se zastaví, aby tě sledovali při práci. |
+| `Perform at the royal court` | Perform at the royal court | Vystup na královském dvoře |
+| `The court stands for your last song.` | The court stands for your last song. | Dvůr při tvé poslední písni povstane. |
+| `Craft at the syndicate atelier` | Craft at the syndicate atelier | Vyráběj v Ateliéru syndikátu |
+| `You craft a piece the atelier keeps on display.` | You craft a piece the atelier keeps on display. | Vyrobíš kus, který si ateliér vystaví. |
+| `Forage the far wilds` | Forage the far wilds | Sbírej v daleké pustině |
+| `The wilds give up their rarest growth to you.` | The wilds give up their rarest growth to you. | Pustina ti vydá své nejvzácnější rostliny. |
+| `Run the long valley` | Run the long valley | Proběhni dlouhé údolí |
+| `You run it end to end and keep your breath.` | You run it end to end and keep your breath. | Proběhneš ho od začátku do konce a neztratíš dech. |
+| `The masters have one more test, at the edges of the world.` | The masters have one more test, at the edges of the world. | Mistři mají ještě jednu zkoušku, na okrajích světa. |
+| `Meet the masters again` | Meet the masters again | Znovu se setkej s mistry |
+| `Forage the deep hollows` | Forage the deep hollows | Sbírej v hlubokých slujích |
+| `You find growth down here no forager has named.` | You find growth down here no forager has named. | Najdeš tu dole rostliny, které žádný sběrač nepojmenoval. |
+| `Mine the high ledge` | Mine the high ledge | Těž na vysoké římse |
+| `Ore from the ledge, brought down without a single slip.` | Ore from the ledge, brought down without a single slip. | Ruda z římsy, snesená dolů bez jediného uklouznutí. |
+| `Fish the eastern coast` | Fish the eastern coast | Rybař na východním pobřeží |
+| `You land a fish from water nobody fishes.` | You land a fish from water nobody fishes. | Ulovíš rybu z vod, kde nikdo nerybaří. |
+| `Chart the ruined coast` | Chart the ruined coast | Zmapuj zničené pobřeží |
+| `Your chart corrects three maps the cartographers trusted.` | Your chart corrects three maps the cartographers trusted. | Tvá mapa opraví tři mapy, kterým kartografové věřili. |
+| `Charge essence at the arc` | Charge essence at the arc | Nabíjej esenci u oblouku |
+| `The arc burns bright and steady in your hands.` | The arc burns bright and steady in your hands. | Oblouk ti v rukou hoří jasně a stabilně. |
+| `Cook a feast for the masters` | Cook a feast for the masters | Uvař hostinu pro mistry |
+| `Fifteen masters, one table. Every plate comes back clean.` | Fifteen masters, one table. Every plate comes back clean. | Patnáct mistrů, jeden stůl. Každý talíř se vrátí prázdný. |
+| `Draw from the last obelisk` | Draw from the last obelisk | Čerpej z posledního obelisku |
+| `The obelisk at the end of the world answers you.` | The obelisk at the end of the world answers you. | Obelisk na konci světa ti odpoví. |
+| `Play the eastern court` | Play the eastern court | Zahraj na východním dvoře |
+| `The court asks for the campfire songs. You play them all.` | The court asks for the campfire songs. You play them all. | Dvůr si žádá písně od táboráku. Zahraješ je všechny. |
+| `Brew the masters' remedy` | Brew the masters' remedy | Uvař lék mistrů |
+| `A remedy built from every plain herb you grew.` | A remedy built from every plain herb you grew. | Lék z každé prosté byliny, kterou jsi vypěstoval. |
+| `Bargain with the pirate lords` | Bargain with the pirate lords | Vyjednávej s pirátskými pány |
+| `The pirate lords pay you to leave.` | The pirate lords pay you to leave. | Pirátští páni ti zaplatí, abys odešel. |
+| `Clear an Ancient Dungeon` | Clear an Ancient Dungeon | Vyčisti Prastarý Žalář |
+| `The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.'` | The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.' | Mistři čekají u nejstaršího žaláře. Podají ti druhou sféru a lucernu. „Teď už nemáš co dokazovat.“ |
+| `[Q1] Enchanted Rod` | [Q1] Enchanted Rod | [Q1] Začarovaný prut |
+| `[Q1] Enchanted Pickaxe` | [Q1] Enchanted Pickaxe | [Q1] Začarovaný krumpáč |
+| `[Q1] Enchanted Sickle` | [Q1] Enchanted Sickle | [Q1] Začarovaný srp |
+| `[Q1] Enchanted Conduit` | [Q1] Enchanted Conduit | [Q1] Začarovaný vodič |
+| `[Q1] Enchanted Trowel` | [Q1] Enchanted Trowel | [Q1] Začarovaná zednická lžíce |
+| `[Q1] Enchanted Lockpick` | [Q1] Enchanted Lockpick | [Q1] Začarovaný paklíč |
+| `[Q1] Enchanted Instrument` | [Q1] Enchanted Instrument | [Q1] Začarovaný nástroj |
+| `[Q1] Enchanted Trainers` | [Q1] Enchanted Trainers | [Q1] Začarované tenisky |
+| `[Q1] Culling Knife` | [Q1] Culling Knife | [Q1] Vyhlazovací nůž |
+| `[Q1] Lucky Charm` | [Q1] Lucky Charm | [Q1] Šťastný talisman |
+| `[Q1] Enchanted Censer` | [Q1] Enchanted Censer | [Q1] Začarovaná kadidelnice |
+| `[Q1] Enchanted Skillet` | [Q1] Enchanted Skillet | [Q1] Začarovaná pánev |
+| `[Q1] Enchanted Hammer` | [Q1] Enchanted Hammer | [Q1] Začarované kladivo |
+| `[Q1] Enchanted Chisel` | [Q1] Enchanted Chisel | [Q1] Začarované dláto |
+| `[Q1] Enchanted Prism` | [Q1] Enchanted Prism | [Q1] Začarovaný hranol |
+| `[Q1] Enchanted Mortar` | [Q1] Enchanted Mortar | [Q1] Začarovaný hmoždíř |
+| `[Q1] Enchanted Scales` | [Q1] Enchanted Scales | [Q1] Začarované šupiny |
+| `[Q1] Enchanted Lens` | [Q1] Enchanted Lens | [Q1] Začarovaná čočka |
+| `[Q1] Enchanted Lantern` | [Q1] Enchanted Lantern | [Q1] Začarovaná lucerna |
+| `[Q1] Enchanted Pommel` | [Q1] Enchanted Pommel | [Q1] Začarovaná hlavice |
+| `[Q1] Enchanted Grip` | [Q1] Enchanted Grip | [Q1] Začarovaný úchop |
+| `[Q1] Enchanted Notch` | [Q1] Enchanted Notch | [Q1] Začarovaný zářez |
+| `[Q1] Enchanted Bowstring` | [Q1] Enchanted Bowstring | [Q1] Začarovaná tětiva |
+| `[Q1] Enchanted Orb` | [Q1] Enchanted Orb | [Q1] Začarovaná koule |
+| `[Q1] Enchanted Catalyst` | [Q1] Enchanted Catalyst | [Q1] Začarovaný katalyzátor |
+| `[Q1] Enchanted Spring` | [Q1] Enchanted Spring | [Q1] Začarovaná pružina |
+| `[Q1] Enchanted Shim` | [Q1] Enchanted Shim | [Q1] Začarovaná podložka |
+| `[Q1] Enchanted Salve` | [Q1] Enchanted Salve | [Q1] Začarovaná mast |
+| `[Q1] Enchanted Relic` | [Q1] Enchanted Relic | [Q1] Začarovaná relikvie |
+| `[T1] Globe of Skills` | [T1] Globe of Skills | [T1] Sféra dovedností |
+| `[T2] Globe of Skills` | [T2] Globe of Skills | [T2] Sféra dovedností |
+| `[Q1] Enchanted Skull` | [Q1] Enchanted Skull | [Q1] Začarovaná lebka |
+| `[Q1] Enchanted Fortification` | [Q1] Enchanted Fortification | [Q1] Začarované opevnění |
+| `Earned by completing every quest. New quests re-lock it until they are done.` | Earned by completing every quest. New quests re-lock it until they are done. | Získáš ho splněním všech questů. Nové questy ho znovu zamknou, dokud je nesplníš. |
+| `New quests have arrived. Complete them to earn your Quest Cape back.` | New quests have arrived. Complete them to earn your Quest Cape back. | Přibyly nové questy. Splň je a získej zpět svůj Plášť questů. |
+| `Quest Cape Unlocked!` | Quest Cape Unlocked! | Plášť questů odemčen! |
+| `Unlock Requirements` | Unlock Requirements | Požadavky na odemknutí |
+| `Q1` | Q1 | Q1 |
+| `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Sféry dovedností: +{0}% (+{1} kroků/s) |
+| `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Plášť questů: +{0}% (+{1} kroků/s) |
+| `@crit_pct_globes` | Globes of Skills: {0}% | Sféry dovedností: {0} % |
+| `@globes_count` | Globes of Skills {0}/{1} | Sféry dovedností {0}/{1} |
+| `@quest_cape_count` | Quest Cape {0}/{1} | Plášť questů {0}/{1} |
+| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% rychlosti pohybu, dokud jsou splněny všechny questy |
+| `@all_skills_lv` | All Skills Lv {0} | Všechny dovednosti Úr {0} |
+| `@b:auto_process` | +{0}% auto-process chance | +{0}% šance na automatické zpracování |
+| `@b:auto_bank` | +{0}% auto-bank chance | +{0}% šance na automatické uložení do banky |
+| `@b:min_hit` | +{0} min hit | +{0} min zásah |
+| `@b:max_hit` | +{0} max hit | +{0} max zásah |
+| `@b:quest_cape_held` | Held while every quest is completed | Platí, dokud jsou splněny všechny questy |
+| `Mastery: The Feeble Trial` | Mastery: The Feeble Trial | Mistrovství: Chabá zkouška |
+| `The masters test anyone who has survived a dungeon. The first trial starts close to home.` | The masters test anyone who has survived a dungeon. The first trial starts close to home. | Mistři zkoušejí každého, kdo přežil žalář. První zkouška začíná nedaleko domova. |
+| `Meet the masters at Fernstead` | Meet the masters at Fernstead | Setkej se s mistry ve Fernstead |
+| `A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.'` | A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.' | U banky čeká mistr v prostém kabátě. „Už jsi viděl žalář zevnitř. Teď nám ukaž, že umíš dobře dělat i malé věci.“ |
+| `Cook at the Fernstead hearth` | Cook at the Fernstead hearth | Vař u krbu Fernstead |
+| `Simple bread, baked right. The master takes a bite and nods.` | Simple bread, baked right. The master takes a bite and nods. | Obyčejný chléb, správně upečený. Mistr si ukousne a přikývne. |
+| `Haggle at the stalls` | Haggle at the stalls | Smlouvej u stánků |
+| `You walk away with a fair price and a new friend.` | You walk away with a fair price and a new friend. | Odcházíš se slušnou cenou a novým přítelem. |
+| `Tend the Fernstead field` | Tend the Fernstead field | Obdělej pole Fernstead |
+| `Straight rows and no weeds. The farmer asks who taught you.` | Straight rows and no weeds. The farmer asks who taught you. | Rovné řádky a žádný plevel. Zemědělec se ptá, kdo tě to naučil. |
+| `Forage the thicket` | Forage the thicket | Sbírej v houštině |
+| `You come out with a full basket and not one scratch.` | You come out with a full basket and not one scratch. | Vyjdeš s plným košíkem a bez jediného škrábnutí. |
+| `Survey the Woodgap hills` | Survey the Woodgap hills | Prozkoumej kopce Woodgap |
+| `Your notes fill the gaps on the old survey map.` | Your notes fill the gaps on the old survey map. | Tvé poznámky zaplní mezery ve staré průzkumné mapě. |
+| `Work the Ironice smithy` | Work the Ironice smithy | Pracuj v kovárně Ironice |
+| `A plain blade, balanced and sharp. The smith hangs it on the wall.` | A plain blade, balanced and sharp. The smith hangs it on the wall. | Prostá čepel, vyvážená a ostrá. Kovář ji pověsí na zeď. |
+| `Cut stone at the quarry` | Cut stone at the quarry | Tes kámen v lomu |
+| `Clean blocks, cut square. The quarry boss has no complaints.` | Clean blocks, cut square. The quarry boss has no complaints. | Čisté kvádry, pravoúhle otesané. Předák lomu si nemá nač stěžovat. |
+| `Play at the Splitstone campfire` | Play at the Splitstone campfire | Zahraj u táboráku Splitstone |
+| `Travelers stop to listen. One of them is a master.` | Travelers stop to listen. One of them is a master. | Pocestní se zastaví, aby poslouchali. Jeden z nich je mistr. |
+| `Work the Pinegap alley` | Work the Pinegap alley | Pracuj v uličce Pinegap |
+| `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Vytáhneš měšec a vrátíš ho dřív, než si toho majitel všimne. Mistr se zasměje. |
+| `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Čerpej z krystalu Pinegap |
+| `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Krystal zabzučí a esence vyjde čistá. |
+| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Mistři čekají u vstupu do žaláře. „Dobrý začátek. Další zkouška je dál.“ |
+| `Mastery: The Dire Trial` | Mastery: The Dire Trial | Mistrovství: Hrozivá zkouška |
+| `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | Druhá zkouška tě zavede na studený západ, kde mistři pracují tvrději. |
+| `Meet the masters at Timberchill` | Meet the masters at Timberchill | Setkej se s mistry v Timberchill |
+| `'The first trial was easy on purpose. This one is not.'` | 'The first trial was easy on purpose. This one is not.' | „První zkouška byla schválně snadná. Tahle není.“ |
+| `Join the Timberchill expedition` | Join the Timberchill expedition | Připoj se k výpravě Timberchill |
+| `You lead the expedition home with a full map and every pack mule.` | You lead the expedition home with a full map and every pack mule. | Dovedeš výpravu domů s úplnou mapou a se všemi nákladními mulami. |
+| `Cook in the Icemast kitchen` | Cook in the Icemast kitchen | Vař v kuchyni Icemast |
+| `Hot stew for a cold crew. Everyone asks for seconds.` | Hot stew for a cold crew. Everyone asks for seconds. | Horký guláš pro zmrzlou posádku. Všichni si řeknou o přídavek. |
+| `Fish the frozen lake` | Fish the frozen lake | Rybař na zamrzlém jezeře |
+| `You cut a hole in the ice and fill a bucket before noon.` | You cut a hole in the ice and fill a bucket before noon. | Vysekáš díru do ledu a do poledne naplníš vědro. |
+| `Forge at the Battlefrost smithy` | Forge at the Battlefrost smithy | Kovej v kovárně Battlefrost |
+| `Armor for the frontier guard, every plate fitted.` | Armor for the frontier guard, every plate fitted. | Zbroj pro pohraniční stráž, každý plát padne přesně. |
+| `Brew for the Battlefrost garrison` | Brew for the Battlefrost garrison | Vař pivo pro posádku Battlefrost |
+| `A strong ale for a long winter. The garrison approves.` | A strong ale for a long winter. The garrison approves. | Silné pivo na dlouhou zimu. Posádka je spokojená. |
+| `Play the Battlefrost tavern` | Play the Battlefrost tavern | Zahraj v krčmě Battlefrost |
+| `A tavern full of soldiers sings along.` | A tavern full of soldiers sings along. | Krčma plná vojáků zpívá s tebou. |
+| `Draw from the Windhollow rift` | Draw from the Windhollow rift | Čerpej z trhliny Windhollow |
+| `The rift pulls back. You pull harder.` | The rift pulls back. You pull harder. | Trhlina táhne zpátky. Ty táhneš silněji. |
+| `Charge the Windhollow conduit` | Charge the Windhollow conduit | Nabij vodič Windhollow |
+| `The conduit glows steady for the first time in years.` | The conduit glows steady for the first time in years. | Vodič poprvé po letech svítí stálým světlem. |
+| `Tend the Windhollow greenhouse` | Tend the Windhollow greenhouse | Starej se o skleník Windhollow |
+| `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Zelené listy uprostřed zimy. |
+| `Mine the Icevein seams` | Mine the Icevein seams | Těž žíly Icevein |
+| `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Najdeš žílu, kterou horníci vzdali. |
+| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | „Vydržel jsi v mrazu. Teď tě mistři chtějí vidět pod tlakem.“ |
+| `Mastery: The Savage Trial` | Mastery: The Savage Trial | Mistrovství: Divoká zkouška |
+| `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | Třetí zkouška vede rušným jihem, kde na každé řemeslo dohlíží mistr. |
+| `Meet the masters at Shortha` | Meet the masters at Shortha | Setkej se s mistry v Shortha |
+| `'The south is loud and crowded. Do your best work anyway.'` | 'The south is loud and crowded. Do your best work anyway.' | „Jih je hlučný a přeplněný. Odveď svou nejlepší práci i tak.“ |
+| `Build at the Shortha workshop` | Build at the Shortha workshop | Stav v dílně Shortha |
+| `A cabinet with no gaps and no nails. The carpenter wants to buy it.` | A cabinet with no gaps and no nails. The carpenter wants to buy it. | Skříňka bez škvír a bez hřebíků. Truhlář ji chce koupit. |
+| `Perform at the Shortha theatre` | Perform at the Shortha theatre | Vystup v divadle Shortha |
+| `The crowd stays on its feet until the lamps go out.` | The crowd stays on its feet until the lamps go out. | Publikum stojí, dokud nezhasnou lampy. |
+| `Draw from the Shortha rift` | Draw from the Shortha rift | Čerpej z trhliny Shortha |
+| `The rift spits sparks. You take what you need.` | The rift spits sparks. You take what you need. | Trhlina plive jiskry. Vezmeš si, co potřebuješ. |
+| `Pull the Shortha heist` | Pull the Shortha heist | Proveď loupež v Shortha |
+| `In and out without a sound. The master checks the lock twice.` | In and out without a sound. The master checks the lock twice. | Dovnitř a ven bez jediného zvuku. Mistr dvakrát zkontroluje zámek. |
+| `Run the Shortha kitchen` | Run the Shortha kitchen | Veď kuchyni Shortha |
+| `Two hundred plates in one night. None come back.` | Two hundred plates in one night. None come back. | Dvě stě talířů za jednu noc. Nikdo nic nevrací. |
+| `Forage the Gilshore grove` | Forage the Gilshore grove | Sbírej v háji Gilshore |
+| `You find the herbs the grove keeper hides from buyers.` | You find the herbs the grove keeper hides from buyers. | Najdeš byliny, které správce háje tají před kupci. |
+| `Fish off the Gilshore coast` | Fish off the Gilshore coast | Rybař u pobřeží Gilshore |
+| `A heavy net, hauled in alone.` | A heavy net, hauled in alone. | Těžká síť, vytažená bez pomoci. |
+| `Charge the Farmhold conduit` | Charge the Farmhold conduit | Nabij vodič Farmhold |
+| `The conduit takes a full charge and holds it.` | The conduit takes a full charge and holds it. | Vodič přijme plný náboj a udrží ho. |
+| `Run the Farmhold valley` | Run the Farmhold valley | Proběhni údolí Farmhold |
+| `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Proběhneš údolí dvakrát, jen abys něco dokázal. |
+| `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Odlévej ve slévárně Riverwatch |
+| `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Čistý odlitek bez bublin. Parta ze slévárny tleská. |
+| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | „Dobře. V posledních dvou zkouškách se ukrývají sféry.“ |
+| `Mastery: The Fell Trial` | Mastery: The Fell Trial | Mistrovství: Zlovolná zkouška |
+| `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | Čtvrtá zkouška tě pošle na nejlepší pracoviště v zemi. |
+| `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | V bance se tísní mistři. „Tři zkoušky za tebou. Teď nám ukaž tu nejlepší práci v zemi.“ |
+| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Mistři čekají u vstupu do žaláře. Podají ti skleněnou sféru. „První sféra. Obsahuje všechny dosavadní zkoušky.“ |
+| `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Mistrovství: Prastará zkouška |
+| `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | „První sféra byla za zkoušky. Druhá je za to, co tě nikdo nenaučil.“ |
+| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Odměna za Zlovolnou a Prastarou zkoušku. Obě se sčítají. |

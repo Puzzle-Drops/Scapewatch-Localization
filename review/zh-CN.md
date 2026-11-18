@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟游 |
 | Discover | 探索 |
 
-## Lines to review (799)
+## Lines to review (1355)
 
 | Key | English | Current |
 |---|---|---|
@@ -869,3 +869,559 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tint` | Tint | 色调 |
 | `No tint` | No tint | 无色调 |
 | `Pick any colour for the wings` | Pick any colour for the wings | 为翅膀任选一种颜色 |
+| `Mastery: Life and Spirit` | Mastery: Life and Spirit | 精通：生命与精神 |
+| `An old healer wants proof you still remember how to endure.` | An old healer wants proof you still remember how to endure. | 一位老治疗师想确认你是否还记得如何坚持到底。 |
+| `Meet the old healer` | Meet the old healer | 与老治疗师会面 |
+| `She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.'` | She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.' | 她先给你把了脉，才开口打招呼。「很有力。但这一课讲的不是力量。走回你最初学会坚持的地方去吧。」 |
+| `Rest by the old campfire` | Rest by the old campfire | 在旧篝火旁休息 |
+| `You sit until the fire burns low. The healer nods when you stand without stiffness.` | You sit until the fire burns low. The healer nods when you stand without stiffness. | 你一直坐到火光渐弱。你起身时毫无僵硬，治疗师点了点头。 |
+| `Share a plain meal` | Share a plain meal | 共享一顿简餐 |
+| `Bread, broth, nothing more. 'You forgot how little a body needs,' she says.` | Bread, broth, nothing more. 'You forgot how little a body needs,' she says. | 面包、肉汤，别无他物。「你忘了身体需要的其实很少。」她说。 |
+| `Outlast a feeble slime` | Outlast a feeble slime | 熬过一只孱弱史莱姆 |
+| `It barely scratches you. You let it tire itself out before you finish it.` | It barely scratches you. You let it tire itself out before you finish it. | 它几乎伤不到你。你任它耗尽力气，再将它了结。 |
+| `Calm your breathing by the fire` | Calm your breathing by the fire | 在篝火旁平复呼吸 |
+| `You count your breaths until the count stops mattering. Your spirit settles.` | You count your breaths until the count stops mattering. Your spirit settles. | 你数着呼吸，直到数数已无关紧要。你的精神安定下来。 |
+| `Eat with the road crews` | Eat with the road crews | 与修路工人一同用餐 |
+| `The crews talk about blisters and sore backs. You listen more than you speak.` | The crews talk about blisters and sore backs. You listen more than you speak. | 工人们聊着水泡和酸痛的腰背。你听得多，说得少。 |
+| `Take the ember slime calmly` | Take the ember slime calmly | 从容应对余烬史莱姆 |
+| `You let the heat wash past you and keep your footing.` | You let the heat wash past you and keep your footing. | 你任热浪从身边掠过，稳住脚步。 |
+| `Clear a Feeble Dungeon` | Clear a Feeble Dungeon | 通关一座孱弱地牢 |
+| `The first dungeon feels small now. You walk it slowly, watching every step.` | The first dungeon feels small now. You walk it slowly, watching every step. | 第一座地牢如今显得很小。你慢慢走过，留意每一步。 |
+| `Report your progress` | Report your progress | 汇报你的进展 |
+| `The healer's runner takes your notes. 'She says you are nearly there.'` | The healer's runner takes your notes. 'She says you are nearly there.' | 治疗师的信使收下你的记录。「她说你就快成了。」 |
+| `Cook for a tired party` | Cook for a tired party | 为疲惫的队伍做饭 |
+| `You feed a party back from the deep. One of them falls asleep mid bite.` | You feed a party back from the deep. One of them falls asleep mid bite. | 你给一支从深处归来的队伍做饭。其中一人吃着吃着就睡着了。 |
+| `Clear a Dire Dungeon` | Clear a Dire Dungeon | 通关一座凶险地牢 |
+| `You come out of the Dire Dungeon with nothing worse than a bruise.` | You come out of the Dire Dungeon with nothing worse than a bruise. | 你走出凶险地牢，最多只添了一块淤青。 |
+| `Stand firm against a fell demon` | Stand firm against a fell demon | 顶住残暴恶魔的攻势 |
+| `The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.'` | The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.' | 恶魔出手很重，但你没有倒下。事后治疗师找到了你。「药膏和圣物。这是你挣来的，不是白给的。」 |
+| `Mastery: Strike and Heft` | Mastery: Strike and Heft | 精通：精准与武技 |
+| `A retired sergeant wants to see your first drills done properly again.` | A retired sergeant wants to see your first drills done properly again. | 一位退役军士想再看你把最初的操练做到位。 |
+| `Report to the old sergeant` | Report to the old sergeant | 向老军士报到 |
+| `'Eighty years of swinging and you still lead with your shoulder? Back to the drills.'` | 'Eighty years of swinging and you still lead with your shoulder? Back to the drills.' | 「挥了八十年武器，你还用肩膀带动？回去重练基本功。」 |
+| `Cut a practice staff` | Cut a practice staff | 削一根练习棍 |
+| `You trim an ash branch to length. It is lighter than anything you carry now.` | You trim an ash branch to length. It is lighter than anything you carry now. | 你把一根白蜡树枝修到合适的长度。它比你现在携带的任何东西都轻。 |
+| `Spar with a feeble goblin` | Spar with a feeble goblin | 与孱弱哥布林切磋 |
+| `You win with the staff alone. The sergeant grunts something like approval.` | You win with the staff alone. The sergeant grunts something like approval. | 你只凭木棍就赢了。军士咕哝了一声，像是赞许。 |
+| `Run the training trail` | Run the training trail | 跑训练小径 |
+| `Three laps, then three more. Your footwork comes back on the last one.` | Three laps, then three more. Your footwork comes back on the last one. | 三圈，再三圈。最后一圈时你的步法回来了。 |
+| `Beat a dire goblin cleanly` | Beat a dire goblin cleanly | 干净利落地击败凶险哥布林 |
+| `No wasted swings. The sergeant counts them on his fingers.` | No wasted swings. The sergeant counts them on his fingers. | 没有一次多余的挥砍。军士掰着手指数着。 |
+| `Eat with the garrison` | Eat with the garrison | 与驻军一同用餐 |
+| `The garrison cook remembers the sergeant. 'He still shouts at everyone?'` | The garrison cook remembers the sergeant. 'He still shouts at everyone?' | 驻军的厨子还记得那位军士。「他还是对谁都大吼大叫吗？」 |
+| `Send word to the sergeant` | Send word to the sergeant | 给军士捎个信 |
+| `You send a short note: two goblins down, footwork fixed.` | You send a short note: two goblins down, footwork fixed. | 你寄去一张简短的字条：两只哥布林已解决，步法已纠正。 |
+| `Break a feeble skeleton` | Break a feeble skeleton | 击碎一具孱弱骷髅 |
+| `Bone gives way under a clean blow. Heft without strike is noise, he always said.` | Bone gives way under a clean blow. Heft without strike is noise, he always said. | 干净的一击之下，骨头应声碎裂。他总说，没有精准的武技只是噪音。 |
+| `You clear it with the same drills you learned there.` | You clear it with the same drills you learned there. | 你用在那里学到的同一套操练通关。 |
+| `Your party moves when you move. Good habits spread.` | Your party moves when you move. Good habits spread. | 你一动，队伍就跟着动。好习惯会传开。 |
+| `Have your blade reforged` | Have your blade reforged | 重铸你的刀刃 |
+| `The smith grinds out years of nicks. It swings true again.` | The smith grinds out years of nicks. It swings true again. | 铁匠磨去了多年的缺口。它挥起来又顺手了。 |
+| `Fell an orc with clean blows` | Fell an orc with clean blows | 以利落的攻击击倒一只兽人 |
+| `The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.'` | The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.' | 兽人三击便倒。军士递给你一个剑首和一个握柄。「现在你准备好了。」 |
+| `Mastery: Sight and Draw` | Mastery: Sight and Draw | 精通：瞄准与射术 |
+| `A hunter in the north asks you to shoot like a beginner again.` | A hunter in the north asks you to shoot like a beginner again. | 北方的一位猎人请你像初学者一样重新射箭。 |
+| `Meet the northern hunter` | Meet the northern hunter | 与北方猎人会面 |
+| `'You aim like someone who expects to hit. Good archers expect to miss. Come.'` | 'You aim like someone who expects to hit. Good archers expect to miss. Come.' | 「你瞄准时像是笃定会命中。好弓手都笃定自己会脱靶。来吧。」 |
+| `Fletch a plain practice bow` | Fletch a plain practice bow | 制作一把朴素的练习弓 |
+| `No runes, no gems. Just yew and string.` | No runes, no gems. Just yew and string. | 没有符文，没有宝石。只有紫杉和弓弦。 |
+| `Scout the hills for targets` | Scout the hills for targets | 在丘陵间寻找靶子 |
+| `You mark three trees and a stump at different ranges.` | You mark three trees and a stump at different ranges. | 你在不同距离标记了三棵树和一个树桩。 |
+| `Take down a dire gnoll` | Take down a dire gnoll | 射倒一只凶险豺狼人 |
+| `One arrow, placed where the hunter pointed. 'Better.'` | One arrow, placed where the hunter pointed. 'Better.' | 一箭，正中猎人所指之处。「好多了。」 |
+| `Cut fresh arrow shafts` | Cut fresh arrow shafts | 削制新箭杆 |
+| `You pick straight stems and trim them by eye.` | You pick straight stems and trim them by eye. | 你挑选笔直的枝茎，凭目测修剪。 |
+| `Run the range drills` | Run the range drills | 进行靶场训练 |
+| `Shoot, move, shoot. Your breath and your release line up again.` | Shoot, move, shoot. Your breath and your release line up again. | 射击，移动，射击。你的呼吸与撒放再次合拍。 |
+| `Hit a golem at the joints` | Hit a golem at the joints | 射中魔像的关节 |
+| `Stone is hard, joints are not. The golem folds.` | Stone is hard, joints are not. The golem folds. | 石头坚硬，关节却不然。魔像瘫倒在地。 |
+| `You call targets for the whole party. Nobody wastes a shot.` | You call targets for the whole party. Nobody wastes a shot. | 你为整支队伍指示目标。没有人浪费一箭。 |
+| `Eat with the hunters` | Eat with the hunters | 与猎人们一同用餐 |
+| `The hunters argue about wind. You agree with all of them.` | The hunters argue about wind. You agree with all of them. | 猎人们争论着风向。你对每个人都表示赞同。 |
+| `Bank your spare arrows` | Bank your spare arrows | 把多余的箭存入银行 |
+| `You store the spares. Travelling light is half the craft.` | You store the spares. Travelling light is half the craft. | 你把备用的箭存了起来。轻装上路便是一半的本事。 |
+| `You shoot from the back row and never lose sight of the front.` | You shoot from the back row and never lose sight of the front. | 你在后排射击，视线却从未离开前排。 |
+| `Bring down a fell gnoll` | Bring down a fell gnoll | 射倒一只残暴豺狼人 |
+| `Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.'` | Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.' | 两箭，都干净利落。猎人递给你一个箭尾槽和一根弓弦。「留着。继续少脱靶。」 |
+| `Mastery: Focus and Surge` | Mastery: Focus and Surge | 精通：专注与法力 |
+| `An eastern mage wants your first spells cast without force or fuss.` | An eastern mage wants your first spells cast without force or fuss. | 一位东方法师希望你不用蛮力、不慌不忙地施放最初的法术。 |
+| `Meet the eastern mage` | Meet the eastern mage | 与东方法师会面 |
+| `'You push power like a mule pushes a cart. Let us start again, smaller.'` | 'You push power like a mule pushes a cart. Let us start again, smaller.' | 「你推动力量的样子就像骡子推车。我们从头来过，规模小一点。」 |
+| `Draw from a small fragment` | Draw from a small fragment | 从小碎片中汲取 |
+| `The essence is faint. You have to listen for it.` | The essence is faint. You have to listen for it. | 精华十分微弱。你必须用心倾听。 |
+| `Charge a single dim essence` | Charge a single dim essence | 充能一份黯淡精华 |
+| `You charge it slowly. It holds better than anything you rushed.` | You charge it slowly. It holds better than anything you rushed. | 你慢慢充能。它比你仓促完成的任何一份都稳固。 |
+| `Banish a feeble imp` | Banish a feeble imp | 驱逐一只孱弱小鬼 |
+| `A small spell, aimed well. The imp is gone before it can grin.` | A small spell, aimed well. The imp is gone before it can grin. | 一个小法术，瞄得精准。小鬼还没来得及咧嘴笑就消失了。 |
+| `Read the runes in the ashes` | Read the runes in the ashes | 解读灰烬中的符文 |
+| `Old travellers left warding marks here. You copy them out.` | Old travellers left warding marks here. You copy them out. | 古时的旅人在此留下了守护印记。你将它们抄录下来。 |
+| `Tend a small herb plot` | Tend a small herb plot | 照料一小块药圃 |
+| `The mage wants patience practised. You weed until your mind goes quiet.` | The mage wants patience practised. You weed until your mind goes quiet. | 法师想让你练习耐心。你一直除草，直到心静下来。 |
+| `Unmake a dire lich` | Unmake a dire lich | 消灭一只凶险巫妖 |
+| `You break its ward with the marks from the ashes.` | You break its ward with the marks from the ashes. | 你用灰烬中的印记破除了它的结界。 |
+| `You cast half as often and hit twice as hard.` | You cast half as often and hit twice as hard. | 你施法的次数减半，打击的力度加倍。 |
+| `Inscribe a beginner sigil` | Inscribe a beginner sigil | 刻写一个入门符印 |
+| `Simple lines, clean joins. The mage keeps it as a sample.` | Simple lines, clean joins. The mage keeps it as a sample. | 线条简洁，接缝干净。法师把它留作样品。 |
+| `Send your notes east` | Send your notes east | 将笔记寄往东方 |
+| `Your notes on the lich go back to the mage by courier.` | Your notes on the lich go back to the mage by courier. | 你关于巫妖的笔记由信使送回法师手中。 |
+| `Your spells land on rhythm. The party fights to your timing.` | Your spells land on rhythm. The party fights to your timing. | 你的法术踩准节奏落下。队伍跟着你的节拍作战。 |
+| `Dispel a fell demon` | Dispel a fell demon | 驱散一只残暴恶魔 |
+| `One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.'` | One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.' | 一次专注的法力涌动，恶魔便溃散了。法师递给你一颗宝珠和一个催化剂。「小法术，大成效。」 |
+| `Mastery: Dodge and Defend` | Mastery: Dodge and Defend | 精通：闪避与防御 |
+| `A shieldwright wants you to relearn when to block and when to move.` | A shieldwright wants you to relearn when to block and when to move. | 一位盾匠希望你重新学会何时格挡、何时移动。 |
+| `Meet the shieldwright` | Meet the shieldwright | 与盾匠会面 |
+| `'You block everything. Some things you should just not be standing in front of.'` | 'You block everything. Some things you should just not be standing in front of.' | 「你什么都去挡。有些东西，你压根就不该站在它面前。」 |
+| `Hammer out a practice shield` | Hammer out a practice shield | 打造一面练习盾 |
+| `Plain iron, a little too heavy. That is the point, she says.` | Plain iron, a little too heavy. That is the point, she says. | 普通的铁，稍微重了些。她说，这正是重点。 |
+| `Dodge a feeble rat` | Dodge a feeble rat | 闪避一只孱弱老鼠 |
+| `You step aside until it tires. You do not raise the shield once.` | You step aside until it tires. You do not raise the shield once. | 你一直闪躲，直到它累了。你一次都没举盾。 |
+| `Weave through the crowded alley` | Weave through the crowded alley | 穿过拥挤的小巷 |
+| `Market day. You cross the alley without touching anyone.` | Market day. You cross the alley without touching anyone. | 正逢集日。你穿过小巷，没碰到任何人。 |
+| `Block a feeble treant` | Block a feeble treant | 格挡一只孱弱树人 |
+| `Its branches thud off the shield. You keep your feet planted.` | Its branches thud off the shield. You keep your feet planted. | 它的枝条砰砰砸在盾上。你双脚牢牢站定。 |
+| `Hold against a dire treant` | Hold against a dire treant | 顶住一只凶险树人 |
+| `Block, step, block. You stop thinking about which comes next.` | Block, step, block. You stop thinking about which comes next. | 格挡，移步，格挡。你不再去想下一步是什么。 |
+| `You take every hit meant for the party and none meant for you.` | You take every hit meant for the party and none meant for you. | 冲着队伍来的每一击你都接下，冲着你来的却一击也没挨上。 |
+| `Gather bark for shield padding` | Gather bark for shield padding | 采集树皮做盾牌衬垫 |
+| `Soft bark, layered thick. Your arm will thank you.` | Soft bark, layered thick. Your arm will thank you. | 柔软的树皮，厚厚叠起。你的手臂会感谢你的。 |
+| `Send the shieldwright word` | Send the shieldwright word | 给盾匠捎个信 |
+| `You report the treant fights. She replies with a single word: 'Again.'` | You report the treant fights. She replies with a single word: 'Again.' | 你汇报了与树人的战斗。她只回了一个词：「再来。」 |
+| `You read every swing before it comes.` | You read every swing before it comes. | 每一次挥击还没到来，你就已看穿。 |
+| `Reinforce the shield rim` | Reinforce the shield rim | 加固盾牌边缘 |
+| `The smith adds a band of steel to the rim. It feels finished now.` | The smith adds a band of steel to the rim. It feels finished now. | 铁匠在盾缘加了一道钢箍。现在感觉完整了。 |
+| `Outlast a fell orc` | Outlast a fell orc | 熬过一只残暴兽人 |
+| `It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim.` | It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim. | 它一直挥打到几乎站不稳。你始终没有停下脚步。盾匠递给你一根弹簧和一块垫片。 |
+| `Mastery: Fish and Cook` | Mastery: Fish and Cook | 精通：钓鱼与烹饪 |
+| `A fishwife who fed half the coast wants your first catch cooked right.` | A fishwife who fed half the coast wants your first catch cooked right. | 一位养活了半条海岸的鱼妇，想让你把最初的渔获好好烹饪一番。 |
+| `Meet the old fishwife` | Meet the old fishwife | 与老鱼妇会面 |
+| `'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.'` | 'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.' | 「大鱼，花哨的锅。你上次好好煮一只虾是什么时候？去弄清楚。」 |
+| `Cook over an open spit` | Cook over an open spit | 在明火烤架上烹饪 |
+| `No kitchen, no spices. You keep the fire low and the fish whole.` | No kitchen, no spices. You keep the fire low and the fish whole. | 没有厨房，没有香料。你把火控得很小，鱼保持完整。 |
+| `Fish the shallow pool` | Fish the shallow pool | 在浅池中钓鱼 |
+| `You catch a shrimp and remember the first one you ever landed.` | You catch a shrimp and remember the first one you ever landed. | 你钓上一只虾，想起了自己钓到的第一只。 |
+| `Fish a quiet stream` | Fish a quiet stream | 在宁静的溪流中钓鱼 |
+| `The stream is slow and so are you. You stop rushing the line.` | The stream is slow and so are you. You stop rushing the line. | 溪水缓慢，你也一样。你不再急着收线。 |
+| `Grill your catch plainly` | Grill your catch plainly | 简单烤制你的渔获 |
+| `Salt and smoke. The fishwife would approve.` | Salt and smoke. The fishwife would approve. | 盐与烟。鱼妇会满意的。 |
+| `Try the far pool` | Try the far pool | 试试远处的水池 |
+| `A perch bites on the third cast. You let it run before you reel.` | A perch bites on the third cast. You let it run before you reel. | 第三次抛竿时，一条河鲈咬钩了。你先任它游一阵再收线。 |
+| `Fish the cold stream` | Fish the cold stream | 在寒冷的溪流中钓鱼 |
+| `Cold hands, quick fish. You learn to strike faster.` | Cold hands, quick fish. You learn to strike faster. | 手冷，鱼快。你学会了更快地提竿。 |
+| `Cook at a mountain hearth` | Cook at a mountain hearth | 在山间灶台烹饪 |
+| `The hearth cook shows you how to keep fish from drying out.` | The hearth cook shows you how to keep fish from drying out. | 灶台厨师教你如何让鱼不变干。 |
+| `Feed the mill workers` | Feed the mill workers | 为磨坊工人做饭 |
+| `You cook for a crew of twenty. Nothing comes back burned.` | You cook for a crew of twenty. Nothing comes back burned. | 你为二十人的工队做饭。没有一盘是烧焦了退回来的。 |
+| `Cook on the tidefield spit` | Cook on the tidefield spit | 在潮原烤架上烹饪 |
+| `The fishwife's cousin tastes your work and sends word up the coast.` | The fishwife's cousin tastes your work and sends word up the coast. | 鱼妇的表亲尝了你的手艺，把消息沿着海岸传了出去。 |
+| `Cook one perfect fillet` | Cook one perfect fillet | 烹饪一块完美的鱼排 |
+| `One fillet, cooked through, still soft. You eat it yourself.` | One fillet, cooked through, still soft. You eat it yourself. | 一块鱼排，熟透却依然软嫩。你自己把它吃了。 |
+| `Land a catch at the seaside` | Land a catch at the seaside | 在海边钓上渔获 |
+| `The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.'` | The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.' | 深海鱼挣扎得厉害，但你把它们都拉了上来。鱼妇送来一根钓竿和一口煎锅。「现在你既是渔夫，也是厨师了。」 |
+| `Mastery: Mine and Smith` | Mastery: Mine and Smith | 精通：采矿与锻造 |
+| `A forge master wants proof you still respect plain copper and tin.` | A forge master wants proof you still respect plain copper and tin. | 一位锻造大师想确认你仍然看重朴素的铜和锡。 |
+| `Meet the forge master` | Meet the forge master | 与锻造大师会面 |
+| `'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.'` | 'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.' | 「你现在只碰稀有矿石。这片土地上的每座大厅都是用铜建起来的。去，再挣一次。」 |
+| `Work a copper bar` | Work a copper bar | 加工一根铜锭 |
+| `You fold the bar slowly. It rings clean.` | You fold the bar slowly. It rings clean. | 你慢慢折叠铜锭。它发出清脆的鸣响。 |
+| `Mine at the old quarry` | Mine at the old quarry | 在旧采石场采矿 |
+| `Copper and tin, by hand. Your swing settles into an old rhythm.` | Copper and tin, by hand. Your swing settles into an old rhythm. | 铜和锡，全凭双手。你挥镐的节奏回到了从前。 |
+| `Smelt your first batch` | Smelt your first batch | 冶炼你的第一炉 |
+| `You keep the heat even. No slag, no cracks.` | You keep the heat even. No slag, no cracks. | 你保持火候均匀。没有矿渣，没有裂纹。 |
+| `Follow a shallow vein` | Follow a shallow vein | 沿着浅矿脉开采 |
+| `The vein is thin but honest. You take only what it gives.` | The vein is thin but honest. You take only what it gives. | 矿脉虽细，却很实在。它给多少，你就取多少。 |
+| `Quarry stone and ore` | Quarry stone and ore | 开采石料和矿石 |
+| `Wind cuts through the quarry. You work until the cart is full.` | Wind cuts through the quarry. You work until the cart is full. | 风穿过采石场。你一直干到矿车装满。 |
+| `Chip out the iron seam` | Chip out the iron seam | 凿出铁矿层 |
+| `The iron comes loose in good clean chunks.` | The iron comes loose in good clean chunks. | 铁矿成块脱落，干净利落。 |
+| `Forge a plain nail` | Forge a plain nail | 锻造一根普通铁钉 |
+| `A nail is the hardest thing to forge well, the forge master said.` | A nail is the hardest thing to forge well, the forge master said. | 锻造大师说过，铁钉是最难锻好的东西。 |
+| `Mine beside the old camp` | Mine beside the old camp | 在旧营地旁采矿 |
+| `Old miners left their marks here. You add yours under theirs.` | Old miners left their marks here. You add yours under theirs. | 老矿工们在这里留下了记号。你在他们的记号下面添上自己的。 |
+| `Temper a beginner blade` | Temper a beginner blade | 淬火一把入门刀刃 |
+| `You quench it once and it holds an edge.` | You quench it once and it holds an edge. | 你淬火一次，刀刃便能保持锋利。 |
+| `Load a cart of ore` | Load a cart of ore | 装满一车矿石 |
+| `You load and haul. Your back remembers its first summer here.` | You load and haul. Your back remembers its first summer here. | 你装车、拖运。你的腰背还记得在这里的第一个夏天。 |
+| `Mine the deepest shaft` | Mine the deepest shaft | 在最深的矿井采矿 |
+| `You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.'` | You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.' | 你从深处运出矿石，毫发无伤。锻造大师送来一把镐和一把锤子。「回到了起点，也远远超越了它。」 |
+| `Mastery: Forage and Craft` | Mastery: Forage and Craft | 精通：采集与制作 |
+| `A weaver asks you to gather and work the simplest materials again.` | A weaver asks you to gather and work the simplest materials again. | 一位织工请你再次采集并加工最简单的材料。 |
+| `Meet the weaver` | Meet the weaver | 与织工会面 |
+| `'You work dragonhide and starspun now. Show me you can still make good strips from leather.'` | 'You work dragonhide and starspun now. Show me you can still make good strips from leather.' | 「你现在用的是龙皮和星纺丝。让我看看你还能不能用皮革裁出好皮条。」 |
+| `Cut leather into strips` | Cut leather into strips | 将皮革裁成皮条 |
+| `Even width, no ragged ends. The weaver checks every one.` | Even width, no ragged ends. The weaver checks every one. | 宽窄一致，没有毛边。织工逐一检查。 |
+| `Gather from the wild patch` | Gather from the wild patch | 在野生采集点采集 |
+| `You pick slowly and leave the young growth alone.` | You pick slowly and leave the young growth alone. | 你慢慢采摘，不碰幼嫩的新芽。 |
+| `Forage the woodland patch` | Forage the woodland patch | 在林地采集点采集 |
+| `Linen grows thick here. You fill a sack before noon.` | Linen grows thick here. You fill a sack before noon. | 这里的亚麻长得很茂密。不到中午你就装满了一袋。 |
+| `Search the fern thicket` | Search the fern thicket | 搜寻蕨丛 |
+| `Silk moths nest in the ferns. You take only the spent cocoons.` | Silk moths nest in the ferns. You take only the spent cocoons. | 蚕蛾在蕨丛中筑巢。你只取已空的茧。 |
+| `Gather on the rocky patch` | Gather on the rocky patch | 在岩石采集点采集 |
+| `Hardy plants, tough fibres. Good for rope.` | Hardy plants, tough fibres. Good for rope. | 耐寒的植物，坚韧的纤维。很适合做绳子。 |
+| `Spin linen into thread` | Spin linen into thread | 把亚麻纺成线 |
+| `You spin until the thread runs fine and even.` | You spin until the thread runs fine and even. | 你一直纺到线又细又匀。 |
+| `Forage the hillside patch` | Forage the hillside patch | 在山坡采集点采集 |
+| `You know which leaves to take by touch now.` | You know which leaves to take by touch now. | 如今你凭触感就知道该摘哪些叶子。 |
+| `Gather hides from the thicket` | Gather hides from the thicket | 从灌木丛中收集兽皮 |
+| `A hunter left hides to cure. You trade a day of work for them.` | A hunter left hides to cure. You trade a day of work for them. | 一位猎人留下兽皮等着鞣制。你干了一天活换来了它们。 |
+| `Forage the fort patch` | Forage the fort patch | 在堡垒采集点采集 |
+| `The fort guards point you to a patch nobody else bothers with.` | The fort guards point you to a patch nobody else bothers with. | 堡垒守卫给你指了一处没人在意的采集点。 |
+| `Craft a simple satchel` | Craft a simple satchel | 制作一个简单的挎包 |
+| `Strips, thread and a buckle. It is the best thing you have made in years.` | Strips, thread and a buckle. It is the best thing you have made in years. | 皮条、线和一个扣环。这是你多年来做得最好的东西。 |
+| `Forage the deep wilds` | Forage the deep wilds | 在荒野深处采集 |
+| `You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel.` | You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel. | 你带着稀有材料和一双稳健的手从荒野归来。织工送来一把镰刀和一把凿子。 |
+| `Mastery: Invoke and Imbue` | Mastery: Invoke and Imbue | 精通：唤灵与灌注 |
+| `An old enchanter wants your first dim essences drawn and charged again.` | An old enchanter wants your first dim essences drawn and charged again. | 一位老附魔师想让你再次汲取并充能最初的黯淡精华。 |
+| `Meet the old enchanter` | Meet the old enchanter | 与老附魔师会面 |
+| `'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.'` | 'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.' | 「璀璨、天界、神圣。你上次充能黯淡精华是什么时候？从那里开始。」 |
+| `Charge a dim essence` | Charge a dim essence | 充能黯淡精华 |
+| `It takes almost nothing to charge. That is what makes it hard.` | It takes almost nothing to charge. That is what makes it hard. | 充能几乎毫不费力。这正是它难的地方。 |
+| `The fragment hums faintly. You draw from it without cracking it.` | The fragment hums faintly. You draw from it without cracking it. | 碎片发出微弱的嗡鸣。你从中汲取，却没有让它碎裂。 |
+| `Charge at the glowing font` | Charge at the glowing font | 在发光的泉眼充能 |
+| `You feed the font slowly. It answers in kind.` | You feed the font slowly. It answers in kind. | 你缓缓向泉眼注入。它也同样回应你。 |
+| `Listen at the river fragment` | Listen at the river fragment | 在河畔碎片旁倾听 |
+| `Faint essence, carried on the river wind.` | Faint essence, carried on the river wind. | 微弱的精华，随河风而来。 |
+| `Charge a faint essence` | Charge a faint essence | 充能微弱精华 |
+| `Clean light. The enchanter would keep this one.` | Clean light. The enchanter would keep this one. | 纯净的光。附魔师会留下这一份。 |
+| `Trace the ruined sigil` | Trace the ruined sigil | 描摹残破的符印 |
+| `The old lines still hold power. You trace them without breaking them.` | The old lines still hold power. You trace them without breaking them. | 古老的线条仍蕴含力量。你描摹它们，却不使其断裂。 |
+| `Charge essence at the sigil` | Charge essence at the sigil | 在符印处充能精华 |
+| `You charge three in a row without a flicker.` | You charge three in a row without a flicker. | 你一连充能三份，毫无闪烁。 |
+| `Draw from the crystal` | Draw from the crystal | 从水晶中汲取 |
+| `The crystal gives more than you ask. You take only what you need.` | The crystal gives more than you ask. You take only what you need. | 水晶给予的比你索取的更多。你只取所需。 |
+| `Draw from the desert fragment` | Draw from the desert fragment | 从沙漠碎片中汲取 |
+| `Dry air, sharp essence. Your hands stay steady.` | Dry air, sharp essence. Your hands stay steady. | 干燥的空气，锐利的精华。你的双手稳稳当当。 |
+| `Charge in the desert heat` | Charge in the desert heat | 在沙漠酷热中充能 |
+| `The heat fights you. You win by going slower.` | The heat fights you. You win by going slower. | 酷热与你作对。你放慢速度才赢了它。 |
+| `Draw deep from the rift` | Draw deep from the rift | 从裂隙深处汲取 |
+| `The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism.` | The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism. | 裂隙中涌出明亮的精华，你将其全部掌控。附魔师送来一个导管和一个棱镜。 |
+| `Mastery: Farm and Brew` | Mastery: Farm and Brew | 精通：种植与酿造 |
+| `A herbalist wants you to grow and brew the plainest remedies again.` | A herbalist wants you to grow and brew the plainest remedies again. | 一位草药师想让你再次种植并酿造最朴素的药剂。 |
+| `Meet the herbalist` | Meet the herbalist | 与草药师会面 |
+| `'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.'` | 'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.' | 「稀有的花，花哨的补剂。你还能种出斗草根，并把它酿得清澈吗？让我看看。」 |
+| `Plant skirmish root` | Plant skirmish root | 种下斗草根 |
+| `You plant in straight rows and water at dusk.` | You plant in straight rows and water at dusk. | 你按笔直的行种下，黄昏时浇水。 |
+| `Weed the farm plot` | Weed the farm plot | 给农田除草 |
+| `Weeds come up easy after rain. You clear the whole plot.` | Weeds come up easy after rain. You clear the whole plot. | 雨后的杂草很容易拔。你把整块地都清理干净。 |
+| `Brew a simple tonic` | Brew a simple tonic | 酿造一份简单的补剂 |
+| `Root, water and patience. It comes out clear.` | Root, water and patience. It comes out clear. | 根、水和耐心。酿出来清澈透亮。 |
+| `Harvest the hillside plot` | Harvest the hillside plot | 收获山坡田地 |
+| `The hill soil is thin. You coax a small harvest out of it.` | The hill soil is thin. You coax a small harvest out of it. | 山上的土壤贫瘠。你精心照料，换来一小份收成。 |
+| `Grow herbs in cold soil` | Grow herbs in cold soil | 在寒冷土壤中种植草药 |
+| `Frost-hardy herbs, slow to grow and worth the wait.` | Frost-hardy herbs, slow to grow and worth the wait. | 耐霜的草药，生长缓慢，却值得等待。 |
+| `Brew at the fern cauldron` | Brew at the fern cauldron | 在蕨叶大锅旁酿造 |
+| `You let it simmer twice as long as you used to. It is better for it.` | You let it simmer twice as long as you used to. It is better for it. | 你让它比以前多炖了一倍的时间。效果更好了。 |
+| `Brew a calming draught` | Brew a calming draught | 酿造一份安神药剂 |
+| `The draught settles your own nerves before anyone else's.` | The draught settles your own nerves before anyone else's. | 这份药剂先安抚了你自己的神经，然后才轮到别人。 |
+| `Brew for the mountain watch` | Brew for the mountain watch | 为山地哨兵酿造 |
+| `The watch drinks it cold. Nobody complains.` | The watch drinks it cold. Nobody complains. | 哨兵们冷着喝。没有人抱怨。 |
+| `Tend the pine plot` | Tend the pine plot | 照料松林田地 |
+| `Needles in the soil, sharp herbs in the rows.` | Needles in the soil, sharp herbs in the rows. | 土中有松针，垄间有辛辣的草药。 |
+| `Brew one last plain remedy` | Brew one last plain remedy | 酿造最后一份朴素药剂 |
+| `The herbalist tastes it and nods once.` | The herbalist tastes it and nods once. | 草药师尝了尝，点了一下头。 |
+| `Brew a master tonic` | Brew a master tonic | 酿造一份大师补剂 |
+| `You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar.` | You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar. | 你酿出了药剂师从未成功过的补剂。草药师送来一把移植铲和一个研钵。 |
+| `Mastery: Plunder and Barter` | Mastery: Plunder and Barter | 精通：劫掠与贸易 |
+| `A retired fence wants to see you work the small markets honestly again.` | A retired fence wants to see you work the small markets honestly again. | 一位退休的销赃人想再看你老老实实地在小市场里做事。 |
+| `Meet the retired fence` | Meet the retired fence | 与退休销赃人会面 |
+| `'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.'` | 'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.' | 「你抢金库，买空市场。去扒一次口袋，再把偷来的东西以公道价卖掉。」 |
+| `Haggle at the small stalls` | Haggle at the small stalls | 在小摊位讨价还价 |
+| `You argue a copper off a loaf of bread. The baker laughs.` | You argue a copper off a loaf of bread. The baker laughs. | 你从一条面包上砍掉一枚铜币。面包师笑了。 |
+| `Lift a purse in the alley` | Lift a purse in the alley | 在小巷里顺走一个钱袋 |
+| `Small purse, quick hands. Nobody notices.` | Small purse, quick hands. Nobody notices. | 小钱袋，快手。没人察觉。 |
+| `Pick a lock in the alley` | Pick a lock in the alley | 在小巷里撬一把锁 |
+| `An old padlock. You open it with a bent nail.` | An old padlock. You open it with a bent nail. | 一把旧挂锁。你用一根弯钉子打开了它。 |
+| `Shadow a merchant` | Shadow a merchant | 跟踪一名商人 |
+| `You follow him for an hour and learn where he keeps his coin.` | You follow him for an hour and learn where he keeps his coin. | 你跟了他一个小时，弄清了他把钱放在哪里。 |
+| `Sell a stolen trinket` | Sell a stolen trinket | 卖掉一件偷来的小饰品 |
+| `You sell it back to its owner for a fair price. The fence would approve.` | You sell it back to its owner for a fair price. The fence would approve. | 你以公道价把它卖回给失主。销赃人会满意的。 |
+| `Slip past the watch` | Slip past the watch | 溜过守卫 |
+| `The watch never looks up from their dice.` | The watch never looks up from their dice. | 守卫们的眼睛始终没离开骰子。 |
+| `Trade at the dockside stalls` | Trade at the dockside stalls | 在码头摊位交易 |
+| `Fish for rope, rope for coin. You come out ahead.` | Fish for rope, rope for coin. You come out ahead. | 用鱼换绳，用绳换钱。你最终赚了。 |
+| `Work the dock alley` | Work the dock alley | 在码头小巷下手 |
+| `Sailors keep loose coin. You keep some of it.` | Sailors keep loose coin. You keep some of it. | 水手们的零钱揣得很随意。你顺走了一些。 |
+| `Lift a guard captain's keys` | Lift a guard captain's keys | 顺走卫队长的钥匙 |
+| `You borrow them and return them before he notices.` | You borrow them and return them before he notices. | 你在他察觉之前借来又还了回去。 |
+| `Fence goods in the cold alley` | Fence goods in the cold alley | 在寒巷销赃 |
+| `The buyer pays in full and asks no questions.` | The buyer pays in full and asks no questions. | 买家全额付款，什么也不问。 |
+| `Strike a deal at the pirate market` | Strike a deal at the pirate market | 在海盗市场谈成一笔买卖 |
+| `You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales.` | You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales. | 你与海盗讨价还价，带着他们最好的货离开。销赃人送来一套撬锁工具和一副天平。 |
+| `Mastery: Bard and Discover` | Mastery: Bard and Discover | 精通：吟游与探索 |
+| `A wandering minstrel wants new songs from the oldest campfires.` | A wandering minstrel wants new songs from the oldest campfires. | 一位流浪吟游诗人想从最古老的篝火旁寻得新歌。 |
+| `Meet the wandering minstrel` | Meet the wandering minstrel | 与流浪吟游诗人会面 |
+| `'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.'` | 'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.' | 「每个吟游诗人都在大厅里唱。我想要篝火旁的歌，还有那些没人绘制过地图的地方。」 |
+| `Sing at the campfire` | Sing at the campfire | 在篝火旁唱歌 |
+| `Two travellers and a dog. You play until they fall asleep.` | Two travellers and a dog. You play until they fall asleep. | 两个旅人和一条狗。你一直弹奏到他们睡着。 |
+| `Survey the nearby hills` | Survey the nearby hills | 勘察附近的丘陵 |
+| `You find an old marker stone and copy its carving.` | You find an old marker stone and copy its carving. | 你找到一块古老的界石，抄下了上面的刻文。 |
+| `Map the frozen ridge` | Map the frozen ridge | 绘制冰封山脊的地图 |
+| `Your map is rough but true. The minstrel likes rough.` | Your map is rough but true. The minstrel likes rough. | 你的地图粗糙却准确。吟游诗人就喜欢粗糙的。 |
+| `Swap songs with the guards` | Swap songs with the guards | 与守卫交换歌曲 |
+| `The guards know a verse you have never heard. You trade one of yours for it.` | The guards know a verse you have never heard. You trade one of yours for it. | 守卫们知道一段你从未听过的唱词。你用自己的一首换来了它。 |
+| `Search the old prospect` | Search the old prospect | 搜寻旧探矿点 |
+| `Under loose stones you find a tin cup with initials scratched in.` | Under loose stones you find a tin cup with initials scratched in. | 在松动的石头下，你找到一只刻着姓名缩写的锡杯。 |
+| `Scout the frozen pass` | Scout the frozen pass | 侦察冰封山口 |
+| `Wind has carved the pass into a strange shape. You sketch it.` | Wind has carved the pass into a strange shape. You sketch it. | 风把山口雕成了奇特的形状。你把它画了下来。 |
+| `Play for the frost watch` | Play for the frost watch | 为霜地哨兵演奏 |
+| `The watch claps with mittens on. It sounds like rain.` | The watch claps with mittens on. It sounds like rain. | 哨兵们戴着连指手套鼓掌。听起来像下雨。 |
+| `Perform in the old tavern` | Perform in the old tavern | 在老酒馆演出 |
+| `You play the guards' verse. The tavern sings it back.` | You play the guards' verse. The tavern sings it back. | 你弹唱守卫们的那段唱词。整个酒馆跟着唱了回来。 |
+| `Write a song by the fire` | Write a song by the fire | 在火边写一首歌 |
+| `You write about the tin cup and the carved pass.` | You write about the tin cup and the carved pass. | 你写下锡杯和那被风雕琢的山口。 |
+| `Find the lost marker` | Find the lost marker | 找到失落的界石 |
+| `The last marker is half buried. You dig it out and read it.` | The last marker is half buried. You dig it out and read it. | 最后一块界石半埋在土里。你把它挖出来读了。 |
+| `Chart the far reaches` | Chart the far reaches | 绘制遥远边境的地图 |
+| `You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens.` | You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens. | 你绘制了遥远的边境，并为地图谱上了歌。吟游诗人送来一件乐器和一片透镜。 |
+| `Mastery: Vigor and Slay` | Mastery: Vigor and Slay | 精通：体能与猎杀 |
+| `A slayer captain wants your stamina and your first kills done right again.` | A slayer captain wants your stamina and your first kills done right again. | 一位猎杀队长想再看你把耐力和最初的猎杀练到位。 |
+| `Report to the slayer captain` | Report to the slayer captain | 向猎杀队长报到 |
+| `'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?'` | 'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?' | 「你猎杀世上最可怕的东西。好。那你还能跑完训练场，好好杀一只魔像吗？」 |
+| `Run the training yard` | Run the training yard | 跑训练场 |
+| `Ten laps, carrying a sandbag. You finish the last one sprinting.` | Ten laps, carrying a sandbag. You finish the last one sprinting. | 背着沙袋跑十圈。最后一圈你冲刺完成。 |
+| `Slay a feeble golem` | Slay a feeble golem | 猎杀一只孱弱魔像 |
+| `You find the crack in its chest and strike there.` | You find the crack in its chest and strike there. | 你找到它胸口的裂缝，朝那里击打。 |
+| `Drill in the frozen yard` | Drill in the frozen yard | 在冰冻训练场操练 |
+| `Ice underfoot. You learn to run without trusting the ground.` | Ice underfoot. You learn to run without trusting the ground. | 脚下是冰。你学会了不依赖地面奔跑。 |
+| `Slay a dire golem` | Slay a dire golem | 猎杀一只凶险魔像 |
+| `Same crack, bigger golem. It falls the same way.` | Same crack, bigger golem. It falls the same way. | 同样的裂缝，更大的魔像。它以同样的方式倒下。 |
+| `Climb the frost wall` | Climb the frost wall | 攀爬冰霜之墙 |
+| `Hand over hand, no rope. Your arms burn and hold.` | Hand over hand, no rope. Your arms burn and hold. | 一手接一手，不用绳索。你的双臂火辣辣地痛，却撑住了。 |
+| `Sprint the mountain yard` | Sprint the mountain yard | 冲刺山地训练场 |
+| `Thin air, long sprints. Your breath stays even.` | Thin air, long sprints. Your breath stays even. | 稀薄的空气，长距离冲刺。你的呼吸始终平稳。 |
+| `Slay a dire skeleton` | Slay a dire skeleton | 猎杀一具凶险骷髅 |
+| `You break it at the spine before it can rise.` | You break it at the spine before it can rise. | 你在它起身之前打断了它的脊椎。 |
+| `Haul stone across the yard` | Haul stone across the yard | 搬运石块穿过训练场 |
+| `You carry stones until the yard master runs out of them.` | You carry stones until the yard master runs out of them. | 你一直搬到场地教官再也拿不出石头。 |
+| `Run the breakwood course` | Run the breakwood course | 跑完断木障碍场 |
+| `Logs, ditches, walls. You clear it twice.` | Logs, ditches, walls. You clear it twice. | 圆木、沟渠、矮墙。你跑完了两遍。 |
+| `Slay a dire treant` | Slay a dire treant | 猎杀一只凶险树人 |
+| `You take it apart one branch at a time.` | You take it apart one branch at a time. | 你一根枝条一根枝条地把它拆散。 |
+| `Climb to the pinnacle` | Climb to the pinnacle | 攀上顶峰 |
+| `You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.'` | You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.' | 你一口气登上了顶峰。队长送来一双训练鞋和一把猎杀小刀。「足以猎杀任何东西了。」 |
+| `Mastery: Luck and Alms` | Mastery: Luck and Alms | 精通：幸运与施舍 |
+| `An almoner believes fortune follows the generous. Spend a day proving it.` | An almoner believes fortune follows the generous. Spend a day proving it. | 一位施赈官相信好运会追随慷慨之人。花一天时间去证明吧。 |
+| `Meet the almoner` | Meet the almoner | 与施赈官会面 |
+| `'Give freely and luck finds you. Most people never test it. Come and test it.'` | 'Give freely and luck finds you. Most people never test it. Come and test it.' | 「慷慨给予，好运自会找上你。大多数人从没试过。来试试看。」 |
+| `Feed a hungry child` | Feed a hungry child | 给饥饿的孩子吃饭 |
+| `You buy bread for a child in the alley. On the way out you find a coin.` | You buy bread for a child in the alley. On the way out you find a coin. | 你给小巷里的一个孩子买了面包。出来的路上，你捡到一枚硬币。 |
+| `Pay a stranger's debt` | Pay a stranger's debt | 替陌生人还债 |
+| `The stallholder is stunned. Then she gives you a lucky charm she carved.` | The stallholder is stunned. Then she gives you a lucky charm she carved. | 摊主惊呆了。随后她送给你一个自己雕刻的幸运护身符。 |
+| `Buy a smith his tools back` | Buy a smith his tools back | 帮铁匠赎回工具 |
+| `The smith had pawned his hammer. You buy it back for him.` | The smith had pawned his hammer. You buy it back for him. | 铁匠把锤子当掉了。你替他赎了回来。 |
+| `Donate to the town chest` | Donate to the town chest | 向镇上的募捐箱捐款 |
+| `The banker counts your gift twice to be sure.` | The banker counts your gift twice to be sure. | 银行职员把你的捐款数了两遍以确认无误。 |
+| `Leave coin for the wardens` | Leave coin for the wardens | 给守望者留些钱 |
+| `The wardens are grateful. One of them gives you a tip about a dice game.` | The wardens are grateful. One of them gives you a tip about a dice game. | 守望者们很感激。其中一人告诉你一个骰子局的门道。 |
+| `Play dice with the wardens` | Play dice with the wardens | 与守望者们玩骰子 |
+| `You win three rolls in a row and give the winnings back.` | You win three rolls in a row and give the winnings back. | 你连赢三把，又把赢来的钱还了回去。 |
+| `Plant a clover for luck` | Plant a clover for luck | 种下一株三叶草祈求好运 |
+| `You find a four-leaf clover while planting. The almoner is not surprised.` | You find a four-leaf clover while planting. The almoner is not surprised. | 种植时你发现了一株四叶草。施赈官毫不意外。 |
+| `Fund the village well` | Fund the village well | 资助村里的水井 |
+| `The village will have clean water by spring.` | The village will have clean water by spring. | 到了春天，村子就会有干净的水。 |
+| `Pay the dockhands' wages` | Pay the dockhands' wages | 支付码头工人的工钱 |
+| `The harbour master had run short. The dockhands cheer.` | The harbour master had run short. The dockhands cheer. | 港务长的钱不够了。码头工人们欢呼起来。 |
+| `Buy out a poor trader` | Buy out a poor trader | 买下穷商贩的全部货物 |
+| `You buy her last fish at full price. She swears it will bring you luck.` | You buy her last fish at full price. She swears it will bring you luck. | 你按全价买下她最后一条鱼。她发誓这会给你带来好运。 |
+| `Give at the great market` | Give at the great market | 在大集市施舍 |
+| `You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer.` | You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer. | 你在集市上送出一整袋钱，离开时却中了抽奖。施赈官送来一个护身符和一个香炉。 |
+| `Mastery: Delve and Fortify` | Mastery: Delve and Fortify | 精通：地牢与要塞 |
+| `A raid veteran wants every dungeon and Fortress wave run from the start.` | A raid veteran wants every dungeon and Fortress wave run from the start. | 一位突袭老兵想让你从头再打一遍每座地牢和要塞的每一波。 |
+| `Meet the raid veteran` | Meet the raid veteran | 与突袭老兵会面 |
+| `'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.'` | 'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.' | 「你闭着眼都能打最难的突袭。睁开眼。从第一座地牢开始。」 |
+| `Hear the delvers' stories` | Hear the delvers' stories | 听地牢探险者讲故事 |
+| `Old delvers trade stories of the first dungeon. You learn a route you never knew.` | Old delvers trade stories of the first dungeon. You learn a route you never knew. | 老探险者们交流着第一座地牢的故事。你学到了一条从不知道的路线。 |
+| `You clear it using the old route. It is faster than yours.` | You clear it using the old route. It is faster than yours. | 你用那条老路线通关。比你自己的更快。 |
+| `Hold the Fortress for 20 waves` | Hold the Fortress for 20 waves | 在要塞坚守20波 |
+| `You hold the walls with plain supplies. Twenty waves, no losses.` | You hold the walls with plain supplies. Twenty waves, no losses. | 你用普通补给守住了城墙。二十波，零损失。 |
+| `Restock near the Fortress` | Restock near the Fortress | 在要塞附近补给 |
+| `You restock and swap stories with the Fortress crews.` | You restock and swap stories with the Fortress crews. | 你补充了物资，与要塞的守军交换故事。 |
+| `Patch your raid gear` | Patch your raid gear | 修补突袭装备 |
+| `Torn straps, cracked buckles. You fix them all yourself.` | Torn straps, cracked buckles. You fix them all yourself. | 断裂的绑带，开裂的扣环。你全都亲手修好。 |
+| `You lead the party and let them set the pace.` | You lead the party and let them set the pace. | 你带领队伍，让他们决定节奏。 |
+| `Hold the Fortress for 40 waves` | Hold the Fortress for 40 waves | 在要塞坚守40波 |
+| `Forty waves. Your deposits never stop.` | Forty waves. Your deposits never stop. | 四十波。你的存放从未中断。 |
+| `Plan the Savage run` | Plan the Savage run | 规划野蛮地牢之行 |
+| `The veteran's notes cover every room. You add a few of your own.` | The veteran's notes cover every room. You add a few of your own. | 老兵的笔记涵盖了每一个房间。你又添上了几条自己的。 |
+| `Clear a Savage Dungeon` | Clear a Savage Dungeon | 通关一座野蛮地牢 |
+| `The Savage Dungeon goes the way the notes said it would.` | The Savage Dungeon goes the way the notes said it would. | 野蛮地牢的进展与笔记所说的一模一样。 |
+| `Hold the Fortress for 60 waves` | Hold the Fortress for 60 waves | 在要塞坚守60波 |
+| `Sixty waves. The walls hold because you planned them to.` | Sixty waves. The walls hold because you planned them to. | 六十波。城墙之所以守得住，是因为你早有规划。 |
+| `Clear a Fell Dungeon` | Clear a Fell Dungeon | 通关一座残暴地牢 |
+| `You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification.` | You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification. | 你把残暴地牢从第一个房间清到最后一个。老兵送来一颗头骨和一件防御工事。 |
+| `Gather the masters` | Gather the masters | 召集大师们 |
+| `Harvest the great orchard` | Harvest the great orchard | 收获大果园 |
+| `The best trees in the land, picked clean and left healthy.` | The best trees in the land, picked clean and left healthy. | 这片土地上最好的果树，采摘干净，依然健壮。 |
+| `Fish the open sea` | Fish the open sea | 在远海钓鱼 |
+| `You bring in a catch the fishwife would frame.` | You bring in a catch the fishwife would frame. | 你钓上的渔获，足以让鱼妇裱起来挂着。 |
+| `Draw from the obelisk` | Draw from the obelisk | 从方尖碑中汲取 |
+| `The obelisk gives freely to someone who asks properly.` | The obelisk gives freely to someone who asks properly. | 方尖碑对诚心求取的人慷慨给予。 |
+| `Work the underground` | Work the underground | 在地下世界行事 |
+| `You take what you came for and leave no trace.` | You take what you came for and leave no trace. | 你拿走想要的东西，不留一丝痕迹。 |
+| `Trade at the grand market` | Trade at the grand market | 在大市场交易 |
+| `Every stall gives you its best price.` | Every stall gives you its best price. | 每个摊位都给你最优惠的价格。 |
+| `Forge at the great foundry` | Forge at the great foundry | 在大铸造厂锻造 |
+| `The foundry's masters stop to watch you work.` | The foundry's masters stop to watch you work. | 铸造厂的大师们停下来看你干活。 |
+| `Perform at the royal court` | Perform at the royal court | 在王宫演出 |
+| `The court stands for your last song.` | The court stands for your last song. | 整个宫廷起立聆听你的最后一首歌。 |
+| `Craft at the syndicate atelier` | Craft at the syndicate atelier | 在辛迪加工坊制作 |
+| `You craft a piece the atelier keeps on display.` | You craft a piece the atelier keeps on display. | 你做出了一件被工坊留作展品的作品。 |
+| `Forage the far wilds` | Forage the far wilds | 在遥远荒野采集 |
+| `The wilds give up their rarest growth to you.` | The wilds give up their rarest growth to you. | 荒野把它最稀有的产物交给了你。 |
+| `Run the long valley` | Run the long valley | 跑完长谷 |
+| `You run it end to end and keep your breath.` | You run it end to end and keep your breath. | 你从头跑到尾，气息平稳。 |
+| `The masters have one more test, at the edges of the world.` | The masters have one more test, at the edges of the world. | 大师们还有最后一项考验，就在世界的尽头。 |
+| `Meet the masters again` | Meet the masters again | 再次与大师们会面 |
+| `Forage the deep hollows` | Forage the deep hollows | 在幽深洼地采集 |
+| `You find growth down here no forager has named.` | You find growth down here no forager has named. | 你在这下面发现了没有采集者命名过的植物。 |
+| `Mine the high ledge` | Mine the high ledge | 在高处岩架采矿 |
+| `Ore from the ledge, brought down without a single slip.` | Ore from the ledge, brought down without a single slip. | 你从岩架上运下矿石，一步也没滑。 |
+| `Fish the eastern coast` | Fish the eastern coast | 在东海岸钓鱼 |
+| `You land a fish from water nobody fishes.` | You land a fish from water nobody fishes. | 你从无人垂钓的水域钓上一条鱼。 |
+| `Chart the ruined coast` | Chart the ruined coast | 绘制废墟海岸的地图 |
+| `Your chart corrects three maps the cartographers trusted.` | Your chart corrects three maps the cartographers trusted. | 你的海图纠正了制图师们信赖的三张地图。 |
+| `Charge essence at the arc` | Charge essence at the arc | 在灌注台充能精华 |
+| `The arc burns bright and steady in your hands.` | The arc burns bright and steady in your hands. | 灌注台在你手中燃烧得明亮而稳定。 |
+| `Cook a feast for the masters` | Cook a feast for the masters | 为大师们烹制一桌盛宴 |
+| `Fifteen masters, one table. Every plate comes back clean.` | Fifteen masters, one table. Every plate comes back clean. | 十五位大师，一张桌子。每个盘子都被吃得干干净净。 |
+| `Draw from the last obelisk` | Draw from the last obelisk | 从最后的方尖碑中汲取 |
+| `The obelisk at the end of the world answers you.` | The obelisk at the end of the world answers you. | 世界尽头的方尖碑回应了你。 |
+| `Play the eastern court` | Play the eastern court | 在东方宫廷演奏 |
+| `The court asks for the campfire songs. You play them all.` | The court asks for the campfire songs. You play them all. | 宫廷点名要听篝火旁的歌。你全部演奏了一遍。 |
+| `Brew the masters' remedy` | Brew the masters' remedy | 酿造大师们的药剂 |
+| `A remedy built from every plain herb you grew.` | A remedy built from every plain herb you grew. | 一剂用你种过的每一种朴素草药制成的药剂。 |
+| `Bargain with the pirate lords` | Bargain with the pirate lords | 与海盗领主们讨价还价 |
+| `The pirate lords pay you to leave.` | The pirate lords pay you to leave. | 海盗领主们付钱请你离开。 |
+| `Clear an Ancient Dungeon` | Clear an Ancient Dungeon | 通关一座远古地牢 |
+| `The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.'` | The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.' | 大师们在最古老的地牢等候。他们递给你第二颗球和一盏提灯。「现在你已无须再证明什么。」 |
+| `[Q1] Enchanted Rod` | [Q1] Enchanted Rod | [Q1] 附魔钓竿 |
+| `[Q1] Enchanted Pickaxe` | [Q1] Enchanted Pickaxe | [Q1] 附魔镐 |
+| `[Q1] Enchanted Sickle` | [Q1] Enchanted Sickle | [Q1] 附魔镰刀 |
+| `[Q1] Enchanted Conduit` | [Q1] Enchanted Conduit | [Q1] 附魔导灵管 |
+| `[Q1] Enchanted Trowel` | [Q1] Enchanted Trowel | [Q1] 附魔园艺铲 |
+| `[Q1] Enchanted Lockpick` | [Q1] Enchanted Lockpick | [Q1] 附魔撬锁器 |
+| `[Q1] Enchanted Instrument` | [Q1] Enchanted Instrument | [Q1] 附魔乐器 |
+| `[Q1] Enchanted Trainers` | [Q1] Enchanted Trainers | [Q1] 附魔运动鞋 |
+| `[Q1] Culling Knife` | [Q1] Culling Knife | [Q1] 猎杀小刀 |
+| `[Q1] Lucky Charm` | [Q1] Lucky Charm | [Q1] 幸运护身符 |
+| `[Q1] Enchanted Censer` | [Q1] Enchanted Censer | [Q1] 附魔香炉 |
+| `[Q1] Enchanted Skillet` | [Q1] Enchanted Skillet | [Q1] 附魔煎锅 |
+| `[Q1] Enchanted Hammer` | [Q1] Enchanted Hammer | [Q1] 附魔锻锤 |
+| `[Q1] Enchanted Chisel` | [Q1] Enchanted Chisel | [Q1] 附魔凿子 |
+| `[Q1] Enchanted Prism` | [Q1] Enchanted Prism | [Q1] 附魔棱镜 |
+| `[Q1] Enchanted Mortar` | [Q1] Enchanted Mortar | [Q1] 附魔研钵 |
+| `[Q1] Enchanted Scales` | [Q1] Enchanted Scales | [Q1] 附魔天平 |
+| `[Q1] Enchanted Lens` | [Q1] Enchanted Lens | [Q1] 附魔透镜 |
+| `[Q1] Enchanted Lantern` | [Q1] Enchanted Lantern | [Q1] 附魔提灯 |
+| `[Q1] Enchanted Pommel` | [Q1] Enchanted Pommel | [Q1] 附魔剑柄头 |
+| `[Q1] Enchanted Grip` | [Q1] Enchanted Grip | [Q1] 附魔握柄 |
+| `[Q1] Enchanted Notch` | [Q1] Enchanted Notch | [Q1] 附魔弦槽 |
+| `[Q1] Enchanted Bowstring` | [Q1] Enchanted Bowstring | [Q1] 附魔弓弦 |
+| `[Q1] Enchanted Orb` | [Q1] Enchanted Orb | [Q1] 附魔宝珠 |
+| `[Q1] Enchanted Catalyst` | [Q1] Enchanted Catalyst | [Q1] 附魔催化剂 |
+| `[Q1] Enchanted Spring` | [Q1] Enchanted Spring | [Q1] 附魔弹簧 |
+| `[Q1] Enchanted Shim` | [Q1] Enchanted Shim | [Q1] 附魔垫片 |
+| `[Q1] Enchanted Salve` | [Q1] Enchanted Salve | [Q1] 附魔药膏 |
+| `[Q1] Enchanted Relic` | [Q1] Enchanted Relic | [Q1] 附魔圣物 |
+| `[T1] Globe of Skills` | [T1] Globe of Skills | [T1] 技能之球 |
+| `[T2] Globe of Skills` | [T2] Globe of Skills | [T2] 技能之球 |
+| `[Q1] Enchanted Skull` | [Q1] Enchanted Skull | [Q1] 附魔头骨 |
+| `[Q1] Enchanted Fortification` | [Q1] Enchanted Fortification | [Q1] 附魔壁垒 |
+| `Earned by completing every quest. New quests re-lock it until they are done.` | Earned by completing every quest. New quests re-lock it until they are done. | 完成所有剧情任务后获得。推出新剧情任务后会重新锁定，直到将其完成。 |
+| `New quests have arrived. Complete them to earn your Quest Cape back.` | New quests have arrived. Complete them to earn your Quest Cape back. | 新的剧情任务已到来。完成它们，重新赢回你的剧情任务披风。 |
+| `Quest Cape Unlocked!` | Quest Cape Unlocked! | 剧情任务披风已解锁！ |
+| `Unlock Requirements` | Unlock Requirements | 解锁要求 |
+| `Q1` | Q1 | Q1 |
+| `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | 技能之球：+{0}%（+{1}步/秒） |
+| `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | 剧情任务披风：+{0}%（+{1}步/秒） |
+| `@crit_pct_globes` | Globes of Skills: {0}% | 技能之球：{0}% |
+| `@globes_count` | Globes of Skills {0}/{1} | 技能之球 {0}/{1} |
+| `@quest_cape_count` | Quest Cape {0}/{1} | 剧情任务披风 {0}/{1} |
+| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | 完成所有剧情任务期间，移动速度+{0}% |
+| `@all_skills_lv` | All Skills Lv {0} | 所有技能{0}级 |
+| `@b:auto_process` | +{0}% auto-process chance | 自动加工几率+{0}% |
+| `@b:auto_bank` | +{0}% auto-bank chance | 自动存入银行几率+{0}% |
+| `@b:min_hit` | +{0} min hit | 最低伤害+{0} |
+| `@b:max_hit` | +{0} max hit | 最高伤害+{0} |
+| `@b:quest_cape_held` | Held while every quest is completed | 完成所有剧情任务时持有 |
+| `Mastery: The Feeble Trial` | Mastery: The Feeble Trial | 精通：孱弱试炼 |
+| `The masters test anyone who has survived a dungeon. The first trial starts close to home.` | The masters test anyone who has survived a dungeon. The first trial starts close to home. | 大师们会考验每一个从地牢中活下来的人。第一场试炼就从家门口开始。 |
+| `Meet the masters at Fernstead` | Meet the masters at Fernstead | 在蕨庄与大师们会面 |
+| `A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.'` | A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.' | 一位身穿朴素外衣的大师在银行旁等候。「你已经见识过地牢里面的样子了。现在，让我们看看你能不能把小事做好。」 |
+| `Cook at the Fernstead hearth` | Cook at the Fernstead hearth | 在蕨庄灶台烹饪 |
+| `Simple bread, baked right. The master takes a bite and nods.` | Simple bread, baked right. The master takes a bite and nods. | 简单的面包，烤得恰到好处。大师咬了一口，点了点头。 |
+| `Haggle at the stalls` | Haggle at the stalls | 在摊位讨价还价 |
+| `You walk away with a fair price and a new friend.` | You walk away with a fair price and a new friend. | 你谈下了公道的价钱，还交了个新朋友。 |
+| `Tend the Fernstead field` | Tend the Fernstead field | 照料蕨庄田地 |
+| `Straight rows and no weeds. The farmer asks who taught you.` | Straight rows and no weeds. The farmer asks who taught you. | 垄沟笔直，不见杂草。农夫问你是跟谁学的。 |
+| `Forage the thicket` | Forage the thicket | 在灌木丛采集 |
+| `You come out with a full basket and not one scratch.` | You come out with a full basket and not one scratch. | 你挎着满满一篮走出来，身上一道划痕都没有。 |
+| `Survey the Woodgap hills` | Survey the Woodgap hills | 勘测木隘丘陵 |
+| `Your notes fill the gaps on the old survey map.` | Your notes fill the gaps on the old survey map. | 你的笔记填补了旧勘测图上的空白。 |
+| `Work the Ironice smithy` | Work the Ironice smithy | 在铁冰锻造铺干活 |
+| `A plain blade, balanced and sharp. The smith hangs it on the wall.` | A plain blade, balanced and sharp. The smith hangs it on the wall. | 一把朴素的刀，平衡而锋利。铁匠把它挂上了墙。 |
+| `Cut stone at the quarry` | Cut stone at the quarry | 在采石场切石 |
+| `Clean blocks, cut square. The quarry boss has no complaints.` | Clean blocks, cut square. The quarry boss has no complaints. | 石块干净，切得方方正正。采石场工头挑不出毛病。 |
+| `Play at the Splitstone campfire` | Play at the Splitstone campfire | 在裂石营火旁演奏 |
+| `Travelers stop to listen. One of them is a master.` | Travelers stop to listen. One of them is a master. | 旅人们驻足聆听。其中一位就是大师。 |
+| `Work the Pinegap alley` | Work the Pinegap alley | 在松隘巷行事 |
+| `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | 你摸走一个钱袋，又在失主察觉前还了回去。大师哈哈大笑。 |
+| `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | 从松隘水晶中汲取 |
+| `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | 水晶嗡嗡作响，精华纯净地流了出来。 |
+| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | 大师们在地牢入口等候。「开了个好头。下一场试炼在更远的地方。」 |
+| `Mastery: The Dire Trial` | Mastery: The Dire Trial | 精通：凶险试炼 |
+| `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | 第二场试炼将带你前往寒冷的西方，那里的大师们更加勤勉。 |
+| `Meet the masters at Timberchill` | Meet the masters at Timberchill | 在木寒与大师们会面 |
+| `'The first trial was easy on purpose. This one is not.'` | 'The first trial was easy on purpose. This one is not.' | 「第一场试炼是故意出得简单的。这一场可不是。」 |
+| `Join the Timberchill expedition` | Join the Timberchill expedition | 加入木寒远征队 |
+| `You lead the expedition home with a full map and every pack mule.` | You lead the expedition home with a full map and every pack mule. | 你领着远征队回到家，地图画得完完整整，驮骡一头不少。 |
+| `Cook in the Icemast kitchen` | Cook in the Icemast kitchen | 在冰桅厨房烹饪 |
+| `Hot stew for a cold crew. Everyone asks for seconds.` | Hot stew for a cold crew. Everyone asks for seconds. | 一锅热炖菜，暖了一队冻僵的人。人人都要再来一碗。 |
+| `Fish the frozen lake` | Fish the frozen lake | 在冰封的湖上钓鱼 |
+| `You cut a hole in the ice and fill a bucket before noon.` | You cut a hole in the ice and fill a bucket before noon. | 你在冰上凿了个洞，不到中午就钓满了一桶。 |
+| `Forge at the Battlefrost smithy` | Forge at the Battlefrost smithy | 在战霜锻造铺锻造 |
+| `Armor for the frontier guard, every plate fitted.` | Armor for the frontier guard, every plate fitted. | 为边境守卫打造的盔甲，每一片甲板都严丝合缝。 |
+| `Brew for the Battlefrost garrison` | Brew for the Battlefrost garrison | 为战霜驻军酿酒 |
+| `A strong ale for a long winter. The garrison approves.` | A strong ale for a long winter. The garrison approves. | 为漫长冬日酿的烈性麦酒。驻军很满意。 |
+| `Play the Battlefrost tavern` | Play the Battlefrost tavern | 在战霜酒馆演奏 |
+| `A tavern full of soldiers sings along.` | A tavern full of soldiers sings along. | 满酒馆的士兵跟着一起唱。 |
+| `Draw from the Windhollow rift` | Draw from the Windhollow rift | 从风谷裂隙中汲取 |
+| `The rift pulls back. You pull harder.` | The rift pulls back. You pull harder. | 裂隙往回拽。你拽得更用力。 |
+| `Charge the Windhollow conduit` | Charge the Windhollow conduit | 为风谷导灵台充能 |
+| `The conduit glows steady for the first time in years.` | The conduit glows steady for the first time in years. | 导灵台多年来第一次稳定地发光。 |
+| `Tend the Windhollow greenhouse` | Tend the Windhollow greenhouse | 照料风谷温室 |
+| `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | 隆冬时节，满眼绿叶。 |
+| `Mine the Icevein seams` | Mine the Icevein seams | 在冰脉矿场开采矿脉 |
+| `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | 你找到了矿工们早已放弃的那条矿脉。 |
+| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 「你在严寒中挺住了。接下来，大师们想看看你在压力之下的表现。」 |
+| `Mastery: The Savage Trial` | Mastery: The Savage Trial | 精通：野蛮试炼 |
+| `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | 第三场试炼穿过繁忙的南方，那里的每一门手艺都有大师盯着。 |
+| `Meet the masters at Shortha` | Meet the masters at Shortha | 在短哈与大师们会面 |
+| `'The south is loud and crowded. Do your best work anyway.'` | 'The south is loud and crowded. Do your best work anyway.' | 「南方又吵又挤。不管怎样，拿出你最好的手艺。」 |
+| `Build at the Shortha workshop` | Build at the Shortha workshop | 在短哈工坊打造 |
+| `A cabinet with no gaps and no nails. The carpenter wants to buy it.` | A cabinet with no gaps and no nails. The carpenter wants to buy it. | 一个没有缝隙、不用一根钉子的柜子。木匠想把它买下来。 |
+| `Perform at the Shortha theatre` | Perform at the Shortha theatre | 在短哈剧院演出 |
+| `The crowd stays on its feet until the lamps go out.` | The crowd stays on its feet until the lamps go out. | 观众一直站着，直到灯火熄灭。 |
+| `Draw from the Shortha rift` | Draw from the Shortha rift | 从短哈裂隙中汲取 |
+| `The rift spits sparks. You take what you need.` | The rift spits sparks. You take what you need. | 裂隙迸出火花。你取走了所需的分量。 |
+| `Pull the Shortha heist` | Pull the Shortha heist | 完成短哈劫案 |
+| `In and out without a sound. The master checks the lock twice.` | In and out without a sound. The master checks the lock twice. | 来去无声。大师把锁检查了两遍。 |
+| `Run the Shortha kitchen` | Run the Shortha kitchen | 掌管短哈厨房 |
+| `Two hundred plates in one night. None come back.` | Two hundred plates in one night. None come back. | 一夜两百盘菜，没有一盘被退回。 |
+| `Forage the Gilshore grove` | Forage the Gilshore grove | 在鎏岸树丛采集 |
+| `You find the herbs the grove keeper hides from buyers.` | You find the herbs the grove keeper hides from buyers. | 你找到了树丛看守人藏着不卖给买家的草药。 |
+| `Fish off the Gilshore coast` | Fish off the Gilshore coast | 在鎏岸近海钓鱼 |
+| `A heavy net, hauled in alone.` | A heavy net, hauled in alone. | 一张沉甸甸的网，独自拉了上来。 |
+| `Charge the Farmhold conduit` | Charge the Farmhold conduit | 为农堡导灵台充能 |
+| `The conduit takes a full charge and holds it.` | The conduit takes a full charge and holds it. | 导灵台充满了能量，并稳稳保持住了。 |
+| `Run the Farmhold valley` | Run the Farmhold valley | 跑完农堡山谷 |
+| `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | 你特意把山谷跑了两遍，只为证明自己。 |
+| `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | 在河望铸造厂浇铸 |
+| `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | 浇铸干净利落，没有一个气泡。铸造厂的工人们鼓起掌来。 |
+| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 「很好。那两颗球，就放在最后两场试炼里。」 |
+| `Mastery: The Fell Trial` | Mastery: The Fell Trial | 精通：残暴试炼 |
+| `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | 第四场试炼会把你送往这片土地上最好的工作场所。 |
+| `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | 大师们挤满了银行。「三场试炼已经完成。现在，让我们看看这片土地上最精湛的手艺。」 |
+| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | 大师们在地牢入口等候。他们递给你一颗玻璃球。「第一之球。它承载着迄今为止的每一场试炼。」 |
+| `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | 精通：远古试炼 |
+| `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 「第一之球是为这些试炼。第二颗，是为那些无人教过你的东西。」 |
+| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | 由残暴试炼与远古试炼奖励。两者效果可叠加。 |

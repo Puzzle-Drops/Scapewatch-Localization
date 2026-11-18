@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardi |
 | Discover | Tutki |
 
-## Lines to review (799)
+## Lines to review (1355)
 
 | Key | English | Current |
 |---|---|---|
@@ -869,3 +869,559 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tint` | Tint | Sävytys |
 | `No tint` | No tint | Ei sävytystä |
 | `Pick any colour for the wings` | Pick any colour for the wings | Valitse siiville mikä tahansa väri |
+| `Mastery: Life and Spirit` | Mastery: Life and Spirit | Mestaruus: Elämä ja Henki |
+| `An old healer wants proof you still remember how to endure.` | An old healer wants proof you still remember how to endure. | Vanha parantaja haluaa todisteen siitä, että muistat yhä, miten kestetään. |
+| `Meet the old healer` | Meet the old healer | Tapaa vanha parantaja |
+| `She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.'` | She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.' | Hän tunnustelee pulssiasi ennen kuin tervehtii. 'Vahva. Mutta voima ei ole se, mitä tulit oppimaan. Kävele takaisin sinne, missä opit ensimmäisen kerran kestämään.' |
+| `Rest by the old campfire` | Rest by the old campfire | Lepää vanhan nuotion äärellä |
+| `You sit until the fire burns low. The healer nods when you stand without stiffness.` | You sit until the fire burns low. The healer nods when you stand without stiffness. | Istut, kunnes tuli hiipuu. Parantaja nyökkää, kun nouset ilman jäykkyyttä. |
+| `Share a plain meal` | Share a plain meal | Jaa yksinkertainen ateria |
+| `Bread, broth, nothing more. 'You forgot how little a body needs,' she says.` | Bread, broth, nothing more. 'You forgot how little a body needs,' she says. | Leipää, lientä, ei muuta. 'Unohdit, kuinka vähän keho tarvitsee', hän sanoo. |
+| `Outlast a feeble slime` | Outlast a feeble slime | Väsytä raihnainen lima |
+| `It barely scratches you. You let it tire itself out before you finish it.` | It barely scratches you. You let it tire itself out before you finish it. | Se tuskin naarmuttaa sinua. Annat sen väsyttää itsensä ennen kuin teet siitä lopun. |
+| `Calm your breathing by the fire` | Calm your breathing by the fire | Rauhoita hengityksesi tulen äärellä |
+| `You count your breaths until the count stops mattering. Your spirit settles.` | You count your breaths until the count stops mattering. Your spirit settles. | Lasket hengenvetojasi, kunnes laskemisella ei ole enää väliä. Henkesi tyyntyy. |
+| `Eat with the road crews` | Eat with the road crews | Syö tietyöläisten kanssa |
+| `The crews talk about blisters and sore backs. You listen more than you speak.` | The crews talk about blisters and sore backs. You listen more than you speak. | Työläiset puhuvat rakoista ja kipeistä selistä. Kuuntelet enemmän kuin puhut. |
+| `Take the ember slime calmly` | Take the ember slime calmly | Kohtaa hiilloslima rauhallisesti |
+| `You let the heat wash past you and keep your footing.` | You let the heat wash past you and keep your footing. | Annat kuumuuden pyyhkäistä ohitsesi ja pysyt jaloillasi. |
+| `Clear a Feeble Dungeon` | Clear a Feeble Dungeon | Raivaa Raihnainen tyrmä |
+| `The first dungeon feels small now. You walk it slowly, watching every step.` | The first dungeon feels small now. You walk it slowly, watching every step. | Ensimmäinen tyrmä tuntuu nyt pieneltä. Kuljet sen läpi hitaasti ja tarkkailet jokaista askelta. |
+| `Report your progress` | Report your progress | Raportoi edistymisestäsi |
+| `The healer's runner takes your notes. 'She says you are nearly there.'` | The healer's runner takes your notes. 'She says you are nearly there.' | Parantajan juoksupoika ottaa muistiinpanosi. 'Hän sanoo, että olet melkein perillä.' |
+| `Cook for a tired party` | Cook for a tired party | Laita ruokaa väsyneelle seurueelle |
+| `You feed a party back from the deep. One of them falls asleep mid bite.` | You feed a party back from the deep. One of them falls asleep mid bite. | Ruokit syvyyksistä palanneen seurueen. Yksi heistä nukahtaa kesken suupalan. |
+| `Clear a Dire Dungeon` | Clear a Dire Dungeon | Raivaa Turmainen tyrmä |
+| `You come out of the Dire Dungeon with nothing worse than a bruise.` | You come out of the Dire Dungeon with nothing worse than a bruise. | Selviät Turmaisesta tyrmästä pelkällä mustelmalla. |
+| `Stand firm against a fell demon` | Stand firm against a fell demon | Pidä pintasi julmaa demonia vastaan |
+| `The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.'` | The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.' | Demoni lyö kovaa, etkä kaadu. Parantaja löytää sinut jälkeenpäin. 'Voide ja reliikki. Ansaittu, ei annettu.' |
+| `Mastery: Strike and Heft` | Mastery: Strike and Heft | Mestaruus: Isku ja Voima |
+| `A retired sergeant wants to see your first drills done properly again.` | A retired sergeant wants to see your first drills done properly again. | Eläkkeellä oleva kersantti haluaa nähdä ensimmäiset harjoituksesi taas kunnolla tehtyinä. |
+| `Report to the old sergeant` | Report to the old sergeant | Ilmoittaudu vanhalle kersantille |
+| `'Eighty years of swinging and you still lead with your shoulder? Back to the drills.'` | 'Eighty years of swinging and you still lead with your shoulder? Back to the drills.' | 'Kahdeksankymmentä vuotta huitomista, ja johdat yhä olkapäällä? Takaisin harjoituksiin.' |
+| `Cut a practice staff` | Cut a practice staff | Veistä harjoitussauva |
+| `You trim an ash branch to length. It is lighter than anything you carry now.` | You trim an ash branch to length. It is lighter than anything you carry now. | Lyhennät saarnin oksan sopivan mittaiseksi. Se on kevyempi kuin mikään, mitä nyt kannat. |
+| `Spar with a feeble goblin` | Spar with a feeble goblin | Ottele raihnaisen hiiden kanssa |
+| `You win with the staff alone. The sergeant grunts something like approval.` | You win with the staff alone. The sergeant grunts something like approval. | Voitat pelkällä sauvalla. Kersantti murahtaa jotain hyväksynnän tapaista. |
+| `Run the training trail` | Run the training trail | Juokse harjoituspolku |
+| `Three laps, then three more. Your footwork comes back on the last one.` | Three laps, then three more. Your footwork comes back on the last one. | Kolme kierrosta, sitten kolme lisää. Jalkatyösi palaa viimeisellä kierroksella. |
+| `Beat a dire goblin cleanly` | Beat a dire goblin cleanly | Päihitä turmainen hiisi puhtaasti |
+| `No wasted swings. The sergeant counts them on his fingers.` | No wasted swings. The sergeant counts them on his fingers. | Ei hukattuja lyöntejä. Kersantti laskee ne sormillaan. |
+| `Eat with the garrison` | Eat with the garrison | Syö varuskunnan kanssa |
+| `The garrison cook remembers the sergeant. 'He still shouts at everyone?'` | The garrison cook remembers the sergeant. 'He still shouts at everyone?' | Varuskunnan kokki muistaa kersantin. 'Huutaako hän yhä kaikille?' |
+| `Send word to the sergeant` | Send word to the sergeant | Lähetä sana kersantille |
+| `You send a short note: two goblins down, footwork fixed.` | You send a short note: two goblins down, footwork fixed. | Lähetät lyhyen viestin: kaksi hiittä kaadettu, jalkatyö korjattu. |
+| `Break a feeble skeleton` | Break a feeble skeleton | Murskaa raihnainen luuranko |
+| `Bone gives way under a clean blow. Heft without strike is noise, he always said.` | Bone gives way under a clean blow. Heft without strike is noise, he always said. | Luu antaa periksi puhtaan iskun alla. Voima ilman iskua on pelkkää melua, hän sanoi aina. |
+| `You clear it with the same drills you learned there.` | You clear it with the same drills you learned there. | Raivaat sen samoilla harjoituksilla, jotka opit siellä. |
+| `Your party moves when you move. Good habits spread.` | Your party moves when you move. Good habits spread. | Seurueesi liikkuu, kun sinä liikut. Hyvät tavat tarttuvat. |
+| `Have your blade reforged` | Have your blade reforged | Vie teräsi uudelleen taottavaksi |
+| `The smith grinds out years of nicks. It swings true again.` | The smith grinds out years of nicks. It swings true again. | Seppä hioo pois vuosien lovet. Se heilahtaa taas suoraan. |
+| `Fell an orc with clean blows` | Fell an orc with clean blows | Kaada örkki puhtain iskuin |
+| `The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.'` | The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.' | Örkki kaatuu kolmella iskulla. Kersantti ojentaa sinulle nupin ja kahvan. 'Nyt olet valmis.' |
+| `Mastery: Sight and Draw` | Mastery: Sight and Draw | Mestaruus: Tähtäys ja Jännitä |
+| `A hunter in the north asks you to shoot like a beginner again.` | A hunter in the north asks you to shoot like a beginner again. | Pohjoisen metsästäjä pyytää sinua ampumaan taas kuin aloittelija. |
+| `Meet the northern hunter` | Meet the northern hunter | Tapaa pohjoisen metsästäjä |
+| `'You aim like someone who expects to hit. Good archers expect to miss. Come.'` | 'You aim like someone who expects to hit. Good archers expect to miss. Come.' | 'Tähtäät kuin joku, joka odottaa osuvansa. Hyvät jousiampujat odottavat ohilaukausta. Tule.' |
+| `Fletch a plain practice bow` | Fletch a plain practice bow | Tee yksinkertainen harjoitusjousi |
+| `No runes, no gems. Just yew and string.` | No runes, no gems. Just yew and string. | Ei riimuja, ei jalokiviä. Vain marjakuusta ja jännettä. |
+| `Scout the hills for targets` | Scout the hills for targets | Etsi maaleja kukkuloilta |
+| `You mark three trees and a stump at different ranges.` | You mark three trees and a stump at different ranges. | Merkitset kolme puuta ja kannon eri etäisyyksillä. |
+| `Take down a dire gnoll` | Take down a dire gnoll | Kaada turmainen gnolli |
+| `One arrow, placed where the hunter pointed. 'Better.'` | One arrow, placed where the hunter pointed. 'Better.' | Yksi nuoli, juuri sinne, minne metsästäjä osoitti. 'Parempi.' |
+| `Cut fresh arrow shafts` | Cut fresh arrow shafts | Veistä uusia nuolenvarsia |
+| `You pick straight stems and trim them by eye.` | You pick straight stems and trim them by eye. | Valitset suoria varsia ja leikkaat ne silmämääräisesti. |
+| `Run the range drills` | Run the range drills | Tee ampumaradan harjoitukset |
+| `Shoot, move, shoot. Your breath and your release line up again.` | Shoot, move, shoot. Your breath and your release line up again. | Ammu, liiku, ammu. Hengityksesi ja laukaisusi osuvat taas tahtiin. |
+| `Hit a golem at the joints` | Hit a golem at the joints | Osu golemin niveliin |
+| `Stone is hard, joints are not. The golem folds.` | Stone is hard, joints are not. The golem folds. | Kivi on kovaa, nivelet eivät. Golem lysähtää kasaan. |
+| `You call targets for the whole party. Nobody wastes a shot.` | You call targets for the whole party. Nobody wastes a shot. | Huudat maalit koko seurueelle. Kukaan ei tuhlaa laukaustakaan. |
+| `Eat with the hunters` | Eat with the hunters | Syö metsästäjien kanssa |
+| `The hunters argue about wind. You agree with all of them.` | The hunters argue about wind. You agree with all of them. | Metsästäjät kiistelevät tuulesta. Olet samaa mieltä kaikkien kanssa. |
+| `Bank your spare arrows` | Bank your spare arrows | Vie ylimääräiset nuolesi pankkiin |
+| `You store the spares. Travelling light is half the craft.` | You store the spares. Travelling light is half the craft. | Talletat ylimääräiset. Kevyesti matkustaminen on puolet taidosta. |
+| `You shoot from the back row and never lose sight of the front.` | You shoot from the back row and never lose sight of the front. | Ammut takarivistä etkä koskaan kadota etulinjaa näkyvistäsi. |
+| `Bring down a fell gnoll` | Bring down a fell gnoll | Kaada julma gnolli |
+| `Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.'` | Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.' | Kaksi laukausta, molemmat puhtaita. Metsästäjä ojentaa sinulle loven ja jousenjänteen. 'Pidä nämä. Ammu ohi yhä harvemmin.' |
+| `Mastery: Focus and Surge` | Mastery: Focus and Surge | Mestaruus: Keskittyminen ja Purkaus |
+| `An eastern mage wants your first spells cast without force or fuss.` | An eastern mage wants your first spells cast without force or fuss. | Idän maagi haluaa nähdä ensimmäiset loitsusi ilman väkinäisyyttä ja hälyä. |
+| `Meet the eastern mage` | Meet the eastern mage | Tapaa idän maagi |
+| `'You push power like a mule pushes a cart. Let us start again, smaller.'` | 'You push power like a mule pushes a cart. Let us start again, smaller.' | 'Työnnät voimaa kuin muuli työntää kärryä. Aloitetaan alusta, pienemmin.' |
+| `Draw from a small fragment` | Draw from a small fragment | Ammenna pienestä sirpaleesta |
+| `The essence is faint. You have to listen for it.` | The essence is faint. You have to listen for it. | Essenssi on heikko. Sinun täytyy kuunnella sitä tarkasti. |
+| `Charge a single dim essence` | Charge a single dim essence | Lataa yksi himmeä essenssi |
+| `You charge it slowly. It holds better than anything you rushed.` | You charge it slowly. It holds better than anything you rushed. | Lataat sen hitaasti. Se kestää paremmin kuin mikään, minkä teit kiireellä. |
+| `Banish a feeble imp` | Banish a feeble imp | Karkota raihnainen pikkupiru |
+| `A small spell, aimed well. The imp is gone before it can grin.` | A small spell, aimed well. The imp is gone before it can grin. | Pieni loitsu, hyvin suunnattu. Pikkupiru on poissa ennen kuin ehtii virnistää. |
+| `Read the runes in the ashes` | Read the runes in the ashes | Lue riimut tuhkasta |
+| `Old travellers left warding marks here. You copy them out.` | Old travellers left warding marks here. You copy them out. | Vanhan ajan matkalaiset jättivät tänne suojamerkkejä. Kopioit ne. |
+| `Tend a small herb plot` | Tend a small herb plot | Hoida pientä yrttimaata |
+| `The mage wants patience practised. You weed until your mind goes quiet.` | The mage wants patience practised. You weed until your mind goes quiet. | Maagi haluaa sinun harjoittelevan kärsivällisyyttä. Kitket, kunnes mielesi hiljenee. |
+| `Unmake a dire lich` | Unmake a dire lich | Hävitä turmainen kalmanvelho |
+| `You break its ward with the marks from the ashes.` | You break its ward with the marks from the ashes. | Murrat sen suojauksen tuhkan merkeillä. |
+| `You cast half as often and hit twice as hard.` | You cast half as often and hit twice as hard. | Loitsit puolet harvemmin ja osut kaksi kertaa kovempaa. |
+| `Inscribe a beginner sigil` | Inscribe a beginner sigil | Piirrä aloittelijan sinetti |
+| `Simple lines, clean joins. The mage keeps it as a sample.` | Simple lines, clean joins. The mage keeps it as a sample. | Yksinkertaiset viivat, siistit liitokset. Maagi säilyttää sen mallikappaleena. |
+| `Send your notes east` | Send your notes east | Lähetä muistiinpanosi itään |
+| `Your notes on the lich go back to the mage by courier.` | Your notes on the lich go back to the mage by courier. | Muistiinpanosi kalmanvelhosta kulkevat kuriirin mukana takaisin maagille. |
+| `Your spells land on rhythm. The party fights to your timing.` | Your spells land on rhythm. The party fights to your timing. | Loitsusi osuvat rytmissä. Seurue taistelee sinun tahdissasi. |
+| `Dispel a fell demon` | Dispel a fell demon | Hälvennä julma demoni |
+| `One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.'` | One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.' | Yksi keskittynyt purkaus, ja demoni hajoaa. Maagi antaa sinulle pallon ja katalyytin. 'Pienet loitsut, suuret tulokset.' |
+| `Mastery: Dodge and Defend` | Mastery: Dodge and Defend | Mestaruus: Väistö ja Puolusta |
+| `A shieldwright wants you to relearn when to block and when to move.` | A shieldwright wants you to relearn when to block and when to move. | Kilpiseppä haluaa sinun oppivan uudelleen, milloin torjua ja milloin liikkua. |
+| `Meet the shieldwright` | Meet the shieldwright | Tapaa kilpiseppä |
+| `'You block everything. Some things you should just not be standing in front of.'` | 'You block everything. Some things you should just not be standing in front of.' | 'Torjut kaiken. Joidenkin asioiden edessä ei pitäisi edes seistä.' |
+| `Hammer out a practice shield` | Hammer out a practice shield | Tao harjoituskilpi |
+| `Plain iron, a little too heavy. That is the point, she says.` | Plain iron, a little too heavy. That is the point, she says. | Tavallista rautaa, vähän liian painava. Siinä koko juju, hän sanoo. |
+| `Dodge a feeble rat` | Dodge a feeble rat | Väistele raihnaista rottaa |
+| `You step aside until it tires. You do not raise the shield once.` | You step aside until it tires. You do not raise the shield once. | Astut sivuun, kunnes se väsyy. Et nosta kilpeä kertaakaan. |
+| `Weave through the crowded alley` | Weave through the crowded alley | Pujottele ruuhkaisen kujan läpi |
+| `Market day. You cross the alley without touching anyone.` | Market day. You cross the alley without touching anyone. | Markkinapäivä. Ylität kujan koskematta kehenkään. |
+| `Block a feeble treant` | Block a feeble treant | Torju raihnaisen puujätin iskut |
+| `Its branches thud off the shield. You keep your feet planted.` | Its branches thud off the shield. You keep your feet planted. | Sen oksat tömähtävät kilpeen. Pidät jalkasi tukevasti maassa. |
+| `Hold against a dire treant` | Hold against a dire treant | Kestä turmaisen puujätin hyökkäys |
+| `Block, step, block. You stop thinking about which comes next.` | Block, step, block. You stop thinking about which comes next. | Torju, astu, torju. Lakkaat miettimästä, kumpi tulee seuraavaksi. |
+| `You take every hit meant for the party and none meant for you.` | You take every hit meant for the party and none meant for you. | Otat vastaan jokaisen seurueelle tarkoitetun iskun etkä yhtään itsellesi tarkoitettua. |
+| `Gather bark for shield padding` | Gather bark for shield padding | Kerää kaarnaa kilven pehmusteeksi |
+| `Soft bark, layered thick. Your arm will thank you.` | Soft bark, layered thick. Your arm will thank you. | Pehmeää kaarnaa paksuina kerroksina. Käsivartesi kiittää sinua. |
+| `Send the shieldwright word` | Send the shieldwright word | Lähetä sana kilpisepälle |
+| `You report the treant fights. She replies with a single word: 'Again.'` | You report the treant fights. She replies with a single word: 'Again.' | Raportoit puujättitaisteluista. Hän vastaa yhdellä sanalla: 'Uudestaan.' |
+| `You read every swing before it comes.` | You read every swing before it comes. | Luet jokaisen lyönnin ennen kuin se tulee. |
+| `Reinforce the shield rim` | Reinforce the shield rim | Vahvista kilven reunaa |
+| `The smith adds a band of steel to the rim. It feels finished now.` | The smith adds a band of steel to the rim. It feels finished now. | Seppä lisää reunaan teräsvanteen. Nyt se tuntuu valmiilta. |
+| `Outlast a fell orc` | Outlast a fell orc | Väsytä julma örkki |
+| `It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim.` | It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim. | Se huitoo, kunnes tuskin pysyy pystyssä. Sinä et lakannut liikkumasta hetkeksikään. Kilpiseppä ojentaa sinulle vieterin ja välilevyn. |
+| `Mastery: Fish and Cook` | Mastery: Fish and Cook | Mestaruus: Kalasta ja Ruoanlaitto |
+| `A fishwife who fed half the coast wants your first catch cooked right.` | A fishwife who fed half the coast wants your first catch cooked right. | Kalaeukko, joka ruokki puolta rannikkoa, haluaa ensimmäisen saaliisi kypsennettynä oikein. |
+| `Meet the old fishwife` | Meet the old fishwife | Tapaa vanha kalaeukko |
+| `'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.'` | 'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.' | 'Isoja kaloja, hienoja pannuja. Milloin viimeksi kypsensit katkaravun kunnolla? Mene ja ota selvää.' |
+| `Cook over an open spit` | Cook over an open spit | Kokkaa vartaassa avotulella |
+| `No kitchen, no spices. You keep the fire low and the fish whole.` | No kitchen, no spices. You keep the fire low and the fish whole. | Ei keittiötä, ei mausteita. Pidät tulen matalana ja kalan kokonaisena. |
+| `Fish the shallow pool` | Fish the shallow pool | Kalasta matalassa lammessa |
+| `You catch a shrimp and remember the first one you ever landed.` | You catch a shrimp and remember the first one you ever landed. | Saat katkaravun ja muistat ensimmäisen, jonka koskaan sait. |
+| `Fish a quiet stream` | Fish a quiet stream | Kalasta hiljaisessa purossa |
+| `The stream is slow and so are you. You stop rushing the line.` | The stream is slow and so are you. You stop rushing the line. | Puro on hidas, ja niin olet sinäkin. Lakkaat hoputtamasta siimaa. |
+| `Grill your catch plainly` | Grill your catch plainly | Grillaa saaliisi yksinkertaisesti |
+| `Salt and smoke. The fishwife would approve.` | Salt and smoke. The fishwife would approve. | Suolaa ja savua. Kalaeukko hyväksyisi. |
+| `Try the far pool` | Try the far pool | Kokeile kaukaista lampea |
+| `A perch bites on the third cast. You let it run before you reel.` | A perch bites on the third cast. You let it run before you reel. | Ahven tarttuu kolmannella heitolla. Annat sen juosta ennen kuin kelaat sisään. |
+| `Fish the cold stream` | Fish the cold stream | Kalasta kylmässä purossa |
+| `Cold hands, quick fish. You learn to strike faster.` | Cold hands, quick fish. You learn to strike faster. | Kylmät kädet, nopea kala. Opit tekemään vastaiskun nopeammin. |
+| `Cook at a mountain hearth` | Cook at a mountain hearth | Kokkaa vuoristoliedellä |
+| `The hearth cook shows you how to keep fish from drying out.` | The hearth cook shows you how to keep fish from drying out. | Lieden kokki näyttää, miten kala ei pääse kuivumaan. |
+| `Feed the mill workers` | Feed the mill workers | Ruoki myllyn työläiset |
+| `You cook for a crew of twenty. Nothing comes back burned.` | You cook for a crew of twenty. Nothing comes back burned. | Kokkaat kahdenkymmenen hengen porukalle. Mikään ei tule takaisin palaneena. |
+| `Cook on the tidefield spit` | Cook on the tidefield spit | Kokkaa vuorovesiniityn vartaassa |
+| `The fishwife's cousin tastes your work and sends word up the coast.` | The fishwife's cousin tastes your work and sends word up the coast. | Kalaeukon serkku maistaa ruokaasi ja lähettää sanaa rannikkoa pitkin. |
+| `Cook one perfect fillet` | Cook one perfect fillet | Kypsennä yksi täydellinen filee |
+| `One fillet, cooked through, still soft. You eat it yourself.` | One fillet, cooked through, still soft. You eat it yourself. | Yksi filee, kypsä läpikotaisin mutta yhä mehevä. Syöt sen itse. |
+| `Land a catch at the seaside` | Land a catch at the seaside | Nosta saalis merenrannalla |
+| `The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.'` | The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.' | Syvänmeren kalat taistelevat kovaa, ja sinä vedät ne ylös. Kalaeukko lähettää vavan ja paistinpannun. 'Nyt olet kalastaja ja kokki.' |
+| `Mastery: Mine and Smith` | Mastery: Mine and Smith | Mestaruus: Louhinta ja Takominen |
+| `A forge master wants proof you still respect plain copper and tin.` | A forge master wants proof you still respect plain copper and tin. | Pajamestari haluaa todisteen siitä, että kunnioitat yhä tavallista kuparia ja tinaa. |
+| `Meet the forge master` | Meet the forge master | Tapaa pajamestari |
+| `'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.'` | 'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.' | 'Kosket nykyään vain harvinaiseen malmiin. Kupari rakensi tämän maan jokaisen salin. Mene ja ansaitse se uudelleen.' |
+| `Work a copper bar` | Work a copper bar | Työstä kupariharkko |
+| `You fold the bar slowly. It rings clean.` | You fold the bar slowly. It rings clean. | Taitat harkon hitaasti. Se soi kirkkaasti. |
+| `Mine at the old quarry` | Mine at the old quarry | Louhi vanhalla louhoksella |
+| `Copper and tin, by hand. Your swing settles into an old rhythm.` | Copper and tin, by hand. Your swing settles into an old rhythm. | Kuparia ja tinaa, käsin. Heilautuksesi asettuu vanhaan rytmiin. |
+| `Smelt your first batch` | Smelt your first batch | Sulata ensimmäinen eräsi |
+| `You keep the heat even. No slag, no cracks.` | You keep the heat even. No slag, no cracks. | Pidät kuumuuden tasaisena. Ei kuonaa, ei halkeamia. |
+| `Follow a shallow vein` | Follow a shallow vein | Seuraa matalaa suonta |
+| `The vein is thin but honest. You take only what it gives.` | The vein is thin but honest. You take only what it gives. | Suoni on ohut mutta rehellinen. Otat vain sen, minkä se antaa. |
+| `Quarry stone and ore` | Quarry stone and ore | Louhi kiveä ja malmia |
+| `Wind cuts through the quarry. You work until the cart is full.` | Wind cuts through the quarry. You work until the cart is full. | Tuuli viiltää louhoksen läpi. Teet töitä, kunnes kärry on täynnä. |
+| `Chip out the iron seam` | Chip out the iron seam | Hakkaa rautasuoni irti |
+| `The iron comes loose in good clean chunks.` | The iron comes loose in good clean chunks. | Rauta irtoaa hyvinä, puhtaina paloina. |
+| `Forge a plain nail` | Forge a plain nail | Tao yksinkertainen naula |
+| `A nail is the hardest thing to forge well, the forge master said.` | A nail is the hardest thing to forge well, the forge master said. | Naulan takominen hyvin on kaikkein vaikeinta, pajamestari sanoi. |
+| `Mine beside the old camp` | Mine beside the old camp | Louhi vanhan leirin vieressä |
+| `Old miners left their marks here. You add yours under theirs.` | Old miners left their marks here. You add yours under theirs. | Vanhat kaivosmiehet jättivät tänne merkkinsä. Lisäät omasi heidän merkkiensä alle. |
+| `Temper a beginner blade` | Temper a beginner blade | Karkaise aloittelijan terä |
+| `You quench it once and it holds an edge.` | You quench it once and it holds an edge. | Sammutat sen kerran, ja se pysyy terävänä. |
+| `Load a cart of ore` | Load a cart of ore | Lastaa kärryllinen malmia |
+| `You load and haul. Your back remembers its first summer here.` | You load and haul. Your back remembers its first summer here. | Lastaat ja kuljetat. Selkäsi muistaa ensimmäisen kesänsä täällä. |
+| `Mine the deepest shaft` | Mine the deepest shaft | Louhi syvimmässä kuilussa |
+| `You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.'` | You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.' | Tuot malmia syvyyksistä ilman naarmuakaan. Pajamestari lähettää hakun ja vasaran. 'Takaisin lähtöpisteessä, ja paljon sen pidemmällä.' |
+| `Mastery: Forage and Craft` | Mastery: Forage and Craft | Mestaruus: Keräile ja Valmista |
+| `A weaver asks you to gather and work the simplest materials again.` | A weaver asks you to gather and work the simplest materials again. | Kutoja pyytää sinua keräämään ja työstämään taas yksinkertaisimpia materiaaleja. |
+| `Meet the weaver` | Meet the weaver | Tapaa kutoja |
+| `'You work dragonhide and starspun now. Show me you can still make good strips from leather.'` | 'You work dragonhide and starspun now. Show me you can still make good strips from leather.' | 'Työstät nyt lohikäärmeennahkaa ja tähtilankaa. Näytä, että osaat yhä leikata nahasta hyviä suikaleita.' |
+| `Cut leather into strips` | Cut leather into strips | Leikkaa nahka suikaleiksi |
+| `Even width, no ragged ends. The weaver checks every one.` | Even width, no ragged ends. The weaver checks every one. | Tasainen leveys, ei rispaantuneita päitä. Kutoja tarkistaa jokaisen. |
+| `Gather from the wild patch` | Gather from the wild patch | Keräile villistä kasvustosta |
+| `You pick slowly and leave the young growth alone.` | You pick slowly and leave the young growth alone. | Poimit hitaasti ja jätät nuoret versot rauhaan. |
+| `Forage the woodland patch` | Forage the woodland patch | Keräile metsän kasvustosta |
+| `Linen grows thick here. You fill a sack before noon.` | Linen grows thick here. You fill a sack before noon. | Pellava kasvaa täällä tiheänä. Täytät säkin ennen puoltapäivää. |
+| `Search the fern thicket` | Search the fern thicket | Etsi saniaistiheiköstä |
+| `Silk moths nest in the ferns. You take only the spent cocoons.` | Silk moths nest in the ferns. You take only the spent cocoons. | Silkkiperhoset pesivät saniaisissa. Otat vain tyhjät kotelot. |
+| `Gather on the rocky patch` | Gather on the rocky patch | Keräile kivikon kasvustosta |
+| `Hardy plants, tough fibres. Good for rope.` | Hardy plants, tough fibres. Good for rope. | Kestäviä kasveja, sitkeitä kuituja. Sopivat köysiin. |
+| `Spin linen into thread` | Spin linen into thread | Kehrää pellavasta lankaa |
+| `You spin until the thread runs fine and even.` | You spin until the thread runs fine and even. | Kehräät, kunnes lanka on hienoa ja tasaista. |
+| `Forage the hillside patch` | Forage the hillside patch | Keräile rinteen kasvustosta |
+| `You know which leaves to take by touch now.` | You know which leaves to take by touch now. | Tunnistat nyt pelkällä kosketuksella, mitkä lehdet otat. |
+| `Gather hides from the thicket` | Gather hides from the thicket | Kerää vuotia tiheiköstä |
+| `A hunter left hides to cure. You trade a day of work for them.` | A hunter left hides to cure. You trade a day of work for them. | Metsästäjä jätti vuotia kuivumaan. Vaihdat ne itsellesi päivän työllä. |
+| `Forage the fort patch` | Forage the fort patch | Keräile linnakkeen kasvustosta |
+| `The fort guards point you to a patch nobody else bothers with.` | The fort guards point you to a patch nobody else bothers with. | Linnakkeen vartijat ohjaavat sinut kasvustolle, josta kukaan muu ei välitä. |
+| `Craft a simple satchel` | Craft a simple satchel | Valmista yksinkertainen olkalaukku |
+| `Strips, thread and a buckle. It is the best thing you have made in years.` | Strips, thread and a buckle. It is the best thing you have made in years. | Suikaleita, lankaa ja solki. Se on parasta, mitä olet tehnyt vuosiin. |
+| `Forage the deep wilds` | Forage the deep wilds | Keräile syvässä erämaassa |
+| `You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel.` | You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel. | Palaat erämaasta harvinaisine materiaaleinesi, kädet vakaina. Kutoja lähettää sirpin ja taltan. |
+| `Mastery: Invoke and Imbue` | Mastery: Invoke and Imbue | Mestaruus: Manaus ja Kyllästä |
+| `An old enchanter wants your first dim essences drawn and charged again.` | An old enchanter wants your first dim essences drawn and charged again. | Vanha lumoaja haluaa nähdä, kun ammennat ja lataat taas ensimmäiset himmeät essenssisi. |
+| `Meet the old enchanter` | Meet the old enchanter | Tapaa vanha lumoaja |
+| `'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.'` | 'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.' | 'Säteilevä, taivaallinen, jumalallinen. Milloin viimeksi latasit himmeän essenssin? Aloita siitä.' |
+| `Charge a dim essence` | Charge a dim essence | Lataa himmeä essenssi |
+| `It takes almost nothing to charge. That is what makes it hard.` | It takes almost nothing to charge. That is what makes it hard. | Sen lataamiseen ei tarvita juuri mitään. Juuri se tekee siitä vaikeaa. |
+| `The fragment hums faintly. You draw from it without cracking it.` | The fragment hums faintly. You draw from it without cracking it. | Sirpale hurisee hiljaa. Ammennat siitä halkaisematta sitä. |
+| `Charge at the glowing font` | Charge at the glowing font | Lataa hehkuvalla lähteellä |
+| `You feed the font slowly. It answers in kind.` | You feed the font slowly. It answers in kind. | Ruokit lähdettä hitaasti. Se vastaa samoin. |
+| `Listen at the river fragment` | Listen at the river fragment | Kuuntele jokisirpaleen äärellä |
+| `Faint essence, carried on the river wind.` | Faint essence, carried on the river wind. | Heikkoa essenssiä joen tuulen kantamana. |
+| `Charge a faint essence` | Charge a faint essence | Lataa heikko essenssi |
+| `Clean light. The enchanter would keep this one.` | Clean light. The enchanter would keep this one. | Puhdasta valoa. Lumoaja pitäisi tämän. |
+| `Trace the ruined sigil` | Trace the ruined sigil | Jäljitä raunioitunut sinetti |
+| `The old lines still hold power. You trace them without breaking them.` | The old lines still hold power. You trace them without breaking them. | Vanhoissa viivoissa on yhä voimaa. Jäljität ne rikkomatta niitä. |
+| `Charge essence at the sigil` | Charge essence at the sigil | Lataa essenssiä sinetillä |
+| `You charge three in a row without a flicker.` | You charge three in a row without a flicker. | Lataat kolme peräkkäin ilman värähdystäkään. |
+| `Draw from the crystal` | Draw from the crystal | Ammenna kristallista |
+| `The crystal gives more than you ask. You take only what you need.` | The crystal gives more than you ask. You take only what you need. | Kristalli antaa enemmän kuin pyydät. Otat vain sen, mitä tarvitset. |
+| `Draw from the desert fragment` | Draw from the desert fragment | Ammenna aavikkosirpaleesta |
+| `Dry air, sharp essence. Your hands stay steady.` | Dry air, sharp essence. Your hands stay steady. | Kuivaa ilmaa, terävää essenssiä. Kätesi pysyvät vakaina. |
+| `Charge in the desert heat` | Charge in the desert heat | Lataa aavikon helteessä |
+| `The heat fights you. You win by going slower.` | The heat fights you. You win by going slower. | Helle taistelee vastaan. Voitat etenemällä hitaammin. |
+| `Draw deep from the rift` | Draw deep from the rift | Ammenna syvältä repeämästä |
+| `The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism.` | The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism. | Repeämästä tulvii kirkasta essenssiä, ja pidät kaiken hallussasi. Lumoaja lähettää kanavan ja prisman. |
+| `Mastery: Farm and Brew` | Mastery: Farm and Brew | Mestaruus: Viljely ja Pane |
+| `A herbalist wants you to grow and brew the plainest remedies again.` | A herbalist wants you to grow and brew the plainest remedies again. | Yrttitietäjä haluaa sinun kasvattavan ja keittävän taas yksinkertaisimmat lääkkeet. |
+| `Meet the herbalist` | Meet the herbalist | Tapaa yrttitietäjä |
+| `'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.'` | 'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.' | 'Harvinaisia kukkia, hienoja tonikoita. Osaatko yhä kasvattaa kahakkajuurta ja keittää siitä puhtaan juoman? Näytä minulle.' |
+| `Plant skirmish root` | Plant skirmish root | Istuta kahakkajuurta |
+| `You plant in straight rows and water at dusk.` | You plant in straight rows and water at dusk. | Istutat suoriin riveihin ja kastelet iltahämärissä. |
+| `Weed the farm plot` | Weed the farm plot | Kitke viljelypalsta |
+| `Weeds come up easy after rain. You clear the whole plot.` | Weeds come up easy after rain. You clear the whole plot. | Rikkaruohot irtoavat helposti sateen jälkeen. Kitket koko palstan. |
+| `Brew a simple tonic` | Brew a simple tonic | Keitä yksinkertainen tonikki |
+| `Root, water and patience. It comes out clear.` | Root, water and patience. It comes out clear. | Juurta, vettä ja kärsivällisyyttä. Siitä tulee kirkasta. |
+| `Harvest the hillside plot` | Harvest the hillside plot | Korjaa rinnepalstan sato |
+| `The hill soil is thin. You coax a small harvest out of it.` | The hill soil is thin. You coax a small harvest out of it. | Rinteen maa on ohutta. Houkuttelet siitä pienen sadon. |
+| `Grow herbs in cold soil` | Grow herbs in cold soil | Kasvata yrttejä kylmässä maassa |
+| `Frost-hardy herbs, slow to grow and worth the wait.` | Frost-hardy herbs, slow to grow and worth the wait. | Pakkasenkestäviä yrttejä, hitaita kasvamaan ja odotuksen arvoisia. |
+| `Brew at the fern cauldron` | Brew at the fern cauldron | Keitä saniaispadalla |
+| `You let it simmer twice as long as you used to. It is better for it.` | You let it simmer twice as long as you used to. It is better for it. | Annat sen hautua kaksi kertaa pidempään kuin ennen. Se on sen ansiosta parempaa. |
+| `Brew a calming draught` | Brew a calming draught | Keitä rauhoittava juoma |
+| `The draught settles your own nerves before anyone else's.` | The draught settles your own nerves before anyone else's. | Juoma rauhoittaa omat hermosi ennen kenenkään muun hermoja. |
+| `Brew for the mountain watch` | Brew for the mountain watch | Keitä juomaa vuorivartiolle |
+| `The watch drinks it cold. Nobody complains.` | The watch drinks it cold. Nobody complains. | Vartio juo sen kylmänä. Kukaan ei valita. |
+| `Tend the pine plot` | Tend the pine plot | Hoida mäntypalstaa |
+| `Needles in the soil, sharp herbs in the rows.` | Needles in the soil, sharp herbs in the rows. | Neulasia maassa, kirpeitä yrttejä riveissä. |
+| `Brew one last plain remedy` | Brew one last plain remedy | Keitä viimeinen yksinkertainen lääke |
+| `The herbalist tastes it and nods once.` | The herbalist tastes it and nods once. | Yrttitietäjä maistaa sitä ja nyökkää kerran. |
+| `Brew a master tonic` | Brew a master tonic | Keitä mestaritonikki |
+| `You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar.` | You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar. | Keität tonikin, jota apteekkari ei ole koskaan onnistunut tekemään. Yrttitietäjä lähettää istutuslapion ja huhmaren. |
+| `Mastery: Plunder and Barter` | Mastery: Plunder and Barter | Mestaruus: Ryöstösaalis ja Vaihtokauppa |
+| `A retired fence wants to see you work the small markets honestly again.` | A retired fence wants to see you work the small markets honestly again. | Eläkkeelle jäänyt kätkijä haluaa nähdä sinun toimivan taas rehellisesti pienillä markkinoilla. |
+| `Meet the retired fence` | Meet the retired fence | Tapaa eläkkeelle jäänyt kätkijä |
+| `'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.'` | 'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.' | 'Ryöstät holveja ja ostat markkinoita tyhjiksi. Mene tyhjentämään joku tasku ja myy sitten saaliisi reiluun hintaan.' |
+| `Haggle at the small stalls` | Haggle at the small stalls | Tingi pienillä kojuilla |
+| `You argue a copper off a loaf of bread. The baker laughs.` | You argue a copper off a loaf of bread. The baker laughs. | Tinkaat leivän hinnasta yhden kuparin. Leipuri nauraa. |
+| `Lift a purse in the alley` | Lift a purse in the alley | Nyysi kukkaro kujalla |
+| `Small purse, quick hands. Nobody notices.` | Small purse, quick hands. Nobody notices. | Pieni kukkaro, nopeat kädet. Kukaan ei huomaa mitään. |
+| `Pick a lock in the alley` | Pick a lock in the alley | Tiirikoi lukko kujalla |
+| `An old padlock. You open it with a bent nail.` | An old padlock. You open it with a bent nail. | Vanha riippulukko. Avaat sen taipuneella naulalla. |
+| `Shadow a merchant` | Shadow a merchant | Varjosta kauppiasta |
+| `You follow him for an hour and learn where he keeps his coin.` | You follow him for an hour and learn where he keeps his coin. | Seuraat häntä tunnin ja saat selville, missä hän pitää kolikkonsa. |
+| `Sell a stolen trinket` | Sell a stolen trinket | Myy varastettu koriste-esine |
+| `You sell it back to its owner for a fair price. The fence would approve.` | You sell it back to its owner for a fair price. The fence would approve. | Myyt sen takaisin omistajalleen reiluun hintaan. Kätkijä hyväksyisi. |
+| `Slip past the watch` | Slip past the watch | Livahda vartion ohi |
+| `The watch never looks up from their dice.` | The watch never looks up from their dice. | Vartijat eivät koskaan nosta katsettaan nopistaan. |
+| `Trade at the dockside stalls` | Trade at the dockside stalls | Käy kauppaa satamakojuilla |
+| `Fish for rope, rope for coin. You come out ahead.` | Fish for rope, rope for coin. You come out ahead. | Kalat köysiin, köydet kolikoihin. Jäät voitolle. |
+| `Work the dock alley` | Work the dock alley | Toimi satamakujalla |
+| `Sailors keep loose coin. You keep some of it.` | Sailors keep loose coin. You keep some of it. | Merimiehillä on irtokolikoita. Osa niistä jää sinulle. |
+| `Lift a guard captain's keys` | Lift a guard captain's keys | Nyysi vartiokapteenin avaimet |
+| `You borrow them and return them before he notices.` | You borrow them and return them before he notices. | Lainaat ne ja palautat ne ennen kuin hän huomaa. |
+| `Fence goods in the cold alley` | Fence goods in the cold alley | Myy varastettua tavaraa kylmällä kujalla |
+| `The buyer pays in full and asks no questions.` | The buyer pays in full and asks no questions. | Ostaja maksaa täyden hinnan eikä kysele. |
+| `Strike a deal at the pirate market` | Strike a deal at the pirate market | Tee kauppa merirosvotorilla |
+| `You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales.` | You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales. | Tinkaat merirosvojen kanssa ja lähdet heidän parhaiden tavaroidensa kanssa. Kätkijä lähettää tiirikan ja puntarin. |
+| `Mastery: Bard and Discover` | Mastery: Bard and Discover | Mestaruus: Bardi ja Tutki |
+| `A wandering minstrel wants new songs from the oldest campfires.` | A wandering minstrel wants new songs from the oldest campfires. | Kiertävä trubaduuri haluaa uusia lauluja vanhimpien nuotioiden ääreltä. |
+| `Meet the wandering minstrel` | Meet the wandering minstrel | Tapaa kiertävä trubaduuri |
+| `'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.'` | 'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.' | 'Jokainen bardi laulaa suurissa saleissa. Minä haluan lauluja nuotioilta ja paikoista, joita kukaan ei kartoita.' |
+| `Sing at the campfire` | Sing at the campfire | Laula nuotiolla |
+| `Two travellers and a dog. You play until they fall asleep.` | Two travellers and a dog. You play until they fall asleep. | Kaksi matkalaista ja koira. Soitat, kunnes he nukahtavat. |
+| `Survey the nearby hills` | Survey the nearby hills | Tutki lähikukkuloita |
+| `You find an old marker stone and copy its carving.` | You find an old marker stone and copy its carving. | Löydät vanhan merkkikiven ja kopioit sen kaiverruksen. |
+| `Map the frozen ridge` | Map the frozen ridge | Kartoita jäätynyt harjanne |
+| `Your map is rough but true. The minstrel likes rough.` | Your map is rough but true. The minstrel likes rough. | Karttasi on karkea mutta paikkansapitävä. Trubaduuri pitää karkeasta. |
+| `Swap songs with the guards` | Swap songs with the guards | Vaihda lauluja vartijoiden kanssa |
+| `The guards know a verse you have never heard. You trade one of yours for it.` | The guards know a verse you have never heard. You trade one of yours for it. | Vartijat osaavat säkeistön, jota et ole koskaan kuullut. Vaihdat sen yhteen omistasi. |
+| `Search the old prospect` | Search the old prospect | Penko vanhaa koekuoppaa |
+| `Under loose stones you find a tin cup with initials scratched in.` | Under loose stones you find a tin cup with initials scratched in. | Irtokivien alta löydät tinamukin, johon on raaputettu nimikirjaimet. |
+| `Scout the frozen pass` | Scout the frozen pass | Tiedustele jäätynyt sola |
+| `Wind has carved the pass into a strange shape. You sketch it.` | Wind has carved the pass into a strange shape. You sketch it. | Tuuli on kovertanut solan oudon muotoiseksi. Luonnostelet sen. |
+| `Play for the frost watch` | Play for the frost watch | Soita pakkasvartiolle |
+| `The watch claps with mittens on. It sounds like rain.` | The watch claps with mittens on. It sounds like rain. | Vartio taputtaa lapaset kädessä. Se kuulostaa sateelta. |
+| `Perform in the old tavern` | Perform in the old tavern | Esiinny vanhassa tavernassa |
+| `You play the guards' verse. The tavern sings it back.` | You play the guards' verse. The tavern sings it back. | Soitat vartijoiden säkeistön. Taverna laulaa sen sinulle takaisin. |
+| `Write a song by the fire` | Write a song by the fire | Kirjoita laulu nuotiolla |
+| `You write about the tin cup and the carved pass.` | You write about the tin cup and the carved pass. | Kirjoitat tinamukista ja koverretusta solasta. |
+| `Find the lost marker` | Find the lost marker | Löydä kadonnut merkkikivi |
+| `The last marker is half buried. You dig it out and read it.` | The last marker is half buried. You dig it out and read it. | Viimeinen merkkikivi on puoliksi hautautunut. Kaivat sen esiin ja luet sen. |
+| `Chart the far reaches` | Chart the far reaches | Kartoita kaukaiset seudut |
+| `You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens.` | You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens. | Kartoitat kaukaiset seudut ja sovitat laulusi karttaan. Trubaduuri lähettää soittimen ja linssin. |
+| `Mastery: Vigor and Slay` | Mastery: Vigor and Slay | Mestaruus: Tarmo ja Surmaa |
+| `A slayer captain wants your stamina and your first kills done right again.` | A slayer captain wants your stamina and your first kills done right again. | Surmaajakapteeni haluaa nähdä kestävyytesi ja ensimmäiset kaatosi taas oikein tehtyinä. |
+| `Report to the slayer captain` | Report to the slayer captain | Ilmoittaudu surmaajakapteenille |
+| `'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?'` | 'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?' | 'Metsästät pahimpia olentoja, joita on olemassa. Hyvä on. Osaatko yhä juosta kentän ympäri ja tappaa golemin kunnolla?' |
+| `Run the training yard` | Run the training yard | Juokse harjoituskentällä |
+| `Ten laps, carrying a sandbag. You finish the last one sprinting.` | Ten laps, carrying a sandbag. You finish the last one sprinting. | Kymmenen kierrosta hiekkasäkin kanssa. Juokset viimeisen täyttä vauhtia. |
+| `Slay a feeble golem` | Slay a feeble golem | Surmaa raihnainen golem |
+| `You find the crack in its chest and strike there.` | You find the crack in its chest and strike there. | Löydät halkeaman sen rinnasta ja lyöt siihen. |
+| `Drill in the frozen yard` | Drill in the frozen yard | Harjoittele jäätyneellä kentällä |
+| `Ice underfoot. You learn to run without trusting the ground.` | Ice underfoot. You learn to run without trusting the ground. | Jäätä jalkojen alla. Opit juoksemaan luottamatta maahan. |
+| `Slay a dire golem` | Slay a dire golem | Surmaa turmainen golem |
+| `Same crack, bigger golem. It falls the same way.` | Same crack, bigger golem. It falls the same way. | Sama halkeama, isompi golem. Se kaatuu samalla tavalla. |
+| `Climb the frost wall` | Climb the frost wall | Kiipeä huurremuurille |
+| `Hand over hand, no rope. Your arms burn and hold.` | Hand over hand, no rope. Your arms burn and hold. | Ote kerrallaan, ilman köyttä. Käsivarret polttavat mutta kestävät. |
+| `Sprint the mountain yard` | Sprint the mountain yard | Spurttaa vuoristokentällä |
+| `Thin air, long sprints. Your breath stays even.` | Thin air, long sprints. Your breath stays even. | Ohut ilma, pitkät spurtit. Hengityksesi pysyy tasaisena. |
+| `Slay a dire skeleton` | Slay a dire skeleton | Surmaa turmainen luuranko |
+| `You break it at the spine before it can rise.` | You break it at the spine before it can rise. | Murrat sen selkärangasta ennen kuin se ehtii nousta. |
+| `Haul stone across the yard` | Haul stone across the yard | Kanna kiviä kentän poikki |
+| `You carry stones until the yard master runs out of them.` | You carry stones until the yard master runs out of them. | Kannat kiviä, kunnes kenttämestarilta loppuvat ne. |
+| `Run the breakwood course` | Run the breakwood course | Juokse Breakwoodin rata |
+| `Logs, ditches, walls. You clear it twice.` | Logs, ditches, walls. You clear it twice. | Tukkeja, ojia, muureja. Selvität sen kahdesti. |
+| `Slay a dire treant` | Slay a dire treant | Surmaa turmainen puujätti |
+| `You take it apart one branch at a time.` | You take it apart one branch at a time. | Puret sen oksa kerrallaan. |
+| `Climb to the pinnacle` | Climb to the pinnacle | Kiipeä huipulle |
+| `You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.'` | You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.' | Pääset huipulle pysähtymättä. Kapteeni lähettää treenikengät ja karsintaveitsen. 'Valmis metsästämään mitä tahansa.' |
+| `Mastery: Luck and Alms` | Mastery: Luck and Alms | Mestaruus: Onni ja Almu |
+| `An almoner believes fortune follows the generous. Spend a day proving it.` | An almoner believes fortune follows the generous. Spend a day proving it. | Almunjakaja uskoo, että onni seuraa anteliaita. Käytä päivä sen todistamiseen. |
+| `Meet the almoner` | Meet the almoner | Tapaa almunjakaja |
+| `'Give freely and luck finds you. Most people never test it. Come and test it.'` | 'Give freely and luck finds you. Most people never test it. Come and test it.' | 'Anna auliisti, niin onni löytää sinut. Useimmat eivät koskaan kokeile sitä. Tule kokeilemaan.' |
+| `Feed a hungry child` | Feed a hungry child | Ruoki nälkäinen lapsi |
+| `You buy bread for a child in the alley. On the way out you find a coin.` | You buy bread for a child in the alley. On the way out you find a coin. | Ostat leipää kujalla olevalle lapselle. Lähtiessäsi löydät kolikon. |
+| `Pay a stranger's debt` | Pay a stranger's debt | Maksa tuntemattoman velka |
+| `The stallholder is stunned. Then she gives you a lucky charm she carved.` | The stallholder is stunned. Then she gives you a lucky charm she carved. | Kojun pitäjä on ällikällä lyöty. Sitten hän antaa sinulle veistämänsä onnenamuletin. |
+| `Buy a smith his tools back` | Buy a smith his tools back | Osta sepälle hänen työkalunsa takaisin |
+| `The smith had pawned his hammer. You buy it back for him.` | The smith had pawned his hammer. You buy it back for him. | Seppä oli pantannut vasaransa. Ostat sen takaisin hänelle. |
+| `Donate to the town chest` | Donate to the town chest | Lahjoita kaupungin arkkuun |
+| `The banker counts your gift twice to be sure.` | The banker counts your gift twice to be sure. | Pankkiiri laskee lahjoituksesi kahdesti varmuuden vuoksi. |
+| `Leave coin for the wardens` | Leave coin for the wardens | Jätä kolikoita valvojille |
+| `The wardens are grateful. One of them gives you a tip about a dice game.` | The wardens are grateful. One of them gives you a tip about a dice game. | Valvojat ovat kiitollisia. Yksi heistä antaa sinulle vinkin noppapelistä. |
+| `Play dice with the wardens` | Play dice with the wardens | Pelaa noppaa valvojien kanssa |
+| `You win three rolls in a row and give the winnings back.` | You win three rolls in a row and give the winnings back. | Voitat kolme heittoa peräkkäin ja annat voitot takaisin. |
+| `Plant a clover for luck` | Plant a clover for luck | Istuta apila onneksi |
+| `You find a four-leaf clover while planting. The almoner is not surprised.` | You find a four-leaf clover while planting. The almoner is not surprised. | Löydät nelilehtisen apilan istuttaessasi. Almunjakaja ei ole yllättynyt. |
+| `Fund the village well` | Fund the village well | Rahoita kylän kaivo |
+| `The village will have clean water by spring.` | The village will have clean water by spring. | Kylällä on puhdasta vettä keväällä. |
+| `Pay the dockhands' wages` | Pay the dockhands' wages | Maksa satamatyöläisten palkat |
+| `The harbour master had run short. The dockhands cheer.` | The harbour master had run short. The dockhands cheer. | Satamamestarilta olivat rahat loppuneet. Satamatyöläiset hurraavat. |
+| `Buy out a poor trader` | Buy out a poor trader | Osta köyhän kauppiaan koko varasto |
+| `You buy her last fish at full price. She swears it will bring you luck.` | You buy her last fish at full price. She swears it will bring you luck. | Ostat hänen viimeisen kalansa täyteen hintaan. Hän vannoo, että se tuo sinulle onnea. |
+| `Give at the great market` | Give at the great market | Lahjoita suurilla markkinoilla |
+| `You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer.` | You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer. | Annat kukkaron pois markkinoilla ja voitat arpajaisissa lähtiessäsi. Almunjakaja lähettää amuletin ja suitsutusastian. |
+| `Mastery: Delve and Fortify` | Mastery: Delve and Fortify | Mestaruus: Syöksy ja Vahvistus |
+| `A raid veteran wants every dungeon and Fortress wave run from the start.` | A raid veteran wants every dungeon and Fortress wave run from the start. | Raidiveteraani haluaa, että jokainen tyrmä ja jokainen Koitos-aalto käydään läpi alusta asti. |
+| `Meet the raid veteran` | Meet the raid veteran | Tapaa raidiveteraani |
+| `'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.'` | 'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.' | 'Pelaat vaikeimmat raidit silmät kiinni. Avaa ne. Aloita ensimmäisestä tyrmästä.' |
+| `Hear the delvers' stories` | Hear the delvers' stories | Kuuntele tyrmänkävijöiden tarinoita |
+| `Old delvers trade stories of the first dungeon. You learn a route you never knew.` | Old delvers trade stories of the first dungeon. You learn a route you never knew. | Vanhat tyrmänkävijät vaihtavat tarinoita ensimmäisestä tyrmästä. Opit reitin, jota et tuntenut. |
+| `You clear it using the old route. It is faster than yours.` | You clear it using the old route. It is faster than yours. | Raivaat sen vanhaa reittiä pitkin. Se on nopeampi kuin omasi. |
+| `Hold the Fortress for 20 waves` | Hold the Fortress for 20 waves | Pidä Koitos 20 aallon ajan |
+| `You hold the walls with plain supplies. Twenty waves, no losses.` | You hold the walls with plain supplies. Twenty waves, no losses. | Pidät muurit tavallisilla tarvikkeilla. Kaksikymmentä aaltoa, ei menetyksiä. |
+| `Restock near the Fortress` | Restock near the Fortress | Täydennä varusteita lähellä Koitosta |
+| `You restock and swap stories with the Fortress crews.` | You restock and swap stories with the Fortress crews. | Täydennät varusteita ja vaihdat tarinoita Koitos-miehistöjen kanssa. |
+| `Patch your raid gear` | Patch your raid gear | Paikkaa raidivarusteesi |
+| `Torn straps, cracked buckles. You fix them all yourself.` | Torn straps, cracked buckles. You fix them all yourself. | Repeytyneitä hihnoja, haljenneita solkia. Korjaat ne kaikki itse. |
+| `You lead the party and let them set the pace.` | You lead the party and let them set the pace. | Johdat seuruetta ja annat heidän määrätä tahdin. |
+| `Hold the Fortress for 40 waves` | Hold the Fortress for 40 waves | Pidä Koitos 40 aallon ajan |
+| `Forty waves. Your deposits never stop.` | Forty waves. Your deposits never stop. | Neljäkymmentä aaltoa. Talletuksesi eivät lakkaa koskaan. |
+| `Plan the Savage run` | Plan the Savage run | Suunnittele Raivoisan tyrmän retki |
+| `The veteran's notes cover every room. You add a few of your own.` | The veteran's notes cover every room. You add a few of your own. | Veteraanin muistiinpanot kattavat jokaisen huoneen. Lisäät muutaman omasi. |
+| `Clear a Savage Dungeon` | Clear a Savage Dungeon | Raivaa Raivoisa tyrmä |
+| `The Savage Dungeon goes the way the notes said it would.` | The Savage Dungeon goes the way the notes said it would. | Raivoisa tyrmä menee juuri niin kuin muistiinpanoissa sanottiin. |
+| `Hold the Fortress for 60 waves` | Hold the Fortress for 60 waves | Pidä Koitos 60 aallon ajan |
+| `Sixty waves. The walls hold because you planned them to.` | Sixty waves. The walls hold because you planned them to. | Kuusikymmentä aaltoa. Muurit kestävät, koska suunnittelit ne kestämään. |
+| `Clear a Fell Dungeon` | Clear a Fell Dungeon | Raivaa Julma tyrmä |
+| `You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification.` | You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification. | Raivaat Julman tyrmän ensimmäisestä huoneesta viimeiseen. Veteraani lähettää kallon ja varustuksen. |
+| `Gather the masters` | Gather the masters | Kokoa mestarit |
+| `Harvest the great orchard` | Harvest the great orchard | Korjaa suuren hedelmätarhan sato |
+| `The best trees in the land, picked clean and left healthy.` | The best trees in the land, picked clean and left healthy. | Maan parhaat puut, poimittu puhtaiksi ja jätetty terveiksi. |
+| `Fish the open sea` | Fish the open sea | Kalasta avomerellä |
+| `You bring in a catch the fishwife would frame.` | You bring in a catch the fishwife would frame. | Nostat saaliin, jonka kalaeukko kehystäisi. |
+| `Draw from the obelisk` | Draw from the obelisk | Ammenna obeliskista |
+| `The obelisk gives freely to someone who asks properly.` | The obelisk gives freely to someone who asks properly. | Obeliski antaa auliisti sille, joka pyytää oikein. |
+| `Work the underground` | Work the underground | Työskentele maan alla |
+| `You take what you came for and leave no trace.` | You take what you came for and leave no trace. | Otat sen, mitä tulit hakemaan, etkä jätä jälkiä. |
+| `Trade at the grand market` | Trade at the grand market | Käy kauppaa suurilla markkinoilla |
+| `Every stall gives you its best price.` | Every stall gives you its best price. | Jokainen koju antaa sinulle parhaan hintansa. |
+| `Forge at the great foundry` | Forge at the great foundry | Tao suuressa valimossa |
+| `The foundry's masters stop to watch you work.` | The foundry's masters stop to watch you work. | Valimon mestarit pysähtyvät katsomaan työtäsi. |
+| `Perform at the royal court` | Perform at the royal court | Esiinny kuninkaallisessa hovissa |
+| `The court stands for your last song.` | The court stands for your last song. | Hovi nousee seisomaan viimeisen laulusi kunniaksi. |
+| `Craft at the syndicate atelier` | Craft at the syndicate atelier | Valmista syndikaatin ateljeessa |
+| `You craft a piece the atelier keeps on display.` | You craft a piece the atelier keeps on display. | Valmistat työn, jonka ateljee pitää näytteillä. |
+| `Forage the far wilds` | Forage the far wilds | Keräile kaukaisessa erämaassa |
+| `The wilds give up their rarest growth to you.` | The wilds give up their rarest growth to you. | Erämaa luovuttaa sinulle harvinaisimman kasvustonsa. |
+| `Run the long valley` | Run the long valley | Juokse pitkän laakson läpi |
+| `You run it end to end and keep your breath.` | You run it end to end and keep your breath. | Juokset sen päästä päähän ja pidät hengityksesi tasaisena. |
+| `The masters have one more test, at the edges of the world.` | The masters have one more test, at the edges of the world. | Mestareilla on vielä yksi koe, maailman laidoilla. |
+| `Meet the masters again` | Meet the masters again | Tapaa mestarit jälleen |
+| `Forage the deep hollows` | Forage the deep hollows | Keräile syvissä onkaloissa |
+| `You find growth down here no forager has named.` | You find growth down here no forager has named. | Löydät täältä alhaalta kasvustoa, jolle yksikään keräilijä ei ole antanut nimeä. |
+| `Mine the high ledge` | Mine the high ledge | Louhi korkealla kielekkeellä |
+| `Ore from the ledge, brought down without a single slip.` | Ore from the ledge, brought down without a single slip. | Malmia kielekkeeltä, tuotu alas ilman ainuttakaan lipsahdusta. |
+| `Fish the eastern coast` | Fish the eastern coast | Kalasta itärannikolla |
+| `You land a fish from water nobody fishes.` | You land a fish from water nobody fishes. | Nostat kalan vedestä, jossa kukaan ei kalasta. |
+| `Chart the ruined coast` | Chart the ruined coast | Kartoita raunioitunut rannikko |
+| `Your chart corrects three maps the cartographers trusted.` | Your chart corrects three maps the cartographers trusted. | Karttasi korjaa kolme karttaa, joihin kartografit luottivat. |
+| `Charge essence at the arc` | Charge essence at the arc | Lataa essenssiä valokaarella |
+| `The arc burns bright and steady in your hands.` | The arc burns bright and steady in your hands. | Valokaari palaa kirkkaana ja vakaana käsissäsi. |
+| `Cook a feast for the masters` | Cook a feast for the masters | Valmista juhla-ateria mestareille |
+| `Fifteen masters, one table. Every plate comes back clean.` | Fifteen masters, one table. Every plate comes back clean. | Viisitoista mestaria, yksi pöytä. Jokainen lautanen palaa tyhjänä. |
+| `Draw from the last obelisk` | Draw from the last obelisk | Ammenna viimeisestä obeliskista |
+| `The obelisk at the end of the world answers you.` | The obelisk at the end of the world answers you. | Maailman äärellä oleva obeliski vastaa sinulle. |
+| `Play the eastern court` | Play the eastern court | Soita idän hovissa |
+| `The court asks for the campfire songs. You play them all.` | The court asks for the campfire songs. You play them all. | Hovi pyytää nuotiolauluja. Soitat ne kaikki. |
+| `Brew the masters' remedy` | Brew the masters' remedy | Keitä mestareiden lääke |
+| `A remedy built from every plain herb you grew.` | A remedy built from every plain herb you grew. | Lääke, joka on tehty jokaisesta kasvattamastasi tavallisesta yrtistä. |
+| `Bargain with the pirate lords` | Bargain with the pirate lords | Hiero kauppoja merirosvoruhtinaiden kanssa |
+| `The pirate lords pay you to leave.` | The pirate lords pay you to leave. | Merirosvoruhtinaat maksavat sinulle, jotta lähtisit. |
+| `Clear an Ancient Dungeon` | Clear an Ancient Dungeon | Raivaa Muinainen tyrmä |
+| `The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.'` | The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.' | Mestarit odottavat vanhimman tyrmän luona. He ojentavat sinulle toisen kuvun ja lyhdyn. 'Nyt sinulla ei ole enää mitään todistettavaa.' |
+| `[Q1] Enchanted Rod` | [Q1] Enchanted Rod | [Q1] Lumottu vapa |
+| `[Q1] Enchanted Pickaxe` | [Q1] Enchanted Pickaxe | [Q1] Lumottu hakku |
+| `[Q1] Enchanted Sickle` | [Q1] Enchanted Sickle | [Q1] Lumottu sirppi |
+| `[Q1] Enchanted Conduit` | [Q1] Enchanted Conduit | [Q1] Lumottu johdin |
+| `[Q1] Enchanted Trowel` | [Q1] Enchanted Trowel | [Q1] Lumottu istutuslapio |
+| `[Q1] Enchanted Lockpick` | [Q1] Enchanted Lockpick | [Q1] Lumottu tiirikka |
+| `[Q1] Enchanted Instrument` | [Q1] Enchanted Instrument | [Q1] Lumottu soitin |
+| `[Q1] Enchanted Trainers` | [Q1] Enchanted Trainers | [Q1] Lumotut lenkkarit |
+| `[Q1] Culling Knife` | [Q1] Culling Knife | [Q1] Karsintaveitsi |
+| `[Q1] Lucky Charm` | [Q1] Lucky Charm | [Q1] Onnenamuletti |
+| `[Q1] Enchanted Censer` | [Q1] Enchanted Censer | [Q1] Lumottu suitsutusastia |
+| `[Q1] Enchanted Skillet` | [Q1] Enchanted Skillet | [Q1] Lumottu paistinpannu |
+| `[Q1] Enchanted Hammer` | [Q1] Enchanted Hammer | [Q1] Lumottu vasara |
+| `[Q1] Enchanted Chisel` | [Q1] Enchanted Chisel | [Q1] Lumottu taltta |
+| `[Q1] Enchanted Prism` | [Q1] Enchanted Prism | [Q1] Lumottu prisma |
+| `[Q1] Enchanted Mortar` | [Q1] Enchanted Mortar | [Q1] Lumottu huhmar |
+| `[Q1] Enchanted Scales` | [Q1] Enchanted Scales | [Q1] Lumotut suomut |
+| `[Q1] Enchanted Lens` | [Q1] Enchanted Lens | [Q1] Lumottu linssi |
+| `[Q1] Enchanted Lantern` | [Q1] Enchanted Lantern | [Q1] Lumottu lyhty |
+| `[Q1] Enchanted Pommel` | [Q1] Enchanted Pommel | [Q1] Lumottu ponsi |
+| `[Q1] Enchanted Grip` | [Q1] Enchanted Grip | [Q1] Lumottu kahva |
+| `[Q1] Enchanted Notch` | [Q1] Enchanted Notch | [Q1] Lumottu lovi |
+| `[Q1] Enchanted Bowstring` | [Q1] Enchanted Bowstring | [Q1] Lumottu jousenjänne |
+| `[Q1] Enchanted Orb` | [Q1] Enchanted Orb | [Q1] Lumottu pallo |
+| `[Q1] Enchanted Catalyst` | [Q1] Enchanted Catalyst | [Q1] Lumottu katalyytti |
+| `[Q1] Enchanted Spring` | [Q1] Enchanted Spring | [Q1] Lumottu jousi |
+| `[Q1] Enchanted Shim` | [Q1] Enchanted Shim | [Q1] Lumottu välilevy |
+| `[Q1] Enchanted Salve` | [Q1] Enchanted Salve | [Q1] Lumottu voide |
+| `[Q1] Enchanted Relic` | [Q1] Enchanted Relic | [Q1] Lumottu pyhäinjäännös |
+| `[T1] Globe of Skills` | [T1] Globe of Skills | [T1] Taitokupu |
+| `[T2] Globe of Skills` | [T2] Globe of Skills | [T2] Taitokupu |
+| `[Q1] Enchanted Skull` | [Q1] Enchanted Skull | [Q1] Lumottu pääkallo |
+| `[Q1] Enchanted Fortification` | [Q1] Enchanted Fortification | [Q1] Lumottu varustus |
+| `Earned by completing every quest. New quests re-lock it until they are done.` | Earned by completing every quest. New quests re-lock it until they are done. | Ansaitaan suorittamalla kaikki tehtävänannot. Uudet tehtävänannot lukitsevat sen uudelleen, kunnes ne on suoritettu. |
+| `New quests have arrived. Complete them to earn your Quest Cape back.` | New quests have arrived. Complete them to earn your Quest Cape back. | Uusia tehtävänantoja on saapunut. Suorita ne saadaksesi Tehtävänantoviittasi takaisin. |
+| `Quest Cape Unlocked!` | Quest Cape Unlocked! | Tehtävänantoviitta avattu! |
+| `Unlock Requirements` | Unlock Requirements | Avausvaatimukset |
+| `Q1` | Q1 | Q1 |
+| `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Taitokuvut: +{0}% (+{1} askelta/s) |
+| `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Tehtävänantoviitta: +{0}% (+{1} askelta/s) |
+| `@crit_pct_globes` | Globes of Skills: {0}% | Taitokuvut: {0}% |
+| `@globes_count` | Globes of Skills {0}/{1} | Taitokuvut {0}/{1} |
+| `@quest_cape_count` | Quest Cape {0}/{1} | Tehtävänantoviitta {0}/{1} |
+| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% liikkumisnopeus, kun kaikki tehtävänannot on suoritettu |
+| `@all_skills_lv` | All Skills Lv {0} | Kaikki taidot tasolla {0} |
+| `@b:auto_process` | +{0}% auto-process chance | +{0}% mahdollisuus autojalostukseen |
+| `@b:auto_bank` | +{0}% auto-bank chance | +{0}% mahdollisuus autopankitukseen |
+| `@b:min_hit` | +{0} min hit | +{0} min-osuma |
+| `@b:max_hit` | +{0} max hit | +{0} maks-osuma |
+| `@b:quest_cape_held` | Held while every quest is completed | Säilyy, kun kaikki tehtävänannot on suoritettu |
+| `Mastery: The Feeble Trial` | Mastery: The Feeble Trial | Mestaruus: Raihnainen koetus |
+| `The masters test anyone who has survived a dungeon. The first trial starts close to home.` | The masters test anyone who has survived a dungeon. The first trial starts close to home. | Mestarit koettelevat jokaista, joka on selvinnyt tyrmästä. Ensimmäinen koetus alkaa läheltä kotia. |
+| `Meet the masters at Fernstead` | Meet the masters at Fernstead | Tapaa mestarit Fernsteadissa |
+| `A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.'` | A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.' | Yksinkertaiseen takkiin pukeutunut mestari odottaa pankin luona. 'Olet nähnyt tyrmän sisältä. Näytä nyt, että osaat tehdä pienetkin asiat hyvin.' |
+| `Cook at the Fernstead hearth` | Cook at the Fernstead hearth | Kokkaa Fernsteadin liedellä |
+| `Simple bread, baked right. The master takes a bite and nods.` | Simple bread, baked right. The master takes a bite and nods. | Yksinkertaista leipää, oikein leivottua. Mestari haukkaa palan ja nyökkää. |
+| `Haggle at the stalls` | Haggle at the stalls | Tingi kojuilla |
+| `You walk away with a fair price and a new friend.` | You walk away with a fair price and a new friend. | Lähdet reilun hinnan ja uuden ystävän kera. |
+| `Tend the Fernstead field` | Tend the Fernstead field | Hoida Fernsteadin peltoa |
+| `Straight rows and no weeds. The farmer asks who taught you.` | Straight rows and no weeds. The farmer asks who taught you. | Suorat rivit eikä ainuttakaan rikkaruohoa. Maanviljelijä kysyy, kuka sinua opetti. |
+| `Forage the thicket` | Forage the thicket | Keräile tiheikössä |
+| `You come out with a full basket and not one scratch.` | You come out with a full basket and not one scratch. | Tulet ulos kori täynnä ilman ainuttakaan naarmua. |
+| `Survey the Woodgap hills` | Survey the Woodgap hills | Kartoita Woodgapin kukkulat |
+| `Your notes fill the gaps on the old survey map.` | Your notes fill the gaps on the old survey map. | Muistiinpanosi täyttävät vanhan kartoituskartan aukot. |
+| `Work the Ironice smithy` | Work the Ironice smithy | Työskentele Ironicen pajassa |
+| `A plain blade, balanced and sharp. The smith hangs it on the wall.` | A plain blade, balanced and sharp. The smith hangs it on the wall. | Yksinkertainen terä, tasapainoinen ja terävä. Seppä ripustaa sen seinälle. |
+| `Cut stone at the quarry` | Cut stone at the quarry | Leikkaa kiveä louhoksella |
+| `Clean blocks, cut square. The quarry boss has no complaints.` | Clean blocks, cut square. The quarry boss has no complaints. | Puhtaat lohkot, suorat kulmat. Louhoksen pomolla ei ole valittamista. |
+| `Play at the Splitstone campfire` | Play at the Splitstone campfire | Soita Splitstonen nuotiolla |
+| `Travelers stop to listen. One of them is a master.` | Travelers stop to listen. One of them is a master. | Matkalaiset pysähtyvät kuuntelemaan. Yksi heistä on mestari. |
+| `Work the Pinegap alley` | Work the Pinegap alley | Työskentele Pinegapin kujalla |
+| `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Nappaat kukkaron ja annat sen takaisin ennen kuin omistaja huomaa mitään. Mestari nauraa. |
+| `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Ammenna Pinegapin kristallista |
+| `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Kristalli hurisee, ja essenssi irtoaa puhtaana. |
+| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Mestarit odottavat tyrmän suulla. 'Hyvä alku. Seuraava koetus on kauempana.' |
+| `Mastery: The Dire Trial` | Mastery: The Dire Trial | Mestaruus: Turmainen koetus |
+| `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | Toinen koetus vie sinut kylmään länteen, jossa mestarit tekevät töitä kovemmin. |
+| `Meet the masters at Timberchill` | Meet the masters at Timberchill | Tapaa mestarit Timberchillissä |
+| `'The first trial was easy on purpose. This one is not.'` | 'The first trial was easy on purpose. This one is not.' | 'Ensimmäinen koetus oli tarkoituksella helppo. Tämä ei ole.' |
+| `Join the Timberchill expedition` | Join the Timberchill expedition | Liity Timberchillin tutkimusmatkaan |
+| `You lead the expedition home with a full map and every pack mule.` | You lead the expedition home with a full map and every pack mule. | Tuot retkikunnan kotiin, kartta valmiina ja jokainen kantomuuli tallessa. |
+| `Cook in the Icemast kitchen` | Cook in the Icemast kitchen | Kokkaa Icemastin keittiössä |
+| `Hot stew for a cold crew. Everyone asks for seconds.` | Hot stew for a cold crew. Everyone asks for seconds. | Kuumaa muhennosta palelevalle porukalle. Kaikki pyytävät lisää. |
+| `Fish the frozen lake` | Fish the frozen lake | Kalasta jäätyneellä järvellä |
+| `You cut a hole in the ice and fill a bucket before noon.` | You cut a hole in the ice and fill a bucket before noon. | Hakkaat avannon jäähän ja täytät ämpärin ennen puoltapäivää. |
+| `Forge at the Battlefrost smithy` | Forge at the Battlefrost smithy | Tao Battlefrostin pajassa |
+| `Armor for the frontier guard, every plate fitted.` | Armor for the frontier guard, every plate fitted. | Haarniska rajavartijoille, jokainen levy sovitettu. |
+| `Brew for the Battlefrost garrison` | Brew for the Battlefrost garrison | Pane olutta Battlefrostin varuskunnalle |
+| `A strong ale for a long winter. The garrison approves.` | A strong ale for a long winter. The garrison approves. | Vahvaa olutta pitkään talveen. Varuskunta hyväksyy. |
+| `Play the Battlefrost tavern` | Play the Battlefrost tavern | Soita Battlefrostin tavernassa |
+| `A tavern full of soldiers sings along.` | A tavern full of soldiers sings along. | Täysi taverna sotilaita laulaa mukana. |
+| `Draw from the Windhollow rift` | Draw from the Windhollow rift | Ammenna Windhollowin repeämästä |
+| `The rift pulls back. You pull harder.` | The rift pulls back. You pull harder. | Repeämä vetää vastaan. Sinä vedät kovempaa. |
+| `Charge the Windhollow conduit` | Charge the Windhollow conduit | Lataa Windhollowin kanava |
+| `The conduit glows steady for the first time in years.` | The conduit glows steady for the first time in years. | Kanava hehkuu tasaisesti ensimmäistä kertaa vuosiin. |
+| `Tend the Windhollow greenhouse` | Tend the Windhollow greenhouse | Hoida Windhollowin kasvihuonetta |
+| `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Vihreitä lehtiä keskellä talvea. |
+| `Mine the Icevein seams` | Mine the Icevein seams | Louhi Iceveinin suonia |
+| `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Löydät suonen, jonka kaivosmiehet jo hylkäsivät. |
+| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Kestit kylmän. Seuraavaksi mestarit haluavat nähdä sinut paineen alla.' |
+| `Mastery: The Savage Trial` | Mastery: The Savage Trial | Mestaruus: Raivoisa koetus |
+| `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | Kolmas koetus kulkee vilkkaan etelän halki, jossa jokaista ammattia valvoo oma mestarinsa. |
+| `Meet the masters at Shortha` | Meet the masters at Shortha | Tapaa mestarit Shorthassa |
+| `'The south is loud and crowded. Do your best work anyway.'` | 'The south is loud and crowded. Do your best work anyway.' | 'Etelässä on meteliä ja tungosta. Tee silti parasta työtäsi.' |
+| `Build at the Shortha workshop` | Build at the Shortha workshop | Rakenna Shorthan verstaassa |
+| `A cabinet with no gaps and no nails. The carpenter wants to buy it.` | A cabinet with no gaps and no nails. The carpenter wants to buy it. | Kaappi ilman rakoja ja nauloja. Puuseppä haluaa ostaa sen. |
+| `Perform at the Shortha theatre` | Perform at the Shortha theatre | Esiinny Shorthan teatterissa |
+| `The crowd stays on its feet until the lamps go out.` | The crowd stays on its feet until the lamps go out. | Yleisö seisoo, kunnes lamput sammuvat. |
+| `Draw from the Shortha rift` | Draw from the Shortha rift | Ammenna Shorthan repeämästä |
+| `The rift spits sparks. You take what you need.` | The rift spits sparks. You take what you need. | Repeämä sylkee kipinöitä. Otat sen, mitä tarvitset. |
+| `Pull the Shortha heist` | Pull the Shortha heist | Toteuta ryöstö Shorthassa |
+| `In and out without a sound. The master checks the lock twice.` | In and out without a sound. The master checks the lock twice. | Sisään ja ulos ilman ääntäkään. Mestari tarkistaa lukon kahdesti. |
+| `Run the Shortha kitchen` | Run the Shortha kitchen | Johda Shorthan keittiötä |
+| `Two hundred plates in one night. None come back.` | Two hundred plates in one night. None come back. | Kaksisataa annosta yhdessä illassa. Yhtäkään ei palauteta. |
+| `Forage the Gilshore grove` | Forage the Gilshore grove | Keräile Gilshoren lehdossa |
+| `You find the herbs the grove keeper hides from buyers.` | You find the herbs the grove keeper hides from buyers. | Löydät yrtit, joita lehdon vartija piilottelee ostajilta. |
+| `Fish off the Gilshore coast` | Fish off the Gilshore coast | Kalasta Gilshoren rannikon edustalla |
+| `A heavy net, hauled in alone.` | A heavy net, hauled in alone. | Raskas verkko, nostettu yksin. |
+| `Charge the Farmhold conduit` | Charge the Farmhold conduit | Lataa Farmholdin kanava |
+| `The conduit takes a full charge and holds it.` | The conduit takes a full charge and holds it. | Kanava ottaa täyden latauksen ja pitää sen. |
+| `Run the Farmhold valley` | Run the Farmhold valley | Juokse Farmholdin laakson läpi |
+| `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Juokset laakson läpi kahdesti, ihan vain näyttääksesi. |
+| `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Tee valu Riverwatchin valimossa |
+| `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Puhdas valu ilman kuplia. Valimon väki taputtaa. |
+| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Hyvä. Kuvut odottavat kahdessa viimeisessä koetuksessa.' |
+| `Mastery: The Fell Trial` | Mastery: The Fell Trial | Mestaruus: Julma koetus |
+| `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | Neljäs koetus lähettää sinut maan hienoimpiin työpaikkoihin. |
+| `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Mestarit tungeksivat pankissa. 'Kolme koetusta takana. Näytä nyt meille maan hienointa työtä.' |
+| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Mestarit odottavat tyrmän suulla. He ojentavat sinulle lasikuvun. 'Ensimmäinen kupu. Siinä on kaikki tähänastiset koetukset.' |
+| `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Mestaruus: Muinainen koetus |
+| `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Ensimmäinen kupu oli koetuksista. Toinen on siitä, mitä kukaan ei opettanut sinulle.' |
+| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Palkinto Julmasta ja Muinaisesta koetuksesta. Molemmat pinoutuvat. |

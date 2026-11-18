@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (799)
+## Lines to review (1355)
 
 | Key | English | Current |
 |---|---|---|
@@ -869,3 +869,559 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tint` | Tint | 色合い |
 | `No tint` | No tint | 色合いなし |
 | `Pick any colour for the wings` | Pick any colour for the wings | 翼の色を自由に選べます |
+| `Mastery: Life and Spirit` | Mastery: Life and Spirit | 熟達：生命と精神 |
+| `An old healer wants proof you still remember how to endure.` | An old healer wants proof you still remember how to endure. | 年老いた治療師が、あなたがまだ耐え抜く術を覚えているか確かめたがっている。 |
+| `Meet the old healer` | Meet the old healer | 年老いた治療師に会う |
+| `She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.'` | She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.' | 彼女は挨拶より先にあなたの脈を測る。「力強いね。でも、力が今回の教えじゃない。初めて耐えることを覚えた場所まで歩いて戻りなさい」 |
+| `Rest by the old campfire` | Rest by the old campfire | 古い焚き火のそばで休む |
+| `You sit until the fire burns low. The healer nods when you stand without stiffness.` | You sit until the fire burns low. The healer nods when you stand without stiffness. | 火が小さくなるまで座り続ける。あなたがこわばりなく立ち上がると、治療師はうなずく。 |
+| `Share a plain meal` | Share a plain meal | 質素な食事を共にする |
+| `Bread, broth, nothing more. 'You forgot how little a body needs,' she says.` | Bread, broth, nothing more. 'You forgot how little a body needs,' she says. | パンとスープ、それだけ。「体がどれほどわずかなもので足りるか、忘れていたようだね」と彼女は言う。 |
+| `Outlast a feeble slime` | Outlast a feeble slime | 虚弱のスライムに耐え抜く |
+| `It barely scratches you. You let it tire itself out before you finish it.` | It barely scratches you. You let it tire itself out before you finish it. | かすり傷程度しか負わない。相手が疲れ果てるのを待ってから、とどめを刺す。 |
+| `Calm your breathing by the fire` | Calm your breathing by the fire | 焚き火のそばで呼吸を整える |
+| `You count your breaths until the count stops mattering. Your spirit settles.` | You count your breaths until the count stops mattering. Your spirit settles. | 数えることに意味がなくなるまで呼吸を数える。精神が落ち着いていく。 |
+| `Eat with the road crews` | Eat with the road crews | 道路工夫たちと食事をする |
+| `The crews talk about blisters and sore backs. You listen more than you speak.` | The crews talk about blisters and sore backs. You listen more than you speak. | 工夫たちはまめや腰の痛みの話をする。あなたは話すより耳を傾ける。 |
+| `Take the ember slime calmly` | Take the ember slime calmly | 落ち着いて残り火スライムに挑む |
+| `You let the heat wash past you and keep your footing.` | You let the heat wash past you and keep your footing. | 熱が通り過ぎるのに任せ、足場を崩さない。 |
+| `Clear a Feeble Dungeon` | Clear a Feeble Dungeon | 虚弱のダンジョンを攻略する |
+| `The first dungeon feels small now. You walk it slowly, watching every step.` | The first dungeon feels small now. You walk it slowly, watching every step. | 最初のダンジョンも今では小さく感じる。一歩一歩に気を配りながら、ゆっくりと進む。 |
+| `Report your progress` | Report your progress | 進捗を報告する |
+| `The healer's runner takes your notes. 'She says you are nearly there.'` | The healer's runner takes your notes. 'She says you are nearly there.' | 治療師の使い走りがあなたのメモを受け取る。「あと少しだと、あの方が言っています」 |
+| `Cook for a tired party` | Cook for a tired party | 疲れたパーティのために料理する |
+| `You feed a party back from the deep. One of them falls asleep mid bite.` | You feed a party back from the deep. One of them falls asleep mid bite. | 深層から戻ったパーティに食事を振る舞う。一人がかじりかけのまま眠り込む。 |
+| `Clear a Dire Dungeon` | Clear a Dire Dungeon | 凶兆のダンジョンを攻略する |
+| `You come out of the Dire Dungeon with nothing worse than a bruise.` | You come out of the Dire Dungeon with nothing worse than a bruise. | 打ち身ひとつで凶兆のダンジョンから出てくる。 |
+| `Stand firm against a fell demon` | Stand firm against a fell demon | 邪悪のデーモン相手に踏みとどまる |
+| `The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.'` | The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.' | デーモンの一撃は重いが、あなたは倒れない。その後、治療師があなたを見つける。「軟膏と聖遺物だよ。与えられたんじゃない、勝ち取ったものだ」 |
+| `Mastery: Strike and Heft` | Mastery: Strike and Heft | 熟達：打撃と剛力 |
+| `A retired sergeant wants to see your first drills done properly again.` | A retired sergeant wants to see your first drills done properly again. | 退役した軍曹が、あなたの基礎訓練をもう一度きちんと見たがっている。 |
+| `Report to the old sergeant` | Report to the old sergeant | 老軍曹のもとへ出頭する |
+| `'Eighty years of swinging and you still lead with your shoulder? Back to the drills.'` | 'Eighty years of swinging and you still lead with your shoulder? Back to the drills.' | 「八十年も振るってきて、まだ肩から打ち込むのか？　基礎訓練からやり直しだ」 |
+| `Cut a practice staff` | Cut a practice staff | 練習用の杖を切り出す |
+| `You trim an ash branch to length. It is lighter than anything you carry now.` | You trim an ash branch to length. It is lighter than anything you carry now. | トネリコの枝を手頃な長さに切りそろえる。今持っているどの武器よりも軽い。 |
+| `Spar with a feeble goblin` | Spar with a feeble goblin | 虚弱のゴブリンと手合わせする |
+| `You win with the staff alone. The sergeant grunts something like approval.` | You win with the staff alone. The sergeant grunts something like approval. | 杖だけで勝つ。軍曹が称賛ともとれるうなり声を漏らす。 |
+| `Run the training trail` | Run the training trail | 訓練路を走る |
+| `Three laps, then three more. Your footwork comes back on the last one.` | Three laps, then three more. Your footwork comes back on the last one. | 三周、さらに三周。最後の一周で足さばきが戻ってくる。 |
+| `Beat a dire goblin cleanly` | Beat a dire goblin cleanly | 凶兆のゴブリンを鮮やかに倒す |
+| `No wasted swings. The sergeant counts them on his fingers.` | No wasted swings. The sergeant counts them on his fingers. | 無駄な一振りはない。軍曹が指折り数える。 |
+| `Eat with the garrison` | Eat with the garrison | 守備隊と食事をする |
+| `The garrison cook remembers the sergeant. 'He still shouts at everyone?'` | The garrison cook remembers the sergeant. 'He still shouts at everyone?' | 守備隊の料理番は軍曹を覚えている。「あの人、まだみんなに怒鳴ってるのかい？」 |
+| `Send word to the sergeant` | Send word to the sergeant | 軍曹に知らせを送る |
+| `You send a short note: two goblins down, footwork fixed.` | You send a short note: two goblins down, footwork fixed. | 短い手紙を送る。ゴブリン二体撃破、足さばき修正済み。 |
+| `Break a feeble skeleton` | Break a feeble skeleton | 虚弱のスケルトンを打ち砕く |
+| `Bone gives way under a clean blow. Heft without strike is noise, he always said.` | Bone gives way under a clean blow. Heft without strike is noise, he always said. | きれいな一撃で骨が砕ける。打撃なき剛力はただの騒音だと、彼はいつも言っていた。 |
+| `You clear it with the same drills you learned there.` | You clear it with the same drills you learned there. | そこで学んだのと同じ訓練で攻略する。 |
+| `Your party moves when you move. Good habits spread.` | Your party moves when you move. Good habits spread. | あなたが動けば、パーティも動く。良い習慣は広がるものだ。 |
+| `Have your blade reforged` | Have your blade reforged | 刃を打ち直してもらう |
+| `The smith grinds out years of nicks. It swings true again.` | The smith grinds out years of nicks. It swings true again. | 鍛冶屋が長年の刃こぼれを研ぎ落とす。再びまっすぐに振れるようになる。 |
+| `Fell an orc with clean blows` | Fell an orc with clean blows | きれいな打撃でオークを倒す |
+| `The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.'` | The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.' | オークは三撃で倒れる。軍曹が柄頭と握りを手渡す。「これで準備は整った」 |
+| `Mastery: Sight and Draw` | Mastery: Sight and Draw | 熟達：照準と引絞り |
+| `A hunter in the north asks you to shoot like a beginner again.` | A hunter in the north asks you to shoot like a beginner again. | 北の狩人が、もう一度初心者のように射ってみろと言う。 |
+| `Meet the northern hunter` | Meet the northern hunter | 北の狩人に会う |
+| `'You aim like someone who expects to hit. Good archers expect to miss. Come.'` | 'You aim like someone who expects to hit. Good archers expect to miss. Come.' | 「当たると思って狙っているな。良い射手は外れると思っているものだ。来い」 |
+| `Fletch a plain practice bow` | Fletch a plain practice bow | 素朴な練習用の弓を作る |
+| `No runes, no gems. Just yew and string.` | No runes, no gems. Just yew and string. | ルーンも宝石もない。イチイと弦だけだ。 |
+| `Scout the hills for targets` | Scout the hills for targets | 丘で標的を探す |
+| `You mark three trees and a stump at different ranges.` | You mark three trees and a stump at different ranges. | 距離の異なる三本の木と切り株一つに印をつける。 |
+| `Take down a dire gnoll` | Take down a dire gnoll | 凶兆のノールを仕留める |
+| `One arrow, placed where the hunter pointed. 'Better.'` | One arrow, placed where the hunter pointed. 'Better.' | 狩人が指した場所に一本の矢。「ましになった」 |
+| `Cut fresh arrow shafts` | Cut fresh arrow shafts | 新しい矢柄を切り出す |
+| `You pick straight stems and trim them by eye.` | You pick straight stems and trim them by eye. | まっすぐな茎を選び、目測で切りそろえる。 |
+| `Run the range drills` | Run the range drills | 射場の訓練をこなす |
+| `Shoot, move, shoot. Your breath and your release line up again.` | Shoot, move, shoot. Your breath and your release line up again. | 射って、動いて、射る。呼吸と矢を放つ瞬間が再びそろう。 |
+| `Hit a golem at the joints` | Hit a golem at the joints | ゴーレムの関節を射抜く |
+| `Stone is hard, joints are not. The golem folds.` | Stone is hard, joints are not. The golem folds. | 石は硬いが、関節はそうではない。ゴーレムが崩れ落ちる。 |
+| `You call targets for the whole party. Nobody wastes a shot.` | You call targets for the whole party. Nobody wastes a shot. | パーティ全員に標的を指示する。誰も無駄撃ちしない。 |
+| `Eat with the hunters` | Eat with the hunters | 狩人たちと食事をする |
+| `The hunters argue about wind. You agree with all of them.` | The hunters argue about wind. You agree with all of them. | 狩人たちは風について言い争う。あなたは全員に同意する。 |
+| `Bank your spare arrows` | Bank your spare arrows | 予備の矢を銀行に預ける |
+| `You store the spares. Travelling light is half the craft.` | You store the spares. Travelling light is half the craft. | 予備を預ける。身軽に旅することが技の半分だ。 |
+| `You shoot from the back row and never lose sight of the front.` | You shoot from the back row and never lose sight of the front. | 後列から射ながら、前列から一度も目を離さない。 |
+| `Bring down a fell gnoll` | Bring down a fell gnoll | 邪悪のノールを仕留める |
+| `Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.'` | Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.' | 二射、どちらも見事。狩人が矢筈と弦を手渡す。「持っておけ。そして外すのを減らし続けろ」 |
+| `Mastery: Focus and Surge` | Mastery: Focus and Surge | 熟達：集中と奔流 |
+| `An eastern mage wants your first spells cast without force or fuss.` | An eastern mage wants your first spells cast without force or fuss. | 東方の魔術師が、初歩の呪文を力まず淡々と唱えるよう求めている。 |
+| `Meet the eastern mage` | Meet the eastern mage | 東方の魔術師に会う |
+| `'You push power like a mule pushes a cart. Let us start again, smaller.'` | 'You push power like a mule pushes a cart. Let us start again, smaller.' | 「荷車を押すラバのように力を押し出しているな。もっと小さく、最初からやり直そう」 |
+| `Draw from a small fragment` | Draw from a small fragment | 小さな欠片から引き出す |
+| `The essence is faint. You have to listen for it.` | The essence is faint. You have to listen for it. | エッセンスはかすかだ。耳を澄まさなければならない。 |
+| `Charge a single dim essence` | Charge a single dim essence | 淡いエッセンスを一つ充填する |
+| `You charge it slowly. It holds better than anything you rushed.` | You charge it slowly. It holds better than anything you rushed. | ゆっくりと充填する。急いで作ったどれよりも安定している。 |
+| `Banish a feeble imp` | Banish a feeble imp | 虚弱のインプを退ける |
+| `A small spell, aimed well. The imp is gone before it can grin.` | A small spell, aimed well. The imp is gone before it can grin. | 小さな呪文を、正確に。インプはにやりと笑う間もなく消える。 |
+| `Read the runes in the ashes` | Read the runes in the ashes | 灰の中のルーンを読む |
+| `Old travellers left warding marks here. You copy them out.` | Old travellers left warding marks here. You copy them out. | 昔の旅人がここに守りの印を残していた。あなたはそれを書き写す。 |
+| `Tend a small herb plot` | Tend a small herb plot | 小さな薬草畑の世話をする |
+| `The mage wants patience practised. You weed until your mind goes quiet.` | The mage wants patience practised. You weed until your mind goes quiet. | 魔術師は忍耐の練習を望んでいる。心が静まるまで草を抜く。 |
+| `Unmake a dire lich` | Unmake a dire lich | 凶兆のリッチを滅ぼす |
+| `You break its ward with the marks from the ashes.` | You break its ward with the marks from the ashes. | 灰の中の印を使って、その結界を破る。 |
+| `You cast half as often and hit twice as hard.` | You cast half as often and hit twice as hard. | 唱える回数は半分、威力は二倍。 |
+| `Inscribe a beginner sigil` | Inscribe a beginner sigil | 初心者向けの印章を刻む |
+| `Simple lines, clean joins. The mage keeps it as a sample.` | Simple lines, clean joins. The mage keeps it as a sample. | 単純な線、きれいな継ぎ目。魔術師は見本として手元に置く。 |
+| `Send your notes east` | Send your notes east | メモを東へ送る |
+| `Your notes on the lich go back to the mage by courier.` | Your notes on the lich go back to the mage by courier. | リッチについてのメモが、使者の手で魔術師のもとへ届けられる。 |
+| `Your spells land on rhythm. The party fights to your timing.` | Your spells land on rhythm. The party fights to your timing. | 呪文がリズムに乗って決まる。パーティはあなたの間合いで戦う。 |
+| `Dispel a fell demon` | Dispel a fell demon | 邪悪のデーモンを祓う |
+| `One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.'` | One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.' | 集中した一度の奔流で、デーモンは散り散りになる。魔術師がオーブと触媒を手渡す。「小さな呪文で、大きな成果を」 |
+| `Mastery: Dodge and Defend` | Mastery: Dodge and Defend | 熟達：回避と防衛 |
+| `A shieldwright wants you to relearn when to block and when to move.` | A shieldwright wants you to relearn when to block and when to move. | 盾職人が、いつ受けていつ動くかを学び直させたがっている。 |
+| `Meet the shieldwright` | Meet the shieldwright | 盾職人に会う |
+| `'You block everything. Some things you should just not be standing in front of.'` | 'You block everything. Some things you should just not be standing in front of.' | 「何でも盾で受けるのね。前に立っていちゃいけないものだってあるのよ」 |
+| `Hammer out a practice shield` | Hammer out a practice shield | 練習用の盾を打ち出す |
+| `Plain iron, a little too heavy. That is the point, she says.` | Plain iron, a little too heavy. That is the point, she says. | ただの鉄で、少し重すぎる。それが肝心なのだと彼女は言う。 |
+| `Dodge a feeble rat` | Dodge a feeble rat | 虚弱のネズミをかわす |
+| `You step aside until it tires. You do not raise the shield once.` | You step aside until it tires. You do not raise the shield once. | 疲れるまで身をかわし続ける。盾は一度も上げない。 |
+| `Weave through the crowded alley` | Weave through the crowded alley | 混み合った路地をすり抜ける |
+| `Market day. You cross the alley without touching anyone.` | Market day. You cross the alley without touching anyone. | 市の日だ。誰にも触れずに路地を抜ける。 |
+| `Block a feeble treant` | Block a feeble treant | 虚弱のトレントを盾で防ぐ |
+| `Its branches thud off the shield. You keep your feet planted.` | Its branches thud off the shield. You keep your feet planted. | 枝が鈍い音を立てて盾に当たる。足は地につけたままだ。 |
+| `Hold against a dire treant` | Hold against a dire treant | 凶兆のトレントに耐える |
+| `Block, step, block. You stop thinking about which comes next.` | Block, step, block. You stop thinking about which comes next. | 受けて、踏み出して、受ける。次に何が来るかを考えなくなる。 |
+| `You take every hit meant for the party and none meant for you.` | You take every hit meant for the party and none meant for you. | パーティに向けられた攻撃はすべて受け、自分に向けられた攻撃は一つも受けない。 |
+| `Gather bark for shield padding` | Gather bark for shield padding | 盾の詰め物用に樹皮を集める |
+| `Soft bark, layered thick. Your arm will thank you.` | Soft bark, layered thick. Your arm will thank you. | 柔らかい樹皮を厚く重ねる。腕が感謝するだろう。 |
+| `Send the shieldwright word` | Send the shieldwright word | 盾職人に知らせを送る |
+| `You report the treant fights. She replies with a single word: 'Again.'` | You report the treant fights. She replies with a single word: 'Again.' | トレントとの戦いを報告する。返事はたった一言。「もう一度」 |
+| `You read every swing before it comes.` | You read every swing before it comes. | あらゆる攻撃を、来る前に読み切る。 |
+| `Reinforce the shield rim` | Reinforce the shield rim | 盾の縁を補強する |
+| `The smith adds a band of steel to the rim. It feels finished now.` | The smith adds a band of steel to the rim. It feels finished now. | 鍛冶屋が縁に鋼の帯を足す。これでようやく完成した気がする。 |
+| `Outlast a fell orc` | Outlast a fell orc | 邪悪のオークに耐え抜く |
+| `It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim.` | It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim. | オークはほとんど立てなくなるまで振り回し続ける。あなたは一度も動きを止めなかった。盾職人がばねとシムを手渡す。 |
+| `Mastery: Fish and Cook` | Mastery: Fish and Cook | 熟達：釣りと料理 |
+| `A fishwife who fed half the coast wants your first catch cooked right.` | A fishwife who fed half the coast wants your first catch cooked right. | 海岸の半分を食べさせてきた魚売りが、あなたの最初の獲物をきちんと料理させたがっている。 |
+| `Meet the old fishwife` | Meet the old fishwife | 年老いた魚売りに会う |
+| `'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.'` | 'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.' | 「大きな魚に、しゃれた鍋。最後にエビをちゃんと料理したのはいつだい？　確かめておいで」 |
+| `Cook over an open spit` | Cook over an open spit | 直火の串焼きで料理する |
+| `No kitchen, no spices. You keep the fire low and the fish whole.` | No kitchen, no spices. You keep the fire low and the fish whole. | 台所も香辛料もない。火は弱く、魚は丸ごとのまま。 |
+| `Fish the shallow pool` | Fish the shallow pool | 浅い池で釣る |
+| `You catch a shrimp and remember the first one you ever landed.` | You catch a shrimp and remember the first one you ever landed. | エビを釣り上げ、初めて釣った一匹を思い出す。 |
+| `Fish a quiet stream` | Fish a quiet stream | 静かな小川で釣る |
+| `The stream is slow and so are you. You stop rushing the line.` | The stream is slow and so are you. You stop rushing the line. | 流れはゆるやかで、あなたも同じだ。糸を急かすのをやめる。 |
+| `Grill your catch plainly` | Grill your catch plainly | 獲物を素朴に焼く |
+| `Salt and smoke. The fishwife would approve.` | Salt and smoke. The fishwife would approve. | 塩と煙。魚売りも認めるだろう。 |
+| `Try the far pool` | Try the far pool | 遠くの池を試す |
+| `A perch bites on the third cast. You let it run before you reel.` | A perch bites on the third cast. You let it run before you reel. | 三投目でパーチが食いつく。巻く前に走らせてやる。 |
+| `Fish the cold stream` | Fish the cold stream | 冷たい小川で釣る |
+| `Cold hands, quick fish. You learn to strike faster.` | Cold hands, quick fish. You learn to strike faster. | 冷たい手、素早い魚。合わせを速くすることを覚える。 |
+| `Cook at a mountain hearth` | Cook at a mountain hearth | 山の炉端で料理する |
+| `The hearth cook shows you how to keep fish from drying out.` | The hearth cook shows you how to keep fish from drying out. | 炉端の料理人が、魚をぱさつかせないコツを教えてくれる。 |
+| `Feed the mill workers` | Feed the mill workers | 製粉所の労働者に食事を振る舞う |
+| `You cook for a crew of twenty. Nothing comes back burned.` | You cook for a crew of twenty. Nothing comes back burned. | 二十人の作業員に料理を作る。焦げて戻ってくる皿は一つもない。 |
+| `Cook on the tidefield spit` | Cook on the tidefield spit | 潮原の串焼き場で料理する |
+| `The fishwife's cousin tastes your work and sends word up the coast.` | The fishwife's cousin tastes your work and sends word up the coast. | 魚売りのいとこがあなたの料理を味見し、海岸沿いに評判を伝える。 |
+| `Cook one perfect fillet` | Cook one perfect fillet | 完璧な切り身を一枚焼く |
+| `One fillet, cooked through, still soft. You eat it yourself.` | One fillet, cooked through, still soft. You eat it yourself. | 一枚の切り身、中まで火が通り、なおやわらかい。自分で食べる。 |
+| `Land a catch at the seaside` | Land a catch at the seaside | 海辺で獲物を釣り上げる |
+| `The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.'` | The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.' | 深海の魚は激しく抵抗するが、あなたは釣り上げる。魚売りが釣り竿とスキレットを送ってくる。「これであんたは立派な釣り人で料理人だよ」 |
+| `Mastery: Mine and Smith` | Mastery: Mine and Smith | 熟達：採掘と鍛冶 |
+| `A forge master wants proof you still respect plain copper and tin.` | A forge master wants proof you still respect plain copper and tin. | 鍛冶場の親方が、あなたがまだ素朴な銅と錫を大事にしているか確かめたがっている。 |
+| `Meet the forge master` | Meet the forge master | 鍛冶場の親方に会う |
+| `'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.'` | 'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.' | 「今じゃ希少な鉱石にしか触らないそうだな。この地の広間はどれも銅で建てられた。もう一度それを稼いでこい」 |
+| `Work a copper bar` | Work a copper bar | 銅の延べ棒を加工する |
+| `You fold the bar slowly. It rings clean.` | You fold the bar slowly. It rings clean. | ゆっくりと延べ棒を折り重ねる。澄んだ音が響く。 |
+| `Mine at the old quarry` | Mine at the old quarry | 古い採石場で採掘する |
+| `Copper and tin, by hand. Your swing settles into an old rhythm.` | Copper and tin, by hand. Your swing settles into an old rhythm. | 銅と錫を手作業で。振るうリズムが昔のものに落ち着いていく。 |
+| `Smelt your first batch` | Smelt your first batch | 最初の一窯を製錬する |
+| `You keep the heat even. No slag, no cracks.` | You keep the heat even. No slag, no cracks. | 熱を一定に保つ。鉱滓もひびもない。 |
+| `Follow a shallow vein` | Follow a shallow vein | 浅い鉱脈をたどる |
+| `The vein is thin but honest. You take only what it gives.` | The vein is thin but honest. You take only what it gives. | 鉱脈は細いが正直だ。与えてくれる分だけを取る。 |
+| `Quarry stone and ore` | Quarry stone and ore | 石と鉱石を切り出す |
+| `Wind cuts through the quarry. You work until the cart is full.` | Wind cuts through the quarry. You work until the cart is full. | 風が採石場を吹き抜ける。荷車が満杯になるまで働く。 |
+| `Chip out the iron seam` | Chip out the iron seam | 鉄の鉱脈を削り出す |
+| `The iron comes loose in good clean chunks.` | The iron comes loose in good clean chunks. | 鉄がきれいな塊でごろりと外れる。 |
+| `Forge a plain nail` | Forge a plain nail | 素朴な釘を鍛える |
+| `A nail is the hardest thing to forge well, the forge master said.` | A nail is the hardest thing to forge well, the forge master said. | 釘こそうまく鍛えるのが一番難しいと、鍛冶場の親方は言っていた。 |
+| `Mine beside the old camp` | Mine beside the old camp | 古い野営地のそばで採掘する |
+| `Old miners left their marks here. You add yours under theirs.` | Old miners left their marks here. You add yours under theirs. | 昔の鉱夫たちがここに印を残している。その下に自分の印を加える。 |
+| `Temper a beginner blade` | Temper a beginner blade | 初心者用の刃に焼き入れする |
+| `You quench it once and it holds an edge.` | You quench it once and it holds an edge. | 一度焼き入れすると、刃がしっかり立つ。 |
+| `Load a cart of ore` | Load a cart of ore | 荷車に鉱石を積む |
+| `You load and haul. Your back remembers its first summer here.` | You load and haul. Your back remembers its first summer here. | 積んでは運ぶ。背中がここで過ごした最初の夏を覚えている。 |
+| `Mine the deepest shaft` | Mine the deepest shaft | 最深の坑道で採掘する |
+| `You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.'` | You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.' | かすり傷一つなく深部から鉱石を運び出す。鍛冶場の親方がツルハシとハンマーを送ってくる。「始まりの場所に戻り、そしてはるか先へ進んだな」 |
+| `Mastery: Forage and Craft` | Mastery: Forage and Craft | 熟達：採集と製作 |
+| `A weaver asks you to gather and work the simplest materials again.` | A weaver asks you to gather and work the simplest materials again. | 織り手が、最も単純な素材をもう一度集めて加工するよう頼んでくる。 |
+| `Meet the weaver` | Meet the weaver | 織り手に会う |
+| `'You work dragonhide and starspun now. Show me you can still make good strips from leather.'` | 'You work dragonhide and starspun now. Show me you can still make good strips from leather.' | 「今はドラゴンの革や星紡ぎの糸を扱ってるのね。革からまだ良い細紐を作れるか見せて」 |
+| `Cut leather into strips` | Cut leather into strips | 革を細紐に切る |
+| `Even width, no ragged ends. The weaver checks every one.` | Even width, no ragged ends. The weaver checks every one. | 幅はそろい、端もほつれていない。織り手が一本一本確かめる。 |
+| `Gather from the wild patch` | Gather from the wild patch | 野生の茂みで集める |
+| `You pick slowly and leave the young growth alone.` | You pick slowly and leave the young growth alone. | ゆっくりと摘み、若い芽には手を付けない。 |
+| `Forage the woodland patch` | Forage the woodland patch | 森の茂みで採集する |
+| `Linen grows thick here. You fill a sack before noon.` | Linen grows thick here. You fill a sack before noon. | ここには亜麻がよく茂っている。昼前に袋がいっぱいになる。 |
+| `Search the fern thicket` | Search the fern thicket | シダの茂みを探す |
+| `Silk moths nest in the ferns. You take only the spent cocoons.` | Silk moths nest in the ferns. You take only the spent cocoons. | シダには絹蛾が巣を作っている。抜け殻の繭だけを取る。 |
+| `Gather on the rocky patch` | Gather on the rocky patch | 岩場の茂みで集める |
+| `Hardy plants, tough fibres. Good for rope.` | Hardy plants, tough fibres. Good for rope. | 丈夫な植物、強い繊維。ロープにちょうどいい。 |
+| `Spin linen into thread` | Spin linen into thread | 亜麻を糸に紡ぐ |
+| `You spin until the thread runs fine and even.` | You spin until the thread runs fine and even. | 糸が細く均一になるまで紡ぐ。 |
+| `Forage the hillside patch` | Forage the hillside patch | 丘の斜面の茂みで採集する |
+| `You know which leaves to take by touch now.` | You know which leaves to take by touch now. | どの葉を取るべきか、今では手触りでわかる。 |
+| `Gather hides from the thicket` | Gather hides from the thicket | 茂みから皮を集める |
+| `A hunter left hides to cure. You trade a day of work for them.` | A hunter left hides to cure. You trade a day of work for them. | 狩人がなめすために皮を置いていた。一日分の労働と引き換えに譲ってもらう。 |
+| `Forage the fort patch` | Forage the fort patch | 砦の茂みで採集する |
+| `The fort guards point you to a patch nobody else bothers with.` | The fort guards point you to a patch nobody else bothers with. | 砦の衛兵が、誰も気にかけない茂みを教えてくれる。 |
+| `Craft a simple satchel` | Craft a simple satchel | 簡素な肩掛け鞄を作る |
+| `Strips, thread and a buckle. It is the best thing you have made in years.` | Strips, thread and a buckle. It is the best thing you have made in years. | 細紐と糸とバックル。ここ何年かで作ったもののうち、一番の出来だ。 |
+| `Forage the deep wilds` | Forage the deep wilds | 深い荒野で採集する |
+| `You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel.` | You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel. | 希少な素材を手に、揺るがぬ手で荒野から戻る。織り手が鎌とノミを送ってくる。 |
+| `Mastery: Invoke and Imbue` | Mastery: Invoke and Imbue | 熟達：詠唱と付与 |
+| `An old enchanter wants your first dim essences drawn and charged again.` | An old enchanter wants your first dim essences drawn and charged again. | 年老いた付与術師が、淡いエッセンスをもう一度引き出して充填させたがっている。 |
+| `Meet the old enchanter` | Meet the old enchanter | 年老いた付与術師に会う |
+| `'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.'` | 'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.' | 「光輝、天上、神聖。最後に淡いエッセンスを充填したのはいつ？　そこから始めなさい」 |
+| `Charge a dim essence` | Charge a dim essence | 淡いエッセンスを充填する |
+| `It takes almost nothing to charge. That is what makes it hard.` | It takes almost nothing to charge. That is what makes it hard. | 充填にはほとんど何も要らない。だからこそ難しい。 |
+| `The fragment hums faintly. You draw from it without cracking it.` | The fragment hums faintly. You draw from it without cracking it. | 欠片がかすかにうなっている。割らないように、そこから引き出す。 |
+| `Charge at the glowing font` | Charge at the glowing font | 光る泉で充填する |
+| `You feed the font slowly. It answers in kind.` | You feed the font slowly. It answers in kind. | 泉にゆっくりと注ぎ込む。泉も同じように応えてくれる。 |
+| `Listen at the river fragment` | Listen at the river fragment | 川の欠片に耳を澄ます |
+| `Faint essence, carried on the river wind.` | Faint essence, carried on the river wind. | 川風に運ばれる、かすかなエッセンス。 |
+| `Charge a faint essence` | Charge a faint essence | かすかなエッセンスを充填する |
+| `Clean light. The enchanter would keep this one.` | Clean light. The enchanter would keep this one. | 澄んだ光。付与術師ならこれは手元に置くだろう。 |
+| `Trace the ruined sigil` | Trace the ruined sigil | 崩れた印章をなぞる |
+| `The old lines still hold power. You trace them without breaking them.` | The old lines still hold power. You trace them without breaking them. | 古い線にはまだ力が宿っている。壊さないようになぞる。 |
+| `Charge essence at the sigil` | Charge essence at the sigil | 印章でエッセンスを充填する |
+| `You charge three in a row without a flicker.` | You charge three in a row without a flicker. | 揺らぎ一つなく、三つ続けて充填する。 |
+| `Draw from the crystal` | Draw from the crystal | 水晶から引き出す |
+| `The crystal gives more than you ask. You take only what you need.` | The crystal gives more than you ask. You take only what you need. | 水晶は求めた以上を与えてくれる。必要な分だけを受け取る。 |
+| `Draw from the desert fragment` | Draw from the desert fragment | 砂漠の欠片から引き出す |
+| `Dry air, sharp essence. Your hands stay steady.` | Dry air, sharp essence. Your hands stay steady. | 乾いた空気、鋭いエッセンス。手はぶれない。 |
+| `Charge in the desert heat` | Charge in the desert heat | 砂漠の熱の中で充填する |
+| `The heat fights you. You win by going slower.` | The heat fights you. You win by going slower. | 熱があなたに抗う。ゆっくり進めることで打ち勝つ。 |
+| `Draw deep from the rift` | Draw deep from the rift | 裂け目から深く引き出す |
+| `The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism.` | The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism. | 裂け目からまばゆいエッセンスがあふれ出し、あなたはそのすべてを受け止める。付与術師が導管とプリズムを送ってくる。 |
+| `Mastery: Farm and Brew` | Mastery: Farm and Brew | 熟達：農耕と醸造 |
+| `A herbalist wants you to grow and brew the plainest remedies again.` | A herbalist wants you to grow and brew the plainest remedies again. | 薬草師が、最も素朴な薬をもう一度育てて醸造させたがっている。 |
+| `Meet the herbalist` | Meet the herbalist | 薬草師に会う |
+| `'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.'` | 'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.' | 「珍しい花に、しゃれた強壮剤。まだスカーミッシュルートを育てて、きれいに醸造できるかい？　見せてごらん」 |
+| `Plant skirmish root` | Plant skirmish root | スカーミッシュルートを植える |
+| `You plant in straight rows and water at dusk.` | You plant in straight rows and water at dusk. | まっすぐな列に植え、夕暮れに水をやる。 |
+| `Weed the farm plot` | Weed the farm plot | 畑の草取りをする |
+| `Weeds come up easy after rain. You clear the whole plot.` | Weeds come up easy after rain. You clear the whole plot. | 雨の後は雑草が簡単に抜ける。畑全体をきれいにする。 |
+| `Brew a simple tonic` | Brew a simple tonic | 簡単な強壮剤を醸造する |
+| `Root, water and patience. It comes out clear.` | Root, water and patience. It comes out clear. | 根と水と忍耐。澄んだ仕上がりになる。 |
+| `Harvest the hillside plot` | Harvest the hillside plot | 丘の斜面の畑で収穫する |
+| `The hill soil is thin. You coax a small harvest out of it.` | The hill soil is thin. You coax a small harvest out of it. | 丘の土は痩せている。なだめすかして、わずかな収穫を得る。 |
+| `Grow herbs in cold soil` | Grow herbs in cold soil | 冷たい土で薬草を育てる |
+| `Frost-hardy herbs, slow to grow and worth the wait.` | Frost-hardy herbs, slow to grow and worth the wait. | 霜に強い薬草は、育つのは遅いが待つ価値がある。 |
+| `Brew at the fern cauldron` | Brew at the fern cauldron | シダの大釜で醸造する |
+| `You let it simmer twice as long as you used to. It is better for it.` | You let it simmer twice as long as you used to. It is better for it. | 以前の倍の時間をかけて煮込む。そのほうが良い出来になる。 |
+| `Brew a calming draught` | Brew a calming draught | 鎮静の水薬を醸造する |
+| `The draught settles your own nerves before anyone else's.` | The draught settles your own nerves before anyone else's. | その水薬は、誰より先にあなた自身の神経を落ち着かせる。 |
+| `Brew for the mountain watch` | Brew for the mountain watch | 山の見張りのために醸造する |
+| `The watch drinks it cold. Nobody complains.` | The watch drinks it cold. Nobody complains. | 見張りたちはそれを冷たいまま飲む。誰も文句を言わない。 |
+| `Tend the pine plot` | Tend the pine plot | 松の畑の世話をする |
+| `Needles in the soil, sharp herbs in the rows.` | Needles in the soil, sharp herbs in the rows. | 土には松葉、畝には刺激の強い薬草。 |
+| `Brew one last plain remedy` | Brew one last plain remedy | 最後の素朴な薬を醸造する |
+| `The herbalist tastes it and nods once.` | The herbalist tastes it and nods once. | 薬草師はそれを味見し、一度だけうなずく。 |
+| `Brew a master tonic` | Brew a master tonic | 達人の強壮剤を醸造する |
+| `You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar.` | You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar. | 薬剤師が一度も作れなかった強壮剤を醸造する。薬草師が移植ごてと乳鉢を送ってくる。 |
+| `Mastery: Plunder and Barter` | Mastery: Plunder and Barter | 熟達：略奪と交易 |
+| `A retired fence wants to see you work the small markets honestly again.` | A retired fence wants to see you work the small markets honestly again. | 引退した故買屋が、小さな市場で正直に商売するあなたをもう一度見たがっている。 |
+| `Meet the retired fence` | Meet the retired fence | 引退した故買屋に会う |
+| `'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.'` | 'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.' | 「金庫を荒らして、市場ごと買い占めてるそうだな。スリを一回やって、盗んだ物を適正な値で売ってこい」 |
+| `Haggle at the small stalls` | Haggle at the small stalls | 小さな露店で値切る |
+| `You argue a copper off a loaf of bread. The baker laughs.` | You argue a copper off a loaf of bread. The baker laughs. | パン一斤から銅貨一枚を値切る。パン屋が笑う。 |
+| `Lift a purse in the alley` | Lift a purse in the alley | 路地で財布をすり取る |
+| `Small purse, quick hands. Nobody notices.` | Small purse, quick hands. Nobody notices. | 小さな財布、素早い手。誰も気づかない。 |
+| `Pick a lock in the alley` | Pick a lock in the alley | 路地で錠を開ける |
+| `An old padlock. You open it with a bent nail.` | An old padlock. You open it with a bent nail. | 古い南京錠。曲がった釘で開ける。 |
+| `Shadow a merchant` | Shadow a merchant | 商人を尾行する |
+| `You follow him for an hour and learn where he keeps his coin.` | You follow him for an hour and learn where he keeps his coin. | 一時間後をつけ、彼が金をどこにしまっているかを知る。 |
+| `Sell a stolen trinket` | Sell a stolen trinket | 盗んだ小物を売る |
+| `You sell it back to its owner for a fair price. The fence would approve.` | You sell it back to its owner for a fair price. The fence would approve. | 持ち主に適正な値で売り戻す。故買屋も認めるだろう。 |
+| `Slip past the watch` | Slip past the watch | 見張りの目をすり抜ける |
+| `The watch never looks up from their dice.` | The watch never looks up from their dice. | 見張りたちはサイコロから一度も顔を上げない。 |
+| `Trade at the dockside stalls` | Trade at the dockside stalls | 波止場の露店で取引する |
+| `Fish for rope, rope for coin. You come out ahead.` | Fish for rope, rope for coin. You come out ahead. | 魚をロープに、ロープを金に。最後には儲けが出る。 |
+| `Work the dock alley` | Work the dock alley | 波止場の路地でひと仕事する |
+| `Sailors keep loose coin. You keep some of it.` | Sailors keep loose coin. You keep some of it. | 船乗りは小銭を無造作に持ち歩いている。あなたはその一部をいただく。 |
+| `Lift a guard captain's keys` | Lift a guard captain's keys | 衛兵隊長の鍵をくすねる |
+| `You borrow them and return them before he notices.` | You borrow them and return them before he notices. | 彼が気づく前に借りて、返しておく。 |
+| `Fence goods in the cold alley` | Fence goods in the cold alley | 寒い路地で盗品を捌く |
+| `The buyer pays in full and asks no questions.` | The buyer pays in full and asks no questions. | 買い手は全額を払い、何も聞かない。 |
+| `Strike a deal at the pirate market` | Strike a deal at the pirate market | 海賊市場で取引をまとめる |
+| `You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales.` | You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales. | 海賊と値切り合い、最高の品を手に立ち去る。故買屋がロックピックと天秤を送ってくる。 |
+| `Mastery: Bard and Discover` | Mastery: Bard and Discover | 熟達：吟遊と探索 |
+| `A wandering minstrel wants new songs from the oldest campfires.` | A wandering minstrel wants new songs from the oldest campfires. | 放浪の吟遊詩人が、最も古い焚き火から生まれる新しい歌を求めている。 |
+| `Meet the wandering minstrel` | Meet the wandering minstrel | 放浪の吟遊詩人に会う |
+| `'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.'` | 'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.' | 「どの吟遊詩人も大広間で歌う。私が欲しいのは焚き火の歌と、誰も地図にしない場所なんだ」 |
+| `Sing at the campfire` | Sing at the campfire | 焚き火のそばで歌う |
+| `Two travellers and a dog. You play until they fall asleep.` | Two travellers and a dog. You play until they fall asleep. | 旅人が二人と犬が一匹。彼らが眠りに落ちるまで演奏する。 |
+| `Survey the nearby hills` | Survey the nearby hills | 近くの丘を調査する |
+| `You find an old marker stone and copy its carving.` | You find an old marker stone and copy its carving. | 古い標石を見つけ、その彫刻を書き写す。 |
+| `Map the frozen ridge` | Map the frozen ridge | 凍てついた尾根の地図を作る |
+| `Your map is rough but true. The minstrel likes rough.` | Your map is rough but true. The minstrel likes rough. | 地図は粗いが正確だ。吟遊詩人は粗いのが好きだ。 |
+| `Swap songs with the guards` | Swap songs with the guards | 衛兵と歌を交換する |
+| `The guards know a verse you have never heard. You trade one of yours for it.` | The guards know a verse you have never heard. You trade one of yours for it. | 衛兵たちは聞いたことのない一節を知っている。あなたの歌一つと引き換えに教わる。 |
+| `Search the old prospect` | Search the old prospect | 古い試掘跡を探す |
+| `Under loose stones you find a tin cup with initials scratched in.` | Under loose stones you find a tin cup with initials scratched in. | 緩んだ石の下で、イニシャルが刻まれたブリキのカップを見つける。 |
+| `Scout the frozen pass` | Scout the frozen pass | 凍てついた峠を偵察する |
+| `Wind has carved the pass into a strange shape. You sketch it.` | Wind has carved the pass into a strange shape. You sketch it. | 風が峠を奇妙な形に削っている。それをスケッチする。 |
+| `Play for the frost watch` | Play for the frost watch | 霜の見張りのために演奏する |
+| `The watch claps with mittens on. It sounds like rain.` | The watch claps with mittens on. It sounds like rain. | 見張りたちはミトンをはめたまま拍手する。雨音のようだ。 |
+| `Perform in the old tavern` | Perform in the old tavern | 古い酒場で演奏する |
+| `You play the guards' verse. The tavern sings it back.` | You play the guards' verse. The tavern sings it back. | 衛兵の一節を演奏する。酒場中が歌い返す。 |
+| `Write a song by the fire` | Write a song by the fire | 焚き火のそばで歌を作る |
+| `You write about the tin cup and the carved pass.` | You write about the tin cup and the carved pass. | ブリキのカップと削られた峠について書く。 |
+| `Find the lost marker` | Find the lost marker | 失われた標石を見つける |
+| `The last marker is half buried. You dig it out and read it.` | The last marker is half buried. You dig it out and read it. | 最後の標石は半分埋もれている。掘り出して読む。 |
+| `Chart the far reaches` | Chart the far reaches | 最果ての地の地図を作る |
+| `You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens.` | You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens. | 最果ての地の地図を作り、その地図に歌をのせる。吟遊詩人が楽器とレンズを送ってくる。 |
+| `Mastery: Vigor and Slay` | Mastery: Vigor and Slay | 熟達：活力と討伐 |
+| `A slayer captain wants your stamina and your first kills done right again.` | A slayer captain wants your stamina and your first kills done right again. | 討伐隊の隊長が、あなたの持久力と最初の討伐をもう一度きちんと見たがっている。 |
+| `Report to the slayer captain` | Report to the slayer captain | 討伐隊長のもとへ出頭する |
+| `'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?'` | 'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?' | 「この世で最悪のものを狩っているそうだな。結構。だが今でも訓練場を走って、ゴーレムをきちんと倒せるか？」 |
+| `Run the training yard` | Run the training yard | 訓練場を走る |
+| `Ten laps, carrying a sandbag. You finish the last one sprinting.` | Ten laps, carrying a sandbag. You finish the last one sprinting. | 砂袋を担いで十周。最後の一周は全力疾走で終える。 |
+| `Slay a feeble golem` | Slay a feeble golem | 虚弱のゴーレムを討伐する |
+| `You find the crack in its chest and strike there.` | You find the crack in its chest and strike there. | 胸のひび割れを見つけ、そこを打つ。 |
+| `Drill in the frozen yard` | Drill in the frozen yard | 凍った訓練場で鍛錬する |
+| `Ice underfoot. You learn to run without trusting the ground.` | Ice underfoot. You learn to run without trusting the ground. | 足元は氷。地面を信用せずに走ることを覚える。 |
+| `Slay a dire golem` | Slay a dire golem | 凶兆のゴーレムを討伐する |
+| `Same crack, bigger golem. It falls the same way.` | Same crack, bigger golem. It falls the same way. | 同じひび、より大きなゴーレム。同じように倒れる。 |
+| `Climb the frost wall` | Climb the frost wall | 霜の壁を登る |
+| `Hand over hand, no rope. Your arms burn and hold.` | Hand over hand, no rope. Your arms burn and hold. | ロープなしで手を交互に。腕が焼けるように痛むが、持ちこたえる。 |
+| `Sprint the mountain yard` | Sprint the mountain yard | 山の訓練場で全力疾走する |
+| `Thin air, long sprints. Your breath stays even.` | Thin air, long sprints. Your breath stays even. | 薄い空気、長い疾走。息は乱れない。 |
+| `Slay a dire skeleton` | Slay a dire skeleton | 凶兆のスケルトンを討伐する |
+| `You break it at the spine before it can rise.` | You break it at the spine before it can rise. | 起き上がる前に背骨を打ち砕く。 |
+| `Haul stone across the yard` | Haul stone across the yard | 訓練場の端から端へ石を運ぶ |
+| `You carry stones until the yard master runs out of them.` | You carry stones until the yard master runs out of them. | 訓練場の監督が石を切らすまで運び続ける。 |
+| `Run the breakwood course` | Run the breakwood course | ブレイクウッドのコースを走る |
+| `Logs, ditches, walls. You clear it twice.` | Logs, ditches, walls. You clear it twice. | 丸太、溝、壁。二度走破する。 |
+| `Slay a dire treant` | Slay a dire treant | 凶兆のトレントを討伐する |
+| `You take it apart one branch at a time.` | You take it apart one branch at a time. | 枝を一本ずつ落として解体する。 |
+| `Climb to the pinnacle` | Climb to the pinnacle | 頂上まで登る |
+| `You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.'` | You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.' | 止まらずに頂上へたどり着く。隊長がトレーニングシューズと間引きナイフを送ってくる。「何でも狩れる体だ」 |
+| `Mastery: Luck and Alms` | Mastery: Luck and Alms | 熟達：幸運と施し |
+| `An almoner believes fortune follows the generous. Spend a day proving it.` | An almoner believes fortune follows the generous. Spend a day proving it. | 施し役は、幸運は気前のよい者に訪れると信じている。一日かけてそれを証明しよう。 |
+| `Meet the almoner` | Meet the almoner | 施し役に会う |
+| `'Give freely and luck finds you. Most people never test it. Come and test it.'` | 'Give freely and luck finds you. Most people never test it. Come and test it.' | 「惜しまず与えれば、幸運が見つけてくれる。たいていの人は試しもしない。さあ、試しに来なさい」 |
+| `Feed a hungry child` | Feed a hungry child | 飢えた子に食べ物を与える |
+| `You buy bread for a child in the alley. On the way out you find a coin.` | You buy bread for a child in the alley. On the way out you find a coin. | 路地の子にパンを買ってやる。帰り道で硬貨を一枚見つける。 |
+| `Pay a stranger's debt` | Pay a stranger's debt | 見知らぬ人の借金を払う |
+| `The stallholder is stunned. Then she gives you a lucky charm she carved.` | The stallholder is stunned. Then she gives you a lucky charm she carved. | 露店の店主は呆然とする。それから、自分で彫った幸運チャームをくれる。 |
+| `Buy a smith his tools back` | Buy a smith his tools back | 鍛冶屋に道具を買い戻してやる |
+| `The smith had pawned his hammer. You buy it back for him.` | The smith had pawned his hammer. You buy it back for him. | 鍛冶屋はハンマーを質に入れていた。あなたが代わりに買い戻す。 |
+| `Donate to the town chest` | Donate to the town chest | 町の募金箱に寄付する |
+| `The banker counts your gift twice to be sure.` | The banker counts your gift twice to be sure. | 銀行員が念のため、あなたの寄付を二度数える。 |
+| `Leave coin for the wardens` | Leave coin for the wardens | 番人たちに硬貨を残す |
+| `The wardens are grateful. One of them gives you a tip about a dice game.` | The wardens are grateful. One of them gives you a tip about a dice game. | 番人たちは感謝する。一人がサイコロ賭博の耳寄りな話を教えてくれる。 |
+| `Play dice with the wardens` | Play dice with the wardens | 番人たちとサイコロ遊びをする |
+| `You win three rolls in a row and give the winnings back.` | You win three rolls in a row and give the winnings back. | 三回続けて勝ち、勝ち分を返す。 |
+| `Plant a clover for luck` | Plant a clover for luck | 幸運を願ってクローバーを植える |
+| `You find a four-leaf clover while planting. The almoner is not surprised.` | You find a four-leaf clover while planting. The almoner is not surprised. | 植えている最中に四つ葉のクローバーを見つける。施し役は驚かない。 |
+| `Fund the village well` | Fund the village well | 村の井戸に出資する |
+| `The village will have clean water by spring.` | The village will have clean water by spring. | 春までには村にきれいな水が届くだろう。 |
+| `Pay the dockhands' wages` | Pay the dockhands' wages | 港湾労働者の賃金を払う |
+| `The harbour master had run short. The dockhands cheer.` | The harbour master had run short. The dockhands cheer. | 港湾長の資金が足りなくなっていた。港湾労働者たちが歓声を上げる。 |
+| `Buy out a poor trader` | Buy out a poor trader | 貧しい商人の品を買い占める |
+| `You buy her last fish at full price. She swears it will bring you luck.` | You buy her last fish at full price. She swears it will bring you luck. | 彼女の最後の魚を定価で買う。きっと幸運をもたらすと彼女は誓う。 |
+| `Give at the great market` | Give at the great market | 大市場で施しをする |
+| `You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer.` | You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer. | 市場で財布ごと施し、帰り道でくじ引きに当たる。施し役がチャームと香炉を送ってくる。 |
+| `Mastery: Delve and Fortify` | Mastery: Delve and Fortify | 熟達：探窟と堅守 |
+| `A raid veteran wants every dungeon and Fortress wave run from the start.` | A raid veteran wants every dungeon and Fortress wave run from the start. | レイドの古参兵が、すべてのダンジョンとガントレットのウェーブを最初から走破させたがっている。 |
+| `Meet the raid veteran` | Meet the raid veteran | レイドの古参兵に会う |
+| `'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.'` | 'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.' | 「最難関のレイドを目をつぶってこなしているそうだな。目を開けろ。最初のダンジョンから始めるんだ」 |
+| `Hear the delvers' stories` | Hear the delvers' stories | 探窟者たちの話を聞く |
+| `Old delvers trade stories of the first dungeon. You learn a route you never knew.` | Old delvers trade stories of the first dungeon. You learn a route you never knew. | 古参の探窟者たちが最初のダンジョンの話を交わす。知らなかったルートを教わる。 |
+| `You clear it using the old route. It is faster than yours.` | You clear it using the old route. It is faster than yours. | その古いルートを使って攻略する。自分のルートより速い。 |
+| `Hold the Fortress for 20 waves` | Hold the Fortress for 20 waves | ガントレットで20ウェーブ耐える |
+| `You hold the walls with plain supplies. Twenty waves, no losses.` | You hold the walls with plain supplies. Twenty waves, no losses. | ありふれた物資で城壁を守り抜く。二十ウェーブ、損失なし。 |
+| `Restock near the Fortress` | Restock near the Fortress | ガントレットの近くで補給する |
+| `You restock and swap stories with the Fortress crews.` | You restock and swap stories with the Fortress crews. | 補給を済ませ、ガントレットの隊員たちと話を交わす。 |
+| `Patch your raid gear` | Patch your raid gear | レイド装備を修繕する |
+| `Torn straps, cracked buckles. You fix them all yourself.` | Torn straps, cracked buckles. You fix them all yourself. | 千切れた革紐、ひびの入ったバックル。すべて自分で直す。 |
+| `You lead the party and let them set the pace.` | You lead the party and let them set the pace. | パーティを率い、ペースは仲間に任せる。 |
+| `Hold the Fortress for 40 waves` | Hold the Fortress for 40 waves | ガントレットで40ウェーブ耐える |
+| `Forty waves. Your deposits never stop.` | Forty waves. Your deposits never stop. | 四十ウェーブ。預け入れは一度も途切れない。 |
+| `Plan the Savage run` | Plan the Savage run | 獰猛のダンジョン攻略を計画する |
+| `The veteran's notes cover every room. You add a few of your own.` | The veteran's notes cover every room. You add a few of your own. | 古参兵のメモはすべての部屋を網羅している。あなたも少し書き足す。 |
+| `Clear a Savage Dungeon` | Clear a Savage Dungeon | 獰猛のダンジョンを攻略する |
+| `The Savage Dungeon goes the way the notes said it would.` | The Savage Dungeon goes the way the notes said it would. | 獰猛のダンジョンはメモの通りに進む。 |
+| `Hold the Fortress for 60 waves` | Hold the Fortress for 60 waves | ガントレットで60ウェーブ耐える |
+| `Sixty waves. The walls hold because you planned them to.` | Sixty waves. The walls hold because you planned them to. | 六十ウェーブ。そう計画したからこそ、城壁は持ちこたえる。 |
+| `Clear a Fell Dungeon` | Clear a Fell Dungeon | 邪悪のダンジョンを攻略する |
+| `You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification.` | You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification. | 最初の部屋から最後の部屋まで、邪悪のダンジョンを攻略する。古参兵が髑髏と防塁を送ってくる。 |
+| `Gather the masters` | Gather the masters | 達人たちを集める |
+| `Harvest the great orchard` | Harvest the great orchard | 大果樹園で収穫する |
+| `The best trees in the land, picked clean and left healthy.` | The best trees in the land, picked clean and left healthy. | この地で最高の木々。すっかり摘み取っても、木は元気なままだ。 |
+| `Fish the open sea` | Fish the open sea | 外洋で釣る |
+| `You bring in a catch the fishwife would frame.` | You bring in a catch the fishwife would frame. | 魚売りが額に入れて飾りたくなるほどの獲物を釣り上げる。 |
+| `Draw from the obelisk` | Draw from the obelisk | オベリスクから引き出す |
+| `The obelisk gives freely to someone who asks properly.` | The obelisk gives freely to someone who asks properly. | オベリスクは、正しく求める者には惜しみなく与える。 |
+| `Work the underground` | Work the underground | 地下街でひと仕事する |
+| `You take what you came for and leave no trace.` | You take what you came for and leave no trace. | 目当ての物を手に入れ、痕跡一つ残さない。 |
+| `Trade at the grand market` | Trade at the grand market | 大市場で取引する |
+| `Every stall gives you its best price.` | Every stall gives you its best price. | どの露店も一番の値で応じてくれる。 |
+| `Forge at the great foundry` | Forge at the great foundry | 大鋳造所で鍛える |
+| `The foundry's masters stop to watch you work.` | The foundry's masters stop to watch you work. | 鋳造所の親方たちが手を止めて、あなたの仕事ぶりを見守る。 |
+| `Perform at the royal court` | Perform at the royal court | 王宮で演奏する |
+| `The court stands for your last song.` | The court stands for your last song. | あなたの最後の歌に、宮廷中が立ち上がる。 |
+| `Craft at the syndicate atelier` | Craft at the syndicate atelier | シンジケートの工房で製作する |
+| `You craft a piece the atelier keeps on display.` | You craft a piece the atelier keeps on display. | 工房が展示しておくほどの作品を作り上げる。 |
+| `Forage the far wilds` | Forage the far wilds | 遠き荒野で採集する |
+| `The wilds give up their rarest growth to you.` | The wilds give up their rarest growth to you. | 荒野が最も希少な恵みをあなたに差し出す。 |
+| `Run the long valley` | Run the long valley | 長い谷を走る |
+| `You run it end to end and keep your breath.` | You run it end to end and keep your breath. | 端から端まで走り抜け、息も乱れない。 |
+| `The masters have one more test, at the edges of the world.` | The masters have one more test, at the edges of the world. | 達人たちには、世界の果てでもう一つ試練がある。 |
+| `Meet the masters again` | Meet the masters again | 再び達人たちに会う |
+| `Forage the deep hollows` | Forage the deep hollows | 深い窪地で採集する |
+| `You find growth down here no forager has named.` | You find growth down here no forager has named. | ここで、どの採集者も名付けたことのない植物を見つける。 |
+| `Mine the high ledge` | Mine the high ledge | 高い岩棚で採掘する |
+| `Ore from the ledge, brought down without a single slip.` | Ore from the ledge, brought down without a single slip. | 岩棚の鉱石を、一度も足を滑らせることなく運び下ろす。 |
+| `Fish the eastern coast` | Fish the eastern coast | 東の海岸で釣る |
+| `You land a fish from water nobody fishes.` | You land a fish from water nobody fishes. | 誰も釣らない海で魚を釣り上げる。 |
+| `Chart the ruined coast` | Chart the ruined coast | 荒廃した海岸の地図を作る |
+| `Your chart corrects three maps the cartographers trusted.` | Your chart corrects three maps the cartographers trusted. | あなたの海図は、地図製作者たちが信頼していた地図三枚を正す。 |
+| `Charge essence at the arc` | Charge essence at the arc | アークでエッセンスを充填する |
+| `The arc burns bright and steady in your hands.` | The arc burns bright and steady in your hands. | アークがあなたの手の中で明るく安定して燃える。 |
+| `Cook a feast for the masters` | Cook a feast for the masters | 達人たちのために宴の料理を作る |
+| `Fifteen masters, one table. Every plate comes back clean.` | Fifteen masters, one table. Every plate comes back clean. | 十五人の達人、一つの食卓。どの皿もきれいに空になって戻ってくる。 |
+| `Draw from the last obelisk` | Draw from the last obelisk | 最後のオベリスクから引き出す |
+| `The obelisk at the end of the world answers you.` | The obelisk at the end of the world answers you. | 世界の果てのオベリスクがあなたに応える。 |
+| `Play the eastern court` | Play the eastern court | 東方の宮廷で演奏する |
+| `The court asks for the campfire songs. You play them all.` | The court asks for the campfire songs. You play them all. | 宮廷は焚き火の歌を所望する。あなたはそのすべてを演奏する。 |
+| `Brew the masters' remedy` | Brew the masters' remedy | 達人たちの薬を醸造する |
+| `A remedy built from every plain herb you grew.` | A remedy built from every plain herb you grew. | あなたが育ててきたすべての素朴な薬草から作られた薬。 |
+| `Bargain with the pirate lords` | Bargain with the pirate lords | 海賊の王たちと交渉する |
+| `The pirate lords pay you to leave.` | The pirate lords pay you to leave. | 海賊の王たちは、立ち去ってもらうためにあなたに金を払う。 |
+| `Clear an Ancient Dungeon` | Clear an Ancient Dungeon | 古代のダンジョンを攻略する |
+| `The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.'` | The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.' | 達人たちが最古のダンジョンで待っている。彼らは二つ目の天球とランタンを手渡す。「もう証明すべきことは何も残っていない」 |
+| `[Q1] Enchanted Rod` | [Q1] Enchanted Rod | [Q1] 魔法付与の釣り竿 |
+| `[Q1] Enchanted Pickaxe` | [Q1] Enchanted Pickaxe | [Q1] 魔法付与のツルハシ |
+| `[Q1] Enchanted Sickle` | [Q1] Enchanted Sickle | [Q1] 魔法付与の鎌 |
+| `[Q1] Enchanted Conduit` | [Q1] Enchanted Conduit | [Q1] 魔法付与の導管 |
+| `[Q1] Enchanted Trowel` | [Q1] Enchanted Trowel | [Q1] 魔法付与のこて |
+| `[Q1] Enchanted Lockpick` | [Q1] Enchanted Lockpick | [Q1] 魔法付与のロックピック |
+| `[Q1] Enchanted Instrument` | [Q1] Enchanted Instrument | [Q1] 魔法付与の楽器 |
+| `[Q1] Enchanted Trainers` | [Q1] Enchanted Trainers | [Q1] 魔法付与のトレーナー |
+| `[Q1] Culling Knife` | [Q1] Culling Knife | [Q1] 間引きナイフ |
+| `[Q1] Lucky Charm` | [Q1] Lucky Charm | [Q1] 幸運チャーム |
+| `[Q1] Enchanted Censer` | [Q1] Enchanted Censer | [Q1] 魔法付与の香炉 |
+| `[Q1] Enchanted Skillet` | [Q1] Enchanted Skillet | [Q1] 魔法付与のスキレット |
+| `[Q1] Enchanted Hammer` | [Q1] Enchanted Hammer | [Q1] 魔法付与のハンマー |
+| `[Q1] Enchanted Chisel` | [Q1] Enchanted Chisel | [Q1] 魔法付与のノミ |
+| `[Q1] Enchanted Prism` | [Q1] Enchanted Prism | [Q1] 魔法付与のプリズム |
+| `[Q1] Enchanted Mortar` | [Q1] Enchanted Mortar | [Q1] 魔法付与の乳鉢 |
+| `[Q1] Enchanted Scales` | [Q1] Enchanted Scales | [Q1] 魔法付与の鱗 |
+| `[Q1] Enchanted Lens` | [Q1] Enchanted Lens | [Q1] 魔法付与のレンズ |
+| `[Q1] Enchanted Lantern` | [Q1] Enchanted Lantern | [Q1] 魔法付与のランタン |
+| `[Q1] Enchanted Pommel` | [Q1] Enchanted Pommel | [Q1] 魔法付与のポンメル |
+| `[Q1] Enchanted Grip` | [Q1] Enchanted Grip | [Q1] 魔法付与のグリップ |
+| `[Q1] Enchanted Notch` | [Q1] Enchanted Notch | [Q1] 魔法付与の切り込み |
+| `[Q1] Enchanted Bowstring` | [Q1] Enchanted Bowstring | [Q1] 魔法付与の弓弦 |
+| `[Q1] Enchanted Orb` | [Q1] Enchanted Orb | [Q1] 魔法付与のオーブ |
+| `[Q1] Enchanted Catalyst` | [Q1] Enchanted Catalyst | [Q1] 魔法付与の触媒 |
+| `[Q1] Enchanted Spring` | [Q1] Enchanted Spring | [Q1] 魔法付与のバネ |
+| `[Q1] Enchanted Shim` | [Q1] Enchanted Shim | [Q1] 魔法付与のシム |
+| `[Q1] Enchanted Salve` | [Q1] Enchanted Salve | [Q1] 魔法付与の軟膏 |
+| `[Q1] Enchanted Relic` | [Q1] Enchanted Relic | [Q1] 魔法付与のレリック |
+| `[T1] Globe of Skills` | [T1] Globe of Skills | [T1] スキルの天球 |
+| `[T2] Globe of Skills` | [T2] Globe of Skills | [T2] スキルの天球 |
+| `[Q1] Enchanted Skull` | [Q1] Enchanted Skull | [Q1] 魔法付与の頭蓋骨 |
+| `[Q1] Enchanted Fortification` | [Q1] Enchanted Fortification | [Q1] 魔法付与の城塞 |
+| `Earned by completing every quest. New quests re-lock it until they are done.` | Earned by completing every quest. New quests re-lock it until they are done. | すべてのクエストを完了すると獲得。新しいクエストが追加されると、それらを完了するまで再びロックされる。 |
+| `New quests have arrived. Complete them to earn your Quest Cape back.` | New quests have arrived. Complete them to earn your Quest Cape back. | 新しいクエストが追加されました。クリアしてクエストケープを取り戻しましょう。 |
+| `Quest Cape Unlocked!` | Quest Cape Unlocked! | クエストケープを解放しました！ |
+| `Unlock Requirements` | Unlock Requirements | 解放要件 |
+| `Q1` | Q1 | Q1 |
+| `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | スキルの天球: +{0}% (+{1} 歩/秒) |
+| `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | クエストケープ: +{0}% (+{1} 歩/秒) |
+| `@crit_pct_globes` | Globes of Skills: {0}% | スキルの天球：{0}% |
+| `@globes_count` | Globes of Skills {0}/{1} | スキルの天球 {0}/{1} |
+| `@quest_cape_count` | Quest Cape {0}/{1} | クエストケープ {0}/{1} |
+| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | 全クエスト完了中は移動速度+{0}% |
+| `@all_skills_lv` | All Skills Lv {0} | 全スキル Lv {0} |
+| `@b:auto_process` | +{0}% auto-process chance | 自動加工確率+{0}% |
+| `@b:auto_bank` | +{0}% auto-bank chance | 自動預け入れ確率+{0}% |
+| `@b:min_hit` | +{0} min hit | 最小ダメージ+{0} |
+| `@b:max_hit` | +{0} max hit | 最大ダメージ+{0} |
+| `@b:quest_cape_held` | Held while every quest is completed | 全クエスト完了中に保持 |
+| `Mastery: The Feeble Trial` | Mastery: The Feeble Trial | 熟達：虚弱の試練 |
+| `The masters test anyone who has survived a dungeon. The first trial starts close to home.` | The masters test anyone who has survived a dungeon. The first trial starts close to home. | 達人たちは、ダンジョンを生き延びた者なら誰でも試す。最初の試練は身近な場所から始まる。 |
+| `Meet the masters at Fernstead` | Meet the masters at Fernstead | ファーンステッドで達人たちに会う |
+| `A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.'` | A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.' | 質素な外套をまとった達人が銀行のそばで待っている。「ダンジョンの中はもう見てきたな。では、小さなことをきちんとこなせるところを見せてもらおう」 |
+| `Cook at the Fernstead hearth` | Cook at the Fernstead hearth | ファーンステッドの炉端で料理する |
+| `Simple bread, baked right. The master takes a bite and nods.` | Simple bread, baked right. The master takes a bite and nods. | 素朴なパンを、正しく焼き上げる。達人はひと口かじって、うなずく。 |
+| `Haggle at the stalls` | Haggle at the stalls | 露店で値切る |
+| `You walk away with a fair price and a new friend.` | You walk away with a fair price and a new friend. | 適正な値段と新しい友人を手に入れて、その場を後にする。 |
+| `Tend the Fernstead field` | Tend the Fernstead field | ファーンステッドの畑を手入れする |
+| `Straight rows and no weeds. The farmer asks who taught you.` | Straight rows and no weeds. The farmer asks who taught you. | まっすぐな畝に、雑草一本ない。農夫が、誰に教わったのかと尋ねる。 |
+| `Forage the thicket` | Forage the thicket | 茂みで採集する |
+| `You come out with a full basket and not one scratch.` | You come out with a full basket and not one scratch. | かごをいっぱいにして、かすり傷一つなく出てくる。 |
+| `Survey the Woodgap hills` | Survey the Woodgap hills | ウッドギャップの丘を調査する |
+| `Your notes fill the gaps on the old survey map.` | Your notes fill the gaps on the old survey map. | あなたの記録が、古い調査地図の空白を埋めていく。 |
+| `Work the Ironice smithy` | Work the Ironice smithy | アイアンアイスの鍛冶場で働く |
+| `A plain blade, balanced and sharp. The smith hangs it on the wall.` | A plain blade, balanced and sharp. The smith hangs it on the wall. | 飾り気のない刃。釣り合いがよく、鋭い。鍛冶屋はそれを壁に掛ける。 |
+| `Cut stone at the quarry` | Cut stone at the quarry | 採石場で石を切り出す |
+| `Clean blocks, cut square. The quarry boss has no complaints.` | Clean blocks, cut square. The quarry boss has no complaints. | きれいな石材を、四角く切り出す。採石場の親方も文句なしだ。 |
+| `Play at the Splitstone campfire` | Play at the Splitstone campfire | スプリットストーンの焚き火で演奏する |
+| `Travelers stop to listen. One of them is a master.` | Travelers stop to listen. One of them is a master. | 旅人たちが足を止めて耳を傾ける。そのうちの一人は達人だ。 |
+| `Work the Pinegap alley` | Work the Pinegap alley | パインギャップの路地でひと仕事する |
+| `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | 財布をすり取り、持ち主が気づく前に返す。達人は声を上げて笑う。 |
+| `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | パインギャップのクリスタルから引き出す |
+| `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | クリスタルが低く唸り、エッセンスが澄んだまま取り出される。 |
+| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | 達人たちがダンジョンの入口で待っている。「よい滑り出しだ。次の試練はもっと遠くで行う」 |
+| `Mastery: The Dire Trial` | Mastery: The Dire Trial | 熟達：凶兆の試練 |
+| `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | 第二の試練は、あなたを寒い西方へと連れていく。そこの達人たちは、いっそう懸命に働いている。 |
+| `Meet the masters at Timberchill` | Meet the masters at Timberchill | ティンバーチルで達人たちに会う |
+| `'The first trial was easy on purpose. This one is not.'` | 'The first trial was easy on purpose. This one is not.' | 「最初の試練は、わざと易しくしておいた。今回はそうはいかない」 |
+| `Join the Timberchill expedition` | Join the Timberchill expedition | ティンバーチルの遠征に加わる |
+| `You lead the expedition home with a full map and every pack mule.` | You lead the expedition home with a full map and every pack mule. | 地図を余すところなく埋め、荷運びのラバも一頭も欠かさずに、遠征隊を率いて帰還する。 |
+| `Cook in the Icemast kitchen` | Cook in the Icemast kitchen | アイスマストの厨房で料理する |
+| `Hot stew for a cold crew. Everyone asks for seconds.` | Hot stew for a cold crew. Everyone asks for seconds. | 凍えた一行に熱いシチュー。誰もがおかわりを求める。 |
+| `Fish the frozen lake` | Fish the frozen lake | 凍った湖で釣る |
+| `You cut a hole in the ice and fill a bucket before noon.` | You cut a hole in the ice and fill a bucket before noon. | 氷に穴を開け、昼前にはバケツをいっぱいにする。 |
+| `Forge at the Battlefrost smithy` | Forge at the Battlefrost smithy | バトルフロストの鍛冶場で鍛える |
+| `Armor for the frontier guard, every plate fitted.` | Armor for the frontier guard, every plate fitted. | 辺境警備隊のための鎧。どの板金もぴたりと合う。 |
+| `Brew for the Battlefrost garrison` | Brew for the Battlefrost garrison | バトルフロストの駐屯兵のために醸造する |
+| `A strong ale for a long winter. The garrison approves.` | A strong ale for a long winter. The garrison approves. | 長い冬に備えた強いエール。駐屯兵たちも満足げだ。 |
+| `Play the Battlefrost tavern` | Play the Battlefrost tavern | バトルフロストの酒場で演奏する |
+| `A tavern full of soldiers sings along.` | A tavern full of soldiers sings along. | 兵士でいっぱいの酒場が、声を合わせて歌い出す。 |
+| `Draw from the Windhollow rift` | Draw from the Windhollow rift | ウィンドホロウの裂け目から引き出す |
+| `The rift pulls back. You pull harder.` | The rift pulls back. You pull harder. | 裂け目が引っ張り返してくる。あなたはさらに強く引く。 |
+| `Charge the Windhollow conduit` | Charge the Windhollow conduit | ウィンドホロウの導管を充填する |
+| `The conduit glows steady for the first time in years.` | The conduit glows steady for the first time in years. | 導管が、何年ぶりかで安定した光を放つ。 |
+| `Tend the Windhollow greenhouse` | Tend the Windhollow greenhouse | ウィンドホロウの温室を手入れする |
+| `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | 真冬のさなかに、青々とした葉。 |
+| `Mine the Icevein seams` | Mine the Icevein seams | アイスヴェインの鉱脈を掘る |
+| `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | 鉱夫たちが見限った鉱脈を、あなたが見つけ出す。 |
+| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 「寒さの中でよく持ちこたえたな。次は、重圧の中での君を見せてもらおう」 |
+| `Mastery: The Savage Trial` | Mastery: The Savage Trial | 熟達：獰猛の試練 |
+| `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | 第三の試練は賑やかな南を巡る。そこでは、どの仕事にも達人の目が光っている。 |
+| `Meet the masters at Shortha` | Meet the masters at Shortha | ショーサで達人たちに会う |
+| `'The south is loud and crowded. Do your best work anyway.'` | 'The south is loud and crowded. Do your best work anyway.' | 「南は騒がしくて人も多い。それでも最高の仕事をしてみせろ」 |
+| `Build at the Shortha workshop` | Build at the Shortha workshop | ショーサの工作場で組み立てる |
+| `A cabinet with no gaps and no nails. The carpenter wants to buy it.` | A cabinet with no gaps and no nails. The carpenter wants to buy it. | 隙間一つなく、釘も一本も使わない戸棚。大工が買い取りたいと言い出す。 |
+| `Perform at the Shortha theatre` | Perform at the Shortha theatre | ショーサの劇場で公演する |
+| `The crowd stays on its feet until the lamps go out.` | The crowd stays on its feet until the lamps go out. | 明かりが落ちるまで、観客は総立ちのままだ。 |
+| `Draw from the Shortha rift` | Draw from the Shortha rift | ショーサの裂け目から引き出す |
+| `The rift spits sparks. You take what you need.` | The rift spits sparks. You take what you need. | 裂け目が火花を吐き出す。あなたは必要な分だけ取っていく。 |
+| `Pull the Shortha heist` | Pull the Shortha heist | ショーサで強奪を決行する |
+| `In and out without a sound. The master checks the lock twice.` | In and out without a sound. The master checks the lock twice. | 音もなく入り、音もなく出る。達人は錠前を二度確かめる。 |
+| `Run the Shortha kitchen` | Run the Shortha kitchen | ショーサの厨房を切り盛りする |
+| `Two hundred plates in one night. None come back.` | Two hundred plates in one night. None come back. | 一晩で二百皿。突き返された皿は一枚もない。 |
+| `Forage the Gilshore grove` | Forage the Gilshore grove | ギルショアの木立で採集する |
+| `You find the herbs the grove keeper hides from buyers.` | You find the herbs the grove keeper hides from buyers. | 木立の番人が客に隠している薬草を見つけ出す。 |
+| `Fish off the Gilshore coast` | Fish off the Gilshore coast | ギルショアの沖で釣る |
+| `A heavy net, hauled in alone.` | A heavy net, hauled in alone. | 重い網を、一人で引き揚げる。 |
+| `Charge the Farmhold conduit` | Charge the Farmhold conduit | ファームホールドの導管を充填する |
+| `The conduit takes a full charge and holds it.` | The conduit takes a full charge and holds it. | 導管はたっぷりと充填され、そのまま力を保つ。 |
+| `Run the Farmhold valley` | Run the Farmhold valley | ファームホールドの谷を走る |
+| `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | わざわざ谷を二度走り抜けて、力を見せつける。 |
+| `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | リバーウォッチの鋳造所で鋳込む |
+| `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | 気泡一つないきれいな鋳込み。鋳造所の職人たちが拍手する。 |
+| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 「よし。天球が待っているのは、最後の二つの試練だ」 |
+| `Mastery: The Fell Trial` | Mastery: The Fell Trial | 熟達：邪悪の試練 |
+| `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | 第四の試練では、この地で最高の仕事場を巡ることになる。 |
+| `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | 達人たちが銀行に詰めかける。「三つの試練を終えたな。では、この地で最高の仕事を見せてくれ」 |
+| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | 達人たちがダンジョンの入口で待っている。彼らはあなたにガラスの天球を手渡す。「第一の天球だ。これまでのすべての試練が込められている」 |
+| `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | 熟達：古代の試練 |
+| `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 「第一の天球は、試練のためのものだった。第二の天球は、誰も君に教えなかったもののためだ」 |
+| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | 邪悪の試練と古代の試練の報酬。両方の効果が重複する。 |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Upptäck |
 
-## Lines to review (799)
+## Lines to review (1355)
 
 | Key | English | Current |
 |---|---|---|
@@ -869,3 +869,559 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tint` | Tint | Toning |
 | `No tint` | No tint | Ingen toning |
 | `Pick any colour for the wings` | Pick any colour for the wings | Välj valfri färg för vingarna |
+| `Mastery: Life and Spirit` | Mastery: Life and Spirit | Behärskning: Liv och Ande |
+| `An old healer wants proof you still remember how to endure.` | An old healer wants proof you still remember how to endure. | En gammal helare vill ha bevis på att du fortfarande minns hur man håller ut. |
+| `Meet the old healer` | Meet the old healer | Möt den gamla helaren |
+| `She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.'` | She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.' | Hon känner på din puls innan hon hälsar. 'Stark. Men styrka är inte läxan. Gå tillbaka dit där du först lärde dig att hålla ut.' |
+| `Rest by the old campfire` | Rest by the old campfire | Vila vid den gamla lägerelden |
+| `You sit until the fire burns low. The healer nods when you stand without stiffness.` | You sit until the fire burns low. The healer nods when you stand without stiffness. | Du sitter tills elden har brunnit ner. Helaren nickar när du reser dig utan stelhet. |
+| `Share a plain meal` | Share a plain meal | Dela en enkel måltid |
+| `Bread, broth, nothing more. 'You forgot how little a body needs,' she says.` | Bread, broth, nothing more. 'You forgot how little a body needs,' she says. | Bröd, buljong, inget mer. 'Du har glömt hur lite en kropp behöver', säger hon. |
+| `Outlast a feeble slime` | Outlast a feeble slime | Uthärda en klen slemklump |
+| `It barely scratches you. You let it tire itself out before you finish it.` | It barely scratches you. You let it tire itself out before you finish it. | Den river dig knappt. Du låter den trötta ut sig innan du gör slut på den. |
+| `Calm your breathing by the fire` | Calm your breathing by the fire | Lugna din andning vid elden |
+| `You count your breaths until the count stops mattering. Your spirit settles.` | You count your breaths until the count stops mattering. Your spirit settles. | Du räknar dina andetag tills räknandet slutar spela roll. Din ande faller till ro. |
+| `Eat with the road crews` | Eat with the road crews | Ät med vägarbetarna |
+| `The crews talk about blisters and sore backs. You listen more than you speak.` | The crews talk about blisters and sore backs. You listen more than you speak. | Arbetarna pratar om skavsår och ömma ryggar. Du lyssnar mer än du pratar. |
+| `Take the ember slime calmly` | Take the ember slime calmly | Ta dig an glödslemklumpen lugnt |
+| `You let the heat wash past you and keep your footing.` | You let the heat wash past you and keep your footing. | Du låter hettan svepa förbi dig och behåller fotfästet. |
+| `Clear a Feeble Dungeon` | Clear a Feeble Dungeon | Rensa en klen fängelsehåla |
+| `The first dungeon feels small now. You walk it slowly, watching every step.` | The first dungeon feels small now. You walk it slowly, watching every step. | Den första fängelsehålan känns liten nu. Du går igenom den långsamt och vaktar varje steg. |
+| `Report your progress` | Report your progress | Rapportera dina framsteg |
+| `The healer's runner takes your notes. 'She says you are nearly there.'` | The healer's runner takes your notes. 'She says you are nearly there.' | Helarens budbärare tar emot dina anteckningar. 'Hon säger att du nästan är framme.' |
+| `Cook for a tired party` | Cook for a tired party | Laga mat åt ett trött sällskap |
+| `You feed a party back from the deep. One of them falls asleep mid bite.` | You feed a party back from the deep. One of them falls asleep mid bite. | Du ger mat åt ett sällskap som kommit tillbaka från djupet. En av dem somnar mitt i en tugga. |
+| `Clear a Dire Dungeon` | Clear a Dire Dungeon | Rensa en grym fängelsehåla |
+| `You come out of the Dire Dungeon with nothing worse than a bruise.` | You come out of the Dire Dungeon with nothing worse than a bruise. | Du kommer ut ur den grymma fängelsehålan med inget värre än ett blåmärke. |
+| `Stand firm against a fell demon` | Stand firm against a fell demon | Stå emot en ondskefull demon |
+| `The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.'` | The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.' | Demonen slår hårt och du faller inte. Helaren hittar dig efteråt. 'Salva och relik. Förtjänat, inte givet.' |
+| `Mastery: Strike and Heft` | Mastery: Strike and Heft | Behärskning: Slag och Tyngd |
+| `A retired sergeant wants to see your first drills done properly again.` | A retired sergeant wants to see your first drills done properly again. | En pensionerad sergeant vill se dina första övningar utförda ordentligt igen. |
+| `Report to the old sergeant` | Report to the old sergeant | Anmäl dig hos den gamle sergeanten |
+| `'Eighty years of swinging and you still lead with your shoulder? Back to the drills.'` | 'Eighty years of swinging and you still lead with your shoulder? Back to the drills.' | 'Åttio år av svingande och du leder fortfarande med axeln? Tillbaka till övningarna.' |
+| `Cut a practice staff` | Cut a practice staff | Skär till en övningsstav |
+| `You trim an ash branch to length. It is lighter than anything you carry now.` | You trim an ash branch to length. It is lighter than anything you carry now. | Du kapar en askgren till rätt längd. Den är lättare än allt du bär nu. |
+| `Spar with a feeble goblin` | Spar with a feeble goblin | Sparra mot en klen vätte |
+| `You win with the staff alone. The sergeant grunts something like approval.` | You win with the staff alone. The sergeant grunts something like approval. | Du vinner med bara staven. Sergeanten grymtar något som liknar gillande. |
+| `Run the training trail` | Run the training trail | Spring träningsslingan |
+| `Three laps, then three more. Your footwork comes back on the last one.` | Three laps, then three more. Your footwork comes back on the last one. | Tre varv, sedan tre till. Fotarbetet kommer tillbaka på det sista. |
+| `Beat a dire goblin cleanly` | Beat a dire goblin cleanly | Besegra en grym vätte med rena slag |
+| `No wasted swings. The sergeant counts them on his fingers.` | No wasted swings. The sergeant counts them on his fingers. | Inga bortkastade svingar. Sergeanten räknar dem på fingrarna. |
+| `Eat with the garrison` | Eat with the garrison | Ät med garnisonen |
+| `The garrison cook remembers the sergeant. 'He still shouts at everyone?'` | The garrison cook remembers the sergeant. 'He still shouts at everyone?' | Garnisonens kock minns sergeanten. 'Skriker han fortfarande på alla?' |
+| `Send word to the sergeant` | Send word to the sergeant | Skicka bud till sergeanten |
+| `You send a short note: two goblins down, footwork fixed.` | You send a short note: two goblins down, footwork fixed. | Du skickar en kort lapp: två vättar nere, fotarbetet fixat. |
+| `Break a feeble skeleton` | Break a feeble skeleton | Krossa ett klent skelett |
+| `Bone gives way under a clean blow. Heft without strike is noise, he always said.` | Bone gives way under a clean blow. Heft without strike is noise, he always said. | Benet ger vika för ett rent slag. Tyngd utan slag är bara oväsen, brukade han säga. |
+| `You clear it with the same drills you learned there.` | You clear it with the same drills you learned there. | Du rensar den med samma övningar som du lärde dig där. |
+| `Your party moves when you move. Good habits spread.` | Your party moves when you move. Good habits spread. | Ditt sällskap rör sig när du rör dig. Goda vanor smittar av sig. |
+| `Have your blade reforged` | Have your blade reforged | Låt smida om ditt blad |
+| `The smith grinds out years of nicks. It swings true again.` | The smith grinds out years of nicks. It swings true again. | Smeden slipar bort åratal av hack. Det svingar rakt igen. |
+| `Fell an orc with clean blows` | Fell an orc with clean blows | Fäll en orch med rena slag |
+| `The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.'` | The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.' | Orchen faller efter tre slag. Sergeanten ger dig en svärdsknapp och ett grepp. 'Nu är du redo.' |
+| `Mastery: Sight and Draw` | Mastery: Sight and Draw | Behärskning: Syn och Spänn |
+| `A hunter in the north asks you to shoot like a beginner again.` | A hunter in the north asks you to shoot like a beginner again. | En jägare i norr ber dig skjuta som en nybörjare igen. |
+| `Meet the northern hunter` | Meet the northern hunter | Möt jägaren i norr |
+| `'You aim like someone who expects to hit. Good archers expect to miss. Come.'` | 'You aim like someone who expects to hit. Good archers expect to miss. Come.' | 'Du siktar som någon som räknar med att träffa. Goda bågskyttar räknar med att missa. Kom.' |
+| `Fletch a plain practice bow` | Fletch a plain practice bow | Gör en enkel övningsbåge |
+| `No runes, no gems. Just yew and string.` | No runes, no gems. Just yew and string. | Inga runor, inga ädelstenar. Bara idegran och sträng. |
+| `Scout the hills for targets` | Scout the hills for targets | Spana efter mål i kullarna |
+| `You mark three trees and a stump at different ranges.` | You mark three trees and a stump at different ranges. | Du märker ut tre träd och en stubbe på olika avstånd. |
+| `Take down a dire gnoll` | Take down a dire gnoll | Fäll en grym gnoll |
+| `One arrow, placed where the hunter pointed. 'Better.'` | One arrow, placed where the hunter pointed. 'Better.' | En pil, placerad där jägaren pekade. 'Bättre.' |
+| `Cut fresh arrow shafts` | Cut fresh arrow shafts | Skär nya pilskaft |
+| `You pick straight stems and trim them by eye.` | You pick straight stems and trim them by eye. | Du väljer raka stjälkar och putsar dem efter ögonmått. |
+| `Run the range drills` | Run the range drills | Kör skjutbaneövningarna |
+| `Shoot, move, shoot. Your breath and your release line up again.` | Shoot, move, shoot. Your breath and your release line up again. | Skjut, flytta, skjut. Andningen och avfyrningen hamnar i takt igen. |
+| `Hit a golem at the joints` | Hit a golem at the joints | Träffa en golem i lederna |
+| `Stone is hard, joints are not. The golem folds.` | Stone is hard, joints are not. The golem folds. | Sten är hård, leder är det inte. Golemen viker ihop sig. |
+| `You call targets for the whole party. Nobody wastes a shot.` | You call targets for the whole party. Nobody wastes a shot. | Du ropar ut mål åt hela sällskapet. Ingen slösar ett skott. |
+| `Eat with the hunters` | Eat with the hunters | Ät med jägarna |
+| `The hunters argue about wind. You agree with all of them.` | The hunters argue about wind. You agree with all of them. | Jägarna grälar om vinden. Du håller med dem allihop. |
+| `Bank your spare arrows` | Bank your spare arrows | Lägg dina extrapilar på banken |
+| `You store the spares. Travelling light is half the craft.` | You store the spares. Travelling light is half the craft. | Du lägger undan de extra. Att resa lätt är halva konsten. |
+| `You shoot from the back row and never lose sight of the front.` | You shoot from the back row and never lose sight of the front. | Du skjuter från bakre ledet och tappar aldrig det främre ur sikte. |
+| `Bring down a fell gnoll` | Bring down a fell gnoll | Fäll en ondskefull gnoll |
+| `Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.'` | Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.' | Två skott, båda rena. Jägaren ger dig en skåra och en bågsträng. 'Behåll dem. Fortsätt missa mindre.' |
+| `Mastery: Focus and Surge` | Mastery: Focus and Surge | Behärskning: Fokus och Svall |
+| `An eastern mage wants your first spells cast without force or fuss.` | An eastern mage wants your first spells cast without force or fuss. | En magiker i öster vill se dina första besvärjelser kastade utan våld och krångel. |
+| `Meet the eastern mage` | Meet the eastern mage | Möt magikern i öster |
+| `'You push power like a mule pushes a cart. Let us start again, smaller.'` | 'You push power like a mule pushes a cart. Let us start again, smaller.' | 'Du pressar fram kraften som en mula som skjuter en kärra. Låt oss börja om, i mindre skala.' |
+| `Draw from a small fragment` | Draw from a small fragment | Dra kraft ur ett litet fragment |
+| `The essence is faint. You have to listen for it.` | The essence is faint. You have to listen for it. | Essensen är svag. Du måste lyssna efter den. |
+| `Charge a single dim essence` | Charge a single dim essence | Ladda en enda matt essens |
+| `You charge it slowly. It holds better than anything you rushed.` | You charge it slowly. It holds better than anything you rushed. | Du laddar den långsamt. Den håller bättre än något du har hastat igenom. |
+| `Banish a feeble imp` | Banish a feeble imp | Förvisa en klen smådjävul |
+| `A small spell, aimed well. The imp is gone before it can grin.` | A small spell, aimed well. The imp is gone before it can grin. | En liten besvärjelse, väl riktad. Smådjävulen är borta innan den hinner flina. |
+| `Read the runes in the ashes` | Read the runes in the ashes | Läs runorna i askan |
+| `Old travellers left warding marks here. You copy them out.` | Old travellers left warding marks here. You copy them out. | Gamla resenärer lämnade skyddsmärken här. Du skriver av dem. |
+| `Tend a small herb plot` | Tend a small herb plot | Sköt en liten örtodling |
+| `The mage wants patience practised. You weed until your mind goes quiet.` | The mage wants patience practised. You weed until your mind goes quiet. | Magikern vill att du övar tålamod. Du rensar ogräs tills sinnet blir stilla. |
+| `Unmake a dire lich` | Unmake a dire lich | Förinta en grym lich |
+| `You break its ward with the marks from the ashes.` | You break its ward with the marks from the ashes. | Du bryter dess skydd med märkena från askan. |
+| `You cast half as often and hit twice as hard.` | You cast half as often and hit twice as hard. | Du kastar hälften så ofta och slår dubbelt så hårt. |
+| `Inscribe a beginner sigil` | Inscribe a beginner sigil | Rista in ett nybörjarsigill |
+| `Simple lines, clean joins. The mage keeps it as a sample.` | Simple lines, clean joins. The mage keeps it as a sample. | Enkla linjer, rena skarvar. Magikern behåller det som prov. |
+| `Send your notes east` | Send your notes east | Skicka dina anteckningar österut |
+| `Your notes on the lich go back to the mage by courier.` | Your notes on the lich go back to the mage by courier. | Dina anteckningar om lichen går tillbaka till magikern med kurir. |
+| `Your spells land on rhythm. The party fights to your timing.` | Your spells land on rhythm. The party fights to your timing. | Dina besvärjelser landar i takt. Sällskapet slåss efter din rytm. |
+| `Dispel a fell demon` | Dispel a fell demon | Fördriv en ondskefull demon |
+| `One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.'` | One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.' | Ett fokuserat svall och demonen skingras. Magikern ger dig ett klot och en katalysator. 'Små besvärjelser, stora resultat.' |
+| `Mastery: Dodge and Defend` | Mastery: Dodge and Defend | Behärskning: Väj och Försvara |
+| `A shieldwright wants you to relearn when to block and when to move.` | A shieldwright wants you to relearn when to block and when to move. | En sköldsmed vill att du lär dig om när du ska blockera och när du ska flytta dig. |
+| `Meet the shieldwright` | Meet the shieldwright | Möt sköldsmeden |
+| `'You block everything. Some things you should just not be standing in front of.'` | 'You block everything. Some things you should just not be standing in front of.' | 'Du blockerar allt. Framför vissa saker borde du helt enkelt inte stå.' |
+| `Hammer out a practice shield` | Hammer out a practice shield | Hamra fram en övningssköld |
+| `Plain iron, a little too heavy. That is the point, she says.` | Plain iron, a little too heavy. That is the point, she says. | Vanligt järn, lite för tungt. Det är meningen, säger hon. |
+| `Dodge a feeble rat` | Dodge a feeble rat | Väj undan för en klen råtta |
+| `You step aside until it tires. You do not raise the shield once.` | You step aside until it tires. You do not raise the shield once. | Du kliver åt sidan tills den tröttnar. Du lyfter inte skölden en enda gång. |
+| `Weave through the crowded alley` | Weave through the crowded alley | Väv dig fram genom den folkfyllda gränden |
+| `Market day. You cross the alley without touching anyone.` | Market day. You cross the alley without touching anyone. | Marknadsdag. Du tar dig genom gränden utan att nudda någon. |
+| `Block a feeble treant` | Block a feeble treant | Blockera en klen trädjätte |
+| `Its branches thud off the shield. You keep your feet planted.` | Its branches thud off the shield. You keep your feet planted. | Dess grenar dunsar mot skölden. Du står kvar med fötterna i marken. |
+| `Hold against a dire treant` | Hold against a dire treant | Stå emot en grym trädjätte |
+| `Block, step, block. You stop thinking about which comes next.` | Block, step, block. You stop thinking about which comes next. | Blockera, kliv, blockera. Du slutar tänka på vad som kommer härnäst. |
+| `You take every hit meant for the party and none meant for you.` | You take every hit meant for the party and none meant for you. | Du tar varje slag som är menat för sällskapet och inget som är menat för dig. |
+| `Gather bark for shield padding` | Gather bark for shield padding | Samla bark till sköldens stoppning |
+| `Soft bark, layered thick. Your arm will thank you.` | Soft bark, layered thick. Your arm will thank you. | Mjuk bark, i tjocka lager. Din arm kommer att tacka dig. |
+| `Send the shieldwright word` | Send the shieldwright word | Skicka bud till sköldsmeden |
+| `You report the treant fights. She replies with a single word: 'Again.'` | You report the treant fights. She replies with a single word: 'Again.' | Du rapporterar striderna mot trädjättarna. Hon svarar med ett enda ord: 'Igen.' |
+| `You read every swing before it comes.` | You read every swing before it comes. | Du läser av varje sving innan den kommer. |
+| `Reinforce the shield rim` | Reinforce the shield rim | Förstärk sköldkanten |
+| `The smith adds a band of steel to the rim. It feels finished now.` | The smith adds a band of steel to the rim. It feels finished now. | Smeden lägger ett stålband runt kanten. Den känns färdig nu. |
+| `Outlast a fell orc` | Outlast a fell orc | Uthärda en ondskefull orch |
+| `It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim.` | It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim. | Den svingar tills den knappt kan stå. Du slutade aldrig röra dig. Sköldsmeden ger dig en fjäder och ett mellanlägg. |
+| `Mastery: Fish and Cook` | Mastery: Fish and Cook | Behärskning: Fiska och Laga mat |
+| `A fishwife who fed half the coast wants your first catch cooked right.` | A fishwife who fed half the coast wants your first catch cooked right. | En fiskmånglerska som har mättat halva kusten vill att din första fångst tillagas rätt. |
+| `Meet the old fishwife` | Meet the old fishwife | Möt den gamla fiskmånglerskan |
+| `'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.'` | 'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.' | 'Stora fiskar, fina pannor. När lagade du senast en räka ordentligt? Gå och ta reda på det.' |
+| `Cook over an open spit` | Cook over an open spit | Laga mat på spett över öppen eld |
+| `No kitchen, no spices. You keep the fire low and the fish whole.` | No kitchen, no spices. You keep the fire low and the fish whole. | Inget kök, inga kryddor. Du håller elden låg och fisken hel. |
+| `Fish the shallow pool` | Fish the shallow pool | Fiska i den grunda gölen |
+| `You catch a shrimp and remember the first one you ever landed.` | You catch a shrimp and remember the first one you ever landed. | Du fångar en räka och minns den allra första du drog upp. |
+| `Fish a quiet stream` | Fish a quiet stream | Fiska i en stilla bäck |
+| `The stream is slow and so are you. You stop rushing the line.` | The stream is slow and so are you. You stop rushing the line. | Bäcken är långsam och det är du också. Du slutar stressa med linan. |
+| `Grill your catch plainly` | Grill your catch plainly | Grilla din fångst enkelt |
+| `Salt and smoke. The fishwife would approve.` | Salt and smoke. The fishwife would approve. | Salt och rök. Fiskmånglerskan skulle gilla det. |
+| `Try the far pool` | Try the far pool | Prova den bortre gölen |
+| `A perch bites on the third cast. You let it run before you reel.` | A perch bites on the third cast. You let it run before you reel. | En abborre nappar på tredje kastet. Du låter den gå innan du vevar in. |
+| `Fish the cold stream` | Fish the cold stream | Fiska i den kalla bäcken |
+| `Cold hands, quick fish. You learn to strike faster.` | Cold hands, quick fish. You learn to strike faster. | Kalla händer, snabb fisk. Du lär dig att mothugga snabbare. |
+| `Cook at a mountain hearth` | Cook at a mountain hearth | Laga mat vid en bergshärd |
+| `The hearth cook shows you how to keep fish from drying out.` | The hearth cook shows you how to keep fish from drying out. | Härdkocken visar hur du hindrar fisken från att torka ut. |
+| `Feed the mill workers` | Feed the mill workers | Ge mat åt kvarnarbetarna |
+| `You cook for a crew of twenty. Nothing comes back burned.` | You cook for a crew of twenty. Nothing comes back burned. | Du lagar mat åt ett arbetslag på tjugo. Inget kommer tillbaka bränt. |
+| `Cook on the tidefield spit` | Cook on the tidefield spit | Laga mat vid spettet på tidvattenfältet |
+| `The fishwife's cousin tastes your work and sends word up the coast.` | The fishwife's cousin tastes your work and sends word up the coast. | Fiskmånglerskans kusin smakar på din mat och skickar bud uppåt längs kusten. |
+| `Cook one perfect fillet` | Cook one perfect fillet | Laga en perfekt filé |
+| `One fillet, cooked through, still soft. You eat it yourself.` | One fillet, cooked through, still soft. You eat it yourself. | En filé, genomstekt men fortfarande mjuk. Du äter den själv. |
+| `Land a catch at the seaside` | Land a catch at the seaside | Dra upp en fångst vid havet |
+| `The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.'` | The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.' | Djuphavsfiskarna kämpar hårt och du drar in dem. Fiskmånglerskan skickar ett metspö och en stekpanna. 'Nu är du både fiskare och kock.' |
+| `Mastery: Mine and Smith` | Mastery: Mine and Smith | Behärskning: Gruva och Smid |
+| `A forge master wants proof you still respect plain copper and tin.` | A forge master wants proof you still respect plain copper and tin. | En smidesmästare vill ha bevis på att du fortfarande respekterar vanlig koppar och tenn. |
+| `Meet the forge master` | Meet the forge master | Möt smidesmästaren |
+| `'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.'` | 'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.' | 'Du rör bara sällsynt malm nu. Koppar byggde varje sal i det här landet. Gå och förtjäna den igen.' |
+| `Work a copper bar` | Work a copper bar | Bearbeta en koppartacka |
+| `You fold the bar slowly. It rings clean.` | You fold the bar slowly. It rings clean. | Du viker tackan långsamt. Den klingar klart. |
+| `Mine at the old quarry` | Mine at the old quarry | Bryt malm i det gamla stenbrottet |
+| `Copper and tin, by hand. Your swing settles into an old rhythm.` | Copper and tin, by hand. Your swing settles into an old rhythm. | Koppar och tenn, för hand. Din sving faller in i en gammal rytm. |
+| `Smelt your first batch` | Smelt your first batch | Smält din första sats |
+| `You keep the heat even. No slag, no cracks.` | You keep the heat even. No slag, no cracks. | Du håller värmen jämn. Ingen slagg, inga sprickor. |
+| `Follow a shallow vein` | Follow a shallow vein | Följ en grund åder |
+| `The vein is thin but honest. You take only what it gives.` | The vein is thin but honest. You take only what it gives. | Ådern är tunn men ärlig. Du tar bara det den ger. |
+| `Quarry stone and ore` | Quarry stone and ore | Bryt sten och malm |
+| `Wind cuts through the quarry. You work until the cart is full.` | Wind cuts through the quarry. You work until the cart is full. | Vinden skär genom stenbrottet. Du arbetar tills vagnen är full. |
+| `Chip out the iron seam` | Chip out the iron seam | Hacka loss järnådern |
+| `The iron comes loose in good clean chunks.` | The iron comes loose in good clean chunks. | Järnet lossnar i fina, rena bitar. |
+| `Forge a plain nail` | Forge a plain nail | Smid en enkel spik |
+| `A nail is the hardest thing to forge well, the forge master said.` | A nail is the hardest thing to forge well, the forge master said. | En spik är det svåraste som finns att smida bra, sa smidesmästaren. |
+| `Mine beside the old camp` | Mine beside the old camp | Bryt malm vid det gamla lägret |
+| `Old miners left their marks here. You add yours under theirs.` | Old miners left their marks here. You add yours under theirs. | Gamla gruvarbetare lämnade sina märken här. Du lägger till ditt under deras. |
+| `Temper a beginner blade` | Temper a beginner blade | Härda ett nybörjarblad |
+| `You quench it once and it holds an edge.` | You quench it once and it holds an edge. | Du kyler det en gång och det håller en egg. |
+| `Load a cart of ore` | Load a cart of ore | Lasta en vagn med malm |
+| `You load and haul. Your back remembers its first summer here.` | You load and haul. Your back remembers its first summer here. | Du lastar och drar. Din rygg minns sin första sommar här. |
+| `Mine the deepest shaft` | Mine the deepest shaft | Bryt malm i det djupaste schaktet |
+| `You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.'` | You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.' | Du tar upp malm från djupet utan en skråma. Smidesmästaren skickar en hacka och en hammare. 'Tillbaka där du började, och långt förbi det.' |
+| `Mastery: Forage and Craft` | Mastery: Forage and Craft | Behärskning: Samla och Hantverk |
+| `A weaver asks you to gather and work the simplest materials again.` | A weaver asks you to gather and work the simplest materials again. | En vävare ber dig samla och bearbeta de enklaste materialen igen. |
+| `Meet the weaver` | Meet the weaver | Möt vävaren |
+| `'You work dragonhide and starspun now. Show me you can still make good strips from leather.'` | 'You work dragonhide and starspun now. Show me you can still make good strips from leather.' | 'Du arbetar med drakhud och stjärnspinn nu. Visa mig att du fortfarande kan skära bra remsor av läder.' |
+| `Cut leather into strips` | Cut leather into strips | Skär läder i remsor |
+| `Even width, no ragged ends. The weaver checks every one.` | Even width, no ragged ends. The weaver checks every one. | Jämn bredd, inga trasiga ändar. Vävaren kontrollerar varenda en. |
+| `Gather from the wild patch` | Gather from the wild patch | Samla på den vilda plätten |
+| `You pick slowly and leave the young growth alone.` | You pick slowly and leave the young growth alone. | Du plockar långsamt och lämnar de unga skotten i fred. |
+| `Forage the woodland patch` | Forage the woodland patch | Samla på skogsplätten |
+| `Linen grows thick here. You fill a sack before noon.` | Linen grows thick here. You fill a sack before noon. | Lin växer tätt här. Du fyller en säck före middag. |
+| `Search the fern thicket` | Search the fern thicket | Sök igenom ormbunkssnåret |
+| `Silk moths nest in the ferns. You take only the spent cocoons.` | Silk moths nest in the ferns. You take only the spent cocoons. | Silkesfjärilar bygger bo bland ormbunkarna. Du tar bara de tomma kokongerna. |
+| `Gather on the rocky patch` | Gather on the rocky patch | Samla på den steniga plätten |
+| `Hardy plants, tough fibres. Good for rope.` | Hardy plants, tough fibres. Good for rope. | Tåliga växter, sega fibrer. Bra till rep. |
+| `Spin linen into thread` | Spin linen into thread | Spinn lin till tråd |
+| `You spin until the thread runs fine and even.` | You spin until the thread runs fine and even. | Du spinner tills tråden blir fin och jämn. |
+| `Forage the hillside patch` | Forage the hillside patch | Samla på sluttningsplätten |
+| `You know which leaves to take by touch now.` | You know which leaves to take by touch now. | Nu vet du vilka blad du ska ta bara genom att känna på dem. |
+| `Gather hides from the thicket` | Gather hides from the thicket | Hämta hudar från snåret |
+| `A hunter left hides to cure. You trade a day of work for them.` | A hunter left hides to cure. You trade a day of work for them. | En jägare lämnade hudar för att torka. Du byter till dig dem mot en dags arbete. |
+| `Forage the fort patch` | Forage the fort patch | Samla på fortets plätt |
+| `The fort guards point you to a patch nobody else bothers with.` | The fort guards point you to a patch nobody else bothers with. | Fortets vakter visar dig en plätt som ingen annan bryr sig om. |
+| `Craft a simple satchel` | Craft a simple satchel | Tillverka en enkel axelväska |
+| `Strips, thread and a buckle. It is the best thing you have made in years.` | Strips, thread and a buckle. It is the best thing you have made in years. | Remsor, tråd och ett spänne. Det är det bästa du har gjort på flera år. |
+| `Forage the deep wilds` | Forage the deep wilds | Samla i den djupa vildmarken |
+| `You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel.` | You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel. | Du återvänder från vildmarken med sällsynta material och stadiga händer. Vävaren skickar en skära och en mejsel. |
+| `Mastery: Invoke and Imbue` | Mastery: Invoke and Imbue | Behärskning: Åkalla och Besjäla |
+| `An old enchanter wants your first dim essences drawn and charged again.` | An old enchanter wants your first dim essences drawn and charged again. | En gammal förtrollare vill se dig dra ur och ladda dina första matta essenser igen. |
+| `Meet the old enchanter` | Meet the old enchanter | Möt den gamle förtrollaren |
+| `'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.'` | 'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.' | 'Strålande, himmelsk, gudomlig. När laddade du senast en matt essens? Börja där.' |
+| `Charge a dim essence` | Charge a dim essence | Ladda en matt essens |
+| `It takes almost nothing to charge. That is what makes it hard.` | It takes almost nothing to charge. That is what makes it hard. | Det krävs nästan ingenting för att ladda den. Det är just det som gör det svårt. |
+| `The fragment hums faintly. You draw from it without cracking it.` | The fragment hums faintly. You draw from it without cracking it. | Fragmentet surrar svagt. Du drar ur det utan att spräcka det. |
+| `Charge at the glowing font` | Charge at the glowing font | Ladda vid den glödande källan |
+| `You feed the font slowly. It answers in kind.` | You feed the font slowly. It answers in kind. | Du matar källan långsamt. Den svarar på samma sätt. |
+| `Listen at the river fragment` | Listen at the river fragment | Lyssna vid flodfragmentet |
+| `Faint essence, carried on the river wind.` | Faint essence, carried on the river wind. | Svag essens, buren av flodvinden. |
+| `Charge a faint essence` | Charge a faint essence | Ladda en svag essens |
+| `Clean light. The enchanter would keep this one.` | Clean light. The enchanter would keep this one. | Rent ljus. Förtrollaren skulle behålla den här. |
+| `Trace the ruined sigil` | Trace the ruined sigil | Följ linjerna i det förfallna sigillet |
+| `The old lines still hold power. You trace them without breaking them.` | The old lines still hold power. You trace them without breaking them. | De gamla linjerna har fortfarande kraft. Du följer dem utan att bryta dem. |
+| `Charge essence at the sigil` | Charge essence at the sigil | Ladda essens vid sigillet |
+| `You charge three in a row without a flicker.` | You charge three in a row without a flicker. | Du laddar tre i rad utan ett flimmer. |
+| `Draw from the crystal` | Draw from the crystal | Dra ur kristallen |
+| `The crystal gives more than you ask. You take only what you need.` | The crystal gives more than you ask. You take only what you need. | Kristallen ger mer än du ber om. Du tar bara det du behöver. |
+| `Draw from the desert fragment` | Draw from the desert fragment | Dra ur ökenfragmentet |
+| `Dry air, sharp essence. Your hands stay steady.` | Dry air, sharp essence. Your hands stay steady. | Torr luft, skarp essens. Dina händer förblir stadiga. |
+| `Charge in the desert heat` | Charge in the desert heat | Ladda i ökenhettan |
+| `The heat fights you. You win by going slower.` | The heat fights you. You win by going slower. | Hettan kämpar emot. Du vinner genom att gå långsammare fram. |
+| `Draw deep from the rift` | Draw deep from the rift | Dra djupt ur rämnan |
+| `The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism.` | The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism. | Rämnan väller ut klar essens och du håller allt. Förtrollaren skickar en kanal och ett prisma. |
+| `Mastery: Farm and Brew` | Mastery: Farm and Brew | Behärskning: Jordbruk och Brygg |
+| `A herbalist wants you to grow and brew the plainest remedies again.` | A herbalist wants you to grow and brew the plainest remedies again. | En örtläkare vill att du odlar och brygger de enklaste läkemedlen igen. |
+| `Meet the herbalist` | Meet the herbalist | Möt örtläkaren |
+| `'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.'` | 'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.' | 'Sällsynta blommor, fina tonika. Kan du fortfarande odla skärmytslingsrot och brygga den rent? Visa mig.' |
+| `Plant skirmish root` | Plant skirmish root | Plantera skärmytslingsrot |
+| `You plant in straight rows and water at dusk.` | You plant in straight rows and water at dusk. | Du planterar i raka rader och vattnar i skymningen. |
+| `Weed the farm plot` | Weed the farm plot | Rensa ogräs på odlingslotten |
+| `Weeds come up easy after rain. You clear the whole plot.` | Weeds come up easy after rain. You clear the whole plot. | Ogräset släpper lätt efter regn. Du rensar hela lotten. |
+| `Brew a simple tonic` | Brew a simple tonic | Brygg ett enkelt tonikum |
+| `Root, water and patience. It comes out clear.` | Root, water and patience. It comes out clear. | Rot, vatten och tålamod. Det blir klart. |
+| `Harvest the hillside plot` | Harvest the hillside plot | Skörda lotten i sluttningen |
+| `The hill soil is thin. You coax a small harvest out of it.` | The hill soil is thin. You coax a small harvest out of it. | Jorden i sluttningen är tunn. Du lockar fram en liten skörd ur den. |
+| `Grow herbs in cold soil` | Grow herbs in cold soil | Odla örter i kall jord |
+| `Frost-hardy herbs, slow to grow and worth the wait.` | Frost-hardy herbs, slow to grow and worth the wait. | Frosttåliga örter, långsamma att växa och värda att vänta på. |
+| `Brew at the fern cauldron` | Brew at the fern cauldron | Brygg vid ormbunkskitteln |
+| `You let it simmer twice as long as you used to. It is better for it.` | You let it simmer twice as long as you used to. It is better for it. | Du låter det sjuda dubbelt så länge som du brukade. Det blir bättre av det. |
+| `Brew a calming draught` | Brew a calming draught | Brygg en lugnande dryck |
+| `The draught settles your own nerves before anyone else's.` | The draught settles your own nerves before anyone else's. | Drycken lugnar dina egna nerver före någon annans. |
+| `Brew for the mountain watch` | Brew for the mountain watch | Brygg åt bergsvakten |
+| `The watch drinks it cold. Nobody complains.` | The watch drinks it cold. Nobody complains. | Vakten dricker den kall. Ingen klagar. |
+| `Tend the pine plot` | Tend the pine plot | Sköt tallotten |
+| `Needles in the soil, sharp herbs in the rows.` | Needles in the soil, sharp herbs in the rows. | Barr i jorden, skarpa örter i raderna. |
+| `Brew one last plain remedy` | Brew one last plain remedy | Brygg ett sista enkelt läkemedel |
+| `The herbalist tastes it and nods once.` | The herbalist tastes it and nods once. | Örtläkaren smakar och nickar en gång. |
+| `Brew a master tonic` | Brew a master tonic | Brygg ett mästartonikum |
+| `You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar.` | You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar. | Du brygger ett tonikum som apotekaren aldrig har lyckats med. Örtläkaren skickar en planteringsspade och en mortel. |
+| `Mastery: Plunder and Barter` | Mastery: Plunder and Barter | Behärskning: Plundra och Pruta |
+| `A retired fence wants to see you work the small markets honestly again.` | A retired fence wants to see you work the small markets honestly again. | En pensionerad hälare vill se dig arbeta ärligt på de små marknaderna igen. |
+| `Meet the retired fence` | Meet the retired fence | Möt den pensionerade hälaren |
+| `'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.'` | 'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.' | 'Du rånar valv och köper upp marknader. Gå och ficktjuva någon, och sälj sedan det du tog för ett rimligt pris.' |
+| `Haggle at the small stalls` | Haggle at the small stalls | Pruta vid de små stånden |
+| `You argue a copper off a loaf of bread. The baker laughs.` | You argue a copper off a loaf of bread. The baker laughs. | Du prutar ner ett kopparmynt på en limpa. Bagaren skrattar. |
+| `Lift a purse in the alley` | Lift a purse in the alley | Knyck en börs i gränden |
+| `Small purse, quick hands. Nobody notices.` | Small purse, quick hands. Nobody notices. | Liten börs, snabba händer. Ingen märker något. |
+| `Pick a lock in the alley` | Pick a lock in the alley | Dyrka upp ett lås i gränden |
+| `An old padlock. You open it with a bent nail.` | An old padlock. You open it with a bent nail. | Ett gammalt hänglås. Du öppnar det med en böjd spik. |
+| `Shadow a merchant` | Shadow a merchant | Skugga en köpman |
+| `You follow him for an hour and learn where he keeps his coin.` | You follow him for an hour and learn where he keeps his coin. | Du följer honom i en timme och lär dig var han förvarar sina mynt. |
+| `Sell a stolen trinket` | Sell a stolen trinket | Sälj en stulen prydnad |
+| `You sell it back to its owner for a fair price. The fence would approve.` | You sell it back to its owner for a fair price. The fence would approve. | Du säljer den tillbaka till ägaren för ett rimligt pris. Hälaren skulle gilla det. |
+| `Slip past the watch` | Slip past the watch | Smyg förbi vakten |
+| `The watch never looks up from their dice.` | The watch never looks up from their dice. | Vakterna tittar aldrig upp från sina tärningar. |
+| `Trade at the dockside stalls` | Trade at the dockside stalls | Handla vid stånden på kajen |
+| `Fish for rope, rope for coin. You come out ahead.` | Fish for rope, rope for coin. You come out ahead. | Fisk mot rep, rep mot mynt. Du går med vinst. |
+| `Work the dock alley` | Work the dock alley | Arbeta i hamngränden |
+| `Sailors keep loose coin. You keep some of it.` | Sailors keep loose coin. You keep some of it. | Sjömän har lösa mynt. Du behåller några av dem. |
+| `Lift a guard captain's keys` | Lift a guard captain's keys | Knyck en vaktkaptens nycklar |
+| `You borrow them and return them before he notices.` | You borrow them and return them before he notices. | Du lånar dem och lämnar tillbaka dem innan han märker något. |
+| `Fence goods in the cold alley` | Fence goods in the cold alley | Sälj tjuvgods i den kalla gränden |
+| `The buyer pays in full and asks no questions.` | The buyer pays in full and asks no questions. | Köparen betalar fullt och ställer inga frågor. |
+| `Strike a deal at the pirate market` | Strike a deal at the pirate market | Gör upp en affär på piratmarknaden |
+| `You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales.` | You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales. | Du prutar med pirater och går därifrån med deras bästa varor. Hälaren skickar en dyrk och en våg. |
+| `Mastery: Bard and Discover` | Mastery: Bard and Discover | Behärskning: Bard och Upptäck |
+| `A wandering minstrel wants new songs from the oldest campfires.` | A wandering minstrel wants new songs from the oldest campfires. | En vandrande spelman vill ha nya sånger från de äldsta lägereldarna. |
+| `Meet the wandering minstrel` | Meet the wandering minstrel | Möt den vandrande spelmannen |
+| `'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.'` | 'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.' | 'Varje bard sjunger i de stora salarna. Jag vill ha sånger från lägereldar, och från platser som ingen kartlägger.' |
+| `Sing at the campfire` | Sing at the campfire | Sjung vid lägerelden |
+| `Two travellers and a dog. You play until they fall asleep.` | Two travellers and a dog. You play until they fall asleep. | Två resenärer och en hund. Du spelar tills de somnar. |
+| `Survey the nearby hills` | Survey the nearby hills | Undersök kullarna i närheten |
+| `You find an old marker stone and copy its carving.` | You find an old marker stone and copy its carving. | Du hittar en gammal markeringssten och skriver av dess ristning. |
+| `Map the frozen ridge` | Map the frozen ridge | Kartlägg den frusna åsen |
+| `Your map is rough but true. The minstrel likes rough.` | Your map is rough but true. The minstrel likes rough. | Din karta är grov men sann. Spelmannen gillar grovt. |
+| `Swap songs with the guards` | Swap songs with the guards | Byt sånger med vakterna |
+| `The guards know a verse you have never heard. You trade one of yours for it.` | The guards know a verse you have never heard. You trade one of yours for it. | Vakterna kan en vers du aldrig har hört. Du byter till dig den mot en av dina. |
+| `Search the old prospect` | Search the old prospect | Sök igenom den gamla prospekteringsplatsen |
+| `Under loose stones you find a tin cup with initials scratched in.` | Under loose stones you find a tin cup with initials scratched in. | Under lösa stenar hittar du en tennmugg med inristade initialer. |
+| `Scout the frozen pass` | Scout the frozen pass | Spana in det frusna passet |
+| `Wind has carved the pass into a strange shape. You sketch it.` | Wind has carved the pass into a strange shape. You sketch it. | Vinden har mejslat ut passet till en underlig form. Du skissar av det. |
+| `Play for the frost watch` | Play for the frost watch | Spela för frostvakten |
+| `The watch claps with mittens on. It sounds like rain.` | The watch claps with mittens on. It sounds like rain. | Vakten applåderar med vantar på. Det låter som regn. |
+| `Perform in the old tavern` | Perform in the old tavern | Uppträd på den gamla krogen |
+| `You play the guards' verse. The tavern sings it back.` | You play the guards' verse. The tavern sings it back. | Du spelar vakternas vers. Krogen sjunger den tillbaka. |
+| `Write a song by the fire` | Write a song by the fire | Skriv en sång vid elden |
+| `You write about the tin cup and the carved pass.` | You write about the tin cup and the carved pass. | Du skriver om tennmuggen och det utmejslade passet. |
+| `Find the lost marker` | Find the lost marker | Hitta den försvunna markeringsstenen |
+| `The last marker is half buried. You dig it out and read it.` | The last marker is half buried. You dig it out and read it. | Den sista markeringsstenen är halvt begravd. Du gräver fram den och läser den. |
+| `Chart the far reaches` | Chart the far reaches | Kartlägg de avlägsna trakterna |
+| `You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens.` | You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens. | Du kartlägger de avlägsna trakterna och skriver din sång efter kartan. Spelmannen skickar ett instrument och en lins. |
+| `Mastery: Vigor and Slay` | Mastery: Vigor and Slay | Behärskning: Livskraft och Dräp |
+| `A slayer captain wants your stamina and your first kills done right again.` | A slayer captain wants your stamina and your first kills done right again. | En dräparkapten vill se dig visa uthållighet och göra dina första dråp rätt igen. |
+| `Report to the slayer captain` | Report to the slayer captain | Anmäl dig hos dräparkaptenen |
+| `'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?'` | 'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?' | 'Du jagar de värsta varelserna som finns. Bra. Kan du fortfarande springa ett varv på gården och döda en golem ordentligt?' |
+| `Run the training yard` | Run the training yard | Spring på träningsgården |
+| `Ten laps, carrying a sandbag. You finish the last one sprinting.` | Ten laps, carrying a sandbag. You finish the last one sprinting. | Tio varv med en sandsäck. Du springer det sista i full fart. |
+| `Slay a feeble golem` | Slay a feeble golem | Dräp en klen golem |
+| `You find the crack in its chest and strike there.` | You find the crack in its chest and strike there. | Du hittar sprickan i dess bröst och slår där. |
+| `Drill in the frozen yard` | Drill in the frozen yard | Träna på den frusna gården |
+| `Ice underfoot. You learn to run without trusting the ground.` | Ice underfoot. You learn to run without trusting the ground. | Is under fötterna. Du lär dig springa utan att lita på marken. |
+| `Slay a dire golem` | Slay a dire golem | Dräp en grym golem |
+| `Same crack, bigger golem. It falls the same way.` | Same crack, bigger golem. It falls the same way. | Samma spricka, större golem. Den faller på samma sätt. |
+| `Climb the frost wall` | Climb the frost wall | Klättra uppför frostmuren |
+| `Hand over hand, no rope. Your arms burn and hold.` | Hand over hand, no rope. Your arms burn and hold. | Hand över hand, inget rep. Armarna bränner men håller. |
+| `Sprint the mountain yard` | Sprint the mountain yard | Spurta på bergsgården |
+| `Thin air, long sprints. Your breath stays even.` | Thin air, long sprints. Your breath stays even. | Tunn luft, långa spurter. Andningen förblir jämn. |
+| `Slay a dire skeleton` | Slay a dire skeleton | Dräp ett grymt skelett |
+| `You break it at the spine before it can rise.` | You break it at the spine before it can rise. | Du bryter det vid ryggraden innan det hinner resa sig. |
+| `Haul stone across the yard` | Haul stone across the yard | Bär sten över gården |
+| `You carry stones until the yard master runs out of them.` | You carry stones until the yard master runs out of them. | Du bär stenar tills gårdsmästaren har slut på dem. |
+| `Run the breakwood course` | Run the breakwood course | Spring Breakwood-banan |
+| `Logs, ditches, walls. You clear it twice.` | Logs, ditches, walls. You clear it twice. | Stockar, diken, murar. Du klarar den två gånger. |
+| `Slay a dire treant` | Slay a dire treant | Dräp en grym trädjätte |
+| `You take it apart one branch at a time.` | You take it apart one branch at a time. | Du plockar isär den en gren i taget. |
+| `Climb to the pinnacle` | Climb to the pinnacle | Klättra upp till toppen |
+| `You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.'` | You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.' | Du når toppen utan att stanna. Kaptenen skickar träningsskor och en gallringskniv. 'Redo att jaga vad som helst.' |
+| `Mastery: Luck and Alms` | Mastery: Luck and Alms | Behärskning: Tur och Allmosa |
+| `An almoner believes fortune follows the generous. Spend a day proving it.` | An almoner believes fortune follows the generous. Spend a day proving it. | En allmosegivare tror att lyckan följer de generösa. Ägna en dag åt att bevisa det. |
+| `Meet the almoner` | Meet the almoner | Möt allmosegivaren |
+| `'Give freely and luck finds you. Most people never test it. Come and test it.'` | 'Give freely and luck finds you. Most people never test it. Come and test it.' | 'Ge frikostigt så hittar turen dig. De flesta testar det aldrig. Kom och testa.' |
+| `Feed a hungry child` | Feed a hungry child | Ge mat åt ett hungrigt barn |
+| `You buy bread for a child in the alley. On the way out you find a coin.` | You buy bread for a child in the alley. On the way out you find a coin. | Du köper bröd åt ett barn i gränden. På vägen ut hittar du ett mynt. |
+| `Pay a stranger's debt` | Pay a stranger's debt | Betala en främlings skuld |
+| `The stallholder is stunned. Then she gives you a lucky charm she carved.` | The stallholder is stunned. Then she gives you a lucky charm she carved. | Ståndägaren blir häpen. Sedan ger hon dig en lyckoamulett som hon har snidat. |
+| `Buy a smith his tools back` | Buy a smith his tools back | Köp tillbaka verktygen åt en smed |
+| `The smith had pawned his hammer. You buy it back for him.` | The smith had pawned his hammer. You buy it back for him. | Smeden hade pantsatt sin hammare. Du köper tillbaka den åt honom. |
+| `Donate to the town chest` | Donate to the town chest | Skänk till stadskistan |
+| `The banker counts your gift twice to be sure.` | The banker counts your gift twice to be sure. | Bankiren räknar din gåva två gånger för säkerhets skull. |
+| `Leave coin for the wardens` | Leave coin for the wardens | Lämna mynt åt väktarna |
+| `The wardens are grateful. One of them gives you a tip about a dice game.` | The wardens are grateful. One of them gives you a tip about a dice game. | Väktarna är tacksamma. En av dem tipsar dig om ett tärningsspel. |
+| `Play dice with the wardens` | Play dice with the wardens | Spela tärning med väktarna |
+| `You win three rolls in a row and give the winnings back.` | You win three rolls in a row and give the winnings back. | Du vinner tre kast i rad och ger tillbaka vinsten. |
+| `Plant a clover for luck` | Plant a clover for luck | Plantera en klöver för turens skull |
+| `You find a four-leaf clover while planting. The almoner is not surprised.` | You find a four-leaf clover while planting. The almoner is not surprised. | Du hittar en fyrklöver medan du planterar. Allmosegivaren är inte förvånad. |
+| `Fund the village well` | Fund the village well | Finansiera byns brunn |
+| `The village will have clean water by spring.` | The village will have clean water by spring. | Byn kommer att ha rent vatten till våren. |
+| `Pay the dockhands' wages` | Pay the dockhands' wages | Betala hamnarbetarnas löner |
+| `The harbour master had run short. The dockhands cheer.` | The harbour master had run short. The dockhands cheer. | Hamnmästaren hade fått ont om pengar. Hamnarbetarna jublar. |
+| `Buy out a poor trader` | Buy out a poor trader | Köp ut en fattig handlare |
+| `You buy her last fish at full price. She swears it will bring you luck.` | You buy her last fish at full price. She swears it will bring you luck. | Du köper hennes sista fisk för fullt pris. Hon svär att den kommer att ge dig tur. |
+| `Give at the great market` | Give at the great market | Ge på den stora marknaden |
+| `You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer.` | You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer. | Du ger bort en börs på marknaden och vinner ett lotteri på vägen ut. Allmosegivaren skickar en amulett och ett rökelsekar. |
+| `Mastery: Delve and Fortify` | Mastery: Delve and Fortify | Behärskning: Djupdyk och Befästa |
+| `A raid veteran wants every dungeon and Fortress wave run from the start.` | A raid veteran wants every dungeon and Fortress wave run from the start. | En raidveteran vill att varje fängelsehåla och varje Gauntlet-våg körs från början. |
+| `Meet the raid veteran` | Meet the raid veteran | Möt raidveteranen |
+| `'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.'` | 'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.' | 'Du kör de svåraste raiderna med slutna ögon. Öppna dem. Börja från den första fängelsehålan.' |
+| `Hear the delvers' stories` | Hear the delvers' stories | Hör djupdykarnas historier |
+| `Old delvers trade stories of the first dungeon. You learn a route you never knew.` | Old delvers trade stories of the first dungeon. You learn a route you never knew. | Gamla djupdykare byter historier om den första fängelsehålan. Du lär dig en väg du aldrig kände till. |
+| `You clear it using the old route. It is faster than yours.` | You clear it using the old route. It is faster than yours. | Du rensar den via den gamla vägen. Den är snabbare än din. |
+| `Hold the Fortress for 20 waves` | Hold the Fortress for 20 waves | Håll Gauntlet i 20 vågor |
+| `You hold the walls with plain supplies. Twenty waves, no losses.` | You hold the walls with plain supplies. Twenty waves, no losses. | Du håller murarna med enkla förnödenheter. Tjugo vågor, inga förluster. |
+| `Restock near the Fortress` | Restock near the Fortress | Fyll på förråden nära Gauntlet |
+| `You restock and swap stories with the Fortress crews.` | You restock and swap stories with the Fortress crews. | Du fyller på och byter historier med Gauntlet-lagen. |
+| `Patch your raid gear` | Patch your raid gear | Laga din raidutrustning |
+| `Torn straps, cracked buckles. You fix them all yourself.` | Torn straps, cracked buckles. You fix them all yourself. | Trasiga remmar, spruckna spännen. Du lagar allt själv. |
+| `You lead the party and let them set the pace.` | You lead the party and let them set the pace. | Du leder sällskapet och låter dem bestämma takten. |
+| `Hold the Fortress for 40 waves` | Hold the Fortress for 40 waves | Håll Gauntlet i 40 vågor |
+| `Forty waves. Your deposits never stop.` | Forty waves. Your deposits never stop. | Fyrtio vågor. Dina insättningar tar aldrig slut. |
+| `Plan the Savage run` | Plan the Savage run | Planera rundan i den vilda fängelsehålan |
+| `The veteran's notes cover every room. You add a few of your own.` | The veteran's notes cover every room. You add a few of your own. | Veteranens anteckningar täcker varje rum. Du lägger till några egna. |
+| `Clear a Savage Dungeon` | Clear a Savage Dungeon | Rensa en vild fängelsehåla |
+| `The Savage Dungeon goes the way the notes said it would.` | The Savage Dungeon goes the way the notes said it would. | Den vilda fängelsehålan går precis som anteckningarna sa att den skulle. |
+| `Hold the Fortress for 60 waves` | Hold the Fortress for 60 waves | Håll Gauntlet i 60 vågor |
+| `Sixty waves. The walls hold because you planned them to.` | Sixty waves. The walls hold because you planned them to. | Sextio vågor. Murarna håller eftersom du planerade för det. |
+| `Clear a Fell Dungeon` | Clear a Fell Dungeon | Rensa en ondskefull fängelsehåla |
+| `You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification.` | You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification. | Du rensar den ondskefulla fängelsehålan från första rummet till det sista. Veteranen skickar en skalle och en befästning. |
+| `Gather the masters` | Gather the masters | Samla mästarna |
+| `Harvest the great orchard` | Harvest the great orchard | Skörda den stora fruktträdgården |
+| `The best trees in the land, picked clean and left healthy.` | The best trees in the land, picked clean and left healthy. | De bästa träden i landet, renplockade och lämnade friska. |
+| `Fish the open sea` | Fish the open sea | Fiska på öppet hav |
+| `You bring in a catch the fishwife would frame.` | You bring in a catch the fishwife would frame. | Du drar in en fångst som fiskmånglerskan skulle rama in. |
+| `Draw from the obelisk` | Draw from the obelisk | Dra ur obelisken |
+| `The obelisk gives freely to someone who asks properly.` | The obelisk gives freely to someone who asks properly. | Obelisken ger frikostigt till den som ber ordentligt. |
+| `Work the underground` | Work the underground | Arbeta i underjorden |
+| `You take what you came for and leave no trace.` | You take what you came for and leave no trace. | Du tar det du kom för och lämnar inga spår. |
+| `Trade at the grand market` | Trade at the grand market | Handla på den stora marknaden |
+| `Every stall gives you its best price.` | Every stall gives you its best price. | Varje stånd ger dig sitt bästa pris. |
+| `Forge at the great foundry` | Forge at the great foundry | Smid i det stora gjuteriet |
+| `The foundry's masters stop to watch you work.` | The foundry's masters stop to watch you work. | Gjuteriets mästare stannar för att se dig arbeta. |
+| `Perform at the royal court` | Perform at the royal court | Uppträd vid det kungliga hovet |
+| `The court stands for your last song.` | The court stands for your last song. | Hovet reser sig för din sista sång. |
+| `Craft at the syndicate atelier` | Craft at the syndicate atelier | Tillverka i syndikatets ateljé |
+| `You craft a piece the atelier keeps on display.` | You craft a piece the atelier keeps on display. | Du tillverkar ett verk som ateljén ställer ut. |
+| `Forage the far wilds` | Forage the far wilds | Samla i den fjärran vildmarken |
+| `The wilds give up their rarest growth to you.` | The wilds give up their rarest growth to you. | Vildmarken ger dig sin sällsyntaste växtlighet. |
+| `Run the long valley` | Run the long valley | Spring genom den långa dalen |
+| `You run it end to end and keep your breath.` | You run it end to end and keep your breath. | Du springer den från ände till ände utan att tappa andan. |
+| `The masters have one more test, at the edges of the world.` | The masters have one more test, at the edges of the world. | Mästarna har ett prov till, vid världens utkanter. |
+| `Meet the masters again` | Meet the masters again | Möt mästarna igen |
+| `Forage the deep hollows` | Forage the deep hollows | Samla i de djupa hålorna |
+| `You find growth down here no forager has named.` | You find growth down here no forager has named. | Här nere hittar du växter som ingen samlare har gett namn. |
+| `Mine the high ledge` | Mine the high ledge | Bryt malm på den höga klipphyllan |
+| `Ore from the ledge, brought down without a single slip.` | Ore from the ledge, brought down without a single slip. | Malm från klipphyllan, nedburen utan ett enda felsteg. |
+| `Fish the eastern coast` | Fish the eastern coast | Fiska vid den östra kusten |
+| `You land a fish from water nobody fishes.` | You land a fish from water nobody fishes. | Du drar upp en fisk ur vatten som ingen fiskar i. |
+| `Chart the ruined coast` | Chart the ruined coast | Kartlägg den förfallna kusten |
+| `Your chart corrects three maps the cartographers trusted.` | Your chart corrects three maps the cartographers trusted. | Din karta rättar tre kartor som kartograferna litade på. |
+| `Charge essence at the arc` | Charge essence at the arc | Ladda essens vid ljusbågen |
+| `The arc burns bright and steady in your hands.` | The arc burns bright and steady in your hands. | Ljusbågen brinner klart och stadigt i dina händer. |
+| `Cook a feast for the masters` | Cook a feast for the masters | Laga en festmåltid åt mästarna |
+| `Fifteen masters, one table. Every plate comes back clean.` | Fifteen masters, one table. Every plate comes back clean. | Femton mästare, ett bord. Varje tallrik kommer tillbaka tom. |
+| `Draw from the last obelisk` | Draw from the last obelisk | Dra ur den sista obelisken |
+| `The obelisk at the end of the world answers you.` | The obelisk at the end of the world answers you. | Obelisken vid världens ände svarar dig. |
+| `Play the eastern court` | Play the eastern court | Spela vid det östra hovet |
+| `The court asks for the campfire songs. You play them all.` | The court asks for the campfire songs. You play them all. | Hovet ber om lägereldssångerna. Du spelar dem allihop. |
+| `Brew the masters' remedy` | Brew the masters' remedy | Brygg mästarnas läkemedel |
+| `A remedy built from every plain herb you grew.` | A remedy built from every plain herb you grew. | Ett läkemedel gjort av varje enkel ört du har odlat. |
+| `Bargain with the pirate lords` | Bargain with the pirate lords | Förhandla med piratfurstarna |
+| `The pirate lords pay you to leave.` | The pirate lords pay you to leave. | Piratfurstarna betalar dig för att du ska gå. |
+| `Clear an Ancient Dungeon` | Clear an Ancient Dungeon | Rensa en uråldrig fängelsehåla |
+| `The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.'` | The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.' | Mästarna väntar vid den äldsta fängelsehålan. De ger dig en andra glob och en lykta. 'Nu har du inget kvar att bevisa.' |
+| `[Q1] Enchanted Rod` | [Q1] Enchanted Rod | [Q1] Förtrollat metspö |
+| `[Q1] Enchanted Pickaxe` | [Q1] Enchanted Pickaxe | [Q1] Förtrollad hacka |
+| `[Q1] Enchanted Sickle` | [Q1] Enchanted Sickle | [Q1] Förtrollad skära |
+| `[Q1] Enchanted Conduit` | [Q1] Enchanted Conduit | [Q1] Förtrollad ledningskanal |
+| `[Q1] Enchanted Trowel` | [Q1] Enchanted Trowel | [Q1] Förtrollad planteringsspade |
+| `[Q1] Enchanted Lockpick` | [Q1] Enchanted Lockpick | [Q1] Förtrollad dyrk |
+| `[Q1] Enchanted Instrument` | [Q1] Enchanted Instrument | [Q1] Förtrollat instrument |
+| `[Q1] Enchanted Trainers` | [Q1] Enchanted Trainers | [Q1] Förtrollade gymnastikskor |
+| `[Q1] Culling Knife` | [Q1] Culling Knife | [Q1] Gallringskniv |
+| `[Q1] Lucky Charm` | [Q1] Lucky Charm | [Q1] Lyckoamulett |
+| `[Q1] Enchanted Censer` | [Q1] Enchanted Censer | [Q1] Förtrollat rökelsekar |
+| `[Q1] Enchanted Skillet` | [Q1] Enchanted Skillet | [Q1] Förtrollad stekpanna |
+| `[Q1] Enchanted Hammer` | [Q1] Enchanted Hammer | [Q1] Förtrollad hammare |
+| `[Q1] Enchanted Chisel` | [Q1] Enchanted Chisel | [Q1] Förtrollad mejsel |
+| `[Q1] Enchanted Prism` | [Q1] Enchanted Prism | [Q1] Förtrollat prisma |
+| `[Q1] Enchanted Mortar` | [Q1] Enchanted Mortar | [Q1] Förtrollad mortel |
+| `[Q1] Enchanted Scales` | [Q1] Enchanted Scales | [Q1] Förtrollade fjäll |
+| `[Q1] Enchanted Lens` | [Q1] Enchanted Lens | [Q1] Förtrollad lins |
+| `[Q1] Enchanted Lantern` | [Q1] Enchanted Lantern | [Q1] Förtrollad lykta |
+| `[Q1] Enchanted Pommel` | [Q1] Enchanted Pommel | [Q1] Förtrollad knapp |
+| `[Q1] Enchanted Grip` | [Q1] Enchanted Grip | [Q1] Förtrollat grepp |
+| `[Q1] Enchanted Notch` | [Q1] Enchanted Notch | [Q1] Förtrollad skåra |
+| `[Q1] Enchanted Bowstring` | [Q1] Enchanted Bowstring | [Q1] Förtrollad bågsträng |
+| `[Q1] Enchanted Orb` | [Q1] Enchanted Orb | [Q1] Förtrollat klot |
+| `[Q1] Enchanted Catalyst` | [Q1] Enchanted Catalyst | [Q1] Förtrollad katalysator |
+| `[Q1] Enchanted Spring` | [Q1] Enchanted Spring | [Q1] Förtrollad fjäder |
+| `[Q1] Enchanted Shim` | [Q1] Enchanted Shim | [Q1] Förtrollat mellanlägg |
+| `[Q1] Enchanted Salve` | [Q1] Enchanted Salve | [Q1] Förtrollad salva |
+| `[Q1] Enchanted Relic` | [Q1] Enchanted Relic | [Q1] Förtrollad relik |
+| `[T1] Globe of Skills` | [T1] Globe of Skills | [T1] Färdighetsglob |
+| `[T2] Globe of Skills` | [T2] Globe of Skills | [T2] Färdighetsglob |
+| `[Q1] Enchanted Skull` | [Q1] Enchanted Skull | [Q1] Förtrollad dödskalle |
+| `[Q1] Enchanted Fortification` | [Q1] Enchanted Fortification | [Q1] Förtrollad befästning |
+| `Earned by completing every quest. New quests re-lock it until they are done.` | Earned by completing every quest. New quests re-lock it until they are done. | Förtjänas genom att klara alla quests. Nya quests låser den igen tills de är klara. |
+| `New quests have arrived. Complete them to earn your Quest Cape back.` | New quests have arrived. Complete them to earn your Quest Cape back. | Nya quests har kommit. Klara dem för att få tillbaka din Quest-mantel. |
+| `Quest Cape Unlocked!` | Quest Cape Unlocked! | Quest-mantel upplåst! |
+| `Unlock Requirements` | Unlock Requirements | Upplåsningskrav |
+| `Q1` | Q1 | Q1 |
+| `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Färdighetsglober: +{0}% (+{1} steg/sek) |
+| `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Quest-mantel: +{0}% (+{1} steg/sek) |
+| `@crit_pct_globes` | Globes of Skills: {0}% | Färdighetsglober: {0}% |
+| `@globes_count` | Globes of Skills {0}/{1} | Färdighetsglober {0}/{1} |
+| `@quest_cape_count` | Quest Cape {0}/{1} | Quest-mantel {0}/{1} |
+| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% rörelsehastighet så länge alla quests är klara |
+| `@all_skills_lv` | All Skills Lv {0} | Alla färdigheter niv {0} |
+| `@b:auto_process` | +{0}% auto-process chance | +{0}% chans till autobearbetning |
+| `@b:auto_bank` | +{0}% auto-bank chance | +{0}% chans till autobankning |
+| `@b:min_hit` | +{0} min hit | +{0} min träff |
+| `@b:max_hit` | +{0} max hit | +{0} max träff |
+| `@b:quest_cape_held` | Held while every quest is completed | Behålls så länge alla quests är klara |
+| `Mastery: The Feeble Trial` | Mastery: The Feeble Trial | Behärskning: Den klena prövningen |
+| `The masters test anyone who has survived a dungeon. The first trial starts close to home.` | The masters test anyone who has survived a dungeon. The first trial starts close to home. | Mästarna prövar alla som har överlevt en fängelsehåla. Den första prövningen börjar nära hemmet. |
+| `Meet the masters at Fernstead` | Meet the masters at Fernstead | Möt mästarna i Fernstead |
+| `A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.'` | A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.' | En mästare i en enkel rock väntar vid banken. 'Du har sett insidan av en fängelsehåla. Visa oss nu att du kan göra de små sakerna väl.' |
+| `Cook at the Fernstead hearth` | Cook at the Fernstead hearth | Laga mat vid Fernstead-härden |
+| `Simple bread, baked right. The master takes a bite and nods.` | Simple bread, baked right. The master takes a bite and nods. | Enkelt bröd, rätt bakat. Mästaren tar en tugga och nickar. |
+| `Haggle at the stalls` | Haggle at the stalls | Pruta vid stånden |
+| `You walk away with a fair price and a new friend.` | You walk away with a fair price and a new friend. | Du går därifrån med ett rimligt pris och en ny vän. |
+| `Tend the Fernstead field` | Tend the Fernstead field | Sköt Fernstead-fältet |
+| `Straight rows and no weeds. The farmer asks who taught you.` | Straight rows and no weeds. The farmer asks who taught you. | Raka rader och inget ogräs. Bonden frågar vem som har lärt dig. |
+| `Forage the thicket` | Forage the thicket | Samla i snåret |
+| `You come out with a full basket and not one scratch.` | You come out with a full basket and not one scratch. | Du kommer ut med en full korg och inte en enda skråma. |
+| `Survey the Woodgap hills` | Survey the Woodgap hills | Mät upp kullarna vid Woodgap |
+| `Your notes fill the gaps on the old survey map.` | Your notes fill the gaps on the old survey map. | Dina anteckningar fyller luckorna på den gamla uppmätningskartan. |
+| `Work the Ironice smithy` | Work the Ironice smithy | Arbeta i Ironice-smedjan |
+| `A plain blade, balanced and sharp. The smith hangs it on the wall.` | A plain blade, balanced and sharp. The smith hangs it on the wall. | En enkel klinga, välbalanserad och vass. Smeden hänger upp den på väggen. |
+| `Cut stone at the quarry` | Cut stone at the quarry | Hugg sten i stenbrottet |
+| `Clean blocks, cut square. The quarry boss has no complaints.` | Clean blocks, cut square. The quarry boss has no complaints. | Rena block, huggna i rät vinkel. Förmannen i stenbrottet har inget att klaga på. |
+| `Play at the Splitstone campfire` | Play at the Splitstone campfire | Spela vid Splitstone-lägerelden |
+| `Travelers stop to listen. One of them is a master.` | Travelers stop to listen. One of them is a master. | Resenärer stannar för att lyssna. En av dem är en mästare. |
+| `Work the Pinegap alley` | Work the Pinegap alley | Arbeta i Pinegap-gränden |
+| `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Du knycker en börs och lämnar tillbaka den innan ägaren märker något. Mästaren skrattar. |
+| `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Dra ur Pinegap-kristallen |
+| `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Kristallen surrar, och essensen kommer ut ren. |
+| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Mästarna väntar vid fängelsehålans mynning. 'En bra början. Nästa prövning ligger längre bort.' |
+| `Mastery: The Dire Trial` | Mastery: The Dire Trial | Behärskning: Den grymma prövningen |
+| `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | Den andra prövningen tar dig västerut, ut i kylan, där mästarna arbetar hårdare. |
+| `Meet the masters at Timberchill` | Meet the masters at Timberchill | Möt mästarna i Timberchill |
+| `'The first trial was easy on purpose. This one is not.'` | 'The first trial was easy on purpose. This one is not.' | 'Den första prövningen var lätt med flit. Det är inte den här.' |
+| `Join the Timberchill expedition` | Join the Timberchill expedition | Gå med i Timberchill-expeditionen |
+| `You lead the expedition home with a full map and every pack mule.` | You lead the expedition home with a full map and every pack mule. | Du leder expeditionen hem med en komplett karta och varenda packmula. |
+| `Cook in the Icemast kitchen` | Cook in the Icemast kitchen | Laga mat i Icemast-köket |
+| `Hot stew for a cold crew. Everyone asks for seconds.` | Hot stew for a cold crew. Everyone asks for seconds. | Varm gryta åt ett fruset arbetslag. Alla vill ha påfyllning. |
+| `Fish the frozen lake` | Fish the frozen lake | Fiska på den frusna sjön |
+| `You cut a hole in the ice and fill a bucket before noon.` | You cut a hole in the ice and fill a bucket before noon. | Du hugger upp en vak i isen och fyller en hink före lunch. |
+| `Forge at the Battlefrost smithy` | Forge at the Battlefrost smithy | Smid i Battlefrost-smedjan |
+| `Armor for the frontier guard, every plate fitted.` | Armor for the frontier guard, every plate fitted. | Rustning åt gränsvakten, varje plåt rätt avpassad. |
+| `Brew for the Battlefrost garrison` | Brew for the Battlefrost garrison | Brygg åt garnisonen i Battlefrost |
+| `A strong ale for a long winter. The garrison approves.` | A strong ale for a long winter. The garrison approves. | En stark öl för en lång vinter. Garnisonen gillar den. |
+| `Play the Battlefrost tavern` | Play the Battlefrost tavern | Spela på Battlefrost-värdshuset |
+| `A tavern full of soldiers sings along.` | A tavern full of soldiers sings along. | Ett värdshus fullt av soldater sjunger med. |
+| `Draw from the Windhollow rift` | Draw from the Windhollow rift | Dra ur Windhollow-revan |
+| `The rift pulls back. You pull harder.` | The rift pulls back. You pull harder. | Revan drar emot. Du drar hårdare. |
+| `Charge the Windhollow conduit` | Charge the Windhollow conduit | Ladda Windhollow-ledningskanalen |
+| `The conduit glows steady for the first time in years.` | The conduit glows steady for the first time in years. | Ledningskanalen lyser stadigt för första gången på flera år. |
+| `Tend the Windhollow greenhouse` | Tend the Windhollow greenhouse | Sköt Windhollow-växthuset |
+| `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Gröna blad mitt i vintern. |
+| `Mine the Icevein seams` | Mine the Icevein seams | Bryt malm i Icevein-ådrorna |
+| `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Du hittar ådern som gruvarbetarna gav upp. |
+| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Du höll ut i kylan. Härnäst vill mästarna se dig under press.' |
+| `Mastery: The Savage Trial` | Mastery: The Savage Trial | Behärskning: Den vilda prövningen |
+| `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | Den tredje prövningen går söderut, genom livliga trakter där varje hantverk har en mästare som håller uppsikt. |
+| `Meet the masters at Shortha` | Meet the masters at Shortha | Möt mästarna i Shortha |
+| `'The south is loud and crowded. Do your best work anyway.'` | 'The south is loud and crowded. Do your best work anyway.' | 'Här i söder är det högljutt och trångt. Gör ditt bästa arbete ändå.' |
+| `Build at the Shortha workshop` | Build at the Shortha workshop | Bygg i Shortha-verkstaden |
+| `A cabinet with no gaps and no nails. The carpenter wants to buy it.` | A cabinet with no gaps and no nails. The carpenter wants to buy it. | Ett skåp utan glipor och utan spik. Snickaren vill köpa det. |
+| `Perform at the Shortha theatre` | Perform at the Shortha theatre | Uppträd på Shortha-teatern |
+| `The crowd stays on its feet until the lamps go out.` | The crowd stays on its feet until the lamps go out. | Publiken står upp tills lamporna slocknar. |
+| `Draw from the Shortha rift` | Draw from the Shortha rift | Dra ur Shortha-revan |
+| `The rift spits sparks. You take what you need.` | The rift spits sparks. You take what you need. | Revan sprutar gnistor. Du tar det du behöver. |
+| `Pull the Shortha heist` | Pull the Shortha heist | Genomför Shortha-kuppen |
+| `In and out without a sound. The master checks the lock twice.` | In and out without a sound. The master checks the lock twice. | In och ut utan ett ljud. Mästaren kontrollerar låset två gånger. |
+| `Run the Shortha kitchen` | Run the Shortha kitchen | Driv Shortha-köket |
+| `Two hundred plates in one night. None come back.` | Two hundred plates in one night. None come back. | Tvåhundra tallrikar på en kväll. Ingen skickas tillbaka. |
+| `Forage the Gilshore grove` | Forage the Gilshore grove | Samla i Gilshore-lunden |
+| `You find the herbs the grove keeper hides from buyers.` | You find the herbs the grove keeper hides from buyers. | Du hittar örterna som lundens väktare gömmer för köparna. |
+| `Fish off the Gilshore coast` | Fish off the Gilshore coast | Fiska utanför Gilshore-kusten |
+| `A heavy net, hauled in alone.` | A heavy net, hauled in alone. | Ett tungt nät, inhalat på egen hand. |
+| `Charge the Farmhold conduit` | Charge the Farmhold conduit | Ladda Farmhold-ledningskanalen |
+| `The conduit takes a full charge and holds it.` | The conduit takes a full charge and holds it. | Ledningskanalen tar emot en full laddning och håller den. |
+| `Run the Farmhold valley` | Run the Farmhold valley | Spring genom Farmhold-dalen |
+| `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Du springer genom dalen två gånger, bara för att visa att du kan. |
+| `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Gjut i Riverwatch-gjuteriet |
+| `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | En ren gjutning utan bubblor. Gjuteriets arbetslag applåderar. |
+| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Bra. Globerna väntar i de två sista prövningarna.' |
+| `Mastery: The Fell Trial` | Mastery: The Fell Trial | Behärskning: Den ondskefulla prövningen |
+| `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | Den fjärde prövningen skickar dig till de finaste arbetsplatserna i landet. |
+| `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Mästarna trängs i banken. 'Tre prövningar avklarade. Visa oss nu det finaste arbetet i landet.' |
+| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Mästarna väntar vid fängelsehålans mynning. De ger dig en glasglob. 'Den första globen. Den rymmer varje prövning hittills.' |
+| `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Behärskning: Den uråldriga prövningen |
+| `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Den första globen var för prövningarna. Den andra är för det som ingen har lärt dig.' |
+| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Belöning från den ondskefulla och den uråldriga prövningen. Båda staplas. |

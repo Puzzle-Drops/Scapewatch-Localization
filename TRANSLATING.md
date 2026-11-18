@@ -51,7 +51,7 @@ The "New Collection!" lines end with a placeholder like `{2}` that is either emp
 ## Never translate
 
 - **Player names.** They're placeholders, or a separate part of the line.
-- **Tier tags** like `[T3]`, `[C]` and `[Ch]`. They must stay at the start of item names, exactly as in English. Translate the rest of the name: `"[T3] Aluminum Helmet": "[T3] 铝头盔"`.
+- **Tier tags** like `[T3]`, `[C]`, `[Ch]`, `[D1]` and `[Q1]`. They must stay at the start of item names, exactly as in English. Translate the rest of the name: `"[T3] Aluminum Helmet": "[T3] 铝头盔"`.
 - **Numbers, `%`, `×`, `/`**, and the developer's name (Puzzle Drop).
 - **Anything in `{` `}`** except the text inside plural branches.
 

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 음유 |
 | Discover | 탐험 |
 
-## Lines to review (799)
+## Lines to review (1355)
 
 | Key | English | Current |
 |---|---|---|
@@ -869,3 +869,559 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Tint` | Tint | 색조 |
 | `No tint` | No tint | 색조 없음 |
 | `Pick any colour for the wings` | Pick any colour for the wings | 날개 색상을 자유롭게 선택하세요 |
+| `Mastery: Life and Spirit` | Mastery: Life and Spirit | 통달: 생명력과 정신력 |
+| `An old healer wants proof you still remember how to endure.` | An old healer wants proof you still remember how to endure. | 늙은 치유사가 당신이 아직 버티는 법을 기억하는지 확인하고 싶어 합니다. |
+| `Meet the old healer` | Meet the old healer | 늙은 치유사 만나기 |
+| `She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.'` | She checks your pulse before she says hello. 'Strong. But strength is not the lesson. Walk back to where you first learned to last.' | 그녀는 인사보다 먼저 당신의 맥을 짚는다. '튼튼하구나. 하지만 이번 가르침은 힘이 아니야. 처음 버티는 법을 배웠던 곳으로 걸어서 돌아가렴.' |
+| `Rest by the old campfire` | Rest by the old campfire | 오래된 모닥불 곁에서 쉬기 |
+| `You sit until the fire burns low. The healer nods when you stand without stiffness.` | You sit until the fire burns low. The healer nods when you stand without stiffness. | 불이 사그라들 때까지 앉아 있는다. 당신이 뻣뻣함 없이 일어서자 치유사가 고개를 끄덕인다. |
+| `Share a plain meal` | Share a plain meal | 소박한 식사 함께하기 |
+| `Bread, broth, nothing more. 'You forgot how little a body needs,' she says.` | Bread, broth, nothing more. 'You forgot how little a body needs,' she says. | 빵과 국물, 그게 전부다. '몸에 필요한 게 얼마나 적은지 잊고 있었구나.' 그녀가 말한다. |
+| `Outlast a feeble slime` | Outlast a feeble slime | 허약한 슬라임 버텨 내기 |
+| `It barely scratches you. You let it tire itself out before you finish it.` | It barely scratches you. You let it tire itself out before you finish it. | 생채기도 거의 나지 않는다. 녀석이 스스로 지치게 둔 뒤 끝장낸다. |
+| `Calm your breathing by the fire` | Calm your breathing by the fire | 모닥불 곁에서 호흡 가다듬기 |
+| `You count your breaths until the count stops mattering. Your spirit settles.` | You count your breaths until the count stops mattering. Your spirit settles. | 숫자가 의미 없어질 때까지 호흡을 센다. 정신이 차분히 가라앉는다. |
+| `Eat with the road crews` | Eat with the road crews | 도로 인부들과 식사하기 |
+| `The crews talk about blisters and sore backs. You listen more than you speak.` | The crews talk about blisters and sore backs. You listen more than you speak. | 인부들은 물집과 쑤시는 허리 이야기를 한다. 당신은 말하기보다 듣는 쪽이다. |
+| `Take the ember slime calmly` | Take the ember slime calmly | 침착하게 불씨 슬라임 상대하기 |
+| `You let the heat wash past you and keep your footing.` | You let the heat wash past you and keep your footing. | 열기가 스쳐 지나가게 두고 발을 단단히 디딘다. |
+| `Clear a Feeble Dungeon` | Clear a Feeble Dungeon | 허약한 던전 클리어하기 |
+| `The first dungeon feels small now. You walk it slowly, watching every step.` | The first dungeon feels small now. You walk it slowly, watching every step. | 첫 던전이 이제는 작게 느껴진다. 한 걸음 한 걸음 살피며 천천히 걷는다. |
+| `Report your progress` | Report your progress | 진행 상황 보고하기 |
+| `The healer's runner takes your notes. 'She says you are nearly there.'` | The healer's runner takes your notes. 'She says you are nearly there.' | 치유사의 심부름꾼이 당신의 기록을 받아 간다. '거의 다 왔다고 하셨어요.' |
+| `Cook for a tired party` | Cook for a tired party | 지친 파티를 위해 요리하기 |
+| `You feed a party back from the deep. One of them falls asleep mid bite.` | You feed a party back from the deep. One of them falls asleep mid bite. | 깊은 곳에서 돌아온 파티에게 음식을 먹인다. 한 명은 한 입 먹다가 잠들어 버린다. |
+| `Clear a Dire Dungeon` | Clear a Dire Dungeon | 흉포한 던전 클리어하기 |
+| `You come out of the Dire Dungeon with nothing worse than a bruise.` | You come out of the Dire Dungeon with nothing worse than a bruise. | 멍 하나 말고는 아무 탈 없이 흉포한 던전에서 나온다. |
+| `Stand firm against a fell demon` | Stand firm against a fell demon | 사악한 악마에 맞서 버티기 |
+| `The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.'` | The demon hits hard and you do not fall. The healer finds you after. 'Salve and relic. Earned, not given.' | 악마의 공격은 묵직하지만 당신은 쓰러지지 않는다. 그 뒤 치유사가 당신을 찾아온다. '연고와 유물이야. 거저 주는 게 아니라 네가 얻어낸 거란다.' |
+| `Mastery: Strike and Heft` | Mastery: Strike and Heft | 통달: 타격과 완력 |
+| `A retired sergeant wants to see your first drills done properly again.` | A retired sergeant wants to see your first drills done properly again. | 은퇴한 하사관이 당신의 기초 훈련을 다시 제대로 보고 싶어 합니다. |
+| `Report to the old sergeant` | Report to the old sergeant | 늙은 하사관에게 보고하기 |
+| `'Eighty years of swinging and you still lead with your shoulder? Back to the drills.'` | 'Eighty years of swinging and you still lead with your shoulder? Back to the drills.' | '팔십 년을 휘둘렀는데 아직도 어깨부터 나가나? 기초 훈련부터 다시 해.' |
+| `Cut a practice staff` | Cut a practice staff | 연습용 봉 깎기 |
+| `You trim an ash branch to length. It is lighter than anything you carry now.` | You trim an ash branch to length. It is lighter than anything you carry now. | 물푸레나무 가지를 알맞은 길이로 다듬는다. 지금 들고 다니는 그 무엇보다 가볍다. |
+| `Spar with a feeble goblin` | Spar with a feeble goblin | 허약한 고블린과 대련하기 |
+| `You win with the staff alone. The sergeant grunts something like approval.` | You win with the staff alone. The sergeant grunts something like approval. | 봉 하나로 이긴다. 하사관이 인정하는 듯 끙 소리를 낸다. |
+| `Run the training trail` | Run the training trail | 훈련 코스 달리기 |
+| `Three laps, then three more. Your footwork comes back on the last one.` | Three laps, then three more. Your footwork comes back on the last one. | 세 바퀴, 그리고 세 바퀴 더. 마지막 바퀴에서 발놀림이 돌아온다. |
+| `Beat a dire goblin cleanly` | Beat a dire goblin cleanly | 흉포한 고블린 깔끔하게 쓰러뜨리기 |
+| `No wasted swings. The sergeant counts them on his fingers.` | No wasted swings. The sergeant counts them on his fingers. | 헛스윙은 하나도 없다. 하사관이 손가락으로 수를 센다. |
+| `Eat with the garrison` | Eat with the garrison | 수비대와 식사하기 |
+| `The garrison cook remembers the sergeant. 'He still shouts at everyone?'` | The garrison cook remembers the sergeant. 'He still shouts at everyone?' | 수비대 요리사는 하사관을 기억한다. '그 양반, 아직도 모두에게 고함치나?' |
+| `Send word to the sergeant` | Send word to the sergeant | 하사관에게 소식 전하기 |
+| `You send a short note: two goblins down, footwork fixed.` | You send a short note: two goblins down, footwork fixed. | 짧은 쪽지를 보낸다. 고블린 둘 처치, 발놀림 교정 완료. |
+| `Break a feeble skeleton` | Break a feeble skeleton | 허약한 해골 부수기 |
+| `Bone gives way under a clean blow. Heft without strike is noise, he always said.` | Bone gives way under a clean blow. Heft without strike is noise, he always said. | 깔끔한 일격에 뼈가 부서진다. 타격 없는 완력은 소음일 뿐이라고 그는 늘 말했다. |
+| `You clear it with the same drills you learned there.` | You clear it with the same drills you learned there. | 그곳에서 배운 것과 같은 훈련으로 클리어한다. |
+| `Your party moves when you move. Good habits spread.` | Your party moves when you move. Good habits spread. | 당신이 움직이면 파티도 움직인다. 좋은 습관은 퍼지기 마련이다. |
+| `Have your blade reforged` | Have your blade reforged | 칼날 다시 벼리기 |
+| `The smith grinds out years of nicks. It swings true again.` | The smith grinds out years of nicks. It swings true again. | 대장장이가 수년간 생긴 이 빠진 자국을 갈아낸다. 다시 곧게 휘둘러진다. |
+| `Fell an orc with clean blows` | Fell an orc with clean blows | 깔끔한 일격으로 오크 쓰러뜨리기 |
+| `The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.'` | The orc goes down in three strikes. The sergeant hands you a pommel and a grip. 'Now you are ready.' | 오크는 세 번의 타격에 쓰러진다. 하사관이 폼멜과 손잡이를 건넨다. '이제 준비가 됐군.' |
+| `Mastery: Sight and Draw` | Mastery: Sight and Draw | 통달: 조준과 당기기 |
+| `A hunter in the north asks you to shoot like a beginner again.` | A hunter in the north asks you to shoot like a beginner again. | 북쪽의 사냥꾼이 다시 초보자처럼 쏘아 보라고 합니다. |
+| `Meet the northern hunter` | Meet the northern hunter | 북쪽 사냥꾼 만나기 |
+| `'You aim like someone who expects to hit. Good archers expect to miss. Come.'` | 'You aim like someone who expects to hit. Good archers expect to miss. Come.' | '맞힐 거라 생각하고 겨누는군. 좋은 궁수는 빗나갈 거라 생각하지. 따라와.' |
+| `Fletch a plain practice bow` | Fletch a plain practice bow | 소박한 연습용 활 만들기 |
+| `No runes, no gems. Just yew and string.` | No runes, no gems. Just yew and string. | 룬도 보석도 없다. 주목과 시위뿐이다. |
+| `Scout the hills for targets` | Scout the hills for targets | 언덕에서 표적 찾기 |
+| `You mark three trees and a stump at different ranges.` | You mark three trees and a stump at different ranges. | 거리가 다른 나무 세 그루와 그루터기 하나에 표시를 한다. |
+| `Take down a dire gnoll` | Take down a dire gnoll | 흉포한 놀 쓰러뜨리기 |
+| `One arrow, placed where the hunter pointed. 'Better.'` | One arrow, placed where the hunter pointed. 'Better.' | 사냥꾼이 가리킨 곳에 화살 한 발. '나아졌군.' |
+| `Cut fresh arrow shafts` | Cut fresh arrow shafts | 새 화살대 깎기 |
+| `You pick straight stems and trim them by eye.` | You pick straight stems and trim them by eye. | 곧은 줄기를 골라 눈대중으로 다듬는다. |
+| `Run the range drills` | Run the range drills | 사격장 훈련하기 |
+| `Shoot, move, shoot. Your breath and your release line up again.` | Shoot, move, shoot. Your breath and your release line up again. | 쏘고, 움직이고, 쏜다. 호흡과 시위를 놓는 순간이 다시 맞아떨어진다. |
+| `Hit a golem at the joints` | Hit a golem at the joints | 골렘의 관절 맞히기 |
+| `Stone is hard, joints are not. The golem folds.` | Stone is hard, joints are not. The golem folds. | 돌은 단단하지만 관절은 그렇지 않다. 골렘이 무너진다. |
+| `You call targets for the whole party. Nobody wastes a shot.` | You call targets for the whole party. Nobody wastes a shot. | 파티 전체에 표적을 지정해 준다. 아무도 화살을 낭비하지 않는다. |
+| `Eat with the hunters` | Eat with the hunters | 사냥꾼들과 식사하기 |
+| `The hunters argue about wind. You agree with all of them.` | The hunters argue about wind. You agree with all of them. | 사냥꾼들이 바람을 두고 언쟁한다. 당신은 모두의 말에 동의한다. |
+| `Bank your spare arrows` | Bank your spare arrows | 여분의 화살 은행에 맡기기 |
+| `You store the spares. Travelling light is half the craft.` | You store the spares. Travelling light is half the craft. | 여분을 맡긴다. 가볍게 다니는 것이 기술의 절반이다. |
+| `You shoot from the back row and never lose sight of the front.` | You shoot from the back row and never lose sight of the front. | 뒷줄에서 쏘면서도 앞줄에서 한 번도 눈을 떼지 않는다. |
+| `Bring down a fell gnoll` | Bring down a fell gnoll | 사악한 놀 쓰러뜨리기 |
+| `Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.'` | Two shots, both clean. The hunter hands you a notch and a bowstring. 'Keep these. Keep missing less.' | 두 발, 모두 깔끔하다. 사냥꾼이 오늬와 활시위를 건넨다. '간직해. 그리고 계속 덜 빗나가게 해.' |
+| `Mastery: Focus and Surge` | Mastery: Focus and Surge | 통달: 집중과 쇄도 |
+| `An eastern mage wants your first spells cast without force or fuss.` | An eastern mage wants your first spells cast without force or fuss. | 동쪽의 마법사가 당신의 첫 주문을 힘주거나 법석 떨지 않고 시전하길 원합니다. |
+| `Meet the eastern mage` | Meet the eastern mage | 동쪽 마법사 만나기 |
+| `'You push power like a mule pushes a cart. Let us start again, smaller.'` | 'You push power like a mule pushes a cart. Let us start again, smaller.' | '노새가 수레를 밀듯 힘을 밀어붙이는군. 더 작게, 처음부터 다시 해 보자.' |
+| `Draw from a small fragment` | Draw from a small fragment | 작은 파편에서 끌어내기 |
+| `The essence is faint. You have to listen for it.` | The essence is faint. You have to listen for it. | 정수가 희미하다. 귀를 기울여야 한다. |
+| `Charge a single dim essence` | Charge a single dim essence | 흐릿한 정수 하나 충전하기 |
+| `You charge it slowly. It holds better than anything you rushed.` | You charge it slowly. It holds better than anything you rushed. | 천천히 충전한다. 서둘렀던 그 무엇보다 단단히 버틴다. |
+| `Banish a feeble imp` | Banish a feeble imp | 허약한 임프 퇴치하기 |
+| `A small spell, aimed well. The imp is gone before it can grin.` | A small spell, aimed well. The imp is gone before it can grin. | 작은 주문, 정확한 조준. 임프는 씩 웃기도 전에 사라진다. |
+| `Read the runes in the ashes` | Read the runes in the ashes | 잿더미 속 룬 읽기 |
+| `Old travellers left warding marks here. You copy them out.` | Old travellers left warding marks here. You copy them out. | 옛 여행자들이 이곳에 수호 표식을 남겼다. 당신은 그것을 베껴 적는다. |
+| `Tend a small herb plot` | Tend a small herb plot | 작은 약초밭 돌보기 |
+| `The mage wants patience practised. You weed until your mind goes quiet.` | The mage wants patience practised. You weed until your mind goes quiet. | 마법사는 인내를 연습하길 바란다. 마음이 고요해질 때까지 잡초를 뽑는다. |
+| `Unmake a dire lich` | Unmake a dire lich | 흉포한 리치 소멸시키기 |
+| `You break its ward with the marks from the ashes.` | You break its ward with the marks from the ashes. | 잿더미의 표식으로 그 결계를 깨뜨린다. |
+| `You cast half as often and hit twice as hard.` | You cast half as often and hit twice as hard. | 주문은 절반만 쓰고, 두 배로 세게 맞힌다. |
+| `Inscribe a beginner sigil` | Inscribe a beginner sigil | 초보자용 인장 새기기 |
+| `Simple lines, clean joins. The mage keeps it as a sample.` | Simple lines, clean joins. The mage keeps it as a sample. | 단순한 선, 깔끔한 이음매. 마법사가 견본으로 보관한다. |
+| `Send your notes east` | Send your notes east | 기록을 동쪽으로 보내기 |
+| `Your notes on the lich go back to the mage by courier.` | Your notes on the lich go back to the mage by courier. | 리치에 관한 기록이 전령 편으로 마법사에게 돌아간다. |
+| `Your spells land on rhythm. The party fights to your timing.` | Your spells land on rhythm. The party fights to your timing. | 주문이 박자에 맞춰 꽂힌다. 파티는 당신의 타이밍에 맞춰 싸운다. |
+| `Dispel a fell demon` | Dispel a fell demon | 사악한 악마 몰아내기 |
+| `One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.'` | One focused surge and the demon scatters. The mage gives you an orb and a catalyst. 'Small spells, large results.' | 집중된 쇄도 한 번에 악마가 흩어진다. 마법사가 오브와 촉매를 건넨다. '작은 주문, 큰 결과.' |
+| `Mastery: Dodge and Defend` | Mastery: Dodge and Defend | 통달: 회피와 방어 |
+| `A shieldwright wants you to relearn when to block and when to move.` | A shieldwright wants you to relearn when to block and when to move. | 방패 장인이 언제 막고 언제 움직일지 다시 배우길 원합니다. |
+| `Meet the shieldwright` | Meet the shieldwright | 방패 장인 만나기 |
+| `'You block everything. Some things you should just not be standing in front of.'` | 'You block everything. Some things you should just not be standing in front of.' | '넌 뭐든 다 막는구나. 어떤 건 그냥 그 앞에 서 있지 말아야 해.' |
+| `Hammer out a practice shield` | Hammer out a practice shield | 연습용 방패 두드려 만들기 |
+| `Plain iron, a little too heavy. That is the point, she says.` | Plain iron, a little too heavy. That is the point, she says. | 평범한 철, 조금 지나치게 무겁다. 그게 요점이라고 그녀는 말한다. |
+| `Dodge a feeble rat` | Dodge a feeble rat | 허약한 쥐 피하기 |
+| `You step aside until it tires. You do not raise the shield once.` | You step aside until it tires. You do not raise the shield once. | 녀석이 지칠 때까지 비켜선다. 방패는 한 번도 들지 않는다. |
+| `Weave through the crowded alley` | Weave through the crowded alley | 붐비는 골목 누비기 |
+| `Market day. You cross the alley without touching anyone.` | Market day. You cross the alley without touching anyone. | 장날이다. 아무와도 부딪치지 않고 골목을 건넌다. |
+| `Block a feeble treant` | Block a feeble treant | 허약한 트렌트 막기 |
+| `Its branches thud off the shield. You keep your feet planted.` | Its branches thud off the shield. You keep your feet planted. | 가지가 방패에 둔탁하게 부딪친다. 발은 단단히 디딘 채다. |
+| `Hold against a dire treant` | Hold against a dire treant | 흉포한 트렌트에 맞서 버티기 |
+| `Block, step, block. You stop thinking about which comes next.` | Block, step, block. You stop thinking about which comes next. | 막고, 딛고, 막는다. 다음에 뭐가 올지 더는 생각하지 않는다. |
+| `You take every hit meant for the party and none meant for you.` | You take every hit meant for the party and none meant for you. | 파티를 노린 공격은 모두 받아내고, 당신을 노린 공격은 하나도 맞지 않는다. |
+| `Gather bark for shield padding` | Gather bark for shield padding | 방패 안감용 나무껍질 모으기 |
+| `Soft bark, layered thick. Your arm will thank you.` | Soft bark, layered thick. Your arm will thank you. | 부드러운 껍질을 두껍게 겹친다. 팔이 고마워할 것이다. |
+| `Send the shieldwright word` | Send the shieldwright word | 방패 장인에게 소식 전하기 |
+| `You report the treant fights. She replies with a single word: 'Again.'` | You report the treant fights. She replies with a single word: 'Again.' | 트렌트와의 싸움을 보고한다. 그녀는 한 마디로 답한다. '다시.' |
+| `You read every swing before it comes.` | You read every swing before it comes. | 모든 공격을 오기 전에 읽어 낸다. |
+| `Reinforce the shield rim` | Reinforce the shield rim | 방패 테두리 보강하기 |
+| `The smith adds a band of steel to the rim. It feels finished now.` | The smith adds a band of steel to the rim. It feels finished now. | 대장장이가 테두리에 강철 띠를 덧댄다. 이제야 완성된 느낌이다. |
+| `Outlast a fell orc` | Outlast a fell orc | 사악한 오크 버텨 내기 |
+| `It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim.` | It swings until it can barely stand. You never stopped moving. The shieldwright hands you a spring and a shim. | 녀석은 겨우 서 있을 수 있을 때까지 휘두른다. 당신은 한 번도 움직임을 멈추지 않았다. 방패 장인이 용수철과 쐐기를 건넨다. |
+| `Mastery: Fish and Cook` | Mastery: Fish and Cook | 통달: 낚시와 요리 |
+| `A fishwife who fed half the coast wants your first catch cooked right.` | A fishwife who fed half the coast wants your first catch cooked right. | 해안의 절반을 먹여 살린 생선 장수가 당신의 첫 어획을 제대로 요리하길 원합니다. |
+| `Meet the old fishwife` | Meet the old fishwife | 늙은 생선 장수 만나기 |
+| `'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.'` | 'Big fish, fancy pans. When did you last cook a shrimp properly? Go and find out.' | '큰 생선, 근사한 냄비. 마지막으로 새우를 제대로 요리한 게 언제야? 가서 알아 와.' |
+| `Cook over an open spit` | Cook over an open spit | 꼬챙이 불에 요리하기 |
+| `No kitchen, no spices. You keep the fire low and the fish whole.` | No kitchen, no spices. You keep the fire low and the fish whole. | 부엌도 향신료도 없다. 불은 약하게, 생선은 통째로 둔다. |
+| `Fish the shallow pool` | Fish the shallow pool | 얕은 웅덩이에서 낚시하기 |
+| `You catch a shrimp and remember the first one you ever landed.` | You catch a shrimp and remember the first one you ever landed. | 새우를 낚으며 처음 낚았던 녀석을 떠올린다. |
+| `Fish a quiet stream` | Fish a quiet stream | 조용한 개울에서 낚시하기 |
+| `The stream is slow and so are you. You stop rushing the line.` | The stream is slow and so are you. You stop rushing the line. | 개울은 느리고 당신도 그렇다. 낚싯줄을 서두르지 않는다. |
+| `Grill your catch plainly` | Grill your catch plainly | 잡은 것을 소박하게 굽기 |
+| `Salt and smoke. The fishwife would approve.` | Salt and smoke. The fishwife would approve. | 소금과 연기. 생선 장수라면 마음에 들어 할 것이다. |
+| `Try the far pool` | Try the far pool | 먼 웅덩이에 가 보기 |
+| `A perch bites on the third cast. You let it run before you reel.` | A perch bites on the third cast. You let it run before you reel. | 세 번째 던졌을 때 농어가 문다. 감기 전에 녀석이 달리게 둔다. |
+| `Fish the cold stream` | Fish the cold stream | 차가운 개울에서 낚시하기 |
+| `Cold hands, quick fish. You learn to strike faster.` | Cold hands, quick fish. You learn to strike faster. | 차가운 손, 빠른 물고기. 더 빨리 챔질하는 법을 익힌다. |
+| `Cook at a mountain hearth` | Cook at a mountain hearth | 산속 화덕에서 요리하기 |
+| `The hearth cook shows you how to keep fish from drying out.` | The hearth cook shows you how to keep fish from drying out. | 화덕 요리사가 생선이 마르지 않게 하는 법을 보여 준다. |
+| `Feed the mill workers` | Feed the mill workers | 방앗간 일꾼들 먹이기 |
+| `You cook for a crew of twenty. Nothing comes back burned.` | You cook for a crew of twenty. Nothing comes back burned. | 스무 명의 일꾼을 위해 요리한다. 탄 채로 돌아오는 것은 하나도 없다. |
+| `Cook on the tidefield spit` | Cook on the tidefield spit | 조수 평원의 꼬챙이 불에서 요리하기 |
+| `The fishwife's cousin tastes your work and sends word up the coast.` | The fishwife's cousin tastes your work and sends word up the coast. | 생선 장수의 사촌이 당신의 요리를 맛보고 해안 위쪽으로 소문을 낸다. |
+| `Cook one perfect fillet` | Cook one perfect fillet | 완벽한 생선살 한 토막 요리하기 |
+| `One fillet, cooked through, still soft. You eat it yourself.` | One fillet, cooked through, still soft. You eat it yourself. | 한 토막, 속까지 익었는데도 부드럽다. 직접 먹는다. |
+| `Land a catch at the seaside` | Land a catch at the seaside | 바닷가에서 물고기 낚기 |
+| `The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.'` | The deep fish fight hard and you bring them in. The fishwife sends a rod and a skillet. 'Now you are a fisher and a cook.' | 깊은 바다의 물고기는 거세게 저항하지만 당신은 끌어올린다. 생선 장수가 낚싯대와 프라이팬을 보낸다. '이제 넌 낚시꾼이자 요리사야.' |
+| `Mastery: Mine and Smith` | Mastery: Mine and Smith | 통달: 채굴과 대장기술 |
+| `A forge master wants proof you still respect plain copper and tin.` | A forge master wants proof you still respect plain copper and tin. | 대장간 장인이 당신이 아직 평범한 구리와 주석을 존중하는지 확인하고 싶어 합니다. |
+| `Meet the forge master` | Meet the forge master | 대장간 장인 만나기 |
+| `'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.'` | 'You only touch rare ore now. Copper built every hall in this land. Go and earn it again.' | '요즘은 희귀한 광석만 만진다며. 이 땅의 모든 전당은 구리로 지어졌어. 가서 다시 그 자격을 얻어 와.' |
+| `Work a copper bar` | Work a copper bar | 구리 주괴 다루기 |
+| `You fold the bar slowly. It rings clean.` | You fold the bar slowly. It rings clean. | 주괴를 천천히 접는다. 맑은 소리가 울린다. |
+| `Mine at the old quarry` | Mine at the old quarry | 옛 채석장에서 채굴하기 |
+| `Copper and tin, by hand. Your swing settles into an old rhythm.` | Copper and tin, by hand. Your swing settles into an old rhythm. | 구리와 주석을 손으로. 휘두르는 리듬이 옛 박자로 돌아간다. |
+| `Smelt your first batch` | Smelt your first batch | 처음으로 한 가마 제련하기 |
+| `You keep the heat even. No slag, no cracks.` | You keep the heat even. No slag, no cracks. | 열을 고르게 유지한다. 슬래그도 균열도 없다. |
+| `Follow a shallow vein` | Follow a shallow vein | 얕은 광맥 따라가기 |
+| `The vein is thin but honest. You take only what it gives.` | The vein is thin but honest. You take only what it gives. | 광맥은 가늘지만 정직하다. 내주는 만큼만 가져간다. |
+| `Quarry stone and ore` | Quarry stone and ore | 돌과 광석 캐내기 |
+| `Wind cuts through the quarry. You work until the cart is full.` | Wind cuts through the quarry. You work until the cart is full. | 바람이 채석장을 가른다. 수레가 가득 찰 때까지 일한다. |
+| `Chip out the iron seam` | Chip out the iron seam | 철 광맥 쪼아 내기 |
+| `The iron comes loose in good clean chunks.` | The iron comes loose in good clean chunks. | 철이 깔끔하고 좋은 덩어리로 떨어져 나온다. |
+| `Forge a plain nail` | Forge a plain nail | 평범한 못 벼리기 |
+| `A nail is the hardest thing to forge well, the forge master said.` | A nail is the hardest thing to forge well, the forge master said. | 못이야말로 잘 벼리기 가장 어려운 것이라고 대장간 장인은 말했다. |
+| `Mine beside the old camp` | Mine beside the old camp | 옛 야영지 옆에서 채굴하기 |
+| `Old miners left their marks here. You add yours under theirs.` | Old miners left their marks here. You add yours under theirs. | 옛 광부들이 이곳에 표식을 남겼다. 그 아래에 당신의 표식을 더한다. |
+| `Temper a beginner blade` | Temper a beginner blade | 초보자용 칼날 담금질하기 |
+| `You quench it once and it holds an edge.` | You quench it once and it holds an edge. | 한 번 담금질하자 날이 선다. |
+| `Load a cart of ore` | Load a cart of ore | 광석 수레 싣기 |
+| `You load and haul. Your back remembers its first summer here.` | You load and haul. Your back remembers its first summer here. | 싣고 나른다. 허리가 이곳에서의 첫 여름을 기억한다. |
+| `Mine the deepest shaft` | Mine the deepest shaft | 가장 깊은 갱도에서 채굴하기 |
+| `You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.'` | You bring up ore from the deep without a scratch. The forge master sends a pickaxe and a hammer. 'Back where you started, and far past it.' | 생채기 하나 없이 깊은 곳에서 광석을 가져온다. 대장간 장인이 곡괭이와 망치를 보낸다. '시작한 곳으로 돌아왔고, 그 너머로 한참 나아갔군.' |
+| `Mastery: Forage and Craft` | Mastery: Forage and Craft | 통달: 채집과 제작 |
+| `A weaver asks you to gather and work the simplest materials again.` | A weaver asks you to gather and work the simplest materials again. | 직조공이 가장 단순한 재료를 다시 모아 다뤄 달라고 부탁합니다. |
+| `Meet the weaver` | Meet the weaver | 직조공 만나기 |
+| `'You work dragonhide and starspun now. Show me you can still make good strips from leather.'` | 'You work dragonhide and starspun now. Show me you can still make good strips from leather.' | '요즘은 용가죽이랑 별실로 작업한다며. 아직 가죽으로 좋은 끈을 만들 수 있는지 보여 줘.' |
+| `Cut leather into strips` | Cut leather into strips | 가죽을 끈으로 자르기 |
+| `Even width, no ragged ends. The weaver checks every one.` | Even width, no ragged ends. The weaver checks every one. | 폭은 고르고 끝은 해지지 않았다. 직조공이 하나하나 확인한다. |
+| `Gather from the wild patch` | Gather from the wild patch | 야생 채집지에서 모으기 |
+| `You pick slowly and leave the young growth alone.` | You pick slowly and leave the young growth alone. | 천천히 따고 어린 싹은 그대로 둔다. |
+| `Forage the woodland patch` | Forage the woodland patch | 숲 채집지에서 채집하기 |
+| `Linen grows thick here. You fill a sack before noon.` | Linen grows thick here. You fill a sack before noon. | 이곳엔 아마가 무성하다. 정오 전에 자루를 채운다. |
+| `Search the fern thicket` | Search the fern thicket | 고사리 덤불 뒤지기 |
+| `Silk moths nest in the ferns. You take only the spent cocoons.` | Silk moths nest in the ferns. You take only the spent cocoons. | 비단나방이 고사리에 둥지를 튼다. 빈 고치만 가져간다. |
+| `Gather on the rocky patch` | Gather on the rocky patch | 바위 채집지에서 모으기 |
+| `Hardy plants, tough fibres. Good for rope.` | Hardy plants, tough fibres. Good for rope. | 억센 식물, 질긴 섬유. 밧줄로 쓰기 좋다. |
+| `Spin linen into thread` | Spin linen into thread | 아마로 실 잣기 |
+| `You spin until the thread runs fine and even.` | You spin until the thread runs fine and even. | 실이 가늘고 고르게 나올 때까지 잣는다. |
+| `Forage the hillside patch` | Forage the hillside patch | 언덕 비탈 채집지에서 채집하기 |
+| `You know which leaves to take by touch now.` | You know which leaves to take by touch now. | 이제는 어떤 잎을 따야 할지 손끝으로 안다. |
+| `Gather hides from the thicket` | Gather hides from the thicket | 덤불에서 가죽 모으기 |
+| `A hunter left hides to cure. You trade a day of work for them.` | A hunter left hides to cure. You trade a day of work for them. | 사냥꾼이 무두질하려고 가죽을 남겨 두었다. 하루 일을 해 주고 그것을 얻는다. |
+| `Forage the fort patch` | Forage the fort patch | 요새 채집지에서 채집하기 |
+| `The fort guards point you to a patch nobody else bothers with.` | The fort guards point you to a patch nobody else bothers with. | 요새 경비병이 아무도 신경 쓰지 않는 채집지를 알려 준다. |
+| `Craft a simple satchel` | Craft a simple satchel | 간단한 가방 만들기 |
+| `Strips, thread and a buckle. It is the best thing you have made in years.` | Strips, thread and a buckle. It is the best thing you have made in years. | 끈과 실, 그리고 버클 하나. 몇 년 사이 만든 것 중 가장 잘 만든 물건이다. |
+| `Forage the deep wilds` | Forage the deep wilds | 깊은 황야에서 채집하기 |
+| `You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel.` | You return from the wilds with rare materials and steady hands. The weaver sends a sickle and a chisel. | 희귀한 재료와 흔들림 없는 손으로 황야에서 돌아온다. 직조공이 낫과 끌을 보낸다. |
+| `Mastery: Invoke and Imbue` | Mastery: Invoke and Imbue | 통달: 주문과 주입 |
+| `An old enchanter wants your first dim essences drawn and charged again.` | An old enchanter wants your first dim essences drawn and charged again. | 늙은 마법부여사가 흐릿한 정수를 다시 끌어내고 충전하길 원합니다. |
+| `Meet the old enchanter` | Meet the old enchanter | 늙은 마법부여사 만나기 |
+| `'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.'` | 'Radiant, celestial, divine. When did you last charge a dim essence? Begin there.' | '광휘, 천상, 신성. 마지막으로 흐릿한 정수를 충전한 게 언제야? 거기서 시작해.' |
+| `Charge a dim essence` | Charge a dim essence | 흐릿한 정수 충전하기 |
+| `It takes almost nothing to charge. That is what makes it hard.` | It takes almost nothing to charge. That is what makes it hard. | 충전에 드는 힘이 거의 없다. 그래서 어렵다. |
+| `The fragment hums faintly. You draw from it without cracking it.` | The fragment hums faintly. You draw from it without cracking it. | 파편이 희미하게 웅웅거린다. 깨뜨리지 않고 그것에서 끌어낸다. |
+| `Charge at the glowing font` | Charge at the glowing font | 빛나는 샘에서 충전하기 |
+| `You feed the font slowly. It answers in kind.` | You feed the font slowly. It answers in kind. | 샘에 천천히 흘려 넣는다. 샘도 똑같이 응답한다. |
+| `Listen at the river fragment` | Listen at the river fragment | 강의 파편에 귀 기울이기 |
+| `Faint essence, carried on the river wind.` | Faint essence, carried on the river wind. | 강바람에 실려 오는 희미한 정수. |
+| `Charge a faint essence` | Charge a faint essence | 희미한 정수 충전하기 |
+| `Clean light. The enchanter would keep this one.` | Clean light. The enchanter would keep this one. | 맑은 빛. 마법부여사라면 이건 간직할 것이다. |
+| `Trace the ruined sigil` | Trace the ruined sigil | 무너진 인장 따라 그리기 |
+| `The old lines still hold power. You trace them without breaking them.` | The old lines still hold power. You trace them without breaking them. | 옛 선에는 아직 힘이 깃들어 있다. 끊지 않고 따라 그린다. |
+| `Charge essence at the sigil` | Charge essence at the sigil | 인장에서 정수 충전하기 |
+| `You charge three in a row without a flicker.` | You charge three in a row without a flicker. | 흔들림 하나 없이 세 개를 연달아 충전한다. |
+| `Draw from the crystal` | Draw from the crystal | 수정에서 끌어내기 |
+| `The crystal gives more than you ask. You take only what you need.` | The crystal gives more than you ask. You take only what you need. | 수정은 청한 것보다 더 많이 내준다. 필요한 만큼만 가져간다. |
+| `Draw from the desert fragment` | Draw from the desert fragment | 사막의 파편에서 끌어내기 |
+| `Dry air, sharp essence. Your hands stay steady.` | Dry air, sharp essence. Your hands stay steady. | 건조한 공기, 날카로운 정수. 손은 흔들리지 않는다. |
+| `Charge in the desert heat` | Charge in the desert heat | 사막의 열기 속에서 충전하기 |
+| `The heat fights you. You win by going slower.` | The heat fights you. You win by going slower. | 열기가 당신에게 맞선다. 더 천천히 해서 이겨 낸다. |
+| `Draw deep from the rift` | Draw deep from the rift | 균열에서 깊이 끌어내기 |
+| `The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism.` | The rift pours out bright essence and you hold it all. The enchanter sends a conduit and a prism. | 균열에서 찬란한 정수가 쏟아지고 당신은 그 전부를 붙든다. 마법부여사가 도관과 프리즘을 보낸다. |
+| `Mastery: Farm and Brew` | Mastery: Farm and Brew | 통달: 농사와 양조 |
+| `A herbalist wants you to grow and brew the plainest remedies again.` | A herbalist wants you to grow and brew the plainest remedies again. | 약초상이 가장 소박한 치료제를 다시 기르고 양조하길 원합니다. |
+| `Meet the herbalist` | Meet the herbalist | 약초상 만나기 |
+| `'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.'` | 'Rare blooms, fancy tonics. Can you still grow skirmish root and brew it clean? Show me.' | '희귀한 꽃, 근사한 강장제. 아직도 스커미시 뿌리를 길러서 깔끔하게 양조할 수 있어? 보여 줘.' |
+| `Plant skirmish root` | Plant skirmish root | 스커미시 뿌리 심기 |
+| `You plant in straight rows and water at dusk.` | You plant in straight rows and water at dusk. | 곧은 줄로 심고 해 질 녘에 물을 준다. |
+| `Weed the farm plot` | Weed the farm plot | 밭 잡초 뽑기 |
+| `Weeds come up easy after rain. You clear the whole plot.` | Weeds come up easy after rain. You clear the whole plot. | 비가 온 뒤라 잡초가 쉽게 뽑힌다. 밭 전체를 정리한다. |
+| `Brew a simple tonic` | Brew a simple tonic | 간단한 강장제 양조하기 |
+| `Root, water and patience. It comes out clear.` | Root, water and patience. It comes out clear. | 뿌리, 물, 그리고 인내. 맑게 나온다. |
+| `Harvest the hillside plot` | Harvest the hillside plot | 언덕 비탈 밭 수확하기 |
+| `The hill soil is thin. You coax a small harvest out of it.` | The hill soil is thin. You coax a small harvest out of it. | 언덕의 흙은 척박하다. 살살 달래 작은 수확을 얻어 낸다. |
+| `Grow herbs in cold soil` | Grow herbs in cold soil | 차가운 흙에서 약초 기르기 |
+| `Frost-hardy herbs, slow to grow and worth the wait.` | Frost-hardy herbs, slow to grow and worth the wait. | 서리에 강한 약초는 더디게 자라지만 기다릴 가치가 있다. |
+| `Brew at the fern cauldron` | Brew at the fern cauldron | 고사리 가마솥에서 양조하기 |
+| `You let it simmer twice as long as you used to. It is better for it.` | You let it simmer twice as long as you used to. It is better for it. | 예전보다 두 배나 오래 뭉근히 끓인다. 그만큼 더 좋아진다. |
+| `Brew a calming draught` | Brew a calming draught | 진정 물약 양조하기 |
+| `The draught settles your own nerves before anyone else's.` | The draught settles your own nerves before anyone else's. | 그 물약은 다른 누구보다 먼저 당신의 신경을 가라앉힌다. |
+| `Brew for the mountain watch` | Brew for the mountain watch | 산악 감시대를 위해 양조하기 |
+| `The watch drinks it cold. Nobody complains.` | The watch drinks it cold. Nobody complains. | 감시대는 그것을 차갑게 마신다. 아무도 불평하지 않는다. |
+| `Tend the pine plot` | Tend the pine plot | 소나무 밭 돌보기 |
+| `Needles in the soil, sharp herbs in the rows.` | Needles in the soil, sharp herbs in the rows. | 흙에는 솔잎, 이랑에는 톡 쏘는 약초. |
+| `Brew one last plain remedy` | Brew one last plain remedy | 마지막 소박한 치료제 양조하기 |
+| `The herbalist tastes it and nods once.` | The herbalist tastes it and nods once. | 약초상이 맛을 보고 한 번 고개를 끄덕인다. |
+| `Brew a master tonic` | Brew a master tonic | 장인의 강장제 양조하기 |
+| `You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar.` | You brew a tonic the apothecary has never managed. The herbalist sends a trowel and a mortar. | 약제사도 한 번도 만들지 못한 강장제를 양조한다. 약초상이 모종삽과 막자사발을 보낸다. |
+| `Mastery: Plunder and Barter` | Mastery: Plunder and Barter | 통달: 약탈과 교역 |
+| `A retired fence wants to see you work the small markets honestly again.` | A retired fence wants to see you work the small markets honestly again. | 은퇴한 장물아비가 작은 시장에서 다시 정직하게 일하는 당신을 보고 싶어 합니다. |
+| `Meet the retired fence` | Meet the retired fence | 은퇴한 장물아비 만나기 |
+| `'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.'` | 'You rob vaults and buy out markets. Go and pick a pocket, then sell what you took for a fair price.' | '금고를 털고 시장을 통째로 사들인다며. 가서 소매치기 한 번 하고, 훔친 걸 정당한 값에 팔아 봐.' |
+| `Haggle at the small stalls` | Haggle at the small stalls | 작은 노점에서 흥정하기 |
+| `You argue a copper off a loaf of bread. The baker laughs.` | You argue a copper off a loaf of bread. The baker laughs. | 빵 한 덩이에서 동전 한 닢을 깎는다. 빵 장수가 웃는다. |
+| `Lift a purse in the alley` | Lift a purse in the alley | 골목에서 지갑 털기 |
+| `Small purse, quick hands. Nobody notices.` | Small purse, quick hands. Nobody notices. | 작은 지갑, 빠른 손. 아무도 눈치채지 못한다. |
+| `Pick a lock in the alley` | Pick a lock in the alley | 골목에서 자물쇠 따기 |
+| `An old padlock. You open it with a bent nail.` | An old padlock. You open it with a bent nail. | 낡은 맹꽁이자물쇠. 구부린 못으로 연다. |
+| `Shadow a merchant` | Shadow a merchant | 상인 미행하기 |
+| `You follow him for an hour and learn where he keeps his coin.` | You follow him for an hour and learn where he keeps his coin. | 한 시간 동안 그를 따라다니며 돈을 어디에 두는지 알아낸다. |
+| `Sell a stolen trinket` | Sell a stolen trinket | 훔친 장신구 팔기 |
+| `You sell it back to its owner for a fair price. The fence would approve.` | You sell it back to its owner for a fair price. The fence would approve. | 그것을 원래 주인에게 정당한 값에 되판다. 장물아비라면 마음에 들어 할 것이다. |
+| `Slip past the watch` | Slip past the watch | 경비대 몰래 지나가기 |
+| `The watch never looks up from their dice.` | The watch never looks up from their dice. | 경비대는 주사위에서 한 번도 눈을 떼지 않는다. |
+| `Trade at the dockside stalls` | Trade at the dockside stalls | 부두 노점에서 거래하기 |
+| `Fish for rope, rope for coin. You come out ahead.` | Fish for rope, rope for coin. You come out ahead. | 생선은 밧줄로, 밧줄은 돈으로. 결국 이득을 본다. |
+| `Work the dock alley` | Work the dock alley | 부두 골목에서 한탕하기 |
+| `Sailors keep loose coin. You keep some of it.` | Sailors keep loose coin. You keep some of it. | 선원들은 동전을 허술하게 넣고 다닌다. 당신은 그중 일부를 챙긴다. |
+| `Lift a guard captain's keys` | Lift a guard captain's keys | 경비대장의 열쇠 슬쩍하기 |
+| `You borrow them and return them before he notices.` | You borrow them and return them before he notices. | 그가 눈치채기 전에 빌렸다가 돌려놓는다. |
+| `Fence goods in the cold alley` | Fence goods in the cold alley | 차가운 골목에서 장물 처분하기 |
+| `The buyer pays in full and asks no questions.` | The buyer pays in full and asks no questions. | 구매자는 값을 전부 치르고 아무것도 묻지 않는다. |
+| `Strike a deal at the pirate market` | Strike a deal at the pirate market | 해적 시장에서 거래 성사시키기 |
+| `You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales.` | You haggle with pirates and leave with their best goods. The fence sends a lockpick and a set of scales. | 해적들과 흥정해 그들의 최고급 물건을 들고 떠난다. 장물아비가 자물쇠 따개와 저울 한 벌을 보낸다. |
+| `Mastery: Bard and Discover` | Mastery: Bard and Discover | 통달: 음유와 탐험 |
+| `A wandering minstrel wants new songs from the oldest campfires.` | A wandering minstrel wants new songs from the oldest campfires. | 떠돌이 음유시인이 가장 오래된 모닥불에서 새 노래를 찾고 있습니다. |
+| `Meet the wandering minstrel` | Meet the wandering minstrel | 떠돌이 음유시인 만나기 |
+| `'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.'` | 'Every bard sings in the big halls. I want songs from campfires, and places nobody maps.' | '음유시인은 다들 큰 전당에서 노래하지. 나는 모닥불의 노래와, 아무도 지도에 담지 않는 곳의 노래를 원해.' |
+| `Sing at the campfire` | Sing at the campfire | 모닥불에서 노래하기 |
+| `Two travellers and a dog. You play until they fall asleep.` | Two travellers and a dog. You play until they fall asleep. | 여행자 둘과 개 한 마리. 그들이 잠들 때까지 연주한다. |
+| `Survey the nearby hills` | Survey the nearby hills | 근처 언덕 조사하기 |
+| `You find an old marker stone and copy its carving.` | You find an old marker stone and copy its carving. | 오래된 표석을 찾아 그 조각을 베껴 적는다. |
+| `Map the frozen ridge` | Map the frozen ridge | 얼어붙은 능선 지도 그리기 |
+| `Your map is rough but true. The minstrel likes rough.` | Your map is rough but true. The minstrel likes rough. | 지도는 거칠지만 정확하다. 음유시인은 거친 걸 좋아한다. |
+| `Swap songs with the guards` | Swap songs with the guards | 경비병들과 노래 주고받기 |
+| `The guards know a verse you have never heard. You trade one of yours for it.` | The guards know a verse you have never heard. You trade one of yours for it. | 경비병들은 당신이 들어 본 적 없는 한 소절을 안다. 당신의 노래 하나와 바꾼다. |
+| `Search the old prospect` | Search the old prospect | 옛 시굴지 뒤지기 |
+| `Under loose stones you find a tin cup with initials scratched in.` | Under loose stones you find a tin cup with initials scratched in. | 헐거운 돌 아래에서 이니셜이 긁혀 새겨진 주석 컵을 찾는다. |
+| `Scout the frozen pass` | Scout the frozen pass | 얼어붙은 고개 정찰하기 |
+| `Wind has carved the pass into a strange shape. You sketch it.` | Wind has carved the pass into a strange shape. You sketch it. | 바람이 고개를 기묘한 모양으로 깎아 놓았다. 그것을 스케치한다. |
+| `Play for the frost watch` | Play for the frost watch | 서리 감시대를 위해 연주하기 |
+| `The watch claps with mittens on. It sounds like rain.` | The watch claps with mittens on. It sounds like rain. | 감시대는 벙어리장갑을 낀 채 박수를 친다. 빗소리 같다. |
+| `Perform in the old tavern` | Perform in the old tavern | 오래된 선술집에서 공연하기 |
+| `You play the guards' verse. The tavern sings it back.` | You play the guards' verse. The tavern sings it back. | 경비병들의 소절을 연주한다. 선술집 사람들이 따라 부른다. |
+| `Write a song by the fire` | Write a song by the fire | 모닥불 곁에서 노래 짓기 |
+| `You write about the tin cup and the carved pass.` | You write about the tin cup and the carved pass. | 주석 컵과 깎인 고개에 대해 쓴다. |
+| `Find the lost marker` | Find the lost marker | 잃어버린 표석 찾기 |
+| `The last marker is half buried. You dig it out and read it.` | The last marker is half buried. You dig it out and read it. | 마지막 표석은 반쯤 묻혀 있다. 파내어 읽는다. |
+| `Chart the far reaches` | Chart the far reaches | 먼 변방 지도 그리기 |
+| `You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens.` | You chart the far reaches and set your song to the map. The minstrel sends an instrument and a lens. | 먼 변방의 지도를 그리고 그 지도에 노래를 붙인다. 음유시인이 악기와 렌즈를 보낸다. |
+| `Mastery: Vigor and Slay` | Mastery: Vigor and Slay | 통달: 활력과 처치 |
+| `A slayer captain wants your stamina and your first kills done right again.` | A slayer captain wants your stamina and your first kills done right again. | 처치단 대장이 당신의 체력과 첫 사냥을 다시 제대로 보고 싶어 합니다. |
+| `Report to the slayer captain` | Report to the slayer captain | 처치단 대장에게 보고하기 |
+| `'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?'` | 'You hunt the worst things alive. Fine. Can you still run a yard and kill a golem properly?' | '세상에서 가장 끔찍한 것들을 사냥한다지. 좋아. 그런데 아직도 훈련장을 달리고 골렘을 제대로 잡을 수 있나?' |
+| `Run the training yard` | Run the training yard | 훈련장 달리기 |
+| `Ten laps, carrying a sandbag. You finish the last one sprinting.` | Ten laps, carrying a sandbag. You finish the last one sprinting. | 모래주머니를 메고 열 바퀴. 마지막 바퀴는 전력 질주로 끝낸다. |
+| `Slay a feeble golem` | Slay a feeble golem | 허약한 골렘 처치하기 |
+| `You find the crack in its chest and strike there.` | You find the crack in its chest and strike there. | 가슴의 균열을 찾아 그곳을 친다. |
+| `Drill in the frozen yard` | Drill in the frozen yard | 얼어붙은 훈련장에서 훈련하기 |
+| `Ice underfoot. You learn to run without trusting the ground.` | Ice underfoot. You learn to run without trusting the ground. | 발밑은 얼음이다. 땅을 믿지 않고 달리는 법을 익힌다. |
+| `Slay a dire golem` | Slay a dire golem | 흉포한 골렘 처치하기 |
+| `Same crack, bigger golem. It falls the same way.` | Same crack, bigger golem. It falls the same way. | 같은 균열, 더 큰 골렘. 똑같이 쓰러진다. |
+| `Climb the frost wall` | Climb the frost wall | 서리 벽 오르기 |
+| `Hand over hand, no rope. Your arms burn and hold.` | Hand over hand, no rope. Your arms burn and hold. | 밧줄 없이 한 손 한 손. 팔이 타는 듯하지만 버틴다. |
+| `Sprint the mountain yard` | Sprint the mountain yard | 산악 훈련장 전력 질주하기 |
+| `Thin air, long sprints. Your breath stays even.` | Thin air, long sprints. Your breath stays even. | 희박한 공기, 긴 질주. 호흡은 고르게 유지된다. |
+| `Slay a dire skeleton` | Slay a dire skeleton | 흉포한 해골 처치하기 |
+| `You break it at the spine before it can rise.` | You break it at the spine before it can rise. | 일어서기 전에 척추를 부숴 버린다. |
+| `Haul stone across the yard` | Haul stone across the yard | 훈련장 건너편으로 돌 나르기 |
+| `You carry stones until the yard master runs out of them.` | You carry stones until the yard master runs out of them. | 훈련장 감독의 돌이 바닥날 때까지 나른다. |
+| `Run the breakwood course` | Run the breakwood course | 브레이크우드 코스 달리기 |
+| `Logs, ditches, walls. You clear it twice.` | Logs, ditches, walls. You clear it twice. | 통나무, 도랑, 벽. 두 번 완주한다. |
+| `Slay a dire treant` | Slay a dire treant | 흉포한 트렌트 처치하기 |
+| `You take it apart one branch at a time.` | You take it apart one branch at a time. | 가지를 하나씩 떼어 내며 해체한다. |
+| `Climb to the pinnacle` | Climb to the pinnacle | 정상까지 오르기 |
+| `You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.'` | You reach the top without stopping. The captain sends trainers and a culling knife. 'Fit to hunt anything.' | 멈추지 않고 정상에 오른다. 대장이 운동화와 솎아내기 나이프를 보낸다. '무엇이든 사냥할 수 있겠군.' |
+| `Mastery: Luck and Alms` | Mastery: Luck and Alms | 통달: 행운과 자선 |
+| `An almoner believes fortune follows the generous. Spend a day proving it.` | An almoner believes fortune follows the generous. Spend a day proving it. | 자선관은 행운이 베푸는 자를 따른다고 믿습니다. 하루를 들여 그것을 증명해 보세요. |
+| `Meet the almoner` | Meet the almoner | 자선관 만나기 |
+| `'Give freely and luck finds you. Most people never test it. Come and test it.'` | 'Give freely and luck finds you. Most people never test it. Come and test it.' | '아낌없이 베풀면 행운이 너를 찾아와. 대부분은 시험해 보지도 않지. 와서 시험해 봐.' |
+| `Feed a hungry child` | Feed a hungry child | 배고픈 아이 먹이기 |
+| `You buy bread for a child in the alley. On the way out you find a coin.` | You buy bread for a child in the alley. On the way out you find a coin. | 골목의 아이에게 빵을 사 준다. 나오는 길에 동전 하나를 줍는다. |
+| `Pay a stranger's debt` | Pay a stranger's debt | 낯선 이의 빚 갚아 주기 |
+| `The stallholder is stunned. Then she gives you a lucky charm she carved.` | The stallholder is stunned. Then she gives you a lucky charm she carved. | 노점 주인이 어안이 벙벙해한다. 그러고는 직접 깎은 행운 부적을 건넨다. |
+| `Buy a smith his tools back` | Buy a smith his tools back | 대장장이의 연장 되사 주기 |
+| `The smith had pawned his hammer. You buy it back for him.` | The smith had pawned his hammer. You buy it back for him. | 대장장이는 망치를 전당포에 맡겼었다. 당신이 그를 위해 되사 준다. |
+| `Donate to the town chest` | Donate to the town chest | 마을 모금함에 기부하기 |
+| `The banker counts your gift twice to be sure.` | The banker counts your gift twice to be sure. | 은행원이 확인하려고 당신의 기부금을 두 번 센다. |
+| `Leave coin for the wardens` | Leave coin for the wardens | 순찰대원들에게 동전 남기기 |
+| `The wardens are grateful. One of them gives you a tip about a dice game.` | The wardens are grateful. One of them gives you a tip about a dice game. | 순찰대원들이 고마워한다. 그중 한 명이 주사위 판에 관한 귀띔을 해 준다. |
+| `Play dice with the wardens` | Play dice with the wardens | 순찰대원들과 주사위 놀이하기 |
+| `You win three rolls in a row and give the winnings back.` | You win three rolls in a row and give the winnings back. | 세 판 연속으로 이기고 딴 돈을 돌려준다. |
+| `Plant a clover for luck` | Plant a clover for luck | 행운을 빌며 클로버 심기 |
+| `You find a four-leaf clover while planting. The almoner is not surprised.` | You find a four-leaf clover while planting. The almoner is not surprised. | 심다가 네잎클로버를 발견한다. 자선관은 놀라지 않는다. |
+| `Fund the village well` | Fund the village well | 마을 우물에 기금 대기 |
+| `The village will have clean water by spring.` | The village will have clean water by spring. | 봄이면 마을에 깨끗한 물이 생길 것이다. |
+| `Pay the dockhands' wages` | Pay the dockhands' wages | 부두 일꾼들의 품삯 지급하기 |
+| `The harbour master had run short. The dockhands cheer.` | The harbour master had run short. The dockhands cheer. | 항만장의 돈이 바닥났었다. 부두 일꾼들이 환호한다. |
+| `Buy out a poor trader` | Buy out a poor trader | 가난한 상인의 물건 몽땅 사기 |
+| `You buy her last fish at full price. She swears it will bring you luck.` | You buy her last fish at full price. She swears it will bring you luck. | 그녀의 마지막 생선을 제값에 산다. 그녀는 그게 행운을 가져다줄 거라고 맹세한다. |
+| `Give at the great market` | Give at the great market | 큰 시장에서 베풀기 |
+| `You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer.` | You give away a purse at the market and win a raffle on the way out. The almoner sends a charm and a censer. | 시장에서 지갑 하나를 통째로 나눠 주고, 나오는 길에 추첨에 당첨된다. 자선관이 부적과 향로를 보낸다. |
+| `Mastery: Delve and Fortify` | Mastery: Delve and Fortify | 통달: 심연과 축성 |
+| `A raid veteran wants every dungeon and Fortress wave run from the start.` | A raid veteran wants every dungeon and Fortress wave run from the start. | 레이드 베테랑이 모든 던전과 건틀릿 웨이브를 처음부터 다시 돌기를 원합니다. |
+| `Meet the raid veteran` | Meet the raid veteran | 레이드 베테랑 만나기 |
+| `'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.'` | 'You run the hardest raids with your eyes shut. Open them. Start from the first dungeon.' | '가장 어려운 레이드를 눈 감고도 도는군. 눈을 떠. 첫 던전부터 시작해.' |
+| `Hear the delvers' stories` | Hear the delvers' stories | 심연 탐사자들의 이야기 듣기 |
+| `Old delvers trade stories of the first dungeon. You learn a route you never knew.` | Old delvers trade stories of the first dungeon. You learn a route you never knew. | 노련한 탐사자들이 첫 던전 이야기를 나눈다. 몰랐던 경로를 하나 배운다. |
+| `You clear it using the old route. It is faster than yours.` | You clear it using the old route. It is faster than yours. | 그 옛 경로로 클리어한다. 당신의 경로보다 빠르다. |
+| `Hold the Fortress for 20 waves` | Hold the Fortress for 20 waves | 건틀릿에서 20웨이브 버티기 |
+| `You hold the walls with plain supplies. Twenty waves, no losses.` | You hold the walls with plain supplies. Twenty waves, no losses. | 평범한 보급품으로 성벽을 지킨다. 스무 웨이브, 손실 없음. |
+| `Restock near the Fortress` | Restock near the Fortress | 건틀릿 근처에서 보급하기 |
+| `You restock and swap stories with the Fortress crews.` | You restock and swap stories with the Fortress crews. | 보급을 마치고 건틀릿 대원들과 이야기를 나눈다. |
+| `Patch your raid gear` | Patch your raid gear | 레이드 장비 수선하기 |
+| `Torn straps, cracked buckles. You fix them all yourself.` | Torn straps, cracked buckles. You fix them all yourself. | 찢어진 끈, 금 간 버클. 모두 직접 고친다. |
+| `You lead the party and let them set the pace.` | You lead the party and let them set the pace. | 파티를 이끌되, 속도는 그들에게 맡긴다. |
+| `Hold the Fortress for 40 waves` | Hold the Fortress for 40 waves | 건틀릿에서 40웨이브 버티기 |
+| `Forty waves. Your deposits never stop.` | Forty waves. Your deposits never stop. | 마흔 웨이브. 입금이 한 번도 끊기지 않는다. |
+| `Plan the Savage run` | Plan the Savage run | 야만의 던전 공략 계획하기 |
+| `The veteran's notes cover every room. You add a few of your own.` | The veteran's notes cover every room. You add a few of your own. | 베테랑의 기록은 모든 방을 다룬다. 당신도 몇 가지를 덧붙인다. |
+| `Clear a Savage Dungeon` | Clear a Savage Dungeon | 야만의 던전 클리어하기 |
+| `The Savage Dungeon goes the way the notes said it would.` | The Savage Dungeon goes the way the notes said it would. | 야만의 던전은 기록에 적힌 그대로 흘러간다. |
+| `Hold the Fortress for 60 waves` | Hold the Fortress for 60 waves | 건틀릿에서 60웨이브 버티기 |
+| `Sixty waves. The walls hold because you planned them to.` | Sixty waves. The walls hold because you planned them to. | 예순 웨이브. 그렇게 되도록 계획했기에 성벽이 버틴다. |
+| `Clear a Fell Dungeon` | Clear a Fell Dungeon | 사악한 던전 클리어하기 |
+| `You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification.` | You clear the Fell Dungeon from first room to last. The veteran sends a skull and a fortification. | 첫 방부터 마지막 방까지 사악한 던전을 클리어한다. 베테랑이 해골과 방벽을 보낸다. |
+| `Gather the masters` | Gather the masters | 장인들 모으기 |
+| `Harvest the great orchard` | Harvest the great orchard | 큰 과수원 수확하기 |
+| `The best trees in the land, picked clean and left healthy.` | The best trees in the land, picked clean and left healthy. | 이 땅 최고의 나무들, 깨끗이 따고도 건강하게 남겨 둔다. |
+| `Fish the open sea` | Fish the open sea | 먼바다에서 낚시하기 |
+| `You bring in a catch the fishwife would frame.` | You bring in a catch the fishwife would frame. | 생선 장수가 액자에 걸어 둘 만한 어획을 끌어올린다. |
+| `Draw from the obelisk` | Draw from the obelisk | 오벨리스크에서 끌어내기 |
+| `The obelisk gives freely to someone who asks properly.` | The obelisk gives freely to someone who asks properly. | 오벨리스크는 제대로 청하는 이에게 아낌없이 내준다. |
+| `Work the underground` | Work the underground | 지하에서 한탕하기 |
+| `You take what you came for and leave no trace.` | You take what you came for and leave no trace. | 원하던 것을 챙기고 흔적 하나 남기지 않는다. |
+| `Trade at the grand market` | Trade at the grand market | 대시장에서 거래하기 |
+| `Every stall gives you its best price.` | Every stall gives you its best price. | 모든 노점이 최고의 값을 쳐 준다. |
+| `Forge at the great foundry` | Forge at the great foundry | 대주조소에서 벼리기 |
+| `The foundry's masters stop to watch you work.` | The foundry's masters stop to watch you work. | 주조소의 장인들이 손을 멈추고 당신의 작업을 지켜본다. |
+| `Perform at the royal court` | Perform at the royal court | 왕궁에서 공연하기 |
+| `The court stands for your last song.` | The court stands for your last song. | 궁정이 당신의 마지막 노래에 기립한다. |
+| `Craft at the syndicate atelier` | Craft at the syndicate atelier | 신디케이트 공방에서 제작하기 |
+| `You craft a piece the atelier keeps on display.` | You craft a piece the atelier keeps on display. | 공방이 전시해 둘 작품을 만든다. |
+| `Forage the far wilds` | Forage the far wilds | 먼 황야에서 채집하기 |
+| `The wilds give up their rarest growth to you.` | The wilds give up their rarest growth to you. | 황야가 가장 희귀한 것을 당신에게 내준다. |
+| `Run the long valley` | Run the long valley | 긴 계곡 달리기 |
+| `You run it end to end and keep your breath.` | You run it end to end and keep your breath. | 처음부터 끝까지 달리고도 숨이 가쁘지 않다. |
+| `The masters have one more test, at the edges of the world.` | The masters have one more test, at the edges of the world. | 장인들에게는 세상의 끝에서 치를 시험이 하나 더 있습니다. |
+| `Meet the masters again` | Meet the masters again | 다시 장인들 만나기 |
+| `Forage the deep hollows` | Forage the deep hollows | 깊은 골짜기에서 채집하기 |
+| `You find growth down here no forager has named.` | You find growth down here no forager has named. | 이 아래에서 어떤 채집가도 이름 붙인 적 없는 식물을 찾는다. |
+| `Mine the high ledge` | Mine the high ledge | 높은 암붕에서 채굴하기 |
+| `Ore from the ledge, brought down without a single slip.` | Ore from the ledge, brought down without a single slip. | 암붕의 광석을 한 번도 미끄러지지 않고 가지고 내려온다. |
+| `Fish the eastern coast` | Fish the eastern coast | 동쪽 해안에서 낚시하기 |
+| `You land a fish from water nobody fishes.` | You land a fish from water nobody fishes. | 아무도 낚시하지 않는 물에서 물고기를 낚는다. |
+| `Chart the ruined coast` | Chart the ruined coast | 폐허가 된 해안 지도 그리기 |
+| `Your chart corrects three maps the cartographers trusted.` | Your chart corrects three maps the cartographers trusted. | 당신의 지도가 지도 제작자들이 믿었던 지도 세 장을 바로잡는다. |
+| `Charge essence at the arc` | Charge essence at the arc | 아크에서 정수 충전하기 |
+| `The arc burns bright and steady in your hands.` | The arc burns bright and steady in your hands. | 아크가 당신의 손안에서 밝고 꾸준하게 타오른다. |
+| `Cook a feast for the masters` | Cook a feast for the masters | 장인들을 위해 잔치 음식 요리하기 |
+| `Fifteen masters, one table. Every plate comes back clean.` | Fifteen masters, one table. Every plate comes back clean. | 열다섯 명의 장인, 하나의 식탁. 모든 접시가 깨끗이 비워져 돌아온다. |
+| `Draw from the last obelisk` | Draw from the last obelisk | 마지막 오벨리스크에서 끌어내기 |
+| `The obelisk at the end of the world answers you.` | The obelisk at the end of the world answers you. | 세상 끝의 오벨리스크가 당신에게 응답한다. |
+| `Play the eastern court` | Play the eastern court | 동쪽 궁정에서 연주하기 |
+| `The court asks for the campfire songs. You play them all.` | The court asks for the campfire songs. You play them all. | 궁정은 모닥불 노래를 청한다. 당신은 그 모두를 연주한다. |
+| `Brew the masters' remedy` | Brew the masters' remedy | 장인들의 치료제 양조하기 |
+| `A remedy built from every plain herb you grew.` | A remedy built from every plain herb you grew. | 당신이 길러 온 모든 소박한 약초로 만든 치료제. |
+| `Bargain with the pirate lords` | Bargain with the pirate lords | 해적 군주들과 흥정하기 |
+| `The pirate lords pay you to leave.` | The pirate lords pay you to leave. | 해적 군주들은 떠나 달라며 당신에게 돈을 지불한다. |
+| `Clear an Ancient Dungeon` | Clear an Ancient Dungeon | 고대의 던전 클리어하기 |
+| `The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.'` | The masters wait at the oldest dungeon. They hand you a second globe and a lantern. 'Now you have nothing left to prove.' | 장인들이 가장 오래된 던전에서 기다린다. 그들이 두 번째 구체와 랜턴을 건넨다. '이제 더 증명할 것이 없다.' |
+| `[Q1] Enchanted Rod` | [Q1] Enchanted Rod | [Q1] 마법 부여 낚싯대 |
+| `[Q1] Enchanted Pickaxe` | [Q1] Enchanted Pickaxe | [Q1] 마법 부여 곡괭이 |
+| `[Q1] Enchanted Sickle` | [Q1] Enchanted Sickle | [Q1] 마법 부여 낫 |
+| `[Q1] Enchanted Conduit` | [Q1] Enchanted Conduit | [Q1] 마법 부여 전도체 |
+| `[Q1] Enchanted Trowel` | [Q1] Enchanted Trowel | [Q1] 마법 부여 모종삽 |
+| `[Q1] Enchanted Lockpick` | [Q1] Enchanted Lockpick | [Q1] 마법 부여 자물쇠 따개 |
+| `[Q1] Enchanted Instrument` | [Q1] Enchanted Instrument | [Q1] 마법 부여 악기 |
+| `[Q1] Enchanted Trainers` | [Q1] Enchanted Trainers | [Q1] 마법 부여 운동화 |
+| `[Q1] Culling Knife` | [Q1] Culling Knife | [Q1] 솎아내기 나이프 |
+| `[Q1] Lucky Charm` | [Q1] Lucky Charm | [Q1] 행운 부적 |
+| `[Q1] Enchanted Censer` | [Q1] Enchanted Censer | [Q1] 마법 부여 향로 |
+| `[Q1] Enchanted Skillet` | [Q1] Enchanted Skillet | [Q1] 마법 부여 프라이팬 |
+| `[Q1] Enchanted Hammer` | [Q1] Enchanted Hammer | [Q1] 마법 부여 망치 |
+| `[Q1] Enchanted Chisel` | [Q1] Enchanted Chisel | [Q1] 마법 부여 끌 |
+| `[Q1] Enchanted Prism` | [Q1] Enchanted Prism | [Q1] 마법 부여 프리즘 |
+| `[Q1] Enchanted Mortar` | [Q1] Enchanted Mortar | [Q1] 마법 부여 절구 |
+| `[Q1] Enchanted Scales` | [Q1] Enchanted Scales | [Q1] 마법 부여 비늘 |
+| `[Q1] Enchanted Lens` | [Q1] Enchanted Lens | [Q1] 마법 부여 렌즈 |
+| `[Q1] Enchanted Lantern` | [Q1] Enchanted Lantern | [Q1] 마법 부여 랜턴 |
+| `[Q1] Enchanted Pommel` | [Q1] Enchanted Pommel | [Q1] 마법 부여 칼자루 |
+| `[Q1] Enchanted Grip` | [Q1] Enchanted Grip | [Q1] 마법 부여 손잡이 |
+| `[Q1] Enchanted Notch` | [Q1] Enchanted Notch | [Q1] 마법 부여 홈 |
+| `[Q1] Enchanted Bowstring` | [Q1] Enchanted Bowstring | [Q1] 마법 부여 활시위 |
+| `[Q1] Enchanted Orb` | [Q1] Enchanted Orb | [Q1] 마법 부여 오브 |
+| `[Q1] Enchanted Catalyst` | [Q1] Enchanted Catalyst | [Q1] 마법 부여 촉매 |
+| `[Q1] Enchanted Spring` | [Q1] Enchanted Spring | [Q1] 마법 부여 용수철 |
+| `[Q1] Enchanted Shim` | [Q1] Enchanted Shim | [Q1] 마법 부여 끼움쇠 |
+| `[Q1] Enchanted Salve` | [Q1] Enchanted Salve | [Q1] 마법 부여 연고 |
+| `[Q1] Enchanted Relic` | [Q1] Enchanted Relic | [Q1] 마법 부여 유물 |
+| `[T1] Globe of Skills` | [T1] Globe of Skills | [T1] 스킬의 구체 |
+| `[T2] Globe of Skills` | [T2] Globe of Skills | [T2] 스킬의 구체 |
+| `[Q1] Enchanted Skull` | [Q1] Enchanted Skull | [Q1] 마법 부여 두개골 |
+| `[Q1] Enchanted Fortification` | [Q1] Enchanted Fortification | [Q1] 마법 부여 요새 |
+| `Earned by completing every quest. New quests re-lock it until they are done.` | Earned by completing every quest. New quests re-lock it until they are done. | 모든 퀘스트를 완료하면 획득합니다. 새 퀘스트가 추가되면 완료할 때까지 다시 잠깁니다. |
+| `New quests have arrived. Complete them to earn your Quest Cape back.` | New quests have arrived. Complete them to earn your Quest Cape back. | 새로운 퀘스트가 도착했습니다. 완료하고 퀘스트 망토를 되찾으세요. |
+| `Quest Cape Unlocked!` | Quest Cape Unlocked! | 퀘스트 망토 잠금 해제! |
+| `Unlock Requirements` | Unlock Requirements | 잠금 해제 요구 조건 |
+| `Q1` | Q1 | Q1 |
+| `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | 스킬의 구체: +{0}% (+{1} 스텝/초) |
+| `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | 퀘스트 망토: +{0}% (+{1} 스텝/초) |
+| `@crit_pct_globes` | Globes of Skills: {0}% | 스킬의 구체: {0}% |
+| `@globes_count` | Globes of Skills {0}/{1} | 스킬의 구체 {0}/{1} |
+| `@quest_cape_count` | Quest Cape {0}/{1} | 퀘스트 망토 {0}/{1} |
+| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | 모든 퀘스트 완료 시 이동 속도 +{0}% |
+| `@all_skills_lv` | All Skills Lv {0} | 모든 스킬 Lv {0} |
+| `@b:auto_process` | +{0}% auto-process chance | 자동 가공 확률 +{0}% |
+| `@b:auto_bank` | +{0}% auto-bank chance | 자동 은행 보관 확률 +{0}% |
+| `@b:min_hit` | +{0} min hit | 최소 타격 +{0} |
+| `@b:max_hit` | +{0} max hit | 최대 타격 +{0} |
+| `@b:quest_cape_held` | Held while every quest is completed | 모든 퀘스트 완료 시 유지 |
+| `Mastery: The Feeble Trial` | Mastery: The Feeble Trial | 통달: 허약한 시련 |
+| `The masters test anyone who has survived a dungeon. The first trial starts close to home.` | The masters test anyone who has survived a dungeon. The first trial starts close to home. | 장인들은 던전에서 살아남은 자라면 누구든 시험합니다. 첫 번째 시련은 가까운 곳에서 시작됩니다. |
+| `Meet the masters at Fernstead` | Meet the masters at Fernstead | 펀스테드에서 장인들 만나기 |
+| `A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.'` | A master in a plain coat waits by the bank. 'You have seen the inside of a dungeon. Now show us you can do the small things well.' | 수수한 외투 차림의 장인이 은행 옆에서 기다린다. '던전 안을 보고 왔군. 이제 작은 일도 제대로 해낸다는 걸 보여 줘.' |
+| `Cook at the Fernstead hearth` | Cook at the Fernstead hearth | 펀스테드 화덕에서 요리하기 |
+| `Simple bread, baked right. The master takes a bite and nods.` | Simple bread, baked right. The master takes a bite and nods. | 소박한 빵이 제대로 구워졌다. 장인이 한 입 베어 물고 고개를 끄덕인다. |
+| `Haggle at the stalls` | Haggle at the stalls | 노점에서 흥정하기 |
+| `You walk away with a fair price and a new friend.` | You walk away with a fair price and a new friend. | 당신은 적당한 값과 새 친구 한 명을 얻고 자리를 뜬다. |
+| `Tend the Fernstead field` | Tend the Fernstead field | 펀스테드 밭 가꾸기 |
+| `Straight rows and no weeds. The farmer asks who taught you.` | Straight rows and no weeds. The farmer asks who taught you. | 반듯한 이랑에 잡초 하나 없다. 농부가 누구한테 배웠느냐고 묻는다. |
+| `Forage the thicket` | Forage the thicket | 덤불에서 채집하기 |
+| `You come out with a full basket and not one scratch.` | You come out with a full basket and not one scratch. | 바구니를 가득 채우고도 긁힌 자국 하나 없이 빠져나온다. |
+| `Survey the Woodgap hills` | Survey the Woodgap hills | 우드갭 언덕 답사하기 |
+| `Your notes fill the gaps on the old survey map.` | Your notes fill the gaps on the old survey map. | 당신의 기록이 낡은 답사 지도의 빈칸을 메운다. |
+| `Work the Ironice smithy` | Work the Ironice smithy | 아이언아이스 대장간에서 일하기 |
+| `A plain blade, balanced and sharp. The smith hangs it on the wall.` | A plain blade, balanced and sharp. The smith hangs it on the wall. | 수수한 칼날, 균형 잡히고 날카롭다. 대장장이가 그것을 벽에 건다. |
+| `Cut stone at the quarry` | Cut stone at the quarry | 채석장에서 돌 자르기 |
+| `Clean blocks, cut square. The quarry boss has no complaints.` | Clean blocks, cut square. The quarry boss has no complaints. | 깔끔한 석재가 반듯하게 잘려 나온다. 채석장 감독도 불만이 없다. |
+| `Play at the Splitstone campfire` | Play at the Splitstone campfire | 스플릿스톤 모닥불에서 연주하기 |
+| `Travelers stop to listen. One of them is a master.` | Travelers stop to listen. One of them is a master. | 여행자들이 걸음을 멈추고 귀를 기울인다. 그중 한 명은 장인이다. |
+| `Work the Pinegap alley` | Work the Pinegap alley | 파인갭 뒷골목에서 한탕하기 |
+| `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | 지갑을 슬쩍했다가 주인이 눈치채기 전에 돌려준다. 장인이 웃음을 터뜨린다. |
+| `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | 파인갭 수정에서 끌어내기 |
+| `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | 수정이 웅웅 울리고, 정수가 깨끗하게 뽑혀 나온다. |
+| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | 장인들이 던전 입구에서 기다린다. '좋은 출발이다. 다음 시련은 더 먼 곳에서 치른다.' |
+| `Mastery: The Dire Trial` | Mastery: The Dire Trial | 통달: 흉포한 시련 |
+| `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | 두 번째 시련은 장인들이 더 치열하게 일하는 추운 서쪽으로 당신을 데려갑니다. |
+| `Meet the masters at Timberchill` | Meet the masters at Timberchill | 팀버칠에서 장인들 만나기 |
+| `'The first trial was easy on purpose. This one is not.'` | 'The first trial was easy on purpose. This one is not.' | '첫 번째 시련은 일부러 쉽게 냈다. 이번엔 다르다.' |
+| `Join the Timberchill expedition` | Join the Timberchill expedition | 팀버칠 탐험대에 합류하기 |
+| `You lead the expedition home with a full map and every pack mule.` | You lead the expedition home with a full map and every pack mule. | 당신은 지도를 빈틈없이 채우고, 짐 노새 한 마리 잃지 않은 채 탐험대를 이끌고 돌아온다. |
+| `Cook in the Icemast kitchen` | Cook in the Icemast kitchen | 아이스마스트 주방에서 요리하기 |
+| `Hot stew for a cold crew. Everyone asks for seconds.` | Hot stew for a cold crew. Everyone asks for seconds. | 추위에 언 일꾼들에게 뜨거운 스튜. 모두가 한 그릇 더 달라고 한다. |
+| `Fish the frozen lake` | Fish the frozen lake | 얼어붙은 호수에서 낚시하기 |
+| `You cut a hole in the ice and fill a bucket before noon.` | You cut a hole in the ice and fill a bucket before noon. | 얼음에 구멍을 뚫고, 정오가 되기 전에 양동이를 가득 채운다. |
+| `Forge at the Battlefrost smithy` | Forge at the Battlefrost smithy | 배틀프로스트 대장간에서 벼리기 |
+| `Armor for the frontier guard, every plate fitted.` | Armor for the frontier guard, every plate fitted. | 변경 경비대를 위한 갑옷. 판금 하나하나가 꼭 맞는다. |
+| `Brew for the Battlefrost garrison` | Brew for the Battlefrost garrison | 배틀프로스트 주둔군을 위해 양조하기 |
+| `A strong ale for a long winter. The garrison approves.` | A strong ale for a long winter. The garrison approves. | 긴 겨울을 위한 독한 에일. 주둔군이 흡족해한다. |
+| `Play the Battlefrost tavern` | Play the Battlefrost tavern | 배틀프로스트 술집에서 연주하기 |
+| `A tavern full of soldiers sings along.` | A tavern full of soldiers sings along. | 병사들로 가득한 술집이 다 함께 노래를 따라 부른다. |
+| `Draw from the Windhollow rift` | Draw from the Windhollow rift | 윈드할로우 균열에서 끌어내기 |
+| `The rift pulls back. You pull harder.` | The rift pulls back. You pull harder. | 균열이 도로 잡아당긴다. 당신은 더 세게 당긴다. |
+| `Charge the Windhollow conduit` | Charge the Windhollow conduit | 윈드할로우 도관 충전하기 |
+| `The conduit glows steady for the first time in years.` | The conduit glows steady for the first time in years. | 도관이 몇 년 만에 처음으로 안정적으로 빛난다. |
+| `Tend the Windhollow greenhouse` | Tend the Windhollow greenhouse | 윈드할로우 온실 가꾸기 |
+| `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | 한겨울에 돋아난 푸른 잎. |
+| `Mine the Icevein seams` | Mine the Icevein seams | 아이스베인 광맥 채굴하기 |
+| `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | 광부들이 포기한 광맥을 당신이 찾아낸다. |
+| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | '추위 속에서 잘 버텼군. 다음엔 장인들이 압박 속에서 일하는 너를 보고 싶어 한다.' |
+| `Mastery: The Savage Trial` | Mastery: The Savage Trial | 통달: 야만의 시련 |
+| `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | 세 번째 시련은 모든 일마다 장인이 지켜보는 번화한 남쪽을 거쳐 갑니다. |
+| `Meet the masters at Shortha` | Meet the masters at Shortha | 쇼타에서 장인들 만나기 |
+| `'The south is loud and crowded. Do your best work anyway.'` | 'The south is loud and crowded. Do your best work anyway.' | '남쪽은 시끄럽고 붐빈다. 그래도 최고의 솜씨를 보여 줘.' |
+| `Build at the Shortha workshop` | Build at the Shortha workshop | 쇼타 공작소에서 만들기 |
+| `A cabinet with no gaps and no nails. The carpenter wants to buy it.` | A cabinet with no gaps and no nails. The carpenter wants to buy it. | 틈도 없고 못도 없는 수납장. 목수가 사고 싶어 한다. |
+| `Perform at the Shortha theatre` | Perform at the Shortha theatre | 쇼타 극장에서 공연하기 |
+| `The crowd stays on its feet until the lamps go out.` | The crowd stays on its feet until the lamps go out. | 관객들은 등불이 꺼질 때까지 일어선 채 자리를 지킨다. |
+| `Draw from the Shortha rift` | Draw from the Shortha rift | 쇼타 균열에서 끌어내기 |
+| `The rift spits sparks. You take what you need.` | The rift spits sparks. You take what you need. | 균열이 불꽃을 내뱉는다. 당신은 필요한 만큼만 챙긴다. |
+| `Pull the Shortha heist` | Pull the Shortha heist | 쇼타 강도 작전 벌이기 |
+| `In and out without a sound. The master checks the lock twice.` | In and out without a sound. The master checks the lock twice. | 소리 없이 들어갔다 나온다. 장인이 자물쇠를 두 번 확인한다. |
+| `Run the Shortha kitchen` | Run the Shortha kitchen | 쇼타 주방 도맡기 |
+| `Two hundred plates in one night. None come back.` | Two hundred plates in one night. None come back. | 하룻밤에 이백 접시. 되돌아온 접시는 하나도 없다. |
+| `Forage the Gilshore grove` | Forage the Gilshore grove | 길쇼어 숲에서 채집하기 |
+| `You find the herbs the grove keeper hides from buyers.` | You find the herbs the grove keeper hides from buyers. | 숲지기가 구매자들에게 숨겨 두는 약초를 찾아낸다. |
+| `Fish off the Gilshore coast` | Fish off the Gilshore coast | 길쇼어 앞바다에서 낚시하기 |
+| `A heavy net, hauled in alone.` | A heavy net, hauled in alone. | 무거운 그물을 혼자서 끌어올린다. |
+| `Charge the Farmhold conduit` | Charge the Farmhold conduit | 팜홀드 도관 충전하기 |
+| `The conduit takes a full charge and holds it.` | The conduit takes a full charge and holds it. | 도관이 가득 충전되고, 그 상태를 유지한다. |
+| `Run the Farmhold valley` | Run the Farmhold valley | 팜홀드 계곡 달리기 |
+| `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | 보란 듯이 계곡을 두 번이나 달린다. |
+| `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | 리버워치 주조소에서 쇳물 붓기 |
+| `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | 기포 하나 없는 깔끔한 주조. 주조소 일꾼들이 박수를 친다. |
+| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | '좋아. 구체가 걸린 건 마지막 두 시련이다.' |
+| `Mastery: The Fell Trial` | Mastery: The Fell Trial | 통달: 사악한 시련 |
+| `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | 네 번째 시련은 당신을 이 땅 최고의 일터로 보냅니다. |
+| `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | 장인들이 은행에 북적인다. '시련 세 개를 마쳤군. 이제 이 땅 최고의 솜씨를 보여 줘.' |
+| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | 장인들이 던전 입구에서 기다린다. 그들이 당신에게 유리 구체를 건넨다. '첫 번째 구체다. 지금까지의 모든 시련이 담겨 있지.' |
+| `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | 통달: 고대의 시련 |
+| `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | '첫 번째 구체는 시련을 위한 것이었다. 두 번째는 아무도 가르쳐 주지 않은 것을 위한 것이다.' |
+| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | 사악한 시련과 고대의 시련 보상입니다. 둘 다 중첩됩니다. |

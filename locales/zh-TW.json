@@ -11850,7 +11850,6 @@
   "You lift a purse and hand it back before the owner notices. The master laughs.": "你摸走一個錢袋，又在失主發現前還了回去。大師哈哈大笑。",
   "Draw from the Pinegap crystal": "從松隘水晶汲取",
   "The crystal hums, and the essence comes out clean.": "水晶嗡嗡作響，精華純淨地流了出來。",
-  "The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'": "大師們在地牢入口等候。「開了個好頭。下一場試煉在更遠的地方。」",
   "Mastery: The Dire Trial": "精通：凶險試煉",
   "The second trial takes you into the cold west, where the masters work harder.": "第二場試煉將帶你前往寒冷的西方，那裡的大師們更加勤奮。",
   "Meet the masters at Timberchill": "在木寒與大師們會面",
@@ -11907,5 +11906,18 @@
   "The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'": "大師們在地牢入口等候。他們遞給你一顆玻璃球。「第一顆晶球。它承載了至今為止的每一場試煉。」",
   "Mastery: The Ancient Trial": "精通：遠古試煉",
   "'The First Globe was for the trials. The second is for what nobody taught you.'": "「第一顆晶球是為了這些試煉。第二顆，則是為了沒人教過你的東西。」",
-  "Rewarded by the Fell and Ancient trials. Both stack.": "由殘暴試煉與遠古試煉獎勵。兩者效果可疊加。"
+  "Rewarded by the Fell and Ancient trials. Both stack.": "由殘暴試煉與遠古試煉獎勵。兩者效果可疊加。",
+  "Lucky Stamp": "幸運印章",
+  "Make this task lucky": "將這個差事設為幸運差事",
+  "One stamp per day. A new one comes at 00:00 UTC.": "每天一枚印章。新印章於 00:00 UTC 發放。",
+  "Use the Lucky Stamp?": "要使用幸運印章嗎？",
+  "Stamp": "蓋章",
+  "Lucky Stamp Locked": "幸運印章未解鎖",
+  "Lucky Stamp Ready": "幸運印章已就緒",
+  "Lucky Stamp Used Today": "幸運印章今日已使用",
+  "Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.": "每天一次，將佇列中的一個差事設為幸運差事：2 倍經驗、2 倍獎勵、行動不失敗。新印章於 00:00 UTC 發放。完成孱弱試煉後獲得。",
+  "+10% movement speed\nHeld while every quest is completed": "移動速度 +10%\n僅在所有任務皆完成時才能持有",
+  "Reset Lucky Stamp": "重置幸運印章",
+  "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "大師們在地牢入口等候，把一枚火漆印章塞到你手裡。「每天一次，它能讓一個差事變得幸運。下一場試煉在更遠的地方。」",
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "每天一次，將佇列中的一個差事設為幸運差事。新印章於 00:00 UTC 發放。"
 }

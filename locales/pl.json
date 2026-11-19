@@ -11850,7 +11850,6 @@
   "You lift a purse and hand it back before the owner notices. The master laughs.": "Wyciągasz sakiewkę i oddajesz ją, zanim właściciel się zorientuje. Mistrz się śmieje.",
   "Draw from the Pinegap crystal": "Czerp z kryształu Pinegap",
   "The crystal hums, and the essence comes out clean.": "Kryształ buczy, a esencja wypływa czysta.",
-  "The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'": "Mistrzowie czekają u wejścia do lochu. „Dobry początek. Następna próba jest dalej.”",
   "Mastery: The Dire Trial": "Mistrzostwo: Groźna Próba",
   "The second trial takes you into the cold west, where the masters work harder.": "Druga próba prowadzi cię na mroźny zachód, gdzie mistrzowie pracują ciężej.",
   "Meet the masters at Timberchill": "Spotkaj się z mistrzami w Timberchill",
@@ -11907,5 +11906,18 @@
   "The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'": "Mistrzowie czekają u wejścia do lochu. Wręczają ci szklaną sferę. „Pierwsza Sfera. Mieści w sobie wszystkie dotychczasowe próby.”",
   "Mastery: The Ancient Trial": "Mistrzostwo: Pradawna Próba",
   "'The First Globe was for the trials. The second is for what nobody taught you.'": "„Pierwsza Sfera była za próby. Druga jest za to, czego nikt cię nie nauczył.”",
-  "Rewarded by the Fell and Ancient trials. Both stack.": "Nagroda za Złowrogą i Pradawną Próbę. Obie się kumulują."
+  "Rewarded by the Fell and Ancient trials. Both stack.": "Nagroda za Złowrogą i Pradawną Próbę. Obie się kumulują.",
+  "Lucky Stamp": "Szczęśliwa pieczęć",
+  "Make this task lucky": "Uczyń to zadanie szczęśliwym",
+  "One stamp per day. A new one comes at 00:00 UTC.": "Jedna pieczęć dziennie. Nowa pojawia się o 00:00 UTC.",
+  "Use the Lucky Stamp?": "Użyć Szczęśliwej pieczęci?",
+  "Stamp": "Opieczętuj",
+  "Lucky Stamp Locked": "Szczęśliwa pieczęć zablokowana",
+  "Lucky Stamp Ready": "Szczęśliwa pieczęć gotowa",
+  "Lucky Stamp Used Today": "Szczęśliwa pieczęć użyta dzisiaj",
+  "Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.": "Raz dziennie uczyń jedno zadanie w kolejce szczęśliwym: 2x XP, 2x nagrody, bez nieudanych akcji. Nowa pieczęć pojawia się o 00:00 UTC. Nagroda za Słabą Próbę.",
+  "+10% movement speed\nHeld while every quest is completed": "+10% szybkości ruchu\nZachowujesz ją, dopóki wszystkie zadania fabularne są ukończone",
+  "Reset Lucky Stamp": "Zresetuj Szczęśliwą pieczęć",
+  "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Mistrzowie czekają u wejścia do lochu i wciskają ci do ręki woskową pieczęć. „Raz dziennie czyni zadanie szczęśliwym. Następna próba jest dalej.”",
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Raz dziennie uczyń jedno zadanie z kolejki szczęśliwym. Nowa pieczęć pojawia się o 00:00 UTC."
 }

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Pieśń |
 | Discover | Odkrywanie |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Wyciągasz sakiewkę i oddajesz ją, zanim właściciel się zorientuje. Mistrz się śmieje. |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Czerp z kryształu Pinegap |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Kryształ buczy, a esencja wypływa czysta. |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Mistrzowie czekają u wejścia do lochu. „Dobry początek. Następna próba jest dalej.” |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | Mistrzostwo: Groźna Próba |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | Druga próba prowadzi cię na mroźny zachód, gdzie mistrzowie pracują ciężej. |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | Spotkaj się z mistrzami w Timberchill |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Mistrzostwo: Pradawna Próba |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | „Pierwsza Sfera była za próby. Druga jest za to, czego nikt cię nie nauczył.” |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Nagroda za Złowrogą i Pradawną Próbę. Obie się kumulują. |
+| `Lucky Stamp` | Lucky Stamp | Szczęśliwa pieczęć |
+| `Make this task lucky` | Make this task lucky | Uczyń to zadanie szczęśliwym |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Jedna pieczęć dziennie. Nowa pojawia się o 00:00 UTC. |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | Użyć Szczęśliwej pieczęci? |
+| `Stamp` | Stamp | Opieczętuj |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | Szczęśliwa pieczęć zablokowana |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | Szczęśliwa pieczęć gotowa |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Szczęśliwa pieczęć użyta dzisiaj |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Raz dziennie uczyń jedno zadanie w kolejce szczęśliwym: 2x XP, 2x nagrody, bez nieudanych akcji. Nowa pieczęć pojawia się o 00:00 UTC. Nagroda za Słabą Próbę. |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% szybkości ruchu Zachowujesz ją, dopóki wszystkie zadania fabularne są ukończone |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | Zresetuj Szczęśliwą pieczęć |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Mistrzowie czekają u wejścia do lochu i wciskają ci do ręki woskową pieczęć. „Raz dziennie czyni zadanie szczęśliwym. Następna próba jest dalej.” |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Raz dziennie uczyń jedno zadanie z kolejki szczęśliwym. Nowa pieczęć pojawia się o 00:00 UTC. |

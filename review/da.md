@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Opdag |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Du rapser en pung og giver den tilbage, før ejeren opdager det. Mesteren griner. |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Træk fra Pinegap-krystallen |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Krystallen summer, og essensen kommer ren ud. |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Mestrene venter ved indgangen til fangekælderen. 'En god start. Den næste prøve ligger længere ude.' |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | Mestring: Den grumme prøve |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | Den anden prøve sender dig mod vest, ud i kulden, hvor mestrene arbejder hårdere. |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | Mød mestrene i Timberchill |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Mestring: Den ældgamle prøve |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Den første globus var for prøverne. Den anden er for det, ingen har lært dig.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Belønning fra den onde og den ældgamle prøve. Begge kan stables. |
+| `Lucky Stamp` | Lucky Stamp | Heldigt stempel |
+| `Make this task lucky` | Make this task lucky | Gør denne opgave heldig |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Ét stempel om dagen. Et nyt kommer kl. 00:00 UTC. |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | Vil du bruge det heldige stempel? |
+| `Stamp` | Stamp | Stempl |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | Heldigt stempel låst |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | Heldigt stempel klart |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Heldigt stempel brugt i dag |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | En gang om dagen kan du gøre én opgave i din kø heldig: 2x XP, 2x belønninger, ingen mislykkede handlinger. Et nyt stempel kommer kl. 00:00 UTC. Belønning fra den spinkle prøve. |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% bevægelseshastighed Beholdes, så længe alle quests er fuldført |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | Nulstil heldigt stempel |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Mestrene venter ved indgangen til fangekælderen og trykker et laksegl i hånden på dig. 'En gang om dagen gør det en opgave heldig. Den næste prøve ligger længere ude.' |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Gør én opgave i køen heldig en gang om dagen. Et nyt stempel kommer kl. 00:00 UTC. |

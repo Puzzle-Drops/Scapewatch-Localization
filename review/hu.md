@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bárd |
 | Discover | Felfedezés |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Elemelsz egy erszényt, és visszaadod, mielőtt a gazdája észrevenné. A mester nevet. |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Meríts Pinegap kristályából |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | A kristály zümmög, és az eszencia tisztán jön ki. |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | A mesterek a tömlöc bejáratánál várnak. 'Jó kezdet. A következő próba messzebb vár.' |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | Mesterség: A baljós próba |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | A második próba a hideg nyugatra visz, ahol a mesterek keményebben dolgoznak. |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | Találkozz a mesterekkel Timberchillben |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Mesterség: Az ősi próba |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Az első glóbusz a próbákért járt. A második azért jár, amit senki sem tanított meg neked.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | A kegyetlen és az ősi próba jutalma. Mindkettő halmozódik. |
+| `Lucky Stamp` | Lucky Stamp | Szerencsés pecsét |
+| `Make this task lucky` | Make this task lucky | Tedd szerencséssé ezt a feladatot |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Naponta egy pecsét. Újat 00:00 UTC-kor kapsz. |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | Felhasználod a Szerencsés pecsétet? |
+| `Stamp` | Stamp | Pecsételés |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | Szerencsés pecsét zárolva |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | Szerencsés pecsét használható |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Szerencsés pecsét ma már felhasználva |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Naponta egyszer tedd szerencséssé a feladatsorod egyik feladatát: 2x XP, 2x jutalom, nincsenek sikertelen műveletek. Új pecsétet 00:00 UTC-kor kapsz. A gyenge próba jutalma. |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% mozgási sebesség Addig marad nálad, amíg minden küldetés teljesítve van |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | Szerencsés pecsét visszaállítása |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | A mesterek a tömlöc bejáratánál várnak, és egy viaszpecsétet nyomnak a kezedbe. 'Naponta egyszer szerencséssé tesz egy feladatot. A következő próba messzebb vár.' |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Naponta egyszer tedd szerencséssé a sor egyik feladatát. Új pecsétet 00:00 UTC-kor kapsz. |

@@ -11357,7 +11357,6 @@
   "You lift a purse and hand it back before the owner notices. The master laughs.": "You lift a purse and hand it back before the owner notices. The master laughs.",
   "Draw from the Pinegap crystal": "Draw from the Pinegap crystal",
   "The crystal hums, and the essence comes out clean.": "The crystal hums, and the essence comes out clean.",
-  "The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'": "The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'",
   "Mastery: The Dire Trial": "Mastery: The Dire Trial",
   "The second trial takes you into the cold west, where the masters work harder.": "The second trial takes you into the cold west, where the masters work harder.",
   "Meet the masters at Timberchill": "Meet the masters at Timberchill",
@@ -11414,5 +11413,18 @@
   "The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'": "The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'",
   "Mastery: The Ancient Trial": "Mastery: The Ancient Trial",
   "'The First Globe was for the trials. The second is for what nobody taught you.'": "'The First Globe was for the trials. The second is for what nobody taught you.'",
-  "Rewarded by the Fell and Ancient trials. Both stack.": "Rewarded by the Fell and Ancient trials. Both stack."
+  "Rewarded by the Fell and Ancient trials. Both stack.": "Rewarded by the Fell and Ancient trials. Both stack.",
+  "Lucky Stamp": "Lucky Stamp",
+  "Make this task lucky": "Make this task lucky",
+  "One stamp per day. A new one comes at 00:00 UTC.": "One stamp per day. A new one comes at 00:00 UTC.",
+  "Use the Lucky Stamp?": "Use the Lucky Stamp?",
+  "Stamp": "Stamp",
+  "Lucky Stamp Locked": "Lucky Stamp Locked",
+  "Lucky Stamp Ready": "Lucky Stamp Ready",
+  "Lucky Stamp Used Today": "Lucky Stamp Used Today",
+  "Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.": "Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.",
+  "+10% movement speed\nHeld while every quest is completed": "+10% movement speed\nHeld while every quest is completed",
+  "Reset Lucky Stamp": "Reset Lucky Stamp",
+  "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'",
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC."
 }

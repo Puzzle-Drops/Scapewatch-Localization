@@ -11850,7 +11850,6 @@
   "You lift a purse and hand it back before the owner notices. The master laughs.": "Du rapser en pung og giver den tilbage, før ejeren opdager det. Mesteren griner.",
   "Draw from the Pinegap crystal": "Træk fra Pinegap-krystallen",
   "The crystal hums, and the essence comes out clean.": "Krystallen summer, og essensen kommer ren ud.",
-  "The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'": "Mestrene venter ved indgangen til fangekælderen. 'En god start. Den næste prøve ligger længere ude.'",
   "Mastery: The Dire Trial": "Mestring: Den grumme prøve",
   "The second trial takes you into the cold west, where the masters work harder.": "Den anden prøve sender dig mod vest, ud i kulden, hvor mestrene arbejder hårdere.",
   "Meet the masters at Timberchill": "Mød mestrene i Timberchill",
@@ -11907,5 +11906,18 @@
   "The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'": "Mestrene venter ved indgangen til fangekælderen. De rækker dig en glasglobus. 'Den første globus. Den rummer hver prøve indtil nu.'",
   "Mastery: The Ancient Trial": "Mestring: Den ældgamle prøve",
   "'The First Globe was for the trials. The second is for what nobody taught you.'": "'Den første globus var for prøverne. Den anden er for det, ingen har lært dig.'",
-  "Rewarded by the Fell and Ancient trials. Both stack.": "Belønning fra den onde og den ældgamle prøve. Begge kan stables."
+  "Rewarded by the Fell and Ancient trials. Both stack.": "Belønning fra den onde og den ældgamle prøve. Begge kan stables.",
+  "Lucky Stamp": "Heldigt stempel",
+  "Make this task lucky": "Gør denne opgave heldig",
+  "One stamp per day. A new one comes at 00:00 UTC.": "Ét stempel om dagen. Et nyt kommer kl. 00:00 UTC.",
+  "Use the Lucky Stamp?": "Vil du bruge det heldige stempel?",
+  "Stamp": "Stempl",
+  "Lucky Stamp Locked": "Heldigt stempel låst",
+  "Lucky Stamp Ready": "Heldigt stempel klart",
+  "Lucky Stamp Used Today": "Heldigt stempel brugt i dag",
+  "Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.": "En gang om dagen kan du gøre én opgave i din kø heldig: 2x XP, 2x belønninger, ingen mislykkede handlinger. Et nyt stempel kommer kl. 00:00 UTC. Belønning fra den spinkle prøve.",
+  "+10% movement speed\nHeld while every quest is completed": "+10% bevægelseshastighed\nBeholdes, så længe alle quests er fuldført",
+  "Reset Lucky Stamp": "Nulstil heldigt stempel",
+  "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Mestrene venter ved indgangen til fangekælderen og trykker et laksegl i hånden på dig. 'En gang om dagen gør det en opgave heldig. Den næste prøve ligger længere ude.'",
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Gør én opgave i køen heldig en gang om dagen. Et nyt stempel kommer kl. 00:00 UTC."
 }

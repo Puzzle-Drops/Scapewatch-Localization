@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Βάρδος |
 | Discover | Ανακάλυψη |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Βουτάς ένα πουγκί και το επιστρέφεις πριν το καταλάβει ο ιδιοκτήτης. Ο δάσκαλος γελά. |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Άντλησε από τον κρύσταλλο του Pinegap |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Ο κρύσταλλος βουίζει και η ουσία βγαίνει καθαρή. |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Οι δάσκαλοι περιμένουν στην είσοδο του μπουντρουμιού. 'Καλή αρχή. Η επόμενη δοκιμή είναι πιο μακριά.' |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | Μαεστρία: Η Ζοφερή Δοκιμή |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | Η δεύτερη δοκιμή σε πηγαίνει στην κρύα δύση, όπου οι δάσκαλοι δουλεύουν σκληρότερα. |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | Συνάντησε τους δασκάλους στο Timberchill |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Μαεστρία: Η Αρχαία Δοκιμή |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Η Πρώτη Σφαίρα ήταν για τις δοκιμές. Η δεύτερη είναι για όσα δεν σου δίδαξε κανείς.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Ανταμοιβή από την Ολέθρια και την Αρχαία Δοκιμή. Ισχύουν και οι δύο αθροιστικά. |
+| `Lucky Stamp` | Lucky Stamp | Τυχερή σφραγίδα |
+| `Make this task lucky` | Make this task lucky | Κάνε αυτή την εργασία τυχερή |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Μία σφραγίδα τη μέρα. Η επόμενη έρχεται στις 00:00 UTC. |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | Χρήση της Τυχερής σφραγίδας; |
+| `Stamp` | Stamp | Σφράγιση |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | Η Τυχερή σφραγίδα είναι κλειδωμένη |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | Η Τυχερή σφραγίδα είναι έτοιμη |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Η Τυχερή σφραγίδα χρησιμοποιήθηκε σήμερα |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Μία φορά τη μέρα, κάνε τυχερή μία εργασία της ουράς σου: 2x XP, 2x ανταμοιβές, καμία αποτυχημένη ενέργεια. Μια νέα σφραγίδα έρχεται στις 00:00 UTC. Ανταμοιβή από την Άθλια Δοκιμή. |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% ταχύτητα κίνησης Τον κρατάς όσο όλες οι αποστολές είναι ολοκληρωμένες |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | Επαναφορά Τυχερής σφραγίδας |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Οι δάσκαλοι περιμένουν στην είσοδο του μπουντρουμιού και σου βάζουν στο χέρι μια κέρινη σφραγίδα. 'Μία φορά τη μέρα κάνει μια εργασία τυχερή. Η επόμενη δοκιμή είναι πιο μακριά.' |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Μία φορά τη μέρα, κάνε τυχερή μία εργασία της ουράς. Μια νέα σφραγίδα έρχεται στις 00:00 UTC. |

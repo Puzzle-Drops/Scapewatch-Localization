@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Tuklasin |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Dumukot ka ng pitaka at ibinalik ito bago pa mapansin ng may-ari. Natawa ang maestro. |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Humugot mula sa kristal ng Pinegap |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Umuugong ang kristal, at malinis na lumalabas ang esensya. |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Naghihintay ang mga maestro sa bunganga ng piitan. 'Magandang simula. Mas malayo ang susunod na pagsubok.' |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | Kahusayan: Ang Mabangis na Pagsubok |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | Dadalhin ka ng ikalawang pagsubok sa malamig na kanluran, kung saan mas masipag magtrabaho ang mga maestro. |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | Kausapin ang mga maestro sa Timberchill |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Kahusayan: Ang Sinaunang Pagsubok |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Ang Unang Globo ay para sa mga pagsubok. Ang ikalawa ay para sa hindi itinuro sa iyo ninuman.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Gantimpala mula sa Madilim na Pagsubok at Sinaunang Pagsubok. Nagsasalansan ang dalawa. |
+| `Lucky Stamp` | Lucky Stamp | Maswerteng Selyo |
+| `Make this task lucky` | Make this task lucky | Gawing maswerte ang gawaing ito |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Isang selyo kada araw. Darating ang bago sa 00:00 UTC. |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | Gamitin ang Maswerteng Selyo? |
+| `Stamp` | Stamp | Tatakan |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | Nakakandado ang Maswerteng Selyo |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | Handa na ang Maswerteng Selyo |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Nagamit na ngayong araw ang Maswerteng Selyo |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Isang beses kada araw, gawing maswerte ang isang gawain sa iyong pila: 2x XP, 2x gantimpala, walang nabigong aksyon. Darating ang bagong selyo sa 00:00 UTC. Gantimpala mula sa Mahinang Pagsubok. |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% bilis ng paggalaw Mananatili sa iyo habang tapos ang lahat ng Quest |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | I-reset ang Maswerteng Selyo |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Naghihintay ang mga maestro sa bunganga ng piitan at idiniin nila sa iyong palad ang isang selyong pagkit. 'Minsan isang araw, ginagawa nitong maswerte ang isang gawain. Mas malayo ang susunod na pagsubok.' |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Isang beses kada araw, gawing maswerte ang isang gawain sa pila. Darating ang bagong selyo sa 00:00 UTC. |

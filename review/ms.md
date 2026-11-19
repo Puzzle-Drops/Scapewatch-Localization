@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Penyair |
 | Discover | Terokai |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Anda menyeluk sebuah dompet dan memulangkannya sebelum pemiliknya perasan. Guru itu ketawa. |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Tarik daripada kristal Pinegap |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Kristal itu berdengung, dan esennya keluar bersih. |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Para guru menunggu di mulut penjara bawah tanah. 'Permulaan yang baik. Ujian seterusnya lebih jauh lagi.' |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | Penguasaan: Ujian Dahsyat |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | Ujian kedua membawa anda ke barat yang sejuk, tempat para guru bekerja lebih keras. |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | Jumpa para guru di Timberchill |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Penguasaan: Ujian Purba |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Glob Pertama adalah untuk ujian-ujian itu. Yang kedua untuk apa yang tiada siapa ajarkan kepadamu.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Ganjaran daripada Ujian Bengis dan Ujian Purba. Kedua-duanya bertindan. |
+| `Lucky Stamp` | Lucky Stamp | Cop Bertuah |
+| `Make this task lucky` | Make this task lucky | Jadikan tugasan ini bertuah |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Satu cop sehari. Cop baharu tiba pada 00:00 UTC. |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | Guna Cop Bertuah? |
+| `Stamp` | Stamp | Cop |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | Cop Bertuah dikunci |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | Cop Bertuah sedia |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Cop Bertuah sudah digunakan hari ini |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Sekali sehari, jadikan satu tugasan dalam baris gilir anda bertuah: 2x XP, 2x ganjaran, tiada tindakan gagal. Cop baharu tiba pada 00:00 UTC. Ganjaran daripada Ujian Lemah. |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% kelajuan bergerak Kekal dimiliki selagi semua Quest selesai |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | Set Semula Cop Bertuah |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Para guru menunggu di mulut penjara bawah tanah lalu meletakkan sebuah mohor lilin ke dalam tangan anda. 'Sekali sehari, ia menjadikan satu tugasan bertuah. Ujian seterusnya lebih jauh lagi.' |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Sekali sehari, jadikan satu tugasan dalam baris gilir bertuah. Cop baharu tiba pada 00:00 UTC. |

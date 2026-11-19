@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Nhạc công |
 | Discover | Khám phá |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Bạn móc một túi tiền rồi trả lại trước khi chủ nhân kịp nhận ra. Bậc thầy bật cười. |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Rút năng lượng từ pha lê Pinegap |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Khối pha lê ngân nga, và tinh chất được rút ra tinh khiết. |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Các bậc thầy chờ ở cửa ngục tối. 'Khởi đầu tốt. Thử thách tiếp theo còn ở xa hơn.' |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | Tinh thông: Thử thách hung hiểm |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | Thử thách thứ hai đưa bạn vào miền tây giá lạnh, nơi các bậc thầy làm việc cật lực hơn. |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | Gặp các bậc thầy ở Timberchill |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Tinh thông: Thử thách cổ đại |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Khối cầu thứ nhất dành cho các thử thách. Khối thứ hai dành cho những gì chưa ai dạy ngươi.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Phần thưởng từ Thử thách tàn khốc và Thử thách cổ đại. Cả hai đều cộng dồn. |
+| `Lucky Stamp` | Lucky Stamp | Con dấu May mắn |
+| `Make this task lucky` | Make this task lucky | Biến nhiệm vụ này thành nhiệm vụ may mắn |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Mỗi ngày một con dấu. Con dấu mới đến lúc 00:00 UTC. |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | Dùng Con dấu May mắn? |
+| `Stamp` | Stamp | Đóng dấu |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | Con dấu May mắn đang khóa |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | Con dấu May mắn sẵn sàng |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Con dấu May mắn đã dùng hôm nay |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Mỗi ngày một lần, biến một nhiệm vụ trong hàng đợi thành may mắn: 2x XP, 2x phần thưởng, không có hành động thất bại. Con dấu mới đến lúc 00:00 UTC. Phần thưởng từ Thử thách yếu ớt. |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% tốc độ di chuyển Chỉ giữ được khi đã hoàn thành mọi Quest |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | Đặt lại Con dấu May mắn |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Các bậc thầy chờ ở cửa ngục tối và ấn vào tay bạn một con dấu sáp. 'Mỗi ngày một lần, nó khiến một nhiệm vụ trở nên may mắn. Thử thách tiếp theo còn ở xa hơn.' |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Mỗi ngày một lần, biến một nhiệm vụ trong hàng đợi thành may mắn. Con dấu mới đến lúc 00:00 UTC. |

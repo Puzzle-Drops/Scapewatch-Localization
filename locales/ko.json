@@ -11850,7 +11850,6 @@
   "You lift a purse and hand it back before the owner notices. The master laughs.": "지갑을 슬쩍했다가 주인이 눈치채기 전에 돌려준다. 장인이 웃음을 터뜨린다.",
   "Draw from the Pinegap crystal": "파인갭 수정에서 끌어내기",
   "The crystal hums, and the essence comes out clean.": "수정이 웅웅 울리고, 정수가 깨끗하게 뽑혀 나온다.",
-  "The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'": "장인들이 던전 입구에서 기다린다. '좋은 출발이다. 다음 시련은 더 먼 곳에서 치른다.'",
   "Mastery: The Dire Trial": "통달: 흉포한 시련",
   "The second trial takes you into the cold west, where the masters work harder.": "두 번째 시련은 장인들이 더 치열하게 일하는 추운 서쪽으로 당신을 데려갑니다.",
   "Meet the masters at Timberchill": "팀버칠에서 장인들 만나기",
@@ -11907,5 +11906,18 @@
   "The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'": "장인들이 던전 입구에서 기다린다. 그들이 당신에게 유리 구체를 건넨다. '첫 번째 구체다. 지금까지의 모든 시련이 담겨 있지.'",
   "Mastery: The Ancient Trial": "통달: 고대의 시련",
   "'The First Globe was for the trials. The second is for what nobody taught you.'": "'첫 번째 구체는 시련을 위한 것이었다. 두 번째는 아무도 가르쳐 주지 않은 것을 위한 것이다.'",
-  "Rewarded by the Fell and Ancient trials. Both stack.": "사악한 시련과 고대의 시련 보상입니다. 둘 다 중첩됩니다."
+  "Rewarded by the Fell and Ancient trials. Both stack.": "사악한 시련과 고대의 시련 보상입니다. 둘 다 중첩됩니다.",
+  "Lucky Stamp": "행운 인장",
+  "Make this task lucky": "이 임무를 행운 임무로 만들기",
+  "One stamp per day. A new one comes at 00:00 UTC.": "인장은 하루에 하나입니다. 00:00 UTC에 새 인장이 지급됩니다.",
+  "Use the Lucky Stamp?": "행운 인장을 사용하시겠습니까?",
+  "Stamp": "찍기",
+  "Lucky Stamp Locked": "행운 인장 잠김",
+  "Lucky Stamp Ready": "행운 인장 준비됨",
+  "Lucky Stamp Used Today": "행운 인장 오늘 사용함",
+  "Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.": "하루에 한 번, 대기열의 임무 하나를 행운 임무로 만듭니다: 경험치 2배, 보상 2배, 행동 실패 없음. 00:00 UTC에 새 인장이 지급됩니다. 허약한 시련의 보상입니다.",
+  "+10% movement speed\nHeld while every quest is completed": "이동 속도 +10%\n모든 퀘스트를 완료한 상태에서만 유지됩니다",
+  "Reset Lucky Stamp": "행운 인장 초기화",
+  "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "장인들이 던전 입구에서 기다리다가 당신의 손에 밀랍 인장을 쥐여 준다. '하루에 한 번, 임무 하나를 행운 임무로 만들어 준다. 다음 시련은 더 먼 곳에서 치른다.'",
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "하루에 한 번, 대기열의 임무 하나를 행운 임무로 만듭니다. 00:00 UTC에 새 인장이 지급됩니다."
 }

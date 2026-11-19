@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Ontdekken |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Je pikt een beurs en geeft hem terug voordat de eigenaar het merkt. De meester lacht. |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Put uit het Pinegap-kristal |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Het kristal zoemt en de essentie komt er zuiver uit. |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | De meesters wachten bij de ingang van de kerker. 'Een goed begin. De volgende proef ligt verder weg.' |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | Meesterschap: De Grimmige Proef |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | De tweede proef brengt je naar het koude westen, waar de meesters harder werken. |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | Ontmoet de meesters in Timberchill |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Meesterschap: De Aloude Proef |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'De Eerste Globe was voor de proeven. De tweede is voor wat niemand je heeft geleerd.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Beloning uit de Wrede en de Aloude Proef. Beide zijn stapelbaar. |
+| `Lucky Stamp` | Lucky Stamp | Geluksstempel |
+| `Make this task lucky` | Make this task lucky | Deze taak gelukkig maken |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Eén stempel per dag. Om 00:00 UTC komt er een nieuwe. |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | Geluksstempel gebruiken? |
+| `Stamp` | Stamp | Stempelen |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | Geluksstempel vergrendeld |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | Geluksstempel klaar |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Geluksstempel vandaag gebruikt |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Maak één keer per dag een taak in je wachtrij gelukkig: 2x XP, 2x beloningen, geen mislukte acties. Om 00:00 UTC komt er een nieuwe stempel. Beloning van de Zwakke Proef. |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% bewegingssnelheid Blijft van jou zolang alle quests voltooid zijn |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | Geluksstempel resetten |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | De meesters wachten bij de ingang van de kerker en drukken je een lakzegel in de hand. 'Eén keer per dag maakt het een taak gelukkig. De volgende proef ligt verder weg.' |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Maak één keer per dag een taak in de wachtrij gelukkig. Om 00:00 UTC komt er een nieuwe stempel. |

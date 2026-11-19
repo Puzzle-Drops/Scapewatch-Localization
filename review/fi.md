@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardi |
 | Discover | Tutki |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Nappaat kukkaron ja annat sen takaisin ennen kuin omistaja huomaa mitään. Mestari nauraa. |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Ammenna Pinegapin kristallista |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Kristalli hurisee, ja essenssi irtoaa puhtaana. |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Mestarit odottavat tyrmän suulla. 'Hyvä alku. Seuraava koetus on kauempana.' |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | Mestaruus: Turmainen koetus |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | Toinen koetus vie sinut kylmään länteen, jossa mestarit tekevät töitä kovemmin. |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | Tapaa mestarit Timberchillissä |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Mestaruus: Muinainen koetus |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Ensimmäinen kupu oli koetuksista. Toinen on siitä, mitä kukaan ei opettanut sinulle.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Palkinto Julmasta ja Muinaisesta koetuksesta. Molemmat pinoutuvat. |
+| `Lucky Stamp` | Lucky Stamp | Onnekas leima |
+| `Make this task lucky` | Make this task lucky | Tee tästä tehtävästä onnekas |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Yksi leima päivässä. Uusi tulee klo 00:00 UTC. |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | Käytetäänkö onnekas leima? |
+| `Stamp` | Stamp | Leimaa |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | Onnekas leima lukittu |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | Onnekas leima valmis |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Onnekas leima käytetty tänään |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Kerran päivässä voit tehdä yhdestä jonosi tehtävästä onnekkaan: 2x XP, 2x palkkiot, ei epäonnistuneita toimintoja. Uusi leima tulee klo 00:00 UTC. Saat sen Raihnaisesta koetuksesta. |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% liikkumisnopeus Säilyy niin kauan kuin kaikki tehtävänannot on suoritettu |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | Nollaa onnekas leima |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Mestarit odottavat tyrmän suulla ja painavat käteesi vahasinetin. 'Kerran päivässä se tekee tehtävästä onnekkaan. Seuraava koetus on kauempana.' |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Tee kerran päivässä yhdestä jonon tehtävästä onnekas. Uusi leima tulee klo 00:00 UTC. |

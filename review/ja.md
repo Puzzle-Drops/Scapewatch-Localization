@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | 財布をすり取り、持ち主が気づく前に返す。達人は声を上げて笑う。 |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | パインギャップのクリスタルから引き出す |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | クリスタルが低く唸り、エッセンスが澄んだまま取り出される。 |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | 達人たちがダンジョンの入口で待っている。「よい滑り出しだ。次の試練はもっと遠くで行う」 |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | 熟達：凶兆の試練 |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | 第二の試練は、あなたを寒い西方へと連れていく。そこの達人たちは、いっそう懸命に働いている。 |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | ティンバーチルで達人たちに会う |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | 熟達：古代の試練 |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 「第一の天球は、試練のためのものだった。第二の天球は、誰も君に教えなかったもののためだ」 |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | 邪悪の試練と古代の試練の報酬。両方の効果が重複する。 |
+| `Lucky Stamp` | Lucky Stamp | 幸運スタンプ |
+| `Make this task lucky` | Make this task lucky | このタスクを幸運にする |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | スタンプは1日1回まで。00:00 UTC に補充されます。 |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | 幸運スタンプを使いますか？ |
+| `Stamp` | Stamp | 押す |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | 幸運スタンプ 未解放 |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | 幸運スタンプ 使用可能 |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | 幸運スタンプ 本日使用済み |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | 1日1回、キュー内のタスク1つを幸運にできます：XP 2倍、報酬 2倍、アクション失敗なし。00:00 UTC にスタンプが補充されます。虚弱の試練の報酬です。 |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | 移動速度 +10% すべてのクエストを完了している間のみ保持できる |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | 幸運スタンプをリセット |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | 達人たちがダンジョンの入口で待っていて、封蝋の印章をあなたの手に握らせる。「日に一度、タスクを一つ幸運にしてくれる。次の試練はもっと遠くで行う」 |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | 1日1回、キューのタスク1つを幸運にする。00:00 UTC にスタンプが補充される。 |

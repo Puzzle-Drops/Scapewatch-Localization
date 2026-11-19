@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Ozan |
 | Discover | Keşfet |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Bir kese aşırıp sahibi fark etmeden geri veriyorsun. Usta gülüyor. |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Pinegap kristalinden öz çek |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Kristal uğulduyor ve öz tertemiz çıkıyor. |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Ustalar zindanın ağzında bekliyor. 'İyi bir başlangıç. Sonraki imtihan daha uzakta.' |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | Ustalık: Korkunç İmtihan |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | İkinci imtihan seni, ustaların daha sıkı çalıştığı soğuk batıya götürüyor. |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | Timberchill'de ustalarla buluş |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Ustalık: Kadim İmtihan |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'İlk Küre imtihanlar içindi. İkincisi, kimsenin sana öğretmedikleri için.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Habis ve Kadim imtihanlarından kazanılır. İkisi de birikir. |
+| `Lucky Stamp` | Lucky Stamp | Şanslı Mühür |
+| `Make this task lucky` | Make this task lucky | Bu görevi şanslı yap |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Günde bir mühür. Yenisi 00:00 UTC'de gelir. |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | Şanslı Mühür kullanılsın mı? |
+| `Stamp` | Stamp | Mühürle |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | Şanslı Mühür kilitli |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | Şanslı Mühür hazır |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Şanslı Mühür bugün kullanıldı |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Günde bir kez, sırandaki bir görevi şanslı yap: 2x XP, 2x ödül, başarısız eylem yok. Yeni mühür 00:00 UTC'de gelir. Cılız İmtihan'dan kazanılır. |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% hareket hızı Tüm görevler tamamlandığı sürece sende kalır |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | Şanslı Mührü sıfırla |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Ustalar zindanın ağzında bekliyor ve eline bir balmumu mühür tutuşturuyor. 'Günde bir kez bir görevi şanslı kılar. Sonraki imtihan daha uzakta.' |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Günde bir kez, sıradaki bir görevi şanslı yap. Yeni mühür 00:00 UTC'de gelir. |

@@ -11850,7 +11850,6 @@
   "You lift a purse and hand it back before the owner notices. The master laughs.": "Задигаш кесия и я връщаш, преди собственикът да забележи. Майсторът се смее.",
   "Draw from the Pinegap crystal": "Черпи от кристала на Pinegap",
   "The crystal hums, and the essence comes out clean.": "Кристалът бръмчи и есенцията излиза чиста.",
-  "The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'": "Майсторите чакат при входа на подземието. „Добро начало. Следващият изпит е по-далеч.“",
   "Mastery: The Dire Trial": "Майсторство: Зловещият изпит",
   "The second trial takes you into the cold west, where the masters work harder.": "Вторият изпит те отвежда в студения запад, където майсторите работят по-усърдно.",
   "Meet the masters at Timberchill": "Срещни майсторите в Timberchill",
@@ -11907,5 +11906,18 @@
   "The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'": "Майсторите чакат при входа на подземието. Подават ти стъклено кълбо. „Първото кълбо. В него са всички изпити досега.“",
   "Mastery: The Ancient Trial": "Майсторство: Древният изпит",
   "'The First Globe was for the trials. The second is for what nobody taught you.'": "„Първото кълбо беше за изпитите. Второто е за онова, на което никой не те е учил.“",
-  "Rewarded by the Fell and Ancient trials. Both stack.": "Награда от Пагубния и Древния изпит. Двете се натрупват."
+  "Rewarded by the Fell and Ancient trials. Both stack.": "Награда от Пагубния и Древния изпит. Двете се натрупват.",
+  "Lucky Stamp": "Късметлийски печат",
+  "Make this task lucky": "Направи тази задача късметлийска",
+  "One stamp per day. A new one comes at 00:00 UTC.": "Един печат на ден. Нов идва в 00:00 UTC.",
+  "Use the Lucky Stamp?": "Да се използва ли Късметлийският печат?",
+  "Stamp": "Подпечатай",
+  "Lucky Stamp Locked": "Късметлийският печат е заключен",
+  "Lucky Stamp Ready": "Късметлийският печат е готов",
+  "Lucky Stamp Used Today": "Късметлийският печат е използван днес",
+  "Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.": "Веднъж на ден направи една задача от опашката си късметлийска: 2x XP, 2x награди, без неуспешни действия. Нов печат идва в 00:00 UTC. Награда от Немощния изпит.",
+  "+10% movement speed\nHeld while every quest is completed": "+10% скорост на движение\nОстава у теб, докато всички куестове са завършени",
+  "Reset Lucky Stamp": "Нулирай Късметлийския печат",
+  "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Майсторите чакат при входа на подземието и пъхат в ръката ти восъчен печат. „Веднъж на ден той прави една задача късметлийска. Следващият изпит е по-далеч.“",
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Веднъж на ден направи една задача от опашката късметлийска. Нов печат идва в 00:00 UTC."
 }

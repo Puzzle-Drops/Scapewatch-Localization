@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cantare |
 | Discover | Scoprire |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Sfili una borsa e la restituisci prima che il proprietario se ne accorga. Il maestro ride. |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Attingi dal cristallo di Pinegap |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Il cristallo vibra e l'essenza ne esce pura. |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | I maestri attendono all'ingresso del sotterraneo. 'Un buon inizio. La prossima prova è più lontana.' |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | Maestria: La Prova Truce |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | La seconda prova ti porta nel gelido ovest, dove i maestri lavorano più sodo. |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | Incontra i maestri a Timberchill |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Maestria: La Prova Antica |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Il Primo Globo era per le prove. Il secondo è per ciò che nessuno ti ha insegnato.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Ricompensa della Prova Sinistra e della Prova Antica. Si cumulano entrambi. |
+| `Lucky Stamp` | Lucky Stamp | Timbro Fortunato |
+| `Make this task lucky` | Make this task lucky | Rendi fortunato questo compito |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Un timbro al giorno. Uno nuovo arriva alle 00:00 UTC. |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | Usare il Timbro Fortunato? |
+| `Stamp` | Stamp | Timbra |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | Timbro Fortunato bloccato |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | Timbro Fortunato pronto |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Timbro Fortunato usato oggi |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Una volta al giorno, rendi fortunato un compito della tua coda: 2x XP, 2x ricompense, nessuna azione fallita. Un nuovo timbro arriva alle 00:00 UTC. Ricompensa della Prova Debole. |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% velocità di movimento Resta tuo finché tutte le missioni sono completate |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | Reimposta Timbro Fortunato |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | I maestri attendono all'ingresso del sotterraneo e ti mettono in mano un sigillo di ceralacca. 'Una volta al giorno rende fortunato un compito. La prossima prova è più lontana.' |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Una volta al giorno, rendi fortunato un compito in coda. Un nuovo timbro arriva alle 00:00 UTC. |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Objevování |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Vytáhneš měšec a vrátíš ho dřív, než si toho majitel všimne. Mistr se zasměje. |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Čerpej z krystalu Pinegap |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Krystal zabzučí a esence vyjde čistá. |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Mistři čekají u vstupu do žaláře. „Dobrý začátek. Další zkouška je dál.“ |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | Mistrovství: Hrozivá zkouška |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | Druhá zkouška tě zavede na studený západ, kde mistři pracují tvrději. |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | Setkej se s mistry v Timberchill |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Mistrovství: Prastará zkouška |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | „První sféra byla za zkoušky. Druhá je za to, co tě nikdo nenaučil.“ |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Odměna za Zlovolnou a Prastarou zkoušku. Obě se sčítají. |
+| `Lucky Stamp` | Lucky Stamp | Šťastná pečeť |
+| `Make this task lucky` | Make this task lucky | Učinit tento úkol šťastným |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Jedna pečeť denně. Nová přijde v 00:00 UTC. |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | Použít Šťastnou pečeť? |
+| `Stamp` | Stamp | Zpečetit |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | Šťastná pečeť zamčena |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | Šťastná pečeť připravena |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Šťastná pečeť dnes použita |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Jednou denně učiň jeden úkol ve své frontě šťastným: 2x XP, 2x odměny, žádné neúspěšné akce. Nová pečeť přijde v 00:00 UTC. Odměna za Chabou zkoušku. |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% rychlost pohybu Zůstane ti, dokud máš splněné všechny questy |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | Resetovat Šťastnou pečeť |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Mistři čekají u vstupu do žaláře a vtisknou ti do dlaně voskovou pečeť. „Jednou denně učiní jeden úkol šťastným. Další zkouška je dál.“ |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Jednou denně učiň jeden úkol ve frontě šťastným. Nová pečeť přijde v 00:00 UTC. |

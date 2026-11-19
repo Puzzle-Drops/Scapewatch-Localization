@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟游 |
 | Discover | 探索 |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | 你摸走一个钱袋，又在失主察觉前还了回去。大师哈哈大笑。 |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | 从松隘水晶中汲取 |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | 水晶嗡嗡作响，精华纯净地流了出来。 |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | 大师们在地牢入口等候。「开了个好头。下一场试炼在更远的地方。」 |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | 精通：凶险试炼 |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | 第二场试炼将带你前往寒冷的西方，那里的大师们更加勤勉。 |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | 在木寒与大师们会面 |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | 精通：远古试炼 |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 「第一之球是为这些试炼。第二颗，是为那些无人教过你的东西。」 |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | 由残暴试炼与远古试炼奖励。两者效果可叠加。 |
+| `Lucky Stamp` | Lucky Stamp | 幸运印章 |
+| `Make this task lucky` | Make this task lucky | 将这项委托设为幸运委托 |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | 每天一枚印章。新印章于 00:00 UTC 发放。 |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | 使用幸运印章？ |
+| `Stamp` | Stamp | 盖章 |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | 幸运印章尚未解锁 |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | 幸运印章已就绪 |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | 幸运印章今日已使用 |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | 每天一次，将队列中的一项委托设为幸运委托：2 倍经验、2 倍奖励、行动不失败。新印章于 00:00 UTC 发放。完成孱弱试炼后获得。 |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | 移动速度 +10% 仅在全部剧情任务完成时可持有 |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | 重置幸运印章 |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | 大师们在地牢入口等候，把一枚火漆印章塞到你手里。「每天一次，它能让一项委托变得幸运。下一场试炼在更远的地方。」 |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | 每天一次，将队列中的一项委托设为幸运委托。新印章于 00:00 UTC 发放。 |

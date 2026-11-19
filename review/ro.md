@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cântă |
 | Discover | Descoperire |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Șterpelești o pungă și o înapoiezi înainte ca proprietarul să observe. Maestrul râde. |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Extrage din cristalul din Pinegap |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Cristalul zumzăie, iar esența iese curată. |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Maeștrii așteaptă la gura temniței. 'Un început bun. Următoarea probă e mai departe.' |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | Măiestrie: Proba cumplită |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | A doua probă te duce în vestul înghețat, unde maeștrii muncesc mai din greu. |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | Întâlnește-te cu maeștrii în Timberchill |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Măiestrie: Proba străveche |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Prima sferă a fost pentru probe. A doua este pentru ce nu te-a învățat nimeni.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Recompensă din Proba nemiloasă și Proba străveche. Ambele se cumulează. |
+| `Lucky Stamp` | Lucky Stamp | Sigiliu norocos |
+| `Make this task lucky` | Make this task lucky | Fă această sarcină norocoasă |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Un sigiliu pe zi. Unul nou apare la 00:00 UTC. |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | Folosești Sigiliul norocos? |
+| `Stamp` | Stamp | Aplică |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | Sigiliul norocos blocat |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | Sigiliul norocos disponibil |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Sigiliul norocos folosit astăzi |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | O dată pe zi, fă norocoasă o sarcină din coada ta: 2x XP, 2x recompense, fără acțiuni eșuate. Un sigiliu nou apare la 00:00 UTC. Recompensă pentru Proba neputincioasă. |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% viteză de mișcare O păstrezi cât timp toate misiunile sunt finalizate |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | Resetează Sigiliul norocos |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Maeștrii așteaptă la gura temniței și îți pun în mână un sigiliu de ceară. 'O dată pe zi face o sarcină norocoasă. Următoarea probă e mai departe.' |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | O dată pe zi, fă norocoasă o sarcină din coadă. Un sigiliu nou apare la 00:00 UTC. |

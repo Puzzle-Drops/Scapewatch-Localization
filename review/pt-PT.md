@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardo |
 | Discover | Descoberta |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Surripias uma bolsa e devolve-la antes que o dono repare. O mestre ri-se. |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Extrai do cristal de Pinegap |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | O cristal zumbe e a essência sai pura. |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Os mestres esperam à entrada da masmorra. 'Um bom começo. A próxima prova é mais longe.' |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | Maestria: A Prova Funesta |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | A segunda prova leva-te ao oeste gelado, onde os mestres trabalham com mais afinco. |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | Encontra os mestres em Timberchill |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Maestria: A Prova Ancestral |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'O Primeiro Globo foi pelas provas. O segundo é pelo que ninguém te ensinou.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Recompensa das Provas Cruel e Ancestral. Ambos acumulam. |
+| `Lucky Stamp` | Lucky Stamp | Selo da sorte |
+| `Make this task lucky` | Make this task lucky | Dar sorte a esta tarefa |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Um selo por dia. Chega um novo às 00:00 UTC. |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | Usar o Selo da sorte? |
+| `Stamp` | Stamp | Selar |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | Selo da sorte bloqueado |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | Selo da sorte pronto |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Selo da sorte usado hoje |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Uma vez por dia, dá sorte a uma tarefa da tua fila: 2x XP, 2x recompensas, sem ações falhadas. Chega um novo selo às 00:00 UTC. Recompensa da Prova Débil. |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% de velocidade de movimento Mantém-se enquanto todas as missões estiverem concluídas |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | Repor o Selo da sorte |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Os mestres esperam à entrada da masmorra e põem-te um selo de cera na mão. 'Uma vez por dia, dá sorte a uma tarefa. A próxima prova é mais longe.' |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Uma vez por dia, dá sorte a uma tarefa da fila. Chega um novo selo às 00:00 UTC. |

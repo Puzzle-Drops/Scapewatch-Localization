@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | กวี |
 | Discover | ค้นพบ |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | คุณล้วงกระเป๋าเงินมาได้และยื่นคืนก่อนที่เจ้าของจะรู้ตัว ปรมาจารย์หัวเราะ |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | ดึงพลังจากผลึก Pinegap |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | ผลึกส่งเสียงหึ่ง และแก่นพลังก็ออกมาอย่างบริสุทธิ์ |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | เหล่าปรมาจารย์รออยู่ที่ปากทางดันเจียน 'เริ่มต้นได้ดี บททดสอบต่อไปอยู่ไกลออกไปอีก' |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | ความเชี่ยวชาญ: บททดสอบร้ายกาจ |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | บททดสอบที่สองพาคุณเข้าสู่ดินแดนตะวันตกอันหนาวเหน็บ ที่ซึ่งเหล่าปรมาจารย์ทำงานหนักยิ่งกว่า |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | พบเหล่าปรมาจารย์ที่ Timberchill |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | ความเชี่ยวชาญ: บททดสอบโบราณ |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'ทรงกลมลูกแรกมีไว้สำหรับบททดสอบ ลูกที่สองมีไว้สำหรับสิ่งที่ไม่มีใครสอนเจ้า' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | รางวัลจากบททดสอบอำมหิตและบททดสอบโบราณ ผลซ้อนกันได้ทั้งคู่ |
+| `Lucky Stamp` | Lucky Stamp | ตราประทับนำโชค |
+| `Make this task lucky` | Make this task lucky | ทำให้ภารกิจนี้นำโชค |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | ประทับได้วันละครั้ง ตราประทับใหม่จะมาเวลา 00:00 UTC |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | ต้องการใช้ตราประทับนำโชคหรือไม่? |
+| `Stamp` | Stamp | ประทับ |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | ตราประทับนำโชคถูกล็อก |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | ตราประทับนำโชคพร้อมใช้ |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | ตราประทับนำโชคของวันนี้ถูกใช้แล้ว |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | วันละครั้ง ทำให้ภารกิจหนึ่งในคิวนำโชค: XP 2 เท่า, รางวัล 2 เท่า, ไม่มีการกระทำที่ล้มเหลว ตราประทับใหม่จะมาเวลา 00:00 UTC ได้รับจากบททดสอบอ่อนแอ |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | ความเร็วในการเคลื่อนที่ +10% ถือครองได้ตราบที่ทำเควสต์สำเร็จครบทุกเควสต์ |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | รีเซ็ตตราประทับนำโชค |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | เหล่าปรมาจารย์รออยู่ที่ปากทางดันเจียน และวางตราประทับขี้ผึ้งไว้ในมือของคุณ 'มันทำให้ภารกิจนำโชคได้วันละครั้ง บททดสอบต่อไปอยู่ไกลออกไปอีก' |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | วันละครั้ง ทำให้ภารกิจหนึ่งในคิวนำโชค ตราประทับใหม่จะมาเวลา 00:00 UTC |

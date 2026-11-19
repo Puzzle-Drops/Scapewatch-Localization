@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бард |
 | Discover | Открытие |
 
-## Lines to review (1355)
+## Lines to review (1367)
 
 | Key | English | Current |
 |---|---|---|
@@ -1367,7 +1367,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You lift a purse and hand it back before the owner notices. The master laughs.` | You lift a purse and hand it back before the owner notices. The master laughs. | Вы стаскиваете кошелёк и возвращаете его, прежде чем хозяин что-то заметит. Мастер смеётся. |
 | `Draw from the Pinegap crystal` | Draw from the Pinegap crystal | Почерпните силу из кристалла Pinegap |
 | `The crystal hums, and the essence comes out clean.` | The crystal hums, and the essence comes out clean. | Кристалл гудит, и эссенция выходит чистой. |
-| `The masters wait at the dungeon mouth. 'A good start. The next trial is further out.'` | The masters wait at the dungeon mouth. 'A good start. The next trial is further out.' | Мастера ждут у входа в подземелье. «Хорошее начало. Следующее испытание будет дальше». |
 | `Mastery: The Dire Trial` | Mastery: The Dire Trial | Мастерство: Зловещее испытание |
 | `The second trial takes you into the cold west, where the masters work harder.` | The second trial takes you into the cold west, where the masters work harder. | Второе испытание ведёт вас на холодный запад, где мастера работают усерднее. |
 | `Meet the masters at Timberchill` | Meet the masters at Timberchill | Встретьтесь с мастерами в Timberchill |
@@ -1425,3 +1424,16 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Мастерство: Древнее испытание |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | «Первый шар был за испытания. Второй — за то, чему тебя никто не учил». |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Награда за Жестокое и Древнее испытания. Эффекты обоих суммируются. |
+| `Lucky Stamp` | Lucky Stamp | Удачная печать |
+| `Make this task lucky` | Make this task lucky | Сделать эту задачу удачной |
+| `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Одна печать в день. Новая появляется в 00:00 UTC. |
+| `Use the Lucky Stamp?` | Use the Lucky Stamp? | Использовать Удачную печать? |
+| `Stamp` | Stamp | Поставить печать |
+| `Lucky Stamp Locked` | Lucky Stamp Locked | Удачная печать заблокирована |
+| `Lucky Stamp Ready` | Lucky Stamp Ready | Удачная печать готова |
+| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Удачная печать сегодня использована |
+| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Раз в день можно сделать одну задачу в очереди удачной: 2x XP, 2x награды, без неудачных действий. Новая печать появляется в 00:00 UTC. Награда за Слабое испытание. |
+| `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% к скорости передвижения Сохраняется, пока выполнены все задания |
+| `Reset Lucky Stamp` | Reset Lucky Stamp | Сбросить Удачную печать |
+| `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Мастера ждут у входа в подземелье и вкладывают вам в руку восковую печать. «Раз в день она делает задачу удачной. Следующее испытание будет дальше». |
+| `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Раз в день можно сделать одну задачу в очереди удачной. Новая печать появляется в 00:00 UTC. |

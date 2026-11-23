@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% de velocidad de movimiento\nSe conserva mientras todas las misiones estén completadas",
   "Reset Lucky Stamp": "Restablecer el Sello de la suerte",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Los maestros esperan en la entrada de la mazmorra y te ponen un sello de lacre en la mano. 'Una vez al día, hace que una tarea tenga suerte. La siguiente prueba está más lejos.'",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Una vez al día, dale suerte a una tarea en cola. Llega un sello nuevo a las 00:00 UTC."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Una vez al día, dale suerte a una tarea en cola. Llega un sello nuevo a las 00:00 UTC.",
+  "Unfocused Frame Rate Cap": "Límite de fotogramas en segundo plano",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Fotogramas por segundo mientras otra ventana está delante. Un valor más bajo usa menos CPU y batería cuando el juego se ejecuta en segundo plano."
 }

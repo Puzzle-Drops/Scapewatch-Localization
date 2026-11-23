@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "移動速度 +10%\n僅在所有任務皆完成時才能持有",
   "Reset Lucky Stamp": "重置幸運印章",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "大師們在地牢入口等候，把一枚火漆印章塞到你手裡。「每天一次，它能讓一個差事變得幸運。下一場試煉在更遠的地方。」",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "每天一次，將佇列中的一個差事設為幸運差事。新印章於 00:00 UTC 發放。"
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "每天一次，將佇列中的一個差事設為幸運差事。新印章於 00:00 UTC 發放。",
+  "Unfocused Frame Rate Cap": "背景影格率上限",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "其他視窗位於前景時的每秒影格數。數值越低，遊戲在背景執行時佔用的處理器與電量越少。"
 }

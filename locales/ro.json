@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% viteză de mișcare\nO păstrezi cât timp toate misiunile sunt finalizate",
   "Reset Lucky Stamp": "Resetează Sigiliul norocos",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Maeștrii așteaptă la gura temniței și îți pun în mână un sigiliu de ceară. 'O dată pe zi face o sarcină norocoasă. Următoarea probă e mai departe.'",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "O dată pe zi, fă norocoasă o sarcină din coadă. Un sigiliu nou apare la 00:00 UTC."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "O dată pe zi, fă norocoasă o sarcină din coadă. Un sigiliu nou apare la 00:00 UTC.",
+  "Unfocused Frame Rate Cap": "Limită de cadre în fundal",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Cadre pe secundă cât timp altă fereastră este în față. Mai jos înseamnă mai puțin procesor și baterie când jocul rulează în fundal."
 }

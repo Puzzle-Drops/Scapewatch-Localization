@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "移动速度 +10%\n仅在全部剧情任务完成时可持有",
   "Reset Lucky Stamp": "重置幸运印章",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "大师们在地牢入口等候，把一枚火漆印章塞到你手里。「每天一次，它能让一项委托变得幸运。下一场试炼在更远的地方。」",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "每天一次，将队列中的一项委托设为幸运委托。新印章于 00:00 UTC 发放。"
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "每天一次，将队列中的一项委托设为幸运委托。新印章于 00:00 UTC 发放。",
+  "Unfocused Frame Rate Cap": "后台帧率上限",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "其他窗口位于前台时的每秒帧数。数值越低，游戏在后台运行时占用的处理器和电量越少。"
 }

@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "이동 속도 +10%\n모든 퀘스트를 완료한 상태에서만 유지됩니다",
   "Reset Lucky Stamp": "행운 인장 초기화",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "장인들이 던전 입구에서 기다리다가 당신의 손에 밀랍 인장을 쥐여 준다. '하루에 한 번, 임무 하나를 행운 임무로 만들어 준다. 다음 시련은 더 먼 곳에서 치른다.'",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "하루에 한 번, 대기열의 임무 하나를 행운 임무로 만듭니다. 00:00 UTC에 새 인장이 지급됩니다."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "하루에 한 번, 대기열의 임무 하나를 행운 임무로 만듭니다. 00:00 UTC에 새 인장이 지급됩니다.",
+  "Unfocused Frame Rate Cap": "백그라운드 프레임률 제한",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "다른 창이 앞에 있을 때의 초당 프레임 수. 낮출수록 게임이 백그라운드에서 실행될 때 CPU와 배터리를 덜 사용합니다."
 }

@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% Bewegungsgeschwindigkeit\nBleibt dir erhalten, solange alle Quests abgeschlossen sind",
   "Reset Lucky Stamp": "Glücksstempel zurücksetzen",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Die Meister warten am Eingang des Verlieses und drücken dir ein Wachssiegel in die Hand. 'Einmal am Tag macht es eine Aufgabe glücklich. Die nächste Prüfung liegt weiter draußen.'",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Mache einmal am Tag eine Aufgabe in der Warteschlange glücklich. Um 00:00 UTC gibt es einen neuen Stempel."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Mache einmal am Tag eine Aufgabe in der Warteschlange glücklich. Um 00:00 UTC gibt es einen neuen Stempel.",
+  "Unfocused Frame Rate Cap": "Bildratenbegrenzung im Hintergrund",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Bilder pro Sekunde, während ein anderes Fenster im Vordergrund ist. Niedriger spart CPU und Akku, wenn das Spiel im Hintergrund läuft."
 }

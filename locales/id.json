@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% kecepatan gerak\nTetap milikmu selama semua quest selesai",
   "Reset Lucky Stamp": "Atur Ulang Stempel Beruntung",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Para guru menunggu di mulut ruang bawah tanah dan menyerahkan sebuah segel lilin ke tanganmu. 'Sekali sehari, segel ini membuat satu tugas beruntung. Ujian berikutnya lebih jauh lagi.'",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Sekali sehari, jadikan satu tugas di antrean beruntung. Stempel baru tersedia pukul 00:00 UTC."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Sekali sehari, jadikan satu tugas di antrean beruntung. Stempel baru tersedia pukul 00:00 UTC.",
+  "Unfocused Frame Rate Cap": "Batas Frame Rate di Latar Belakang",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Frame per detik saat jendela lain berada di depan. Lebih rendah memakai lebih sedikit CPU dan baterai saat game berjalan di latar belakang."
 }

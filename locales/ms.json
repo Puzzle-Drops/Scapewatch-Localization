@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% kelajuan bergerak\nKekal dimiliki selagi semua Quest selesai",
   "Reset Lucky Stamp": "Set Semula Cop Bertuah",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Para guru menunggu di mulut penjara bawah tanah lalu meletakkan sebuah mohor lilin ke dalam tangan anda. 'Sekali sehari, ia menjadikan satu tugasan bertuah. Ujian seterusnya lebih jauh lagi.'",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Sekali sehari, jadikan satu tugasan dalam baris gilir bertuah. Cop baharu tiba pada 00:00 UTC."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Sekali sehari, jadikan satu tugasan dalam baris gilir bertuah. Cop baharu tiba pada 00:00 UTC.",
+  "Unfocused Frame Rate Cap": "Had Kadar Bingkai di Latar Belakang",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Bingkai sesaat semasa tetingkap lain berada di hadapan. Lebih rendah menggunakan kurang CPU dan bateri apabila permainan berjalan di latar belakang."
 }

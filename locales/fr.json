@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% de vitesse de déplacement\nConservée tant que toutes les quêtes sont terminées",
   "Reset Lucky Stamp": "Réinitialiser le Sceau chanceux",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Les maîtres attendent à l'entrée du donjon et vous glissent un sceau de cire dans la main. 'Une fois par jour, il rend une tâche chanceuse. La prochaine épreuve est plus loin.'",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Une fois par jour, rendez chanceuse une tâche en file. Un nouveau sceau arrive à 00:00 UTC."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Une fois par jour, rendez chanceuse une tâche en file. Un nouveau sceau arrive à 00:00 UTC.",
+  "Unfocused Frame Rate Cap": "Limite d'images par seconde en arrière-plan",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Images par seconde lorsqu'une autre fenêtre est au premier plan. Plus bas consomme moins de processeur et de batterie quand le jeu tourne en arrière-plan."
 }

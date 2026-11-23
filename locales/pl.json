@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% szybkości ruchu\nZachowujesz ją, dopóki wszystkie zadania fabularne są ukończone",
   "Reset Lucky Stamp": "Zresetuj Szczęśliwą pieczęć",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Mistrzowie czekają u wejścia do lochu i wciskają ci do ręki woskową pieczęć. „Raz dziennie czyni zadanie szczęśliwym. Następna próba jest dalej.”",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Raz dziennie uczyń jedno zadanie z kolejki szczęśliwym. Nowa pieczęć pojawia się o 00:00 UTC."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Raz dziennie uczyń jedno zadanie z kolejki szczęśliwym. Nowa pieczęć pojawia się o 00:00 UTC.",
+  "Unfocused Frame Rate Cap": "Limit klatek w tle",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Liczba klatek na sekundę, gdy na wierzchu jest inne okno. Niższa wartość mniej obciąża procesor i baterię, gdy gra działa w tle."
 }

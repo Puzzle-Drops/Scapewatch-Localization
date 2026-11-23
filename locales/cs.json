@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% rychlost pohybu\nZůstane ti, dokud máš splněné všechny questy",
   "Reset Lucky Stamp": "Resetovat Šťastnou pečeť",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Mistři čekají u vstupu do žaláře a vtisknou ti do dlaně voskovou pečeť. „Jednou denně učiní jeden úkol šťastným. Další zkouška je dál.“",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Jednou denně učiň jeden úkol ve frontě šťastným. Nová pečeť přijde v 00:00 UTC."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Jednou denně učiň jeden úkol ve frontě šťastným. Nová pečeť přijde v 00:00 UTC.",
+  "Unfocused Frame Rate Cap": "Limit snímků na pozadí",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Počet snímků za sekundu, když je vpředu jiné okno. Nižší hodnota šetří procesor i baterii, když hra běží na pozadí."
 }

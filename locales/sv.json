@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% rörelsehastighet\nBehålls så länge alla quests är slutförda",
   "Reset Lucky Stamp": "Återställ lyckosam stämpel",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Mästarna väntar vid fängelsehålans mynning och trycker ett lacksigill i din hand. 'En gång om dagen gör det en uppgift lyckosam. Nästa prövning ligger längre bort.'",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Gör en uppgift i kön lyckosam en gång om dagen. En ny stämpel kommer kl. 00:00 UTC."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Gör en uppgift i kön lyckosam en gång om dagen. En ny stämpel kommer kl. 00:00 UTC.",
+  "Unfocused Frame Rate Cap": "Bildfrekvensgräns i bakgrunden",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Bilder per sekund medan ett annat fönster ligger överst. Lägre använder mindre processor och batteri när spelet körs i bakgrunden."
 }

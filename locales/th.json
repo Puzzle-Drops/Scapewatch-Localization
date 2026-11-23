@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "ความเร็วในการเคลื่อนที่ +10%\nถือครองได้ตราบที่ทำเควสต์สำเร็จครบทุกเควสต์",
   "Reset Lucky Stamp": "รีเซ็ตตราประทับนำโชค",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "เหล่าปรมาจารย์รออยู่ที่ปากทางดันเจียน และวางตราประทับขี้ผึ้งไว้ในมือของคุณ 'มันทำให้ภารกิจนำโชคได้วันละครั้ง บททดสอบต่อไปอยู่ไกลออกไปอีก'",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "วันละครั้ง ทำให้ภารกิจหนึ่งในคิวนำโชค ตราประทับใหม่จะมาเวลา 00:00 UTC"
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "วันละครั้ง ทำให้ภารกิจหนึ่งในคิวนำโชค ตราประทับใหม่จะมาเวลา 00:00 UTC",
+  "Unfocused Frame Rate Cap": "จำกัดอัตราเฟรมขณะอยู่เบื้องหลัง",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "เฟรมต่อวินาทีขณะที่หน้าต่างอื่นอยู่ด้านหน้า ค่าต่ำกว่าจะใช้ CPU และแบตเตอรี่น้อยลงเมื่อเกมทำงานอยู่เบื้องหลัง"
 }

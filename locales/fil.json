@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% bilis ng paggalaw\nMananatili sa iyo habang tapos ang lahat ng Quest",
   "Reset Lucky Stamp": "I-reset ang Maswerteng Selyo",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Naghihintay ang mga maestro sa bunganga ng piitan at idiniin nila sa iyong palad ang isang selyong pagkit. 'Minsan isang araw, ginagawa nitong maswerte ang isang gawain. Mas malayo ang susunod na pagsubok.'",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Isang beses kada araw, gawing maswerte ang isang gawain sa pila. Darating ang bagong selyo sa 00:00 UTC."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Isang beses kada araw, gawing maswerte ang isang gawain sa pila. Darating ang bagong selyo sa 00:00 UTC.",
+  "Unfocused Frame Rate Cap": "Limitasyon ng frame rate sa background",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Frames per second habang may ibang window sa harap. Mas mababa, mas kaunting CPU at baterya kapag tumatakbo ang laro sa background."
 }

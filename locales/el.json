@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% ταχύτητα κίνησης\nΤον κρατάς όσο όλες οι αποστολές είναι ολοκληρωμένες",
   "Reset Lucky Stamp": "Επαναφορά Τυχερής σφραγίδας",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Οι δάσκαλοι περιμένουν στην είσοδο του μπουντρουμιού και σου βάζουν στο χέρι μια κέρινη σφραγίδα. 'Μία φορά τη μέρα κάνει μια εργασία τυχερή. Η επόμενη δοκιμή είναι πιο μακριά.'",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Μία φορά τη μέρα, κάνε τυχερή μία εργασία της ουράς. Μια νέα σφραγίδα έρχεται στις 00:00 UTC."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Μία φορά τη μέρα, κάνε τυχερή μία εργασία της ουράς. Μια νέα σφραγίδα έρχεται στις 00:00 UTC.",
+  "Unfocused Frame Rate Cap": "Όριο καρέ στο παρασκήνιο",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Καρέ ανά δευτερόλεπτο όσο άλλο παράθυρο είναι μπροστά. Χαμηλότερο σημαίνει λιγότερη CPU και μπαταρία όταν το παιχνίδι τρέχει στο παρασκήνιο."
 }

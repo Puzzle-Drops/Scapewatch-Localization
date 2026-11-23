@@ -11426,5 +11426,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% movement speed\nHeld while every quest is completed",
   "Reset Lucky Stamp": "Reset Lucky Stamp",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.",
+  "Unfocused Frame Rate Cap": "Unfocused Frame Rate Cap",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background."
 }

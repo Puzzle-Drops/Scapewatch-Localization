@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% скорост на движение\nОстава у теб, докато всички куестове са завършени",
   "Reset Lucky Stamp": "Нулирай Късметлийския печат",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Майсторите чакат при входа на подземието и пъхат в ръката ти восъчен печат. „Веднъж на ден той прави една задача късметлийска. Следващият изпит е по-далеч.“",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Веднъж на ден направи една задача от опашката късметлийска. Нов печат идва в 00:00 UTC."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Веднъж на ден направи една задача от опашката късметлийска. Нов печат идва в 00:00 UTC.",
+  "Unfocused Frame Rate Cap": "Ограничение на кадрите във фонов режим",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Кадри в секунда, докато друг прозорец е отпред. По-ниското използва по-малко процесор и батерия, когато играта работи във фонов режим."
 }

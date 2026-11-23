@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% velocità di movimento\nResta tuo finché tutte le missioni sono completate",
   "Reset Lucky Stamp": "Reimposta Timbro Fortunato",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "I maestri attendono all'ingresso del sotterraneo e ti mettono in mano un sigillo di ceralacca. 'Una volta al giorno rende fortunato un compito. La prossima prova è più lontana.'",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Una volta al giorno, rendi fortunato un compito in coda. Un nuovo timbro arriva alle 00:00 UTC."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Una volta al giorno, rendi fortunato un compito in coda. Un nuovo timbro arriva alle 00:00 UTC.",
+  "Unfocused Frame Rate Cap": "Limite di fotogrammi in background",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Fotogrammi al secondo mentre un'altra finestra è in primo piano. Più basso consuma meno CPU e batteria quando il gioco è in background."
 }

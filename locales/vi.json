@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% tốc độ di chuyển\nChỉ giữ được khi đã hoàn thành mọi Quest",
   "Reset Lucky Stamp": "Đặt lại Con dấu May mắn",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Các bậc thầy chờ ở cửa ngục tối và ấn vào tay bạn một con dấu sáp. 'Mỗi ngày một lần, nó khiến một nhiệm vụ trở nên may mắn. Thử thách tiếp theo còn ở xa hơn.'",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Mỗi ngày một lần, biến một nhiệm vụ trong hàng đợi thành may mắn. Con dấu mới đến lúc 00:00 UTC."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Mỗi ngày một lần, biến một nhiệm vụ trong hàng đợi thành may mắn. Con dấu mới đến lúc 00:00 UTC.",
+  "Unfocused Frame Rate Cap": "Giới hạn tốc độ khung hình khi chạy nền",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Số khung hình mỗi giây khi một cửa sổ khác ở phía trước. Thấp hơn sẽ dùng ít CPU và pin hơn khi game chạy nền."
 }

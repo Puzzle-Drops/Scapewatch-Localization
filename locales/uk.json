@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% до швидкості руху\nЗалишається в тебе, доки всі завдання виконано",
   "Reset Lucky Stamp": "Скинути Щасливу печатку",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Майстри чекають біля входу до підземелля і вкладають тобі в руку воскову печатку. «Раз на день вона робить доручення щасливим. Наступний іспит буде далі.»",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Раз на день зроби одне доручення з черги щасливим. Нова печатка з’являється о 00:00 UTC."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Раз на день зроби одне доручення з черги щасливим. Нова печатка з’являється о 00:00 UTC.",
+  "Unfocused Frame Rate Cap": "Обмеження кадрів у фоні",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Кадрів за секунду, поки попереду інше вікно. Менше значення зменшує навантаження на процесор і батарею, коли гра працює у фоні."
 }

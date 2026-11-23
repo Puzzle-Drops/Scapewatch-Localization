@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% bewegingssnelheid\nBlijft van jou zolang alle quests voltooid zijn",
   "Reset Lucky Stamp": "Geluksstempel resetten",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "De meesters wachten bij de ingang van de kerker en drukken je een lakzegel in de hand. 'Eén keer per dag maakt het een taak gelukkig. De volgende proef ligt verder weg.'",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Maak één keer per dag een taak in de wachtrij gelukkig. Om 00:00 UTC komt er een nieuwe stempel."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Maak één keer per dag een taak in de wachtrij gelukkig. Om 00:00 UTC komt er een nieuwe stempel.",
+  "Unfocused Frame Rate Cap": "Framerate-limiet op de achtergrond",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Beelden per seconde terwijl een ander venster vooraan staat. Lager gebruikt minder CPU en accu als het spel op de achtergrond draait."
 }

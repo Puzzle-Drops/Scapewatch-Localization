@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% bevegelseshastighet\nBeholdes så lenge alle oppdrag er fullført",
   "Reset Lucky Stamp": "Tilbakestill heldig stempel",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Mesterne venter ved fangehullets munning og trykker et lakksegl i hånden din. 'En gang om dagen gjør det en oppgave heldig. Neste prøve ligger lenger unna.'",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Gjør én oppgave i køen heldig en gang om dagen. Et nytt stempel kommer kl. 00:00 UTC."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Gjør én oppgave i køen heldig en gang om dagen. Et nytt stempel kommer kl. 00:00 UTC.",
+  "Unfocused Frame Rate Cap": "Bildefrekvensgrense i bakgrunnen",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Bilder per sekund mens et annet vindu er foran. Lavere bruker mindre prosessor og batteri når spillet kjører i bakgrunnen."
 }

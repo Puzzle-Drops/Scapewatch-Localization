@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "移動速度 +10%\nすべてのクエストを完了している間のみ保持できる",
   "Reset Lucky Stamp": "幸運スタンプをリセット",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "達人たちがダンジョンの入口で待っていて、封蝋の印章をあなたの手に握らせる。「日に一度、タスクを一つ幸運にしてくれる。次の試練はもっと遠くで行う」",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "1日1回、キューのタスク1つを幸運にする。00:00 UTC にスタンプが補充される。"
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "1日1回、キューのタスク1つを幸運にする。00:00 UTC にスタンプが補充される。",
+  "Unfocused Frame Rate Cap": "バックグラウンド時のフレームレート上限",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "別のウィンドウが前面にあるときの1秒あたりのフレーム数。低くすると、ゲームがバックグラウンドで動いているときのCPUとバッテリーの消費が減ります。"
 }

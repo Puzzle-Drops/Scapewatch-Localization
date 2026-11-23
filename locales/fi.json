@@ -11919,5 +11919,7 @@
   "+10% movement speed\nHeld while every quest is completed": "+10% liikkumisnopeus\nSäilyy niin kauan kuin kaikki tehtävänannot on suoritettu",
   "Reset Lucky Stamp": "Nollaa onnekas leima",
   "The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'": "Mestarit odottavat tyrmän suulla ja painavat käteesi vahasinetin. 'Kerran päivässä se tekee tehtävästä onnekkaan. Seuraava koetus on kauempana.'",
-  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Tee kerran päivässä yhdestä jonon tehtävästä onnekas. Uusi leima tulee klo 00:00 UTC."
+  "Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.": "Tee kerran päivässä yhdestä jonon tehtävästä onnekas. Uusi leima tulee klo 00:00 UTC.",
+  "Unfocused Frame Rate Cap": "Kuvataajuusraja taustalla",
+  "Frames per second while another window is in front. Lower uses less CPU and battery when the game runs in the background.": "Kuvia sekunnissa, kun toinen ikkuna on edessä. Pienempi kuluttaa vähemmän prosessoria ja akkua, kun peli on käynnissä taustalla."
 }

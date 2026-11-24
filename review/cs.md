@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Objevování |
 
-## Lines to review (1367)
+## Lines to review (1372)
 
 | Key | English | Current |
 |---|---|---|
@@ -1437,3 +1437,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Resetovat Šťastnou pečeť |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Mistři čekají u vstupu do žaláře a vtisknou ti do dlaně voskovou pečeť. „Jednou denně učiní jeden úkol šťastným. Další zkouška je dál.“ |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Jednou denně učiň jeden úkol ve frontě šťastným. Nová pečeť přijde v 00:00 UTC. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Smrt zruší úkol, u kterého jsi zemřel, a stojí stejně kreditů na přehození jako jeho přeskočení, nebo kolik ti zbývá. Zbytek fronty zůstane nedotčený. |
+| `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Úkol zrušen. Smrt stojí stejně jako přeskočení úkolu, ale neměl jsi žádné kredity na přehození, takže byla zdarma. |
+| `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Úkol zrušen. Smrt stojí stejně jako přeskočení úkolu: {0} kreditů na přehození. |
+| `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Úkol zrušen. Smrt stojí stejně jako přeskočení úkolu, takže se utratily tvé poslední kredity na přehození ({0}). |
+| `@death_cost_popup` | Task cancelled: -{0} reroll credits | Úkol zrušen: kredity na přehození -{0} |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Penyair |
 | Discover | Terokai |
 
-## Lines to review (1367)
+## Lines to review (1372)
 
 | Key | English | Current |
 |---|---|---|
@@ -1437,3 +1437,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Set Semula Cop Bertuah |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Para guru menunggu di mulut penjara bawah tanah lalu meletakkan sebuah mohor lilin ke dalam tangan anda. 'Sekali sehari, ia menjadikan satu tugasan bertuah. Ujian seterusnya lebih jauh lagi.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Sekali sehari, jadikan satu tugasan dalam baris gilir bertuah. Cop baharu tiba pada 00:00 UTC. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Mati membatalkan tugas yang anda mati padanya dan memakan kredit lambung semula yang sama seperti melangkaunya, atau baki yang anda ada. Selebihnya dalam baris gilir kekal tidak berubah. |
+| `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Tugasan dibatalkan. Mati memakan kos yang sama seperti melangkau tugasan, tetapi anda tiada kredit lambung semula, jadi ia percuma. |
+| `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Tugasan dibatalkan. Mati memakan kos yang sama seperti melangkau tugasan: {0} kredit lambung semula. |
+| `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Tugasan dibatalkan. Mati memakan kos yang sama seperti melangkau tugasan, jadi baki kredit lambung semula anda ({0}) telah digunakan. |
+| `@death_cost_popup` | Task cancelled: -{0} reroll credits | Tugasan dibatalkan: -{0} kredit lambung semula |

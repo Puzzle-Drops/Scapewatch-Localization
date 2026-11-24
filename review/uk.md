@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бардівство |
 | Discover | Дослідження |
 
-## Lines to review (1367)
+## Lines to review (1372)
 
 | Key | English | Current |
 |---|---|---|
@@ -1437,3 +1437,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Скинути Щасливу печатку |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Майстри чекають біля входу до підземелля і вкладають тобі в руку воскову печатку. «Раз на день вона робить доручення щасливим. Наступний іспит буде далі.» |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Раз на день зроби одне доручення з черги щасливим. Нова печатка з’являється о 00:00 UTC. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Смерть скасовує доручення, на якому ви загинули, і коштує стільки ж кредитів перекидання, скільки його пропуск, або скільки у вас лишилося. Решта черги лишається незмінною. |
+| `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Доручення скасовано. Смерть коштує стільки ж, скільки пропуск доручення, але у вас не було кредитів перекидання, тож вона нічого не коштувала. |
+| `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Доручення скасовано. Смерть коштує стільки ж, скільки пропуск доручення: {0} кредитів перекидання. |
+| `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Доручення скасовано. Смерть коштує стільки ж, скільки пропуск доручення, тож витрачено ваші останні кредити перекидання ({0}). |
+| `@death_cost_popup` | Task cancelled: -{0} reroll credits | Доручення скасовано: кредити перекидання -{0} |

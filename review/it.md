@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cantare |
 | Discover | Scoprire |
 
-## Lines to review (1367)
+## Lines to review (1372)
 
 | Key | English | Current |
 |---|---|---|
@@ -1437,3 +1437,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Reimposta Timbro Fortunato |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | I maestri attendono all'ingresso del sotterraneo e ti mettono in mano un sigillo di ceralacca. 'Una volta al giorno rende fortunato un compito. La prossima prova è più lontana.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Una volta al giorno, rendi fortunato un compito in coda. Un nuovo timbro arriva alle 00:00 UTC. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Morire annulla il compito in cui sei morto e costa gli stessi crediti rilancio che saltarlo, o quelli che ti restano. Il resto della coda resta intatto. |
+| `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Compito annullato. Morire costa quanto saltare il compito, ma non avevi crediti rilancio, quindi è stato gratis. |
+| `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Compito annullato. Morire costa quanto saltare il compito: {0} crediti rilancio. |
+| `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Compito annullato. Morire costa quanto saltare il compito, quindi sono stati spesi i tuoi ultimi crediti rilancio ({0}). |
+| `@death_cost_popup` | Task cancelled: -{0} reroll credits | Compito annullato: crediti rilancio -{0} |

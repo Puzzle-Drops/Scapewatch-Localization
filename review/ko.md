@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 음유 |
 | Discover | 탐험 |
 
-## Lines to review (1367)
+## Lines to review (1372)
 
 | Key | English | Current |
 |---|---|---|
@@ -1437,3 +1437,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | 행운 인장 초기화 |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | 장인들이 던전 입구에서 기다리다가 당신의 손에 밀랍 인장을 쥐여 준다. '하루에 한 번, 임무 하나를 행운 임무로 만들어 준다. 다음 시련은 더 먼 곳에서 치른다.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | 하루에 한 번, 대기열의 임무 하나를 행운 임무로 만듭니다. 00:00 UTC에 새 인장이 지급됩니다. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | 사망하면 사망한 임무가 취소되며, 건너뛰기와 같은 재설정 크레딧(부족하면 남은 크레딧 전부)이 듭니다. 대기열의 나머지는 그대로입니다. |
+| `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | 임무가 취소되었습니다. 사망은 임무 건너뛰기와 비용이 같지만, 재설정 크레딧이 없어서 무료였습니다. |
+| `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | 임무가 취소되었습니다. 사망은 임무 건너뛰기와 비용이 같습니다: 재설정 크레딧 {0}. |
+| `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | 임무가 취소되었습니다. 사망은 임무 건너뛰기와 비용이 같아서, 남은 재설정 크레딧({0})을 모두 사용했습니다. |
+| `@death_cost_popup` | Task cancelled: -{0} reroll credits | 임무 취소: 재설정 크레딧 -{0} |

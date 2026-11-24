@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Tuklasin |
 
-## Lines to review (1367)
+## Lines to review (1372)
 
 | Key | English | Current |
 |---|---|---|
@@ -1437,3 +1437,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | I-reset ang Maswerteng Selyo |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Naghihintay ang mga maestro sa bunganga ng piitan at idiniin nila sa iyong palad ang isang selyong pagkit. 'Minsan isang araw, ginagawa nitong maswerte ang isang gawain. Mas malayo ang susunod na pagsubok.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Isang beses kada araw, gawing maswerte ang isang gawain sa pila. Darating ang bagong selyo sa 00:00 UTC. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Kinakansela ng pagkamatay ang task na kinamatayan mo, at kasing-dami ng reroll credit ang bayad nito gaya ng paglaktaw dito, o kung ano ang natitira sa iyo. Hindi nagagalaw ang iba pa sa pila. |
+| `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Kinansela ang task. Kapareho ng paglaktaw sa task ang bayad sa pagkamatay, pero wala kang reroll credit, kaya libre ito. |
+| `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Kinansela ang task. Kapareho ng paglaktaw sa task ang bayad sa pagkamatay: {0} reroll credit. |
+| `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Kinansela ang task. Kapareho ng paglaktaw sa task ang bayad sa pagkamatay, kaya nagastos ang huling reroll credit mo ({0}). |
+| `@death_cost_popup` | Task cancelled: -{0} reroll credits | Kinansela ang task: -{0} reroll credit |

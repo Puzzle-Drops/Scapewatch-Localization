@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardo |
 | Discover | Descoberta |
 
-## Lines to review (1367)
+## Lines to review (1372)
 
 | Key | English | Current |
 |---|---|---|
@@ -1437,3 +1437,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Redefinir o Selo da sorte |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Os mestres esperam na entrada da masmorra e colocam um selo de cera na sua mão. 'Uma vez por dia, ele torna uma tarefa sortuda. A próxima prova é mais longe.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Uma vez por dia, torne sortuda uma tarefa da fila. Um novo selo chega às 00:00 UTC. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Morrer cancela a tarefa em que você morreu e custa os mesmos créditos de rerrolagem que pulá-la, ou o que você tiver sobrando. O resto da fila fica intacto. |
+| `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Tarefa cancelada. Morrer custa o mesmo que pular a tarefa, mas você não tinha créditos de rerrolagem, então foi de graça. |
+| `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Tarefa cancelada. Morrer custa o mesmo que pular a tarefa: {0} créditos de rerrolagem. |
+| `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Tarefa cancelada. Morrer custa o mesmo que pular a tarefa, então seus últimos créditos de rerrolagem ({0}) foram gastos. |
+| `@death_cost_popup` | Task cancelled: -{0} reroll credits | Tarefa cancelada: créditos de rerrolagem -{0} |

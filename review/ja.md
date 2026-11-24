@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (1367)
+## Lines to review (1372)
 
 | Key | English | Current |
 |---|---|---|
@@ -1437,3 +1437,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | 幸運スタンプをリセット |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | 達人たちがダンジョンの入口で待っていて、封蝋の印章をあなたの手に握らせる。「日に一度、タスクを一つ幸運にしてくれる。次の試練はもっと遠くで行う」 |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | 1日1回、キューのタスク1つを幸運にする。00:00 UTC にスタンプが補充される。 |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | 死亡すると、死亡したタスクが取り消され、スキップと同じリロールクレジット（足りない場合は残り全部）を消費します。キューの残りはそのままです。 |
+| `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | タスクが取り消されました。死亡はスキップと同じコストですが、リロールクレジットがなかったため無料でした。 |
+| `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | タスクが取り消されました。死亡はスキップと同じコストです：リロールクレジット {0}。 |
+| `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | タスクが取り消されました。死亡はスキップと同じコストのため、残りのリロールクレジット（{0}）を消費しました。 |
+| `@death_cost_popup` | Task cancelled: -{0} reroll credits | タスク取り消し：リロールクレジット -{0} |

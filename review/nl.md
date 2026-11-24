@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Ontdekken |
 
-## Lines to review (1367)
+## Lines to review (1372)
 
 | Key | English | Current |
 |---|---|---|
@@ -1437,3 +1437,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Geluksstempel resetten |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | De meesters wachten bij de ingang van de kerker en drukken je een lakzegel in de hand. 'Eén keer per dag maakt het een taak gelukkig. De volgende proef ligt verder weg.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Maak één keer per dag een taak in de wachtrij gelukkig. Om 00:00 UTC komt er een nieuwe stempel. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Doodgaan annuleert de taak waarop je stierf en kost evenveel herwerptegoed als die overslaan, of wat je nog over hebt. De rest van je wachtrij blijft onaangeroerd. |
+| `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Taak geannuleerd. Doodgaan kost evenveel als de taak overslaan, maar je had geen herwerptegoed, dus het was gratis. |
+| `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Taak geannuleerd. Doodgaan kost evenveel als de taak overslaan: {0} herwerptegoed. |
+| `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Taak geannuleerd. Doodgaan kost evenveel als de taak overslaan, dus je laatste herwerptegoed ({0}) is opgebruikt. |
+| `@death_cost_popup` | Task cancelled: -{0} reroll credits | Taak geannuleerd: -{0} herwerptegoed |

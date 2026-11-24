@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardo |
 | Discover | Descubrimiento |
 
-## Lines to review (1367)
+## Lines to review (1372)
 
 | Key | English | Current |
 |---|---|---|
@@ -1437,3 +1437,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Restablecer el Sello de la suerte |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Los maestros esperan en la entrada de la mazmorra y te ponen un sello de lacre en la mano. 'Una vez al día, hace que una tarea tenga suerte. La siguiente prueba está más lejos.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Una vez al día, dale suerte a una tarea en cola. Llega un sello nuevo a las 00:00 UTC. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Morir cancela la tarea en la que moriste y cuesta los mismos créditos de relanzamiento que omitirla, o los que te queden. El resto de tu cola queda intacto. |
+| `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Tarea cancelada. Morir cuesta lo mismo que omitir la tarea, pero no tenías créditos de relanzamiento, así que fue gratis. |
+| `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Tarea cancelada. Morir cuesta lo mismo que omitir la tarea: {0} créditos de relanzamiento. |
+| `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Tarea cancelada. Morir cuesta lo mismo que omitir la tarea, así que se gastaron tus últimos créditos de relanzamiento ({0}). |
+| `@death_cost_popup` | Task cancelled: -{0} reroll credits | Tarea cancelada: créditos de relanzamiento -{0} |

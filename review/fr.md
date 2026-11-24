@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Découverte |
 
-## Lines to review (1367)
+## Lines to review (1372)
 
 | Key | English | Current |
 |---|---|---|
@@ -1437,3 +1437,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Réinitialiser le Sceau chanceux |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Les maîtres attendent à l'entrée du donjon et vous glissent un sceau de cire dans la main. 'Une fois par jour, il rend une tâche chanceuse. La prochaine épreuve est plus loin.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Une fois par jour, rendez chanceuse une tâche en file. Un nouveau sceau arrive à 00:00 UTC. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Mourir annule la tâche sur laquelle vous êtes mort et coûte autant de crédits de relance que la passer, ou ce qu'il vous reste. Le reste de votre file reste intact. |
+| `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Tâche annulée. Mourir coûte autant que passer la tâche, mais vous n'aviez aucun crédit de relance, donc c'était gratuit. |
+| `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Tâche annulée. Mourir coûte autant que passer la tâche : {0} crédits de relance. |
+| `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Tâche annulée. Mourir coûte autant que passer la tâche, vos derniers crédits de relance ({0}) ont donc été dépensés. |
+| `@death_cost_popup` | Task cancelled: -{0} reroll credits | Tâche annulée : crédits de relance -{0} |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Βάρδος |
 | Discover | Ανακάλυψη |
 
-## Lines to review (1367)
+## Lines to review (1372)
 
 | Key | English | Current |
 |---|---|---|
@@ -1437,3 +1437,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Επαναφορά Τυχερής σφραγίδας |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Οι δάσκαλοι περιμένουν στην είσοδο του μπουντρουμιού και σου βάζουν στο χέρι μια κέρινη σφραγίδα. 'Μία φορά τη μέρα κάνει μια εργασία τυχερή. Η επόμενη δοκιμή είναι πιο μακριά.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Μία φορά τη μέρα, κάνε τυχερή μία εργασία της ουράς. Μια νέα σφραγίδα έρχεται στις 00:00 UTC. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Ο θάνατος ακυρώνει την αποστολή στην οποία πέθανες και κοστίζει όσες πιστώσεις ξαναρίξιμου και η παράλειψή της, ή όσες σου έχουν απομείνει. Η υπόλοιπη ουρά σου μένει ανέπαφη. |
+| `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Η αποστολή ακυρώθηκε. Ο θάνατος κοστίζει όσο και η παράλειψη της αποστολής, αλλά δεν είχες πιστώσεις ξαναρίξιμου, οπότε ήταν δωρεάν. |
+| `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Η αποστολή ακυρώθηκε. Ο θάνατος κοστίζει όσο και η παράλειψη της αποστολής: {0} πιστώσεις ξαναρίξιμου. |
+| `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Η αποστολή ακυρώθηκε. Ο θάνατος κοστίζει όσο και η παράλειψη της αποστολής, οπότε ξοδεύτηκαν οι τελευταίες πιστώσεις ξαναρίξιμου σου ({0}). |
+| `@death_cost_popup` | Task cancelled: -{0} reroll credits | Η αποστολή ακυρώθηκε: πιστώσεις ξαναρίξιμου -{0} |

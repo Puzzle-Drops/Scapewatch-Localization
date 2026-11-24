@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardi |
 | Discover | Tutki |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Vihreitä lehtiä keskellä talvea. |
 | `Mine the Icevein seams` | Mine the Icevein seams | Louhi Iceveinin suonia |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Löydät suonen, jonka kaivosmiehet jo hylkäsivät. |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Kestit kylmän. Seuraavaksi mestarit haluavat nähdä sinut paineen alla.' |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | Mestaruus: Raivoisa koetus |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | Kolmas koetus kulkee vilkkaan etelän halki, jossa jokaista ammattia valvoo oma mestarinsa. |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | Tapaa mestarit Shorthassa |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Juokset laakson läpi kahdesti, ihan vain näyttääksesi. |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Tee valu Riverwatchin valimossa |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Puhdas valu ilman kuplia. Valimon väki taputtaa. |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Hyvä. Kuvut odottavat kahdessa viimeisessä koetuksessa.' |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | Mestaruus: Julma koetus |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | Neljäs koetus lähettää sinut maan hienoimpiin työpaikkoihin. |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Mestarit tungeksivat pankissa. 'Kolme koetusta takana. Näytä nyt meille maan hienointa työtä.' |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Mestarit odottavat tyrmän suulla. He ojentavat sinulle lasikuvun. 'Ensimmäinen kupu. Siinä on kaikki tähänastiset koetukset.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Mestaruus: Muinainen koetus |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Ensimmäinen kupu oli koetuksista. Toinen on siitä, mitä kukaan ei opettanut sinulle.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Palkinto Julmasta ja Muinaisesta koetuksesta. Molemmat pinoutuvat. |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Tehtävä peruttu. Kuoleminen maksaa saman kuin tehtävän ohittaminen: {0} uudelleenheittokrediittiä. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Tehtävä peruttu. Kuoleminen maksaa saman kuin tehtävän ohittaminen, joten viimeiset uudelleenheittokrediittisi ({0}) käytettiin. |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | Tehtävä peruttu: uudelleenheittokrediitit -{0} |
+| `Bounty Seal` | Bounty Seal | Palkkiosinetti |
+| `Master's Writ` | Master's Writ | Mestarin valtakirja |
+| `Fourth Option` | Fourth Option | Neljäs vaihtoehto |
+| `Bounty Seal Locked` | Bounty Seal Locked | Palkkiosinetti lukittu |
+| `Bounty Seal Ready` | Bounty Seal Ready | Palkkiosinetti valmis |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | Palkkiosinetti käytetty tänään |
+| `Master's Writ Locked` | Master's Writ Locked | Mestarin valtakirja lukittu |
+| `Master's Writ Ready` | Master's Writ Ready | Mestarin valtakirja valmis |
+| `Master's Writ Used Today` | Master's Writ Used Today | Mestarin valtakirja käytetty tänään |
+| `Fourth Option Locked` | Fourth Option Locked | Neljäs vaihtoehto lukittu |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | Neljäs vaihtoehto avattu |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Kerran päivässä voit tuplata yhden jonosi tehtävän: kaksinkertainen määrä tai kaksinkertainen tappomäärä. Uusi sinetti tulee klo 00:00 UTC. Saat sen Turmaisesta koetuksesta. |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Kerran päivässä voit korvata yhden jonosi tehtävän valitsemallasi: mikä tahansa toiminto, johon tasosi riittää, missä tahansa löytämässäsi paikassa. Uusi valtakirja tulee klo 00:00 UTC. Saat sen Raivoisasta koetuksesta. |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0} % mahdollisuus neljänteen tehtävään jokaisella uudella jonorivillä. Saat sen Julmasta koetuksesta. |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0} % mahdollisuus neljänteen tehtävään jokaisella uudella jonorivillä |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Tuplaa kerran päivässä yksi jonon tehtävä. Uusi sinetti tulee klo 00:00 UTC. |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Kirjoita kerran päivässä yksi jonon tehtävä itse. Uusi valtakirja tulee klo 00:00 UTC. |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | Yksi sinetti päivässä. Uusi tulee klo 00:00 UTC. |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | Yksi valtakirja päivässä. Uusi tulee klo 00:00 UTC. |
+| `Double this task` | Double this task | Tuplaa tämä tehtävä |
+| `Replace this task with one you choose` | Replace this task with one you choose | Korvaa tämä tehtävä valitsemallasi |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | Kaksinkertainen tappomäärä: 2x XP ja 2x saalis |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | Kaksinkertainen määrä: 2x XP ja 2x palkkiot |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | Mikä tahansa toiminto, johon tasosi riittää, missä tahansa löytämässäsi paikassa |
+| `Daily tools` | Daily tools | Päivittäiset työkalut |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | Jokainen palaa klo 00:00 UTC. |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | Käytetäänkö palkkiosinetti? |
+| `Seal` | Seal | Sinetöi |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | Tuplattu palkkiosinetillä |
+| `Written with the Master's Writ` | Written with the Master's Writ | Kirjoitettu mestarin valtakirjalla |
+| `Replaces` | Replaces | Korvaa |
+| `This replaces a lucky task.` | This replaces a lucky task. | Tämä korvaa onnekkaan tehtävän. |
+| `This replaces a sealed task.` | This replaces a sealed task. | Tämä korvaa sinetöidyn tehtävän. |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Tämä korvaa onnekkaan, sinetöidyn tehtävän. |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Määrä arvotaan kuten missä tahansa tehtävässä. Yksi valtakirja päivässä. Uusi tulee klo 00:00 UTC. |
+| `Write` | Write | Kirjoita |
+| `Place` | Place | Paikka |
+| `Pick an activity` | Pick an activity | Valitse toiminto |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | Ei vielä mitään kirjoitettavaa. Tutki ensin karttaa lisää. |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | Jono muuttui. Avaa valtakirja uudelleen haluamallasi rivillä. |
+| `Today's writ is already used.` | Today's writ is already used. | Tämän päivän valtakirja on jo käytetty. |
+| `That task cannot be written.` | That task cannot be written. | Tätä tehtävää ei voi kirjoittaa. |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | Mestarit painavat kultaisen sinetin käteesi. 'Kerran päivässä se tuplaa tehtävän. Seuraavaksi mestarit haluavat nähdä sinut paineen alla.' |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | Mestarit ojentavat sinulle tyhjän valtakirjan ja sulkakynän. 'Kirjoita kerran päivässä tehtävä itse. Kuvut odottavat kahdessa viimeisessä koetuksessa.' |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Mestarit odottavat tyrmän suulla mukanaan lasikupu ja neljän kortin käsi. 'Ensimmäisessä kuvussa on kaikki tähänastiset koetukset. Kortit tarkoittavat, että joinain päivinä saat yhden vaihtoehdon lisää.' |
+| `Reset Seal + Writ` | Reset Seal + Writ | Nollaa sinetti + valtakirja |
+| `Fourth Option Rows` | Fourth Option Rows | Neljäs vaihtoehto kaikille riveille |

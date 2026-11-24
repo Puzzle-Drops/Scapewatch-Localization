@@ -625,5 +625,7 @@
   "@b:auto_bank": "+{0}% auto-bank chance",
   "@b:min_hit": "+{0} min hit",
   "@b:max_hit": "+{0} max hit",
-  "@b:quest_cape_held": "Held while every quest is completed"
+  "@b:quest_cape_held": "Held while every quest is completed",
+  "@fourth_option_desc": "{0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial.",
+  "@fourth_option_chance": "{0}% chance of a fourth task on each new queue row"
 }

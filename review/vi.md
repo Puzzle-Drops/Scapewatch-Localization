@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Nhạc công |
 | Discover | Khám phá |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Lá xanh giữa mùa đông. |
 | `Mine the Icevein seams` | Mine the Icevein seams | Khai thác các vỉa quặng Icevein |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Bạn tìm ra vỉa quặng mà các thợ mỏ đã từ bỏ. |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Ngươi đã trụ vững trong giá lạnh. Tiếp theo, các bậc thầy muốn xem ngươi làm việc dưới áp lực.' |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | Tinh thông: Thử thách hung bạo |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | Thử thách thứ ba đi qua miền nam nhộn nhịp, nơi nghề nào cũng có một bậc thầy để mắt tới. |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | Gặp các bậc thầy ở Shortha |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Bạn chạy hết thung lũng hai lần chỉ để chứng tỏ bản thân. |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Đổ khuôn ở xưởng đúc Riverwatch |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Một mẻ đổ khuôn sạch, không chút bọt khí. Đội thợ xưởng đúc vỗ tay. |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Tốt. Các khối cầu được cất giữ ở hai thử thách cuối.' |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | Tinh thông: Thử thách tàn khốc |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | Thử thách thứ tư đưa bạn đến những nơi làm việc tuyệt vời nhất vùng đất. |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Các bậc thầy chen chúc trong ngân hàng. 'Đã xong ba thử thách. Giờ hãy cho chúng ta thấy tay nghề tuyệt nhất vùng đất này.' |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Các bậc thầy chờ ở cửa ngục tối. Họ trao cho bạn một khối cầu thủy tinh. 'Khối cầu thứ nhất. Nó chứa đựng mọi thử thách cho tới giờ.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Tinh thông: Thử thách cổ đại |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Khối cầu thứ nhất dành cho các thử thách. Khối thứ hai dành cho những gì chưa ai dạy ngươi.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Phần thưởng từ Thử thách tàn khốc và Thử thách cổ đại. Cả hai đều cộng dồn. |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Đã hủy nhiệm vụ. Chết tốn bằng việc bỏ qua nhiệm vụ: {0} điểm gieo lại. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Đã hủy nhiệm vụ. Chết tốn bằng việc bỏ qua nhiệm vụ, nên số điểm gieo lại cuối cùng của bạn ({0}) đã bị dùng hết. |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | Đã hủy nhiệm vụ: -{0} điểm gieo lại |
+| `Bounty Seal` | Bounty Seal | Ấn Ban thưởng |
+| `Master's Writ` | Master's Writ | Sắc lệnh Bậc thầy |
+| `Fourth Option` | Fourth Option | Lựa chọn thứ tư |
+| `Bounty Seal Locked` | Bounty Seal Locked | Ấn Ban thưởng đang khóa |
+| `Bounty Seal Ready` | Bounty Seal Ready | Ấn Ban thưởng sẵn sàng |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | Ấn Ban thưởng đã dùng hôm nay |
+| `Master's Writ Locked` | Master's Writ Locked | Sắc lệnh Bậc thầy đang khóa |
+| `Master's Writ Ready` | Master's Writ Ready | Sắc lệnh Bậc thầy sẵn sàng |
+| `Master's Writ Used Today` | Master's Writ Used Today | Sắc lệnh Bậc thầy đã dùng hôm nay |
+| `Fourth Option Locked` | Fourth Option Locked | Lựa chọn thứ tư đang khóa |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | Đã mở khóa Lựa chọn thứ tư |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Mỗi ngày một lần, nhân đôi một nhiệm vụ trong hàng đợi: gấp đôi số lượng, hoặc gấp đôi số lần hạ gục. Chiếc ấn mới đến lúc 00:00 UTC. Phần thưởng từ Thử thách hung hiểm. |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Mỗi ngày một lần, thay một nhiệm vụ trong hàng đợi bằng nhiệm vụ bạn chọn: bất kỳ hoạt động nào bạn đủ cấp, tại bất kỳ địa điểm nào bạn đã khám phá. Sắc lệnh mới đến lúc 00:00 UTC. Phần thưởng từ Thử thách hung bạo. |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% cơ hội có nhiệm vụ thứ tư ở mỗi hàng mới trong hàng đợi. Phần thưởng từ Thử thách tàn khốc. |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% cơ hội có nhiệm vụ thứ tư ở mỗi hàng mới trong hàng đợi |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Mỗi ngày một lần, nhân đôi một nhiệm vụ trong hàng đợi. Chiếc ấn mới đến lúc 00:00 UTC. |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Mỗi ngày một lần, tự viết một nhiệm vụ trong hàng đợi. Sắc lệnh mới đến lúc 00:00 UTC. |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | Mỗi ngày một chiếc ấn. Chiếc ấn mới đến lúc 00:00 UTC. |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | Mỗi ngày một sắc lệnh. Sắc lệnh mới đến lúc 00:00 UTC. |
+| `Double this task` | Double this task | Nhân đôi nhiệm vụ này |
+| `Replace this task with one you choose` | Replace this task with one you choose | Thay nhiệm vụ này bằng nhiệm vụ bạn chọn |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | Gấp đôi số lần hạ gục: 2x XP và 2x chiến lợi phẩm |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | Gấp đôi số lượng: 2x XP và 2x phần thưởng |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | Bất kỳ hoạt động nào bạn đủ cấp, tại bất kỳ địa điểm nào bạn đã khám phá |
+| `Daily tools` | Daily tools | Công cụ hằng ngày |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | Mỗi công cụ sẽ trở lại lúc 00:00 UTC. |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | Dùng Ấn Ban thưởng? |
+| `Seal` | Seal | Đóng ấn |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | Được nhân đôi bởi Ấn Ban thưởng |
+| `Written with the Master's Writ` | Written with the Master's Writ | Được viết bằng Sắc lệnh Bậc thầy |
+| `Replaces` | Replaces | Thay thế |
+| `This replaces a lucky task.` | This replaces a lucky task. | Thao tác này sẽ thay thế một nhiệm vụ may mắn. |
+| `This replaces a sealed task.` | This replaces a sealed task. | Thao tác này sẽ thay thế một nhiệm vụ đã được nhân đôi. |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Thao tác này sẽ thay thế một nhiệm vụ may mắn đã được nhân đôi. |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Số lượng được gieo như mọi nhiệm vụ khác. Mỗi ngày một sắc lệnh. Sắc lệnh mới đến lúc 00:00 UTC. |
+| `Write` | Write | Viết |
+| `Place` | Place | Địa điểm |
+| `Pick an activity` | Pick an activity | Chọn một hoạt động |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | Chưa có gì để viết. Hãy khám phá thêm bản đồ trước. |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | Hàng đợi đã thay đổi. Hãy mở lại sắc lệnh trên hàng bạn muốn. |
+| `Today's writ is already used.` | Today's writ is already used. | Sắc lệnh hôm nay đã được dùng. |
+| `That task cannot be written.` | That task cannot be written. | Không thể viết nhiệm vụ đó. |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | Các bậc thầy dúi vào tay bạn một chiếc ấn vàng. 'Mỗi ngày một lần, nó nhân đôi một nhiệm vụ. Tiếp theo, các bậc thầy muốn xem ngươi làm việc dưới áp lực.' |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | Các bậc thầy trao cho bạn một tờ sắc lệnh để trống và một cây bút lông ngỗng. 'Mỗi ngày một lần, hãy tự tay viết nhiệm vụ. Các khối cầu được cất giữ ở hai thử thách cuối.' |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Các bậc thầy chờ ở cửa ngục tối với một khối cầu thủy tinh và bốn lá bài. 'Khối cầu thứ nhất chứa đựng mọi thử thách cho tới giờ. Những lá bài nghĩa là có những ngày ngươi được thêm một lựa chọn.' |
+| `Reset Seal + Writ` | Reset Seal + Writ | Đặt lại Ấn + Sắc lệnh |
+| `Fourth Option Rows` | Fourth Option Rows | Hàng có Lựa chọn thứ tư |

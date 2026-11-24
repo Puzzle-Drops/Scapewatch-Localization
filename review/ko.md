@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 음유 |
 | Discover | 탐험 |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | 한겨울에 돋아난 푸른 잎. |
 | `Mine the Icevein seams` | Mine the Icevein seams | 아이스베인 광맥 채굴하기 |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | 광부들이 포기한 광맥을 당신이 찾아낸다. |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | '추위 속에서 잘 버텼군. 다음엔 장인들이 압박 속에서 일하는 너를 보고 싶어 한다.' |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | 통달: 야만의 시련 |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | 세 번째 시련은 모든 일마다 장인이 지켜보는 번화한 남쪽을 거쳐 갑니다. |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | 쇼타에서 장인들 만나기 |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | 보란 듯이 계곡을 두 번이나 달린다. |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | 리버워치 주조소에서 쇳물 붓기 |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | 기포 하나 없는 깔끔한 주조. 주조소 일꾼들이 박수를 친다. |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | '좋아. 구체가 걸린 건 마지막 두 시련이다.' |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | 통달: 사악한 시련 |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | 네 번째 시련은 당신을 이 땅 최고의 일터로 보냅니다. |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | 장인들이 은행에 북적인다. '시련 세 개를 마쳤군. 이제 이 땅 최고의 솜씨를 보여 줘.' |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | 장인들이 던전 입구에서 기다린다. 그들이 당신에게 유리 구체를 건넨다. '첫 번째 구체다. 지금까지의 모든 시련이 담겨 있지.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | 통달: 고대의 시련 |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | '첫 번째 구체는 시련을 위한 것이었다. 두 번째는 아무도 가르쳐 주지 않은 것을 위한 것이다.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | 사악한 시련과 고대의 시련 보상입니다. 둘 다 중첩됩니다. |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | 임무가 취소되었습니다. 사망은 임무 건너뛰기와 비용이 같습니다: 재설정 크레딧 {0}. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | 임무가 취소되었습니다. 사망은 임무 건너뛰기와 비용이 같아서, 남은 재설정 크레딧({0})을 모두 사용했습니다. |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | 임무 취소: 재설정 크레딧 -{0} |
+| `Bounty Seal` | Bounty Seal | 포상 인장 |
+| `Master's Writ` | Master's Writ | 장인의 위임장 |
+| `Fourth Option` | Fourth Option | 네 번째 옵션 |
+| `Bounty Seal Locked` | Bounty Seal Locked | 포상 인장 잠김 |
+| `Bounty Seal Ready` | Bounty Seal Ready | 포상 인장 준비됨 |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | 포상 인장 오늘 사용함 |
+| `Master's Writ Locked` | Master's Writ Locked | 장인의 위임장 잠김 |
+| `Master's Writ Ready` | Master's Writ Ready | 장인의 위임장 준비됨 |
+| `Master's Writ Used Today` | Master's Writ Used Today | 장인의 위임장 오늘 사용함 |
+| `Fourth Option Locked` | Fourth Option Locked | 네 번째 옵션 잠김 |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | 네 번째 옵션 해금됨 |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | 하루에 한 번, 대기열의 임무 하나를 2배로 만듭니다: 수량 2배 또는 처치 수 2배. 00:00 UTC에 새 포상 인장이 지급됩니다. 흉포한 시련의 보상입니다. |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | 하루에 한 번, 대기열의 임무 하나를 원하는 임무로 교체합니다: 발견한 모든 장소에서 레벨이 되는 모든 활동을 고를 수 있습니다. 00:00 UTC에 새 위임장이 지급됩니다. 야만의 시련의 보상입니다. |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | 새 대기열 줄마다 {0}% 확률로 네 번째 임무 등장. 사악한 시련의 보상입니다. |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | 새 대기열 줄마다 {0}% 확률로 네 번째 임무 등장 |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | 하루에 한 번, 대기열의 임무 하나를 2배로 만듭니다. 00:00 UTC에 새 포상 인장이 지급됩니다. |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | 하루에 한 번, 대기열의 임무 하나를 직접 작성합니다. 00:00 UTC에 새 위임장이 지급됩니다. |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | 포상 인장은 하루에 하나입니다. 00:00 UTC에 새로 지급됩니다. |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | 위임장은 하루에 하나입니다. 00:00 UTC에 새로 지급됩니다. |
+| `Double this task` | Double this task | 이 임무를 2배로 만들기 |
+| `Replace this task with one you choose` | Replace this task with one you choose | 이 임무를 원하는 임무로 교체하기 |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | 처치 수 2배: 경험치 2배, 전리품 2배 |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | 수량 2배: 경험치 2배, 보상 2배 |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | 발견한 모든 장소에서 레벨이 되는 모든 활동 |
+| `Daily tools` | Daily tools | 일일 도구 |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | 모두 00:00 UTC에 다시 지급됩니다. |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | 포상 인장을 사용하시겠습니까? |
+| `Seal` | Seal | 날인 |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | 포상 인장으로 2배 적용됨 |
+| `Written with the Master's Writ` | Written with the Master's Writ | 장인의 위임장으로 작성됨 |
+| `Replaces` | Replaces | 교체 대상 |
+| `This replaces a lucky task.` | This replaces a lucky task. | 행운 임무가 교체됩니다. |
+| `This replaces a sealed task.` | This replaces a sealed task. | 포상 인장이 찍힌 임무가 교체됩니다. |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | 포상 인장이 찍힌 행운 임무가 교체됩니다. |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | 수량은 다른 임무처럼 무작위로 정해집니다. 위임장은 하루에 하나입니다. 00:00 UTC에 새로 지급됩니다. |
+| `Write` | Write | 작성 |
+| `Place` | Place | 장소 |
+| `Pick an activity` | Pick an activity | 활동을 선택하세요 |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | 아직 작성할 수 있는 임무가 없습니다. 먼저 맵을 더 탐험하세요. |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | 대기열이 바뀌었습니다. 원하는 줄에서 위임장을 다시 여세요. |
+| `Today's writ is already used.` | Today's writ is already used. | 오늘의 위임장은 이미 사용했습니다. |
+| `That task cannot be written.` | That task cannot be written. | 그 임무는 작성할 수 없습니다. |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | 장인들이 당신의 손에 황금 인장을 쥐여 준다. '하루에 한 번, 이것이 임무 하나를 두 배로 만든다. 다음엔 장인들이 압박 속에서 일하는 너를 보고 싶어 한다.' |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | 장인들이 백지 위임장과 깃펜을 건넨다. '하루에 한 번, 임무를 직접 써라. 구체가 걸린 건 마지막 두 시련이다.' |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | 장인들이 유리 구체와 카드 네 장을 들고 던전 입구에서 기다린다. '첫 번째 구체에는 지금까지의 모든 시련이 담겨 있지. 이 카드가 있으면 어떤 날은 선택지가 하나 더 생긴다.' |
+| `Reset Seal + Writ` | Reset Seal + Writ | 포상 인장 + 위임장 초기화 |
+| `Fourth Option Rows` | Fourth Option Rows | 네 번째 옵션 줄 |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Penyair |
 | Discover | Terokai |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Daun hijau di tengah-tengah musim sejuk. |
 | `Mine the Icevein seams` | Mine the Icevein seams | Melombong urat bijih Icevein |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Anda menemui urat bijih yang telah ditinggalkan oleh para pelombong. |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Kau bertahan dalam kesejukan. Seterusnya, para guru mahu melihatmu di bawah tekanan.' |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | Penguasaan: Ujian Ganas |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | Ujian ketiga merentasi selatan yang sibuk, tempat setiap bidang diawasi oleh seorang guru. |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | Jumpa para guru di Shortha |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Anda berlari menyusuri lembah itu dua kali semata-mata untuk membuktikan sesuatu. |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Tuang logam di foundri Riverwatch |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Tuangan bersih tanpa gelembung. Kru foundri bertepuk tangan. |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Bagus. Glob-glob itu disimpan dalam dua ujian terakhir.' |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | Penguasaan: Ujian Bengis |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | Ujian keempat menghantar anda ke tempat kerja terbaik di tanah ini. |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Para guru memenuhi bank. 'Tiga ujian selesai. Sekarang tunjukkan kepada kami kerja terbaik di tanah ini.' |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Para guru menunggu di mulut penjara bawah tanah. Mereka menyerahkan sebiji glob kaca. 'Glob Pertama. Ia menyimpan setiap ujian setakat ini.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Penguasaan: Ujian Purba |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Glob Pertama adalah untuk ujian-ujian itu. Yang kedua untuk apa yang tiada siapa ajarkan kepadamu.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Ganjaran daripada Ujian Bengis dan Ujian Purba. Kedua-duanya bertindan. |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Tugasan dibatalkan. Mati memakan kos yang sama seperti melangkau tugasan: {0} kredit lambung semula. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Tugasan dibatalkan. Mati memakan kos yang sama seperti melangkau tugasan, jadi baki kredit lambung semula anda ({0}) telah digunakan. |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | Tugasan dibatalkan: -{0} kredit lambung semula |
+| `Bounty Seal` | Bounty Seal | Meterai Ganjaran |
+| `Master's Writ` | Master's Writ | Watikah Guru |
+| `Fourth Option` | Fourth Option | Pilihan Keempat |
+| `Bounty Seal Locked` | Bounty Seal Locked | Meterai Ganjaran dikunci |
+| `Bounty Seal Ready` | Bounty Seal Ready | Meterai Ganjaran sedia |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | Meterai Ganjaran sudah digunakan hari ini |
+| `Master's Writ Locked` | Master's Writ Locked | Watikah Guru dikunci |
+| `Master's Writ Ready` | Master's Writ Ready | Watikah Guru sedia |
+| `Master's Writ Used Today` | Master's Writ Used Today | Watikah Guru sudah digunakan hari ini |
+| `Fourth Option Locked` | Fourth Option Locked | Pilihan Keempat dikunci |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | Pilihan Keempat dibuka |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Sekali sehari, gandakan satu tugasan dalam baris gilir anda: dua kali ganda kuantiti, atau dua kali ganda bunuhan. Meterai baharu tiba pada 00:00 UTC. Ganjaran daripada Ujian Dahsyat. |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Sekali sehari, gantikan satu tugasan dalam baris gilir anda dengan tugasan pilihan anda: mana-mana aktiviti yang tahapnya telah anda capai, di mana-mana tempat yang telah anda terokai. Watikah baharu tiba pada 00:00 UTC. Ganjaran daripada Ujian Ganas. |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% peluang tugasan keempat pada setiap baris baharu dalam baris gilir. Ganjaran daripada Ujian Bengis. |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% peluang tugasan keempat pada setiap baris baharu dalam baris gilir |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Sekali sehari, gandakan satu tugasan dalam baris gilir. Meterai baharu tiba pada 00:00 UTC. |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Sekali sehari, tulis sendiri satu tugasan dalam baris gilir. Watikah baharu tiba pada 00:00 UTC. |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | Satu meterai sehari. Meterai baharu tiba pada 00:00 UTC. |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | Satu watikah sehari. Watikah baharu tiba pada 00:00 UTC. |
+| `Double this task` | Double this task | Gandakan tugasan ini |
+| `Replace this task with one you choose` | Replace this task with one you choose | Gantikan tugasan ini dengan tugasan pilihan anda |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | Dua kali ganda bunuhan: 2x XP dan 2x rampasan |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | Dua kali ganda kuantiti: 2x XP dan 2x ganjaran |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | Mana-mana aktiviti yang tahapnya telah anda capai, di mana-mana tempat yang telah anda terokai |
+| `Daily tools` | Daily tools | Alat Harian |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | Setiap satu kembali pada 00:00 UTC. |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | Guna Meterai Ganjaran? |
+| `Seal` | Seal | Meterai |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | Digandakan oleh Meterai Ganjaran |
+| `Written with the Master's Writ` | Written with the Master's Writ | Ditulis dengan Watikah Guru |
+| `Replaces` | Replaces | Menggantikan |
+| `This replaces a lucky task.` | This replaces a lucky task. | Ini menggantikan tugasan bertuah. |
+| `This replaces a sealed task.` | This replaces a sealed task. | Ini menggantikan tugasan yang dimeterai. |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Ini menggantikan tugasan bertuah yang dimeterai. |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Jumlahnya dilambung seperti tugasan lain. Satu watikah sehari. Watikah baharu tiba pada 00:00 UTC. |
+| `Write` | Write | Tulis |
+| `Place` | Place | Tempat |
+| `Pick an activity` | Pick an activity | Pilih aktiviti |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | Belum ada apa-apa untuk ditulis. Terokai lebih banyak peta dahulu. |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | Baris gilir telah berubah. Buka watikah semula pada baris yang anda mahu. |
+| `Today's writ is already used.` | Today's writ is already used. | Watikah hari ini sudah digunakan. |
+| `That task cannot be written.` | That task cannot be written. | Tugasan itu tidak boleh ditulis. |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | Para guru meletakkan sebuah meterai emas ke dalam tangan anda. 'Sekali sehari ia menggandakan satu tugasan. Seterusnya, para guru mahu melihatmu di bawah tekanan.' |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | Para guru menyerahkan sehelai watikah kosong dan sebatang pena bulu. 'Sekali sehari, tulis sendiri tugasan itu. Glob-glob itu disimpan dalam dua ujian terakhir.' |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Para guru menunggu di mulut penjara bawah tanah dengan sebiji glob kaca dan empat keping kad di tangan. 'Glob Pertama menyimpan setiap ujian setakat ini. Kad-kad itu bermakna ada hari kau dapat satu pilihan lagi.' |
+| `Reset Seal + Writ` | Reset Seal + Writ | Set Semula Meterai + Watikah |
+| `Fourth Option Rows` | Fourth Option Rows | Baris Pilihan Keempat |

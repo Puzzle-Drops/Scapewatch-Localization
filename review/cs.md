@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Objevování |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Zelené listy uprostřed zimy. |
 | `Mine the Icevein seams` | Mine the Icevein seams | Těž žíly Icevein |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Najdeš žílu, kterou horníci vzdali. |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | „Vydržel jsi v mrazu. Teď tě mistři chtějí vidět pod tlakem.“ |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | Mistrovství: Divoká zkouška |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | Třetí zkouška vede rušným jihem, kde na každé řemeslo dohlíží mistr. |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | Setkej se s mistry v Shortha |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Proběhneš údolí dvakrát, jen abys něco dokázal. |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Odlévej ve slévárně Riverwatch |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Čistý odlitek bez bublin. Parta ze slévárny tleská. |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | „Dobře. V posledních dvou zkouškách se ukrývají sféry.“ |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | Mistrovství: Zlovolná zkouška |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | Čtvrtá zkouška tě pošle na nejlepší pracoviště v zemi. |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | V bance se tísní mistři. „Tři zkoušky za tebou. Teď nám ukaž tu nejlepší práci v zemi.“ |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Mistři čekají u vstupu do žaláře. Podají ti skleněnou sféru. „První sféra. Obsahuje všechny dosavadní zkoušky.“ |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Mistrovství: Prastará zkouška |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | „První sféra byla za zkoušky. Druhá je za to, co tě nikdo nenaučil.“ |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Odměna za Zlovolnou a Prastarou zkoušku. Obě se sčítají. |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Úkol zrušen. Smrt stojí stejně jako přeskočení úkolu: {0} kreditů na přehození. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Úkol zrušen. Smrt stojí stejně jako přeskočení úkolu, takže se utratily tvé poslední kredity na přehození ({0}). |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | Úkol zrušen: kredity na přehození -{0} |
+| `Bounty Seal` | Bounty Seal | Odměnová kokarda |
+| `Master's Writ` | Master's Writ | Listina mistrů |
+| `Fourth Option` | Fourth Option | Čtvrtá možnost |
+| `Bounty Seal Locked` | Bounty Seal Locked | Odměnová kokarda zamčena |
+| `Bounty Seal Ready` | Bounty Seal Ready | Odměnová kokarda připravena |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | Odměnová kokarda dnes použita |
+| `Master's Writ Locked` | Master's Writ Locked | Listina mistrů zamčena |
+| `Master's Writ Ready` | Master's Writ Ready | Listina mistrů připravena |
+| `Master's Writ Used Today` | Master's Writ Used Today | Listina mistrů dnes použita |
+| `Fourth Option Locked` | Fourth Option Locked | Čtvrtá možnost zamčena |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | Čtvrtá možnost odemčena |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Jednou denně zdvojnásob jeden úkol ve své frontě: dvojnásobné množství, nebo dvojnásobný počet zabití. Nová kokarda přijde v 00:00 UTC. Odměna za Hrozivou zkoušku. |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Jednou denně nahraď úkol ve své frontě úkolem podle své volby: jakákoli činnost, na kterou máš úroveň, na jakémkoli místě, které jsi objevil. Nová listina přijde v 00:00 UTC. Odměna za Divokou zkoušku. |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% šance na čtvrtý úkol v každém novém řádku fronty. Odměna za Zlovolnou zkoušku. |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% šance na čtvrtý úkol v každém novém řádku fronty |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Jednou denně zdvojnásob jeden úkol ve frontě. Nová kokarda přijde v 00:00 UTC. |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Jednou denně si sám napiš jeden úkol ve frontě. Nová listina přijde v 00:00 UTC. |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | Jedna kokarda denně. Nová přijde v 00:00 UTC. |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | Jedna listina denně. Nová přijde v 00:00 UTC. |
+| `Double this task` | Double this task | Zdvojnásobit tento úkol |
+| `Replace this task with one you choose` | Replace this task with one you choose | Nahradit tento úkol úkolem podle vlastní volby |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | Dvojnásobný počet zabití: 2x XP a 2x kořist |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | Dvojnásobné množství: 2x XP a 2x odměny |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | Jakákoli činnost, na kterou máš úroveň, na jakémkoli místě, které jsi objevil |
+| `Daily tools` | Daily tools | Denní pomůcky |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | Každá se obnoví v 00:00 UTC. |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | Použít Odměnovou kokardu? |
+| `Seal` | Seal | Připnout |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | Zdvojnásobeno Odměnovou kokardou |
+| `Written with the Master's Writ` | Written with the Master's Writ | Napsáno Listinou mistrů |
+| `Replaces` | Replaces | Nahrazuje |
+| `This replaces a lucky task.` | This replaces a lucky task. | Tímto nahradíš šťastný úkol. |
+| `This replaces a sealed task.` | This replaces a sealed task. | Tímto nahradíš zdvojnásobený úkol. |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Tímto nahradíš šťastný, zdvojnásobený úkol. |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Množství se losuje jako u každého úkolu. Jedna listina denně. Nová přijde v 00:00 UTC. |
+| `Write` | Write | Napsat |
+| `Place` | Place | Místo |
+| `Pick an activity` | Pick an activity | Vyber činnost |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | Zatím není co napsat. Nejdřív objev víc z mapy. |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | Fronta se změnila. Otevři listinu znovu na řádku, který chceš. |
+| `Today's writ is already used.` | Today's writ is already used. | Dnešní listina už je použitá. |
+| `That task cannot be written.` | That task cannot be written. | Tento úkol nelze napsat. |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | Mistři ti vtisknou do dlaně zlatou kokardu. „Jednou denně zdvojnásobí úkol. Teď tě mistři chtějí vidět pod tlakem.“ |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | Mistři ti podají prázdnou listinu a brk. „Jednou denně si úkol napíšeš sám. V posledních dvou zkouškách se ukrývají sféry.“ |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Mistři čekají u vstupu do žaláře se skleněnou sférou a čtyřmi kartami v ruce. „První sféra obsahuje všechny dosavadní zkoušky. Karty znamenají, že budeš mít některé dny o jednu volbu víc.“ |
+| `Reset Seal + Writ` | Reset Seal + Writ | Resetovat kokardu + listinu |
+| `Fourth Option Rows` | Fourth Option Rows | Řádky se čtvrtou možností |

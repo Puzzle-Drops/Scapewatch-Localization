@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | 隆冬時節，滿眼綠葉。 |
 | `Mine the Icevein seams` | Mine the Icevein seams | 在冰脈礦場開採礦脈 |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | 你找到了礦工們早已放棄的那條礦脈。 |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 「你在嚴寒中撐住了。接下來，大師們想看看你在壓力下的表現。」 |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | 精通：野蠻試煉 |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | 第三場試煉穿過繁忙的南方，那裡的每一門手藝都有大師盯著。 |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | 在短哈與大師們會面 |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | 你特地把山谷跑了兩遍，只為證明自己。 |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | 在河望鑄造廠澆鑄 |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | 澆鑄得乾淨俐落，沒有一個氣泡。鑄造廠的工人們鼓起掌來。 |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 「很好。那兩顆晶球，就放在最後兩場試煉裡。」 |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | 精通：殘暴試煉 |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | 第四場試煉將把你送往這片土地上最頂尖的工作場所。 |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | 大師們擠滿了銀行。「三場試煉已經完成。現在讓我們看看這片土地上最出色的手藝。」 |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | 大師們在地牢入口等候。他們遞給你一顆玻璃球。「第一顆晶球。它承載了至今為止的每一場試煉。」 |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | 精通：遠古試煉 |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 「第一顆晶球是為了這些試煉。第二顆，則是為了沒人教過你的東西。」 |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | 由殘暴試煉與遠古試煉獎勵。兩者效果可疊加。 |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | 差事已取消。死亡的代價與跳過差事相同：{0} 重抽點數。 |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | 差事已取消。死亡的代價與跳過差事相同，因此花掉了你剩餘的重抽點數（{0}）。 |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | 差事已取消：重抽點數 -{0} |
+| `Bounty Seal` | Bounty Seal | 獎賞封印 |
+| `Master's Writ` | Master's Writ | 大師手令 |
+| `Fourth Option` | Fourth Option | 第四選項 |
+| `Bounty Seal Locked` | Bounty Seal Locked | 獎賞封印未解鎖 |
+| `Bounty Seal Ready` | Bounty Seal Ready | 獎賞封印已就緒 |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | 獎賞封印今日已使用 |
+| `Master's Writ Locked` | Master's Writ Locked | 大師手令未解鎖 |
+| `Master's Writ Ready` | Master's Writ Ready | 大師手令已就緒 |
+| `Master's Writ Used Today` | Master's Writ Used Today | 大師手令今日已使用 |
+| `Fourth Option Locked` | Fourth Option Locked | 第四選項未解鎖 |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | 第四選項已解鎖 |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | 每天一次，將佇列中的一個差事翻倍：數量翻倍，或擊殺數翻倍。新封印於 00:00 UTC 發放。完成凶險試煉後獲得。 |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | 每天一次，將佇列中的一個差事替換為你選擇的差事：任意等級達標的活動，任意已探索的地點。新的手令於 00:00 UTC 發放。完成野蠻試煉後獲得。 |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | 佇列中每個新列有 {0}% 機率出現第四個差事。完成殘暴試煉後獲得。 |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | 佇列中每個新列有 {0}% 機率出現第四個差事 |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | 每天一次，將佇列中的一個差事翻倍。新封印於 00:00 UTC 發放。 |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | 每天一次，親自為佇列寫入一個差事。新的手令於 00:00 UTC 發放。 |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | 每天一枚封印。新封印於 00:00 UTC 發放。 |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | 每天一張手令。新的手令於 00:00 UTC 發放。 |
+| `Double this task` | Double this task | 將這個差事翻倍 |
+| `Replace this task with one you choose` | Replace this task with one you choose | 將這個差事替換為你選擇的差事 |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | 擊殺數翻倍：2 倍經驗、2 倍戰利品 |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | 數量翻倍：2 倍經驗、2 倍獎勵 |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | 任意等級達標的活動，任意已探索的地點 |
+| `Daily tools` | Daily tools | 每日工具 |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | 每項均於 00:00 UTC 恢復。 |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | 要使用獎賞封印嗎？ |
+| `Seal` | Seal | 蓋印 |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | 已由獎賞封印翻倍 |
+| `Written with the Master's Writ` | Written with the Master's Writ | 由大師手令寫入 |
+| `Replaces` | Replaces | 替換 |
+| `This replaces a lucky task.` | This replaces a lucky task. | 這將替換一個幸運差事。 |
+| `This replaces a sealed task.` | This replaces a sealed task. | 這將替換一個已翻倍的差事。 |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | 這將替換一個已翻倍的幸運差事。 |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | 數量和其他差事一樣隨機擲出。每天一張手令。新的手令於 00:00 UTC 發放。 |
+| `Write` | Write | 寫入 |
+| `Place` | Place | 地點 |
+| `Pick an activity` | Pick an activity | 選擇一項活動 |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | 尚無可寫入的差事。請先探索更多地圖。 |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | 佇列已變動。請在想要的列上重新開啟手令。 |
+| `Today's writ is already used.` | Today's writ is already used. | 今日的手令已使用。 |
+| `That task cannot be written.` | That task cannot be written. | 無法寫入該差事。 |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | 大師們把一枚金色封印塞到你手裡。「每天一次，它能讓一個差事翻倍。接下來，大師們想看看你在壓力下的表現。」 |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | 大師們遞給你一張空白手令和一支羽毛筆。「每天一次，差事由你自己來寫。那兩顆晶球，就放在最後兩場試煉裡。」 |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | 大師們帶著一顆玻璃球和四張牌，在地牢入口等候。「第一顆晶球承載了至今為止的每一場試煉。這些牌代表有些日子你會多一個選擇。」 |
+| `Reset Seal + Writ` | Reset Seal + Writ | 重置封印 + 手令 |
+| `Fourth Option Rows` | Fourth Option Rows | 第四選項列 |

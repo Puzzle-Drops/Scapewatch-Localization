@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Upptäck |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Gröna blad mitt i vintern. |
 | `Mine the Icevein seams` | Mine the Icevein seams | Bryt malm i Icevein-ådrorna |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Du hittar ådern som gruvarbetarna gav upp. |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Du höll ut i kylan. Härnäst vill mästarna se dig under press.' |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | Behärskning: Den vilda prövningen |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | Den tredje prövningen går söderut, genom livliga trakter där varje hantverk har en mästare som håller uppsikt. |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | Möt mästarna i Shortha |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Du springer genom dalen två gånger, bara för att visa att du kan. |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Gjut i Riverwatch-gjuteriet |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | En ren gjutning utan bubblor. Gjuteriets arbetslag applåderar. |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Bra. Globerna väntar i de två sista prövningarna.' |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | Behärskning: Den ondskefulla prövningen |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | Den fjärde prövningen skickar dig till de finaste arbetsplatserna i landet. |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Mästarna trängs i banken. 'Tre prövningar avklarade. Visa oss nu det finaste arbetet i landet.' |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Mästarna väntar vid fängelsehålans mynning. De ger dig en glasglob. 'Den första globen. Den rymmer varje prövning hittills.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Behärskning: Den uråldriga prövningen |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Den första globen var för prövningarna. Den andra är för det som ingen har lärt dig.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Belöning från den ondskefulla och den uråldriga prövningen. Båda staplas. |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Uppgiften avbröts. Att dö kostar lika mycket som att hoppa över uppgiften: {0} omkast-krediter. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Uppgiften avbröts. Att dö kostar lika mycket som att hoppa över uppgiften, så dina sista omkast-krediter ({0}) gick åt. |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | Uppgiften avbröts: omkast-krediter -{0} |
+| `Bounty Seal` | Bounty Seal | Belöningssigill |
+| `Master's Writ` | Master's Writ | Mästarens fullmakt |
+| `Fourth Option` | Fourth Option | Fjärde valet |
+| `Bounty Seal Locked` | Bounty Seal Locked | Belöningssigill låst |
+| `Bounty Seal Ready` | Bounty Seal Ready | Belöningssigill redo |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | Belöningssigill använt i dag |
+| `Master's Writ Locked` | Master's Writ Locked | Mästarens fullmakt låst |
+| `Master's Writ Ready` | Master's Writ Ready | Mästarens fullmakt redo |
+| `Master's Writ Used Today` | Master's Writ Used Today | Mästarens fullmakt använd i dag |
+| `Fourth Option Locked` | Fourth Option Locked | Fjärde valet låst |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | Fjärde valet upplåst |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | En gång om dagen kan du dubbla en uppgift i din kö: dubbel mängd eller dubbelt så många dråp. Ett nytt sigill kommer kl. 00:00 UTC. Belöning från den grymma prövningen. |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | En gång om dagen kan du byta ut en uppgift i din kö mot en du väljer själv: vilken aktivitet som helst som du har nivå för, på vilken upptäckt plats som helst. En ny fullmakt kommer kl. 00:00 UTC. Belöning från den vilda prövningen. |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% chans till en fjärde uppgift på varje ny rad i kön. Belöning från den ondskefulla prövningen. |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% chans till en fjärde uppgift på varje ny rad i kön |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Dubbla en uppgift i kön en gång om dagen. Ett nytt sigill kommer kl. 00:00 UTC. |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Skriv själv en uppgift i kön en gång om dagen. En ny fullmakt kommer kl. 00:00 UTC. |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | Ett sigill per dag. Ett nytt kommer kl. 00:00 UTC. |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | En fullmakt per dag. En ny kommer kl. 00:00 UTC. |
+| `Double this task` | Double this task | Dubbla denna uppgift |
+| `Replace this task with one you choose` | Replace this task with one you choose | Byt ut denna uppgift mot en du väljer |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | Dubbelt så många dråp: 2x XP och 2x byte |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | Dubbel mängd: 2x XP och 2x belöningar |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | Vilken aktivitet som helst som du har nivå för, på vilken upptäckt plats som helst |
+| `Daily tools` | Daily tools | Dagliga verktyg |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | Vart och ett kommer tillbaka kl. 00:00 UTC. |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | Vill du använda belöningssigillet? |
+| `Seal` | Seal | Försegla |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | Dubblad med belöningssigillet |
+| `Written with the Master's Writ` | Written with the Master's Writ | Skriven med mästarens fullmakt |
+| `Replaces` | Replaces | Ersätter |
+| `This replaces a lucky task.` | This replaces a lucky task. | Detta ersätter en lyckosam uppgift. |
+| `This replaces a sealed task.` | This replaces a sealed task. | Detta ersätter en förseglad uppgift. |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Detta ersätter en lyckosam, förseglad uppgift. |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Mängden slås som för vilken uppgift som helst. En fullmakt per dag. En ny kommer kl. 00:00 UTC. |
+| `Write` | Write | Skriv |
+| `Place` | Place | Plats |
+| `Pick an activity` | Pick an activity | Välj en aktivitet |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | Inget att skriva än. Upptäck mer av kartan först. |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | Kön har ändrats. Öppna fullmakten igen på raden du vill ha. |
+| `Today's writ is already used.` | Today's writ is already used. | Dagens fullmakt är redan använd. |
+| `That task cannot be written.` | That task cannot be written. | Den uppgiften kan inte skrivas. |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | Mästarna trycker ett guldsigill i din hand. 'En gång om dagen dubblar det en uppgift. Härnäst vill mästarna se dig under press.' |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | Mästarna ger dig en blank fullmakt och en fjäderpenna. 'En gång om dagen skriver du själv uppgiften. Globerna väntar i de två sista prövningarna.' |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Mästarna väntar vid fängelsehålans mynning med en glasglob och fyra kort på hand. 'Den första globen rymmer varje prövning hittills. Korten betyder att du vissa dagar får ett val till.' |
+| `Reset Seal + Writ` | Reset Seal + Writ | Återställ sigill + fullmakt |
+| `Fourth Option Rows` | Fourth Option Rows | Rader med ett fjärde val |

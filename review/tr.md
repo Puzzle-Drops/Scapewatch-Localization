@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Ozan |
 | Discover | Keşfet |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Kışın ortasında yeşil yapraklar. |
 | `Mine the Icevein seams` | Mine the Icevein seams | Icevein damarlarını kaz |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Madencilerin vazgeçtiği damarı buluyorsun. |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Soğukta dayandın. Sırada, ustalar seni baskı altında görmek istiyor.' |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | Ustalık: Vahşi İmtihan |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | Üçüncü imtihan, her zanaatı bir ustanın gözlediği kalabalık güneyden geçiyor. |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | Shortha'da ustalarla buluş |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Sırf bir şeyi kanıtlamak için vadiyi iki kez koşuyorsun. |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Riverwatch dökümhanesinde döküm yap |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Kabarcıksız, temiz bir döküm. Dökümhane ekibi alkışlıyor. |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Güzel. Küreler son iki imtihanda saklanıyor.' |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | Ustalık: Habis İmtihan |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | Dördüncü imtihan seni ülkenin en iyi iş yerlerine gönderiyor. |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Ustalar bankayı dolduruyor. 'Üç imtihan tamam. Şimdi bize ülkenin en iyi işini göster.' |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Ustalar zindanın ağzında bekliyor. Sana cam bir küre veriyorlar. 'İlk Küre. Şimdiye kadarki her imtihanı içinde taşır.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Ustalık: Kadim İmtihan |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'İlk Küre imtihanlar içindi. İkincisi, kimsenin sana öğretmedikleri için.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Habis ve Kadim imtihanlarından kazanılır. İkisi de birikir. |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Görev iptal edildi. Ölmek, görevi atlamakla aynı bedele mal olur: {0} yeniden atma kredisi. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Görev iptal edildi. Ölmek, görevi atlamakla aynı bedele mal olur, bu yüzden kalan son yeniden atma kredilerin ({0}) harcandı. |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | Görev iptal edildi: -{0} yeniden atma kredisi |
+| `Bounty Seal` | Bounty Seal | Ödül Mührü |
+| `Master's Writ` | Master's Writ | Usta Fermanı |
+| `Fourth Option` | Fourth Option | Dördüncü Seçenek |
+| `Bounty Seal Locked` | Bounty Seal Locked | Ödül Mührü kilitli |
+| `Bounty Seal Ready` | Bounty Seal Ready | Ödül Mührü hazır |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | Ödül Mührü bugün kullanıldı |
+| `Master's Writ Locked` | Master's Writ Locked | Usta Fermanı kilitli |
+| `Master's Writ Ready` | Master's Writ Ready | Usta Fermanı hazır |
+| `Master's Writ Used Today` | Master's Writ Used Today | Usta Fermanı bugün kullanıldı |
+| `Fourth Option Locked` | Fourth Option Locked | Dördüncü Seçenek kilitli |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | Dördüncü Seçenek açıldı |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Günde bir kez, sırandaki bir görevi ikiye katla: iki kat miktar ya da iki kat öldürme. Yeni mühür 00:00 UTC'de gelir. Korkunç İmtihan'dan kazanılır. |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Günde bir kez, sırandaki bir görevi seçtiğin bir görevle değiştir: seviyenin yettiği her etkinlik, keşfettiğin her yerde. Yeni ferman 00:00 UTC'de gelir. Vahşi İmtihan'dan kazanılır. |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | %{0} ihtimalle sıradaki her yeni satırda dördüncü bir görev. Habis İmtihan'dan kazanılır. |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | %{0} ihtimalle sıradaki her yeni satırda dördüncü bir görev |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Günde bir kez, sıradaki bir görevi ikiye katla. Yeni mühür 00:00 UTC'de gelir. |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Günde bir kez, sıradaki bir görevi kendin yaz. Yeni ferman 00:00 UTC'de gelir. |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | Günde bir mühür. Yenisi 00:00 UTC'de gelir. |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | Günde bir ferman. Yenisi 00:00 UTC'de gelir. |
+| `Double this task` | Double this task | Bu görevi ikiye katla |
+| `Replace this task with one you choose` | Replace this task with one you choose | Bu görevi seçtiğin bir görevle değiştir |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | İki kat öldürme: 2x XP ve 2x ganimet |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | İki kat miktar: 2x XP ve 2x ödül |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | Seviyenin yettiği her etkinlik, keşfettiğin her yerde |
+| `Daily tools` | Daily tools | Günlük araçlar |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | Her biri 00:00 UTC'de geri gelir. |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | Ödül Mührü kullanılsın mı? |
+| `Seal` | Seal | Mühürle |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | Ödül Mührü ile ikiye katlandı |
+| `Written with the Master's Writ` | Written with the Master's Writ | Usta Fermanı ile yazıldı |
+| `Replaces` | Replaces | Değiştirilecek |
+| `This replaces a lucky task.` | This replaces a lucky task. | Bu, şanslı bir görevi değiştirir. |
+| `This replaces a sealed task.` | This replaces a sealed task. | Bu, ikiye katlanmış bir görevi değiştirir. |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Bu, şanslı ve ikiye katlanmış bir görevi değiştirir. |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Miktar, her görevde olduğu gibi rastgele belirlenir. Günde bir ferman. Yenisi 00:00 UTC'de gelir. |
+| `Write` | Write | Yaz |
+| `Place` | Place | Konum |
+| `Pick an activity` | Pick an activity | Bir etkinlik seç |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | Henüz yazılacak bir şey yok. Önce haritanın daha fazlasını keşfet. |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | Sıra değişti. Fermanı istediğin satırda yeniden aç. |
+| `Today's writ is already used.` | Today's writ is already used. | Bugünün fermanı zaten kullanıldı. |
+| `That task cannot be written.` | That task cannot be written. | Bu görev yazılamaz. |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | Ustalar eline altın bir mühür sıkıştırıyor. 'Günde bir kez bir görevi ikiye katlar. Sırada, ustalar seni baskı altında görmek istiyor.' |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | Ustalar sana boş bir ferman ve bir tüy kalem veriyor. 'Günde bir kez, görevi kendin yaz. Küreler son iki imtihanda saklanıyor.' |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Ustalar zindanın ağzında, ellerinde cam bir küre ve dört kartla bekliyor. 'İlk Küre şimdiye kadarki her imtihanı içinde taşır. Kartlar, bazı günler bir seçeneğin daha olacağı anlamına gelir.' |
+| `Reset Seal + Writ` | Reset Seal + Writ | Ödül Mührünü + Fermanı sıfırla |
+| `Fourth Option Rows` | Fourth Option Rows | Dördüncü Seçenek satırları |

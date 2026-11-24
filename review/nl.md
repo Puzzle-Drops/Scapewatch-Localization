@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Ontdekken |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Groene bladeren midden in de winter. |
 | `Mine the Icevein seams` | Mine the Icevein seams | Hak erts uit de aders van Icevein |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Je vindt de ader die de mijnwerkers hadden opgegeven. |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Je hield stand in de kou. Nu willen de meesters je onder druk zien.' |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | Meesterschap: De Woeste Proef |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | De derde proef loopt door het drukke zuiden, waar bij elk ambacht een meester toekijkt. |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | Ontmoet de meesters in Shortha |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Je rent de vallei twee keer door, gewoon om iets te bewijzen. |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Giet in de Riverwatch-gieterij |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Een zuivere gietbeurt zonder luchtbellen. De gieterijploeg applaudisseert. |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Goed. De globes wachten in de laatste twee proeven.' |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | Meesterschap: De Wrede Proef |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | De vierde proef stuurt je naar de beste werkplaatsen van het land. |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | De meesters verdringen zich in de bank. 'Drie proeven gehaald. Laat ons nu het beste werk van het land zien.' |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | De meesters wachten bij de ingang van de kerker. Ze geven je een glazen globe. 'De Eerste Globe. Hij bevat elke proef tot nu toe.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Meesterschap: De Aloude Proef |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'De Eerste Globe was voor de proeven. De tweede is voor wat niemand je heeft geleerd.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Beloning uit de Wrede en de Aloude Proef. Beide zijn stapelbaar. |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Taak geannuleerd. Doodgaan kost evenveel als de taak overslaan: {0} herwerptegoed. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Taak geannuleerd. Doodgaan kost evenveel als de taak overslaan, dus je laatste herwerptegoed ({0}) is opgebruikt. |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | Taak geannuleerd: -{0} herwerptegoed |
+| `Bounty Seal` | Bounty Seal | Beloningszegel |
+| `Master's Writ` | Master's Writ | Meestersmandaat |
+| `Fourth Option` | Fourth Option | Vierde Optie |
+| `Bounty Seal Locked` | Bounty Seal Locked | Beloningszegel vergrendeld |
+| `Bounty Seal Ready` | Bounty Seal Ready | Beloningszegel klaar |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | Beloningszegel vandaag gebruikt |
+| `Master's Writ Locked` | Master's Writ Locked | Meestersmandaat vergrendeld |
+| `Master's Writ Ready` | Master's Writ Ready | Meestersmandaat klaar |
+| `Master's Writ Used Today` | Master's Writ Used Today | Meestersmandaat vandaag gebruikt |
+| `Fourth Option Locked` | Fourth Option Locked | Vierde Optie vergrendeld |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | Vierde Optie ontgrendeld |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Verdubbel één keer per dag een taak in je wachtrij: dubbele hoeveelheid of dubbel zoveel kills. Om 00:00 UTC komt er een nieuw zegel. Beloning van de Grimmige Proef. |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Vervang één keer per dag een taak in je wachtrij door een taak naar keuze: elke activiteit waarvoor je het niveau hebt, op elke plek die je hebt ontdekt. Om 00:00 UTC komt er een nieuw mandaat. Beloning van de Woeste Proef. |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% kans op een vierde taak in elke nieuwe rij van de wachtrij. Beloning van de Wrede Proef. |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% kans op een vierde taak in elke nieuwe rij van de wachtrij |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Verdubbel één keer per dag een taak in de wachtrij. Om 00:00 UTC komt er een nieuw zegel. |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Schrijf één keer per dag zelf een taak in de wachtrij. Om 00:00 UTC komt er een nieuw mandaat. |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | Eén zegel per dag. Om 00:00 UTC komt er een nieuw zegel. |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | Eén mandaat per dag. Om 00:00 UTC komt er een nieuw mandaat. |
+| `Double this task` | Double this task | Deze taak verdubbelen |
+| `Replace this task with one you choose` | Replace this task with one you choose | Deze taak vervangen door een taak naar keuze |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | Dubbel zoveel kills: 2x XP en 2x buit |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | Dubbele hoeveelheid: 2x XP en 2x beloningen |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | Elke activiteit waarvoor je het niveau hebt, op elke plek die je hebt ontdekt |
+| `Daily tools` | Daily tools | Dagelijkse hulpmiddelen |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | Ze komen elk om 00:00 UTC terug. |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | Beloningszegel gebruiken? |
+| `Seal` | Seal | Verzegelen |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | Verdubbeld door het Beloningszegel |
+| `Written with the Master's Writ` | Written with the Master's Writ | Geschreven met het Meestersmandaat |
+| `Replaces` | Replaces | Vervangt |
+| `This replaces a lucky task.` | This replaces a lucky task. | Dit vervangt een gelukkige taak. |
+| `This replaces a sealed task.` | This replaces a sealed task. | Dit vervangt een verzegelde taak. |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Dit vervangt een gelukkige, verzegelde taak. |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | De hoeveelheid wordt gerold zoals bij elke taak. Eén mandaat per dag. Om 00:00 UTC komt er een nieuw mandaat. |
+| `Write` | Write | Schrijven |
+| `Place` | Place | Plek |
+| `Pick an activity` | Pick an activity | Kies een activiteit |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | Nog niets om te schrijven. Ontdek eerst meer van de kaart. |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | De wachtrij is veranderd. Open het mandaat opnieuw op de rij die je wilt. |
+| `Today's writ is already used.` | Today's writ is already used. | Het mandaat van vandaag is al gebruikt. |
+| `That task cannot be written.` | That task cannot be written. | Die taak kan niet worden geschreven. |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | De meesters drukken je een gouden zegel in de hand. 'Eén keer per dag verdubbelt het een taak. Nu willen de meesters je onder druk zien.' |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | De meesters geven je een blanco mandaat en een ganzenveer. 'Schrijf één keer per dag zelf de taak. De globes wachten in de laatste twee proeven.' |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | De meesters wachten bij de ingang van de kerker met een glazen globe en een hand van vier kaarten. 'De Eerste Globe bevat elke proef tot nu toe. De kaarten betekenen dat je sommige dagen een keuze extra krijgt.' |
+| `Reset Seal + Writ` | Reset Seal + Writ | Zegel + mandaat resetten |
+| `Fourth Option Rows` | Fourth Option Rows | Rijen met Vierde Optie |

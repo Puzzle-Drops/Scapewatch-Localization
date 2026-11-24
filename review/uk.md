@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бардівство |
 | Discover | Дослідження |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Зелене листя посеред зими. |
 | `Mine the Icevein seams` | Mine the Icevein seams | Розробіть жили Icevein |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Ти знаходиш жилу, на яку шахтарі махнули рукою. |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | «Холод тебе не зламав. Далі майстри хочуть побачити, як ти працюєш під тиском.» |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | Майстерність: Дикий іспит |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | Третій іспит веде тебе через жвавий південь, де за кожним ремеслом стежить свій майстер. |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | Зустріньте майстрів у Shortha |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Ти пробігаєш долину двічі, просто щоб показати, що можеш. |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Зробіть виливок у ливарні Riverwatch |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Чистий виливок без жодної бульбашки. Робітники ливарні плескають. |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | «Добре. Кулі чекають на тебе в останніх двох іспитах.» |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | Майстерність: Лиховісний іспит |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | Четвертий іспит веде тебе до найкращих майстерень і угідь краю. |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Майстри юрмляться в банку. «Три іспити позаду. Тепер покажи нам найкращу роботу в цьому краї.» |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Майстри чекають біля входу до підземелля. Вони вручають тобі скляну кулю. «Перша куля. У ній усі пройдені іспити.» |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Майстерність: Стародавній іспит |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | «Перша куля була за іспити. Друга за те, чого тебе ніхто не вчив.» |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Нагорода за Лиховісний і Стародавній іспити. Ефекти обох сумуються. |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Доручення скасовано. Смерть коштує стільки ж, скільки пропуск доручення: {0} кредитів перекидання. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Доручення скасовано. Смерть коштує стільки ж, скільки пропуск доручення, тож витрачено ваші останні кредити перекидання ({0}). |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | Доручення скасовано: кредити перекидання -{0} |
+| `Bounty Seal` | Bounty Seal | Нагородна печать |
+| `Master's Writ` | Master's Writ | Грамота майстрів |
+| `Fourth Option` | Fourth Option | Четвертий варіант |
+| `Bounty Seal Locked` | Bounty Seal Locked | Нагородну печать заблоковано |
+| `Bounty Seal Ready` | Bounty Seal Ready | Нагородна печать готова |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | Нагородну печать сьогодні використано |
+| `Master's Writ Locked` | Master's Writ Locked | Грамоту майстрів заблоковано |
+| `Master's Writ Ready` | Master's Writ Ready | Грамота майстрів готова |
+| `Master's Writ Used Today` | Master's Writ Used Today | Грамоту майстрів сьогодні використано |
+| `Fourth Option Locked` | Fourth Option Locked | Четвертий варіант заблоковано |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | Четвертий варіант розблоковано |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Раз на день подвой одне доручення у своїй черзі: удвічі більша кількість або вдвічі більше вбивств. Нова печать з’являється о 00:00 UTC. Нагорода за Лютий іспит. |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Раз на день заміни доручення у своїй черзі на обране тобою: будь-яке заняття, для якого маєш рівень, у будь-якому дослідженому місці. Нова грамота з’являється о 00:00 UTC. Нагорода за Дикий іспит. |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% шансу на четверте доручення в кожному новому рядку черги. Нагорода за Лиховісний іспит. |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% шансу на четверте доручення в кожному новому рядку черги |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Раз на день подвой одне доручення з черги. Нова печать з’являється о 00:00 UTC. |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Раз на день сам впиши одне доручення в чергу. Нова грамота з’являється о 00:00 UTC. |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | Одна печать на день. Нова з’являється о 00:00 UTC. |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | Одна грамота на день. Нова з’являється о 00:00 UTC. |
+| `Double this task` | Double this task | Подвоїти це доручення |
+| `Replace this task with one you choose` | Replace this task with one you choose | Замінити це доручення на обране тобою |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | Удвічі більше вбивств: 2x досвіду і 2x здобичі |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | Удвічі більша кількість: 2x досвіду і 2x винагород |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | Будь-яке заняття, для якого маєш рівень, у будь-якому дослідженому місці |
+| `Daily tools` | Daily tools | Щоденні інструменти |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | Усі повертаються о 00:00 UTC. |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | Використати Нагородну печать? |
+| `Seal` | Seal | Скріпити |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | Подвоєно Нагородною печаттю |
+| `Written with the Master's Writ` | Written with the Master's Writ | Вписано Грамотою майстрів |
+| `Replaces` | Replaces | Замінює |
+| `This replaces a lucky task.` | This replaces a lucky task. | Це замінить щасливе доручення. |
+| `This replaces a sealed task.` | This replaces a sealed task. | Це замінить подвоєне доручення. |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Це замінить щасливе подвоєне доручення. |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Кількість визначається випадково, як і для будь-якого доручення. Одна грамота на день. Нова з’являється о 00:00 UTC. |
+| `Write` | Write | Вписати |
+| `Place` | Place | Місце |
+| `Pick an activity` | Pick an activity | Обери заняття |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | Поки що нема чого вписувати. Спершу досліди більшу частину мапи. |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | Черга змінилася. Відкрий грамоту знову на потрібному рядку. |
+| `Today's writ is already used.` | Today's writ is already used. | Сьогоднішню грамоту вже використано. |
+| `That task cannot be written.` | That task cannot be written. | Це доручення не можна вписати. |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | Майстри вкладають тобі в долоню золоту печать. «Раз на день вона подвоює доручення. Далі майстри хочуть побачити, як ти працюєш під тиском.» |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | Майстри вручають тобі чисту грамоту й перо. «Раз на день вписуй доручення сам. Кулі чекають на тебе в останніх двох іспитах.» |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Майстри чекають біля входу до підземелля зі скляною кулею і чотирма картами. «У Першій кулі всі пройдені іспити. Карти означають, що в деякі дні ти матимеш ще один варіант.» |
+| `Reset Seal + Writ` | Reset Seal + Writ | Скинути печать + грамоту |
+| `Fourth Option Rows` | Fourth Option Rows | Рядки з четвертим варіантом |

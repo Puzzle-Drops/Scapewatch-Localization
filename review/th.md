@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | กวี |
 | Discover | ค้นพบ |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | ใบไม้เขียวสดกลางฤดูหนาว |
 | `Mine the Icevein seams` | Mine the Icevein seams | ขุดสายแร่ที่ Icevein |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | คุณพบสายแร่ที่คนงานเหมืองถอดใจไปแล้ว |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'เจ้าทนความหนาวได้ดี ต่อไปเหล่าปรมาจารย์อยากเห็นเจ้าภายใต้แรงกดดัน' |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | ความเชี่ยวชาญ: บททดสอบป่าเถื่อน |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | บททดสอบที่สามพาคุณผ่านดินแดนทางใต้อันพลุกพล่าน ที่ซึ่งทุกอาชีพมีปรมาจารย์คอยจับตาดู |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | พบเหล่าปรมาจารย์ที่ Shortha |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | คุณวิ่งผ่านหุบเขาสองรอบเพียงเพื่อพิสูจน์ให้เห็น |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | เทโลหะที่โรงหล่อ Riverwatch |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | เทได้เรียบเนียนไม่มีฟองอากาศ คนงานโรงหล่อปรบมือ |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'ดี ทรงกลมถูกเก็บไว้ในบททดสอบสองบทสุดท้าย' |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | ความเชี่ยวชาญ: บททดสอบอำมหิต |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | บททดสอบที่สี่ส่งคุณไปยังสถานที่ทำงานที่ดีที่สุดในแผ่นดิน |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | เหล่าปรมาจารย์เบียดกันอยู่ในธนาคาร 'ผ่านบททดสอบมาแล้วสามบท ตอนนี้แสดงผลงานที่ดีที่สุดในแผ่นดินให้พวกเราดู' |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | เหล่าปรมาจารย์รออยู่ที่ปากทางดันเจียน พวกเขายื่นทรงกลมแก้วให้คุณ 'ทรงกลมลูกแรก มันบรรจุทุกบททดสอบที่ผ่านมา' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | ความเชี่ยวชาญ: บททดสอบโบราณ |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'ทรงกลมลูกแรกมีไว้สำหรับบททดสอบ ลูกที่สองมีไว้สำหรับสิ่งที่ไม่มีใครสอนเจ้า' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | รางวัลจากบททดสอบอำมหิตและบททดสอบโบราณ ผลซ้อนกันได้ทั้งคู่ |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | ยกเลิกภารกิจแล้ว การตายมีค่าใช้จ่ายเท่ากับการข้ามภารกิจ: เครดิตทอยใหม่ {0} |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | ยกเลิกภารกิจแล้ว การตายมีค่าใช้จ่ายเท่ากับการข้ามภารกิจ จึงใช้เครดิตทอยใหม่ที่เหลืออยู่ทั้งหมด ({0}) |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | ยกเลิกภารกิจแล้ว: เครดิตทอยใหม่ -{0} |
+| `Bounty Seal` | Bounty Seal | ตราผนึกรางวัล |
+| `Master's Writ` | Master's Writ | ลิขิตปรมาจารย์ |
+| `Fourth Option` | Fourth Option | ตัวเลือกที่สี่ |
+| `Bounty Seal Locked` | Bounty Seal Locked | ตราผนึกรางวัลถูกล็อก |
+| `Bounty Seal Ready` | Bounty Seal Ready | ตราผนึกรางวัลพร้อมใช้ |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | ตราผนึกรางวัลของวันนี้ถูกใช้แล้ว |
+| `Master's Writ Locked` | Master's Writ Locked | ลิขิตปรมาจารย์ถูกล็อก |
+| `Master's Writ Ready` | Master's Writ Ready | ลิขิตปรมาจารย์พร้อมใช้ |
+| `Master's Writ Used Today` | Master's Writ Used Today | ลิขิตปรมาจารย์ของวันนี้ถูกใช้แล้ว |
+| `Fourth Option Locked` | Fourth Option Locked | ตัวเลือกที่สี่ถูกล็อก |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | ปลดล็อกตัวเลือกที่สี่แล้ว |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | วันละครั้ง เพิ่มภารกิจหนึ่งในคิวเป็นสองเท่า: จำนวนสองเท่า หรือจำนวนสังหารสองเท่า ตราผนึกใหม่จะมาเวลา 00:00 UTC ได้รับจากบททดสอบร้ายกาจ |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | วันละครั้ง แทนที่ภารกิจหนึ่งในคิวด้วยภารกิจที่คุณเลือก: กิจกรรมใดก็ได้ที่เลเวลของคุณถึง ณ สถานที่ใดก็ได้ที่คุณค้นพบแล้ว ลิขิตใหม่จะมาเวลา 00:00 UTC ได้รับจากบททดสอบป่าเถื่อน |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | โอกาส {0}% ที่แถวใหม่แต่ละแถวในคิวจะมีภารกิจที่สี่ ได้รับจากบททดสอบอำมหิต |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | โอกาส {0}% ที่แถวใหม่แต่ละแถวในคิวจะมีภารกิจที่สี่ |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | วันละครั้ง เพิ่มภารกิจหนึ่งในคิวเป็นสองเท่า ตราผนึกใหม่จะมาเวลา 00:00 UTC |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | วันละครั้ง เขียนภารกิจหนึ่งในคิวด้วยตัวเอง ลิขิตใหม่จะมาเวลา 00:00 UTC |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | ผนึกได้วันละครั้ง ตราผนึกใหม่จะมาเวลา 00:00 UTC |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | เขียนได้วันละครั้ง ลิขิตใหม่จะมาเวลา 00:00 UTC |
+| `Double this task` | Double this task | เพิ่มภารกิจนี้เป็นสองเท่า |
+| `Replace this task with one you choose` | Replace this task with one you choose | แทนที่ภารกิจนี้ด้วยภารกิจที่คุณเลือก |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | จำนวนสังหารสองเท่า: XP 2 เท่า และของดรอป 2 เท่า |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | จำนวนสองเท่า: XP 2 เท่า และรางวัล 2 เท่า |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | กิจกรรมใดก็ได้ที่เลเวลของคุณถึง ณ สถานที่ใดก็ได้ที่คุณค้นพบแล้ว |
+| `Daily tools` | Daily tools | เครื่องมือประจำวัน |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | แต่ละอย่างจะกลับมาเวลา 00:00 UTC |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | ต้องการใช้ตราผนึกรางวัลหรือไม่? |
+| `Seal` | Seal | ผนึก |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | เพิ่มเป็นสองเท่าด้วยตราผนึกรางวัล |
+| `Written with the Master's Writ` | Written with the Master's Writ | เขียนด้วยลิขิตปรมาจารย์ |
+| `Replaces` | Replaces | แทนที่ |
+| `This replaces a lucky task.` | This replaces a lucky task. | นี่จะแทนที่ภารกิจนำโชค |
+| `This replaces a sealed task.` | This replaces a sealed task. | นี่จะแทนที่ภารกิจที่เพิ่มเป็นสองเท่าแล้ว |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | นี่จะแทนที่ภารกิจนำโชคที่เพิ่มเป็นสองเท่าแล้ว |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | จำนวนจะถูกสุ่มเหมือนภารกิจทั่วไป เขียนได้วันละครั้ง ลิขิตใหม่จะมาเวลา 00:00 UTC |
+| `Write` | Write | เขียน |
+| `Place` | Place | สถานที่ |
+| `Pick an activity` | Pick an activity | เลือกกิจกรรม |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | ยังไม่มีอะไรให้เขียน ไปสำรวจแผนที่เพิ่มก่อน |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | คิวเปลี่ยนไปแล้ว เปิดลิขิตอีกครั้งบนแถวที่คุณต้องการ |
+| `Today's writ is already used.` | Today's writ is already used. | ลิขิตของวันนี้ถูกใช้ไปแล้ว |
+| `That task cannot be written.` | That task cannot be written. | ไม่สามารถเขียนภารกิจนั้นได้ |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | เหล่าปรมาจารย์วางตราผนึกสีทองลงในมือของคุณ 'วันละครั้ง มันจะเพิ่มภารกิจหนึ่งเป็นสองเท่า ต่อไปเหล่าปรมาจารย์อยากเห็นเจ้าภายใต้แรงกดดัน' |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | เหล่าปรมาจารย์ยื่นลิขิตฉบับว่างเปล่าและปากกาขนนกให้คุณ 'วันละครั้ง จงเขียนภารกิจด้วยตัวเจ้าเอง ทรงกลมถูกเก็บไว้ในบททดสอบสองบทสุดท้าย' |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | เหล่าปรมาจารย์รออยู่ที่ปากทางดันเจียนพร้อมทรงกลมแก้วและไพ่สี่ใบ 'ทรงกลมลูกแรกบรรจุทุกบททดสอบที่ผ่านมา ไพ่เหล่านี้หมายความว่าบางวันเจ้าจะได้ตัวเลือกเพิ่มอีกหนึ่งตัว' |
+| `Reset Seal + Writ` | Reset Seal + Writ | รีเซ็ตตราผนึก + ลิขิต |
+| `Fourth Option Rows` | Fourth Option Rows | แถวตัวเลือกที่สี่ |

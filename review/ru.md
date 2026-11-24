@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бард |
 | Discover | Открытие |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Зелёные листья посреди зимы. |
 | `Mine the Icevein seams` | Mine the Icevein seams | Разработайте жилы Icevein |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Вы находите жилу, на которую шахтёры махнули рукой. |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | «Холод тебя не сломил. Дальше мастера хотят посмотреть на тебя под давлением». |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | Мастерство: Свирепое испытание |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | Третье испытание ведёт вас через оживлённый юг, где за каждым ремеслом присматривает мастер. |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | Встретьтесь с мастерами в Shortha |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Вы пробегаете долину дважды, просто чтобы показать, что можете. |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Сделайте отливку в литейной Riverwatch |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Чистая отливка без единого пузырька. Рабочие литейной аплодируют. |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | «Хорошо. Шары ждут тебя в последних двух испытаниях». |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | Мастерство: Жестокое испытание |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | Четвёртое испытание ведёт вас в лучшие мастерские и угодья этих земель. |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Мастера толпятся в банке. «Три испытания позади. Теперь покажи нам лучшую работу в этих землях». |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Мастера ждут у входа в подземелье. Они вручают вам стеклянный шар. «Первый шар. В нём все пройденные испытания». |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Мастерство: Древнее испытание |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | «Первый шар был за испытания. Второй — за то, чему тебя никто не учил». |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Награда за Жестокое и Древнее испытания. Эффекты обоих суммируются. |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Задача отменена. Смерть стоит столько же, сколько пропуск задачи: {0} кредитов переброса. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Задача отменена. Смерть стоит столько же, сколько пропуск задачи, поэтому потрачены ваши последние кредиты переброса ({0}). |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | Задача отменена: кредиты переброса -{0} |
+| `Bounty Seal` | Bounty Seal | Наградное клеймо |
+| `Master's Writ` | Master's Writ | Грамота мастера |
+| `Fourth Option` | Fourth Option | Четвёртый вариант |
+| `Bounty Seal Locked` | Bounty Seal Locked | Наградное клеймо заблокировано |
+| `Bounty Seal Ready` | Bounty Seal Ready | Наградное клеймо готово |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | Наградное клеймо сегодня использовано |
+| `Master's Writ Locked` | Master's Writ Locked | Грамота мастера заблокирована |
+| `Master's Writ Ready` | Master's Writ Ready | Грамота мастера готова |
+| `Master's Writ Used Today` | Master's Writ Used Today | Грамота мастера сегодня использована |
+| `Fourth Option Locked` | Fourth Option Locked | Четвёртый вариант заблокирован |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | Четвёртый вариант разблокирован |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Раз в день можно удвоить одну задачу в очереди: двойное количество или двойное число убийств. Новое клеймо появляется в 00:00 UTC. Награда за Зловещее испытание. |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Раз в день можно заменить задачу в очереди на выбранную вами: любое занятие, для которого хватает уровня, в любом открытом месте. Новая грамота появляется в 00:00 UTC. Награда за Свирепое испытание. |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | Шанс {0}% на четвёртую задачу в каждой новой строке очереди. Награда за Жестокое испытание. |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | Шанс {0}% на четвёртую задачу в каждой новой строке очереди |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Раз в день можно удвоить одну задачу в очереди. Новое клеймо появляется в 00:00 UTC. |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Раз в день можно самостоятельно вписать одну задачу в очередь. Новая грамота появляется в 00:00 UTC. |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | Одно клеймо в день. Новое появляется в 00:00 UTC. |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | Одна грамота в день. Новая появляется в 00:00 UTC. |
+| `Double this task` | Double this task | Удвоить эту задачу |
+| `Replace this task with one you choose` | Replace this task with one you choose | Заменить эту задачу на выбранную вами |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | Двойное число убийств: 2x XP и 2x добычи |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | Двойное количество: 2x XP и 2x награды |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | Любое занятие, для которого хватает уровня, в любом открытом месте |
+| `Daily tools` | Daily tools | Ежедневные инструменты |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | Каждый возвращается в 00:00 UTC. |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | Использовать Наградное клеймо? |
+| `Seal` | Seal | Удвоить |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | Удвоена Наградным клеймом |
+| `Written with the Master's Writ` | Written with the Master's Writ | Вписана по Грамоте мастера |
+| `Replaces` | Replaces | Заменяет |
+| `This replaces a lucky task.` | This replaces a lucky task. | Это заменит удачную задачу. |
+| `This replaces a sealed task.` | This replaces a sealed task. | Это заменит задачу с клеймом. |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Это заменит удачную задачу с клеймом. |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Количество выпадает случайно, как у любой задачи. Одна грамота в день. Новая появляется в 00:00 UTC. |
+| `Write` | Write | Вписать |
+| `Place` | Place | Место |
+| `Pick an activity` | Pick an activity | Выберите занятие |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | Пока нечего вписать. Сначала откройте больше карты. |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | Очередь изменилась. Откройте грамоту снова на нужной строке. |
+| `Today's writ is already used.` | Today's writ is already used. | Сегодняшняя грамота уже использована. |
+| `That task cannot be written.` | That task cannot be written. | Эту задачу нельзя вписать. |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | Мастера вкладывают вам в руку золотое клеймо. «Раз в день оно удваивает задачу. Дальше мастера хотят посмотреть на тебя под давлением». |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | Мастера вручают вам чистую грамоту и перо. «Раз в день впиши задачу своей рукой. Шары ждут тебя в последних двух испытаниях». |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Мастера ждут у входа в подземелье со стеклянным шаром и четырьмя картами в руке. «В Первом шаре все пройденные испытания. Карты значат, что в иные дни у тебя будет на один выбор больше». |
+| `Reset Seal + Writ` | Reset Seal + Writ | Сбросить клеймо + грамоту |
+| `Fourth Option Rows` | Fourth Option Rows | Строки с четвёртым вариантом |

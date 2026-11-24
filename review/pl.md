@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Pieśń |
 | Discover | Odkrywanie |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Zielone liście w środku zimy. |
 | `Mine the Icevein seams` | Mine the Icevein seams | Wydobywaj z żył Icevein |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Znajdujesz żyłę, z której zrezygnowali górnicy. |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | „Wytrzymałeś na mrozie. Teraz mistrzowie chcą zobaczyć cię pod presją.” |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | Mistrzostwo: Dzika Próba |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | Trzecia próba wiedzie przez gwarne południe, gdzie każdego rzemiosła pilnuje mistrz. |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | Spotkaj się z mistrzami w Shortha |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Przebiegasz dolinę dwa razy, tylko żeby coś udowodnić. |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Odlewaj w odlewni Riverwatch |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Czysty odlew bez pęcherzy. Załoga odlewni bije brawo. |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | „Dobrze. Sfery czekają w dwóch ostatnich próbach.” |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | Mistrzostwo: Złowroga Próba |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | Czwarta próba prowadzi cię do najlepszych miejsc pracy w krainie. |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Mistrzowie tłoczą się w banku. „Trzy próby za tobą. Teraz pokaż nam najlepszą robotę w krainie.” |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Mistrzowie czekają u wejścia do lochu. Wręczają ci szklaną sferę. „Pierwsza Sfera. Mieści w sobie wszystkie dotychczasowe próby.” |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Mistrzostwo: Pradawna Próba |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | „Pierwsza Sfera była za próby. Druga jest za to, czego nikt cię nie nauczył.” |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Nagroda za Złowrogą i Pradawną Próbę. Obie się kumulują. |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Zadanie anulowane. Śmierć kosztuje tyle, co pominięcie zadania: {0} kredytów przelosowania. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Zadanie anulowane. Śmierć kosztuje tyle, co pominięcie zadania, więc wydano twoje ostatnie kredyty przelosowania ({0}). |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | Zadanie anulowane: kredyty przelosowania -{0} |
+| `Bounty Seal` | Bounty Seal | Sygnet nagrody |
+| `Master's Writ` | Master's Writ | Glejt mistrza |
+| `Fourth Option` | Fourth Option | Czwarta opcja |
+| `Bounty Seal Locked` | Bounty Seal Locked | Sygnet nagrody zablokowany |
+| `Bounty Seal Ready` | Bounty Seal Ready | Sygnet nagrody gotowy |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | Sygnet nagrody użyty dzisiaj |
+| `Master's Writ Locked` | Master's Writ Locked | Glejt mistrza zablokowany |
+| `Master's Writ Ready` | Master's Writ Ready | Glejt mistrza gotowy |
+| `Master's Writ Used Today` | Master's Writ Used Today | Glejt mistrza użyty dzisiaj |
+| `Fourth Option Locked` | Fourth Option Locked | Czwarta opcja zablokowana |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | Czwarta opcja odblokowana |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Raz dziennie podwój jedno zadanie w kolejce: podwójna ilość albo podwójna liczba zabójstw. Nowy sygnet pojawia się o 00:00 UTC. Nagroda za Groźną Próbę. |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Raz dziennie zastąp zadanie w kolejce wybranym przez siebie: dowolna aktywność, na którą masz poziom, w dowolnym odkrytym miejscu. Nowy glejt pojawia się o 00:00 UTC. Nagroda za Dziką Próbę. |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% szansy na czwarte zadanie w każdym nowym wierszu kolejki. Nagroda za Złowrogą Próbę. |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% szansy na czwarte zadanie w każdym nowym wierszu kolejki |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Raz dziennie podwój jedno zadanie z kolejki. Nowy sygnet pojawia się o 00:00 UTC. |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Raz dziennie samodzielnie wpisz jedno zadanie do kolejki. Nowy glejt pojawia się o 00:00 UTC. |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | Jeden sygnet dziennie. Nowy pojawia się o 00:00 UTC. |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | Jeden glejt dziennie. Nowy pojawia się o 00:00 UTC. |
+| `Double this task` | Double this task | Podwój to zadanie |
+| `Replace this task with one you choose` | Replace this task with one you choose | Zastąp to zadanie wybranym przez siebie |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | Podwójna liczba zabójstw: 2x XP i 2x łupy |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | Podwójna ilość: 2x XP i 2x nagrody |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | Dowolna aktywność, na którą masz poziom, w dowolnym odkrytym miejscu |
+| `Daily tools` | Daily tools | Codzienne narzędzia |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | Każde wraca o 00:00 UTC. |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | Użyć Sygnetu nagrody? |
+| `Seal` | Seal | Odciśnij |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | Podwojone Sygnetem nagrody |
+| `Written with the Master's Writ` | Written with the Master's Writ | Wpisane Glejtem mistrza |
+| `Replaces` | Replaces | Zastępuje |
+| `This replaces a lucky task.` | This replaces a lucky task. | To zastąpi szczęśliwe zadanie. |
+| `This replaces a sealed task.` | This replaces a sealed task. | To zastąpi zadanie z sygnetem. |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | To zastąpi szczęśliwe zadanie z sygnetem. |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Ilość jest losowana jak w każdym zadaniu. Jeden glejt dziennie. Nowy pojawia się o 00:00 UTC. |
+| `Write` | Write | Wpisz |
+| `Place` | Place | Miejsce |
+| `Pick an activity` | Pick an activity | Wybierz aktywność |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | Na razie nie ma czego wpisać. Najpierw odkryj więcej mapy. |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | Kolejka się zmieniła. Otwórz glejt ponownie w wybranym wierszu. |
+| `Today's writ is already used.` | Today's writ is already used. | Dzisiejszy glejt został już użyty. |
+| `That task cannot be written.` | That task cannot be written. | Tego zadania nie można wpisać. |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | Mistrzowie wciskają ci do ręki złoty sygnet. „Raz dziennie podwaja jedno zadanie. Teraz mistrzowie chcą zobaczyć cię pod presją.” |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | Mistrzowie wręczają ci pusty glejt i pióro. „Raz dziennie wpisz zadanie samodzielnie. Sfery czekają w dwóch ostatnich próbach.” |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Mistrzowie czekają u wejścia do lochu ze szklaną sferą i czterema kartami w dłoni. „Pierwsza Sfera mieści w sobie wszystkie dotychczasowe próby. Karty sprawią, że niektórych dni dostaniesz jeden wybór więcej.” |
+| `Reset Seal + Writ` | Reset Seal + Writ | Zresetuj sygnet + glejt |
+| `Fourth Option Rows` | Fourth Option Rows | Wiersze z czwartą opcją |

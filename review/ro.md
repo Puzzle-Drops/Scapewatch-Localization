@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cântă |
 | Discover | Descoperire |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Frunze verzi în miezul iernii. |
 | `Mine the Icevein seams` | Mine the Icevein seams | Minează filoanele din Icevein |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Găsești filonul la care minerii renunțaseră. |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Ai rezistat în frig. Acum maeștrii vor să te vadă sub presiune.' |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | Măiestrie: Proba sălbatică |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | A treia probă străbate sudul aglomerat, unde fiecare meserie are un maestru care te urmărește. |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | Întâlnește-te cu maeștrii în Shortha |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Alergi prin vale de două ori, doar ca să fie clar. |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Toarnă metal la turnătoria din Riverwatch |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | O turnare curată, fără bule. Echipa turnătoriei aplaudă. |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Bine. Ultimele două probe sunt cele în care se păstrează sferele.' |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | Măiestrie: Proba nemiloasă |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | A patra probă te trimite în cele mai bune locuri de muncă din ținut. |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Maeștrii se înghesuie în bancă. 'Trei probe încheiate. Acum arată-ne cea mai bună muncă din ținut.' |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Maeștrii așteaptă la gura temniței. Îți dau o sferă de sticlă. 'Prima sferă. Cuprinde fiecare probă de până acum.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Măiestrie: Proba străveche |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Prima sferă a fost pentru probe. A doua este pentru ce nu te-a învățat nimeni.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Recompensă din Proba nemiloasă și Proba străveche. Ambele se cumulează. |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Sarcină anulată. Moartea costă cât săritul peste sarcină: {0} credite de rezvârlire. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Sarcină anulată. Moartea costă cât săritul peste sarcină, așa că ultimele tale credite de rezvârlire ({0}) au fost cheltuite. |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | Sarcină anulată: credite de rezvârlire -{0} |
+| `Bounty Seal` | Bounty Seal | Pecetea răsplății |
+| `Master's Writ` | Master's Writ | Hrisovul maestrului |
+| `Fourth Option` | Fourth Option | A patra opțiune |
+| `Bounty Seal Locked` | Bounty Seal Locked | Pecetea răsplății blocată |
+| `Bounty Seal Ready` | Bounty Seal Ready | Pecetea răsplății disponibilă |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | Pecetea răsplății folosită astăzi |
+| `Master's Writ Locked` | Master's Writ Locked | Hrisovul maestrului blocat |
+| `Master's Writ Ready` | Master's Writ Ready | Hrisovul maestrului disponibil |
+| `Master's Writ Used Today` | Master's Writ Used Today | Hrisovul maestrului folosit astăzi |
+| `Fourth Option Locked` | Fourth Option Locked | A patra opțiune blocată |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | A patra opțiune deblocată |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | O dată pe zi, dublează o sarcină din coada ta: cantitate dublă sau ucideri duble. O pecete nouă apare la 00:00 UTC. Recompensă pentru Proba cumplită. |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | O dată pe zi, înlocuiește o sarcină din coada ta cu una aleasă de tine: orice activitate pentru care ai nivelul, în orice loc pe care l-ai descoperit. Un hrisov nou apare la 00:00 UTC. Recompensă pentru Proba sălbatică. |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% șanse pentru o a patra sarcină pe fiecare rând nou din coadă. Recompensă pentru Proba nemiloasă. |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% șanse pentru o a patra sarcină pe fiecare rând nou din coadă |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | O dată pe zi, dublează o sarcină din coadă. O pecete nouă apare la 00:00 UTC. |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | O dată pe zi, scrie chiar tu o sarcină din coadă. Un hrisov nou apare la 00:00 UTC. |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | O pecete pe zi. Una nouă apare la 00:00 UTC. |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | Un hrisov pe zi. Unul nou apare la 00:00 UTC. |
+| `Double this task` | Double this task | Dublează această sarcină |
+| `Replace this task with one you choose` | Replace this task with one you choose | Înlocuiește această sarcină cu una aleasă de tine |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | Ucideri duble: 2x XP și 2x pradă |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | Cantitate dublă: 2x XP și 2x recompense |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | Orice activitate pentru care ai nivelul, în orice loc pe care l-ai descoperit |
+| `Daily tools` | Daily tools | Unelte zilnice |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | Fiecare revine la 00:00 UTC. |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | Folosești Pecetea răsplății? |
+| `Seal` | Seal | Pecetluiește |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | Dublată de Pecetea răsplății |
+| `Written with the Master's Writ` | Written with the Master's Writ | Scrisă cu Hrisovul maestrului |
+| `Replaces` | Replaces | Înlocuiește |
+| `This replaces a lucky task.` | This replaces a lucky task. | Aceasta înlocuiește o sarcină norocoasă. |
+| `This replaces a sealed task.` | This replaces a sealed task. | Aceasta înlocuiește o sarcină pecetluită. |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Aceasta înlocuiește o sarcină norocoasă și pecetluită. |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Cantitatea se generează ca la orice sarcină. Un hrisov pe zi. Unul nou apare la 00:00 UTC. |
+| `Write` | Write | Scrie |
+| `Place` | Place | Loc |
+| `Pick an activity` | Pick an activity | Alege o activitate |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | Nimic de scris încă. Descoperă mai întâi mai mult din hartă. |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | Coada s-a schimbat. Deschide din nou hrisovul pe rândul dorit. |
+| `Today's writ is already used.` | Today's writ is already used. | Hrisovul de azi a fost deja folosit. |
+| `That task cannot be written.` | That task cannot be written. | Sarcina aceasta nu poate fi scrisă. |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | Maeștrii îți pun în palmă o pecete de aur. 'O dată pe zi, dublează o sarcină. Acum maeștrii vor să te vadă sub presiune.' |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | Maeștrii îți dau un hrisov nescris și o pană de scris. 'O dată pe zi, scrie chiar tu sarcina. Ultimele două probe sunt cele în care se păstrează sferele.' |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Maeștrii așteaptă la gura temniței cu o sferă de sticlă și patru cărți în mână. 'Prima sferă cuprinde fiecare probă de până acum. Cărțile înseamnă că în unele zile ai o alegere în plus.' |
+| `Reset Seal + Writ` | Reset Seal + Writ | Resetează Pecetea + Hrisovul |
+| `Fourth Option Rows` | Fourth Option Rows | Rânduri cu a patra opțiune |

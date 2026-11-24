@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bárd |
 | Discover | Felfedezés |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Zöld levelek a tél közepén. |
 | `Mine the Icevein seams` | Mine the Icevein seams | Bányászd Icevein ereit |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Megtalálod az eret, amelyet a bányászok feladtak. |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Kitartottál a hidegben. Most a mesterek nyomás alatt akarnak látni.' |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | Mesterség: A vad próba |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | A harmadik próba a nyüzsgő délen át vezet, ahol minden szakmát egy mester figyel. |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | Találkozz a mesterekkel Shorthában |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Kétszer is végigfutod a völgyet, csak hogy bebizonyíts valamit. |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Önts Riverwatch öntödéjében |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Tiszta öntés, buborékok nélkül. Az öntöde legénysége tapsol. |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Jó. A glóbuszokat az utolsó két próbánál őrzik.' |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | Mesterség: A kegyetlen próba |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | A negyedik próba a föld legjobb munkahelyeire küld. |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | A mesterek tolonganak a bankban. 'Három próba megvan. Most mutasd meg nekünk a föld legjobb munkáját.' |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | A mesterek a tömlöc bejáratánál várnak. Átnyújtanak egy üvegből készült glóbuszt. 'Az első glóbusz. Minden eddigi próbát magában hordoz.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Mesterség: Az ősi próba |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Az első glóbusz a próbákért járt. A második azért jár, amit senki sem tanított meg neked.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | A kegyetlen és az ősi próba jutalma. Mindkettő halmozódik. |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Feladat törölve. A halál ugyanannyiba kerül, mint a feladat kihagyása: {0} újradobási kredit. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Feladat törölve. A halál ugyanannyiba kerül, mint a feladat kihagyása, így elfogytak a maradék újradobási kreditjeid ({0}). |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | Feladat törölve: -{0} újradobási kredit |
+| `Bounty Seal` | Bounty Seal | Jutalompecsét |
+| `Master's Writ` | Master's Writ | Mesterlevél |
+| `Fourth Option` | Fourth Option | Negyedik lehetőség |
+| `Bounty Seal Locked` | Bounty Seal Locked | Jutalompecsét zárolva |
+| `Bounty Seal Ready` | Bounty Seal Ready | Jutalompecsét használható |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | Jutalompecsét ma már felhasználva |
+| `Master's Writ Locked` | Master's Writ Locked | Mesterlevél zárolva |
+| `Master's Writ Ready` | Master's Writ Ready | Mesterlevél használható |
+| `Master's Writ Used Today` | Master's Writ Used Today | Mesterlevél ma már felhasználva |
+| `Fourth Option Locked` | Fourth Option Locked | Negyedik lehetőség zárolva |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | Negyedik lehetőség feloldva |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Naponta egyszer duplázd meg a feladatsorod egyik feladatát: dupla mennyiség vagy dupla ölésszám. Új Jutalompecsétet 00:00 UTC-kor kapsz. A baljós próba jutalma. |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Naponta egyszer cseréld le a feladatsorod egyik feladatát egy általad választottra: bármely tevékenység, amelyhez megvan a szinted, bármely felfedezett helyen. Új Mesterlevelet 00:00 UTC-kor kapsz. A vad próba jutalma. |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% esély egy negyedik feladatra a feladatsor minden új sorában. A kegyetlen próba jutalma. |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% esély egy negyedik feladatra a feladatsor minden új sorában |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Naponta egyszer duplázd meg a sor egyik feladatát. Új Jutalompecsétet 00:00 UTC-kor kapsz. |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Naponta egyszer te magad írhatod meg a sor egyik feladatát. Új Mesterlevelet 00:00 UTC-kor kapsz. |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | Naponta egy Jutalompecsét. Újat 00:00 UTC-kor kapsz. |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | Naponta egy Mesterlevél. Újat 00:00 UTC-kor kapsz. |
+| `Double this task` | Double this task | Duplázd meg ezt a feladatot |
+| `Replace this task with one you choose` | Replace this task with one you choose | Cseréld le ezt a feladatot egy általad választottra |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | Dupla ölésszám: 2x XP és 2x zsákmány |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | Dupla mennyiség: 2x XP és 2x jutalom |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | Bármely tevékenység, amelyhez megvan a szinted, bármely felfedezett helyen |
+| `Daily tools` | Daily tools | Napi eszközök |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | Mindegyik 00:00 UTC-kor újra használható. |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | Felhasználod a Jutalompecsétet? |
+| `Seal` | Seal | Pecsételés |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | Jutalompecséttel megduplázva |
+| `Written with the Master's Writ` | Written with the Master's Writ | Mesterlevéllel beírva |
+| `Replaces` | Replaces | Lecserélendő |
+| `This replaces a lucky task.` | This replaces a lucky task. | Ez egy szerencsés feladatot cserél le. |
+| `This replaces a sealed task.` | This replaces a sealed task. | Ez egy megduplázott feladatot cserél le. |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Ez egy szerencsés, megduplázott feladatot cserél le. |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | A mennyiséget a játék sorsolja, mint bármely feladatnál. Naponta egy Mesterlevél. Újat 00:00 UTC-kor kapsz. |
+| `Write` | Write | Beírás |
+| `Place` | Place | Hely |
+| `Pick an activity` | Pick an activity | Válassz egy tevékenységet |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | Még nincs mit beírni. Előbb fedezz fel többet a térképből. |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | A feladatsor megváltozott. Nyisd meg újra a Mesterlevelet a kívánt sornál. |
+| `Today's writ is already used.` | Today's writ is already used. | A mai Mesterlevél már fel van használva. |
+| `That task cannot be written.` | That task cannot be written. | Ezt a feladatot nem lehet beírni. |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | A mesterek egy aranypecsétet nyomnak a kezedbe. 'Naponta egyszer megdupláz egy feladatot. Most a mesterek nyomás alatt akarnak látni.' |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | A mesterek átnyújtanak egy üres mesterlevelet és egy lúdtollat. 'Naponta egyszer írd meg magad a feladatot. A glóbuszokat az utolsó két próbánál őrzik.' |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | A mesterek a tömlöc bejáratánál várnak egy üvegből készült glóbusszal és négy kártyalappal. 'Az első glóbusz minden eddigi próbát magában hordoz. A kártyák azt jelentik, hogy egyes napokon eggyel több lehetőséged lesz.' |
+| `Reset Seal + Writ` | Reset Seal + Writ | Jutalompecsét + Mesterlevél visszaállítása |
+| `Fourth Option Rows` | Fourth Option Rows | Sorok negyedik lehetőséggel |

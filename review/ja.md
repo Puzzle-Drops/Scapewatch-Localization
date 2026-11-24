@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | 真冬のさなかに、青々とした葉。 |
 | `Mine the Icevein seams` | Mine the Icevein seams | アイスヴェインの鉱脈を掘る |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | 鉱夫たちが見限った鉱脈を、あなたが見つけ出す。 |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 「寒さの中でよく持ちこたえたな。次は、重圧の中での君を見せてもらおう」 |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | 熟達：獰猛の試練 |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | 第三の試練は賑やかな南を巡る。そこでは、どの仕事にも達人の目が光っている。 |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | ショーサで達人たちに会う |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | わざわざ谷を二度走り抜けて、力を見せつける。 |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | リバーウォッチの鋳造所で鋳込む |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | 気泡一つないきれいな鋳込み。鋳造所の職人たちが拍手する。 |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 「よし。天球が待っているのは、最後の二つの試練だ」 |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | 熟達：邪悪の試練 |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | 第四の試練では、この地で最高の仕事場を巡ることになる。 |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | 達人たちが銀行に詰めかける。「三つの試練を終えたな。では、この地で最高の仕事を見せてくれ」 |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | 達人たちがダンジョンの入口で待っている。彼らはあなたにガラスの天球を手渡す。「第一の天球だ。これまでのすべての試練が込められている」 |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | 熟達：古代の試練 |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 「第一の天球は、試練のためのものだった。第二の天球は、誰も君に教えなかったもののためだ」 |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | 邪悪の試練と古代の試練の報酬。両方の効果が重複する。 |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | タスクが取り消されました。死亡はスキップと同じコストです：リロールクレジット {0}。 |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | タスクが取り消されました。死亡はスキップと同じコストのため、残りのリロールクレジット（{0}）を消費しました。 |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | タスク取り消し：リロールクレジット -{0} |
+| `Bounty Seal` | Bounty Seal | 褒賞の印章 |
+| `Master's Writ` | Master's Writ | 達人の書状 |
+| `Fourth Option` | Fourth Option | 第四の選択肢 |
+| `Bounty Seal Locked` | Bounty Seal Locked | 褒賞の印章 未解放 |
+| `Bounty Seal Ready` | Bounty Seal Ready | 褒賞の印章 使用可能 |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | 褒賞の印章 本日使用済み |
+| `Master's Writ Locked` | Master's Writ Locked | 達人の書状 未解放 |
+| `Master's Writ Ready` | Master's Writ Ready | 達人の書状 使用可能 |
+| `Master's Writ Used Today` | Master's Writ Used Today | 達人の書状 本日使用済み |
+| `Fourth Option Locked` | Fourth Option Locked | 第四の選択肢 未解放 |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | 第四の選択肢 解放済み |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | 1日1回、キュー内のタスク1つを2倍にできます：数量が2倍、または討伐数が2倍。00:00 UTC に印章が補充されます。凶兆の試練の報酬です。 |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | 1日1回、キュー内のタスク1つを好きなタスクに置き換えられます：レベルを満たしたどのアクティビティでも、発見済みのどの場所でも選べます。00:00 UTC に書状が補充されます。獰猛の試練の報酬です。 |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | 新しいキュー行ごとに{0}%の確率で4つ目のタスクが出現。邪悪の試練の報酬です。 |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | 新しいキュー行ごとに{0}%の確率で4つ目のタスクが出現 |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | 1日1回、キューのタスク1つを2倍にする。00:00 UTC に印章が補充される。 |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | 1日1回、キューのタスク1つを自分で書き込む。00:00 UTC に書状が補充される。 |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | 印章は1日1回まで。00:00 UTC に補充されます。 |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | 書状は1日1回まで。00:00 UTC に補充されます。 |
+| `Double this task` | Double this task | このタスクを2倍にする |
+| `Replace this task with one you choose` | Replace this task with one you choose | このタスクを好きなタスクに置き換える |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | 討伐数が2倍：XP 2倍、戦利品 2倍 |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | 数量が2倍：XP 2倍、報酬 2倍 |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | レベルを満たしたどのアクティビティでも、発見済みのどの場所でも |
+| `Daily tools` | Daily tools | デイリーツール |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | いずれも 00:00 UTC に補充されます。 |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | 褒賞の印章を使いますか？ |
+| `Seal` | Seal | 押印 |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | 褒賞の印章で2倍化済み |
+| `Written with the Master's Writ` | Written with the Master's Writ | 達人の書状で書き込み済み |
+| `Replaces` | Replaces | 置き換え対象 |
+| `This replaces a lucky task.` | This replaces a lucky task. | 幸運タスクを置き換えます。 |
+| `This replaces a sealed task.` | This replaces a sealed task. | 印章で2倍化したタスクを置き換えます。 |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | 幸運かつ印章で2倍化したタスクを置き換えます。 |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | 数量は通常のタスクと同じくランダムに決まります。書状は1日1回まで。00:00 UTC に補充されます。 |
+| `Write` | Write | 書く |
+| `Place` | Place | 場所 |
+| `Pick an activity` | Pick an activity | アクティビティを選択 |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | まだ書けるタスクがありません。先にマップをもっと探索しましょう。 |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | キューが変わりました。目的の行で書状をもう一度開いてください。 |
+| `Today's writ is already used.` | Today's writ is already used. | 本日の書状は使用済みです。 |
+| `That task cannot be written.` | That task cannot be written. | そのタスクは書き込めません。 |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | 達人たちがあなたの手に金の印章を握らせる。「1日に1度、これでタスクが2倍になる。次は、重圧の中での君を見せてもらおう」 |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | 達人たちが白紙の書状と羽根ペンを差し出す。「1日に1度、タスクを自分で書き込むがいい。天球が待っているのは、最後の二つの試練だ」 |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | 達人たちがガラスの天球と4枚のカードを手に、ダンジョンの入口で待っている。「第一の天球には、これまでのすべての試練が込められている。カードは、選択肢が一つ増える日があるという意味だ」 |
+| `Reset Seal + Writ` | Reset Seal + Writ | 印章＋書状をリセット |
+| `Fourth Option Rows` | Fourth Option Rows | 第四の選択肢の行 |

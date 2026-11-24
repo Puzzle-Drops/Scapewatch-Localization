@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cantare |
 | Discover | Scoprire |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Foglie verdi in pieno inverno. |
 | `Mine the Icevein seams` | Mine the Icevein seams | Scava nei filoni di Icevein |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Trovi il filone a cui i minatori avevano rinunciato. |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Hai retto al freddo. Ora i maestri vogliono vederti sotto pressione.' |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | Maestria: La Prova Selvaggia |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | La terza prova attraversa il sud affollato, dove ogni mestiere ha un maestro che osserva. |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | Incontra i maestri a Shortha |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Percorri la valle due volte, giusto per mettere in chiaro le cose. |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Cola il metallo alla fonderia di Riverwatch |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Una colata pulita, senza bolle. Gli operai della fonderia applaudono. |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Bene. È nelle ultime due prove che si custodiscono i globi.' |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | Maestria: La Prova Sinistra |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | La quarta prova ti manda nei luoghi di lavoro migliori della terra. |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | I maestri affollano la banca. 'Tre prove superate. Ora mostraci il lavoro migliore della terra.' |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | I maestri attendono all'ingresso del sotterraneo. Ti consegnano un globo di vetro. 'Il Primo Globo. Racchiude tutte le prove affrontate finora.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Maestria: La Prova Antica |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Il Primo Globo era per le prove. Il secondo è per ciò che nessuno ti ha insegnato.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Ricompensa della Prova Sinistra e della Prova Antica. Si cumulano entrambi. |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Compito annullato. Morire costa quanto saltare il compito: {0} crediti rilancio. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Compito annullato. Morire costa quanto saltare il compito, quindi sono stati spesi i tuoi ultimi crediti rilancio ({0}). |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | Compito annullato: crediti rilancio -{0} |
+| `Bounty Seal` | Bounty Seal | Sigillo del Premio |
+| `Master's Writ` | Master's Writ | Mandato del Maestro |
+| `Fourth Option` | Fourth Option | Quarta Opzione |
+| `Bounty Seal Locked` | Bounty Seal Locked | Sigillo del Premio bloccato |
+| `Bounty Seal Ready` | Bounty Seal Ready | Sigillo del Premio pronto |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | Sigillo del Premio usato oggi |
+| `Master's Writ Locked` | Master's Writ Locked | Mandato del Maestro bloccato |
+| `Master's Writ Ready` | Master's Writ Ready | Mandato del Maestro pronto |
+| `Master's Writ Used Today` | Master's Writ Used Today | Mandato del Maestro usato oggi |
+| `Fourth Option Locked` | Fourth Option Locked | Quarta Opzione bloccata |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | Quarta Opzione sbloccata |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Una volta al giorno, raddoppia un compito della tua coda: il doppio della quantità o il doppio delle uccisioni. Un nuovo sigillo arriva alle 00:00 UTC. Ricompensa della Prova Truce. |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Una volta al giorno, sostituisci un compito della tua coda con uno a tua scelta: qualsiasi attività per cui hai il livello, in qualsiasi luogo che hai scoperto. Un nuovo mandato arriva alle 00:00 UTC. Ricompensa della Prova Selvaggia. |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% di probabilità di un quarto compito in ogni nuova riga della coda. Ricompensa della Prova Sinistra. |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% di probabilità di un quarto compito in ogni nuova riga della coda |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Una volta al giorno, raddoppia un compito in coda. Un nuovo sigillo arriva alle 00:00 UTC. |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Una volta al giorno, scrivi tu un compito in coda. Un nuovo mandato arriva alle 00:00 UTC. |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | Un sigillo al giorno. Uno nuovo arriva alle 00:00 UTC. |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | Un mandato al giorno. Uno nuovo arriva alle 00:00 UTC. |
+| `Double this task` | Double this task | Raddoppia questo compito |
+| `Replace this task with one you choose` | Replace this task with one you choose | Sostituisci questo compito con uno a tua scelta |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | Il doppio delle uccisioni: 2x XP e 2x bottino |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | Il doppio della quantità: 2x XP e 2x ricompense |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | Qualsiasi attività per cui hai il livello, in qualsiasi luogo che hai scoperto |
+| `Daily tools` | Daily tools | Strumenti giornalieri |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | Ognuno torna disponibile alle 00:00 UTC. |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | Usare il Sigillo del Premio? |
+| `Seal` | Seal | Sigilla |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | Raddoppiato dal Sigillo del Premio |
+| `Written with the Master's Writ` | Written with the Master's Writ | Scritto con il Mandato del Maestro |
+| `Replaces` | Replaces | Sostituisce |
+| `This replaces a lucky task.` | This replaces a lucky task. | Questo sostituisce un compito fortunato. |
+| `This replaces a sealed task.` | This replaces a sealed task. | Questo sostituisce un compito sigillato. |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Questo sostituisce un compito fortunato e sigillato. |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | La quantità viene tirata a sorte come per ogni compito. Un mandato al giorno. Uno nuovo arriva alle 00:00 UTC. |
+| `Write` | Write | Scrivi |
+| `Place` | Place | Luogo |
+| `Pick an activity` | Pick an activity | Scegli un'attività |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | Ancora niente da scrivere. Prima scopri altre zone della mappa. |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | La coda è cambiata. Riapri il mandato sulla riga che vuoi. |
+| `Today's writ is already used.` | Today's writ is already used. | Il mandato di oggi è già stato usato. |
+| `That task cannot be written.` | That task cannot be written. | Quel compito non può essere scritto. |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | I maestri ti mettono in mano un sigillo d'oro. 'Una volta al giorno raddoppia un compito. Ora i maestri vogliono vederti sotto pressione.' |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | I maestri ti consegnano un mandato in bianco e una penna d'oca. 'Una volta al giorno, scrivi tu il compito. È nelle ultime due prove che si custodiscono i globi.' |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | I maestri attendono all'ingresso del sotterraneo con un globo di vetro e una mano di quattro carte. 'Il Primo Globo racchiude tutte le prove affrontate finora. Le carte significano che certi giorni avrai una scelta in più.' |
+| `Reset Seal + Writ` | Reset Seal + Writ | Reimposta Sigillo + Mandato |
+| `Fourth Option Rows` | Fourth Option Rows | Righe con Quarta Opzione |

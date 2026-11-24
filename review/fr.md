@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Découverte |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Des feuilles vertes en plein hiver. |
 | `Mine the Icevein seams` | Mine the Icevein seams | Minez les filons d'Icevein |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Vous trouvez le filon que les mineurs avaient abandonné. |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Vous avez tenu bon dans le froid. Ensuite, les maîtres veulent vous voir travailler sous pression.' |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | Maîtrise : L'Épreuve sauvage |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | La troisième épreuve traverse le sud animé, où chaque métier a un maître qui vous observe. |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | Retrouvez les maîtres à Shortha |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Vous parcourez la vallée deux fois, rien que pour marquer le coup. |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Coulez du métal à la fonderie de Riverwatch |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Une coulée nette, sans une bulle. L'équipe de la fonderie applaudit. |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Bien. Les globes sont gardés pour les deux dernières épreuves.' |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | Maîtrise : L'Épreuve funèbre |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | La quatrième épreuve vous envoie dans les plus beaux lieux de travail du pays. |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Les maîtres se pressent dans la banque. 'Trois épreuves accomplies. Montrez-nous maintenant le plus beau travail du pays.' |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Les maîtres attendent à l'entrée du donjon. Ils vous remettent un globe de verre. 'Le Premier Globe. Il contient toutes les épreuves passées jusqu'ici.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Maîtrise : L'Épreuve ancienne |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Le Premier Globe était pour les épreuves. Le second est pour ce que personne ne vous a enseigné.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Récompense de l'Épreuve funèbre et de l'Épreuve ancienne. Les deux se cumulent. |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Tâche annulée. Mourir coûte autant que passer la tâche : {0} crédits de relance. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Tâche annulée. Mourir coûte autant que passer la tâche, vos derniers crédits de relance ({0}) ont donc été dépensés. |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | Tâche annulée : crédits de relance -{0} |
+| `Bounty Seal` | Bounty Seal | Cachet de prime |
+| `Master's Writ` | Master's Writ | Mandat du maître |
+| `Fourth Option` | Fourth Option | Quatrième option |
+| `Bounty Seal Locked` | Bounty Seal Locked | Cachet de prime verrouillé |
+| `Bounty Seal Ready` | Bounty Seal Ready | Cachet de prime prêt |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | Cachet de prime utilisé aujourd'hui |
+| `Master's Writ Locked` | Master's Writ Locked | Mandat du maître verrouillé |
+| `Master's Writ Ready` | Master's Writ Ready | Mandat du maître prêt |
+| `Master's Writ Used Today` | Master's Writ Used Today | Mandat du maître utilisé aujourd'hui |
+| `Fourth Option Locked` | Fourth Option Locked | Quatrième option verrouillée |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | Quatrième option débloquée |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Une fois par jour, doublez une tâche de votre file : quantité doublée, ou éliminations doublées. Un nouveau cachet arrive à 00:00 UTC. Récompense de l'Épreuve funeste. |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Une fois par jour, remplacez une tâche de votre file par une tâche de votre choix : n'importe quelle activité pour laquelle vous avez le niveau, dans n'importe quel lieu que vous avez découvert. Un nouveau mandat arrive à 00:00 UTC. Récompense de l'Épreuve sauvage. |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% de chance d'avoir une quatrième tâche sur chaque nouvelle ligne de la file. Récompense de l'Épreuve funèbre. |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% de chance d'avoir une quatrième tâche sur chaque nouvelle ligne de la file |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Une fois par jour, doublez une tâche en file. Un nouveau cachet arrive à 00:00 UTC. |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Une fois par jour, écrivez vous-même une tâche en file. Un nouveau mandat arrive à 00:00 UTC. |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | Un cachet par jour. Le prochain arrive à 00:00 UTC. |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | Un mandat par jour. Le prochain arrive à 00:00 UTC. |
+| `Double this task` | Double this task | Doubler cette tâche |
+| `Replace this task with one you choose` | Replace this task with one you choose | Remplacer cette tâche par une tâche de votre choix |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | Éliminations doublées : 2x XP et 2x butin |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | Quantité doublée : 2x XP et 2x récompenses |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | N'importe quelle activité pour laquelle vous avez le niveau, dans n'importe quel lieu que vous avez découvert |
+| `Daily tools` | Daily tools | Outils quotidiens |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | Chacun revient à 00:00 UTC. |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | Utiliser le Cachet de prime ? |
+| `Seal` | Seal | Cacheter |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | Doublée par le Cachet de prime |
+| `Written with the Master's Writ` | Written with the Master's Writ | Écrite avec le Mandat du maître |
+| `Replaces` | Replaces | Remplace |
+| `This replaces a lucky task.` | This replaces a lucky task. | Ceci remplace une tâche chanceuse. |
+| `This replaces a sealed task.` | This replaces a sealed task. | Ceci remplace une tâche cachetée. |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Ceci remplace une tâche chanceuse et cachetée. |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | La quantité est tirée comme pour toute tâche. Un mandat par jour. Le prochain arrive à 00:00 UTC. |
+| `Write` | Write | Écrire |
+| `Place` | Place | Lieu |
+| `Pick an activity` | Pick an activity | Choisissez une activité |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | Rien à écrire pour l'instant. Découvrez d'abord une plus grande partie de la carte. |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | La file a changé. Rouvrez le mandat sur la ligne voulue. |
+| `Today's writ is already used.` | Today's writ is already used. | Le mandat du jour est déjà utilisé. |
+| `That task cannot be written.` | That task cannot be written. | Cette tâche ne peut pas être écrite. |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | Les maîtres vous mettent un cachet doré dans la main. 'Une fois par jour, il double une tâche. Ensuite, les maîtres veulent vous voir travailler sous pression.' |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | Les maîtres vous remettent un mandat vierge et une plume. 'Une fois par jour, écrivez la tâche vous-même. Les globes sont gardés pour les deux dernières épreuves.' |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Les maîtres attendent à l'entrée du donjon avec un globe de verre et une main de quatre cartes. 'Le Premier Globe contient toutes les épreuves passées jusqu'ici. Les cartes signifient que certains jours, vous aurez une option de plus.' |
+| `Reset Seal + Writ` | Reset Seal + Writ | Réinitialiser Cachet + Mandat |
+| `Fourth Option Rows` | Fourth Option Rows | Lignes à quatre options |

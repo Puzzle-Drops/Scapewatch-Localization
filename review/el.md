@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Βάρδος |
 | Discover | Ανακάλυψη |
 
-## Lines to review (1372)
+## Lines to review (1416)
 
 | Key | English | Current |
 |---|---|---|
@@ -1391,7 +1391,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Green leaves in the middle of winter.` | Green leaves in the middle of winter. | Πράσινα φύλλα καταμεσής του χειμώνα. |
 | `Mine the Icevein seams` | Mine the Icevein seams | Σκάψε τις φλέβες του Icevein |
 | `You find the seam the miners gave up on.` | You find the seam the miners gave up on. | Βρίσκεις τη φλέβα που είχαν παρατήσει οι μεταλλωρύχοι. |
-| `'You held up in the cold. Next, the masters want to see you under pressure.'` | 'You held up in the cold. Next, the masters want to see you under pressure.' | 'Άντεξες στο κρύο. Τώρα οι δάσκαλοι θέλουν να σε δουν υπό πίεση.' |
 | `Mastery: The Savage Trial` | Mastery: The Savage Trial | Μαεστρία: Η Άγρια Δοκιμή |
 | `The third trial runs through the busy south, where every trade has a master watching.` | The third trial runs through the busy south, where every trade has a master watching. | Η τρίτη δοκιμή περνά από τον πολύβουο νότο, όπου κάθε τέχνη έχει έναν δάσκαλο να την παρακολουθεί. |
 | `Meet the masters at Shortha` | Meet the masters at Shortha | Συνάντησε τους δασκάλους στο Shortha |
@@ -1416,11 +1415,9 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `You run the valley twice just to make a point.` | You run the valley twice just to make a point. | Τρέχεις την κοιλάδα δύο φορές, μόνο και μόνο για να δείξεις ότι μπορείς. |
 | `Pour at the Riverwatch foundry` | Pour at the Riverwatch foundry | Χύσε μέταλλο στο χυτήριο του Riverwatch |
 | `A clean pour with no bubbles. The foundry crew claps.` | A clean pour with no bubbles. The foundry crew claps. | Μια καθαρή χύτευση χωρίς φυσαλίδες. Οι εργάτες του χυτηρίου χειροκροτούν. |
-| `'Good. The last two trials are where the globes are kept.'` | 'Good. The last two trials are where the globes are kept.' | 'Ωραία. Οι σφαίρες σε περιμένουν στις δύο τελευταίες δοκιμές.' |
 | `Mastery: The Fell Trial` | Mastery: The Fell Trial | Μαεστρία: Η Ολέθρια Δοκιμή |
 | `The fourth trial sends you to the finest workplaces in the land.` | The fourth trial sends you to the finest workplaces in the land. | Η τέταρτη δοκιμή σε στέλνει εκεί όπου γίνεται η καλύτερη δουλειά της χώρας. |
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Οι δάσκαλοι στριμώχνονται στην τράπεζα. 'Τρεις δοκιμές πίσω σου. Τώρα δείξε μας την καλύτερη δουλειά της χώρας.' |
-| `The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.'` | The masters wait at the dungeon mouth. They hand you a glass globe. 'The First Globe. It holds every trial so far.' | Οι δάσκαλοι περιμένουν στην είσοδο του μπουντρουμιού. Σου δίνουν μια γυάλινη σφαίρα. 'Η Πρώτη Σφαίρα. Κρατά όλες τις δοκιμές ως τώρα.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Μαεστρία: Η Αρχαία Δοκιμή |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Η Πρώτη Σφαίρα ήταν για τις δοκιμές. Η δεύτερη είναι για όσα δεν σου δίδαξε κανείς.' |
 | `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Ανταμοιβή από την Ολέθρια και την Αρχαία Δοκιμή. Ισχύουν και οι δύο αθροιστικά. |
@@ -1442,3 +1439,50 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Η αποστολή ακυρώθηκε. Ο θάνατος κοστίζει όσο και η παράλειψη της αποστολής: {0} πιστώσεις ξαναρίξιμου. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Η αποστολή ακυρώθηκε. Ο θάνατος κοστίζει όσο και η παράλειψη της αποστολής, οπότε ξοδεύτηκαν οι τελευταίες πιστώσεις ξαναρίξιμου σου ({0}). |
 | `@death_cost_popup` | Task cancelled: -{0} reroll credits | Η αποστολή ακυρώθηκε: πιστώσεις ξαναρίξιμου -{0} |
+| `Bounty Seal` | Bounty Seal | Βούλα ανταμοιβής |
+| `Master's Writ` | Master's Writ | Διάταγμα του Δασκάλου |
+| `Fourth Option` | Fourth Option | Τέταρτη επιλογή |
+| `Bounty Seal Locked` | Bounty Seal Locked | Η Βούλα ανταμοιβής είναι κλειδωμένη |
+| `Bounty Seal Ready` | Bounty Seal Ready | Η Βούλα ανταμοιβής είναι έτοιμη |
+| `Bounty Seal Used Today` | Bounty Seal Used Today | Η Βούλα ανταμοιβής χρησιμοποιήθηκε σήμερα |
+| `Master's Writ Locked` | Master's Writ Locked | Το Διάταγμα του Δασκάλου είναι κλειδωμένο |
+| `Master's Writ Ready` | Master's Writ Ready | Το Διάταγμα του Δασκάλου είναι έτοιμο |
+| `Master's Writ Used Today` | Master's Writ Used Today | Το Διάταγμα του Δασκάλου χρησιμοποιήθηκε σήμερα |
+| `Fourth Option Locked` | Fourth Option Locked | Η Τέταρτη επιλογή είναι κλειδωμένη |
+| `Fourth Option Unlocked` | Fourth Option Unlocked | Η Τέταρτη επιλογή ξεκλειδώθηκε |
+| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Μία φορά τη μέρα, διπλασίασε μία εργασία της ουράς σου: διπλάσια ποσότητα ή διπλάσιες θανατώσεις. Μια νέα βούλα έρχεται στις 00:00 UTC. Ανταμοιβή από τη Ζοφερή Δοκιμή. |
+| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Μία φορά τη μέρα, αντικατάστησε μία εργασία της ουράς σου με μία της επιλογής σου: οποιαδήποτε δραστηριότητα για την οποία έχεις το επίπεδο, σε οποιαδήποτε τοποθεσία έχεις ανακαλύψει. Ένα νέο διάταγμα έρχεται στις 00:00 UTC. Ανταμοιβή από την Άγρια Δοκιμή. |
+| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% πιθανότητα για τέταρτη εργασία σε κάθε νέα σειρά της ουράς. Ανταμοιβή από την Ολέθρια Δοκιμή. |
+| `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% πιθανότητα για τέταρτη εργασία σε κάθε νέα σειρά της ουράς |
+| `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Μία φορά τη μέρα, διπλασίασε μία εργασία της ουράς. Μια νέα βούλα έρχεται στις 00:00 UTC. |
+| `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Μία φορά τη μέρα, γράψε εσύ μία εργασία της ουράς. Ένα νέο διάταγμα έρχεται στις 00:00 UTC. |
+| `One seal per day. A new one comes at 00:00 UTC.` | One seal per day. A new one comes at 00:00 UTC. | Μία βούλα τη μέρα. Η επόμενη έρχεται στις 00:00 UTC. |
+| `One writ per day. A new one comes at 00:00 UTC.` | One writ per day. A new one comes at 00:00 UTC. | Ένα διάταγμα τη μέρα. Το επόμενο έρχεται στις 00:00 UTC. |
+| `Double this task` | Double this task | Διπλασίασε αυτή την εργασία |
+| `Replace this task with one you choose` | Replace this task with one you choose | Αντικατάστησε αυτή την εργασία με μία της επιλογής σου |
+| `Twice the kills: 2x XP and 2x loot` | Twice the kills: 2x XP and 2x loot | Διπλάσιες θανατώσεις: 2x XP και 2x λάφυρα |
+| `Twice the quantity: 2x XP and 2x rewards` | Twice the quantity: 2x XP and 2x rewards | Διπλάσια ποσότητα: 2x XP και 2x ανταμοιβές |
+| `Any activity you have the level for, at any place you have discovered` | Any activity you have the level for, at any place you have discovered | Οποιαδήποτε δραστηριότητα για την οποία έχεις το επίπεδο, σε οποιαδήποτε τοποθεσία έχεις ανακαλύψει |
+| `Daily tools` | Daily tools | Ημερήσια εργαλεία |
+| `Each comes back at 00:00 UTC.` | Each comes back at 00:00 UTC. | Το καθένα επιστρέφει στις 00:00 UTC. |
+| `Use the Bounty Seal?` | Use the Bounty Seal? | Χρήση της Βούλας ανταμοιβής; |
+| `Seal` | Seal | Διπλασιασμός |
+| `Doubled by the Bounty Seal` | Doubled by the Bounty Seal | Διπλασιάστηκε από τη Βούλα ανταμοιβής |
+| `Written with the Master's Writ` | Written with the Master's Writ | Γράφτηκε με το Διάταγμα του Δασκάλου |
+| `Replaces` | Replaces | Αντικαθιστά |
+| `This replaces a lucky task.` | This replaces a lucky task. | Αυτό αντικαθιστά μια τυχερή εργασία. |
+| `This replaces a sealed task.` | This replaces a sealed task. | Αυτό αντικαθιστά μια διπλασιασμένη εργασία. |
+| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Αυτό αντικαθιστά μια τυχερή, διπλασιασμένη εργασία. |
+| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Η ποσότητα ρίχνεται όπως σε κάθε εργασία. Ένα διάταγμα τη μέρα. Το επόμενο έρχεται στις 00:00 UTC. |
+| `Write` | Write | Εγγραφή |
+| `Place` | Place | Τοποθεσία |
+| `Pick an activity` | Pick an activity | Διάλεξε μια δραστηριότητα |
+| `Nothing to write yet. Discover more of the map first.` | Nothing to write yet. Discover more of the map first. | Δεν υπάρχει ακόμα τίποτα να γράψεις. Ανακάλυψε πρώτα περισσότερα σημεία του χάρτη. |
+| `The queue moved. Open the writ again on the row you want.` | The queue moved. Open the writ again on the row you want. | Η ουρά άλλαξε. Άνοιξε ξανά το διάταγμα στη σειρά που θέλεις. |
+| `Today's writ is already used.` | Today's writ is already used. | Το σημερινό διάταγμα έχει ήδη χρησιμοποιηθεί. |
+| `That task cannot be written.` | That task cannot be written. | Αυτή η εργασία δεν μπορεί να γραφτεί. |
+| `The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.'` | The masters press a gold seal into your hand. 'Once a day it doubles a task. Next, the masters want to see you under pressure.' | Οι δάσκαλοι σου βάζουν στην παλάμη μια χρυσή βούλα. 'Μία φορά τη μέρα διπλασιάζει μια εργασία. Τώρα οι δάσκαλοι θέλουν να σε δουν υπό πίεση.' |
+| `The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.'` | The masters hand you a blank writ and a quill. 'Once a day, write the task yourself. The last two trials are where the globes are kept.' | Οι δάσκαλοι σου δίνουν ένα λευκό διάταγμα και μια πένα. 'Μία φορά τη μέρα, γράφεις εσύ την εργασία. Οι σφαίρες σε περιμένουν στις δύο τελευταίες δοκιμές.' |
+| `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Οι δάσκαλοι περιμένουν στην είσοδο του μπουντρουμιού με μια γυάλινη σφαίρα και τέσσερα τραπουλόχαρτα στο χέρι. 'Η Πρώτη Σφαίρα κρατά όλες τις δοκιμές ως τώρα. Τα χαρτιά σημαίνουν ότι κάποιες μέρες θα έχεις μία επιλογή παραπάνω.' |
+| `Reset Seal + Writ` | Reset Seal + Writ | Επαναφορά Βούλας + Διατάγματος |
+| `Fourth Option Rows` | Fourth Option Rows | Σειρές με Τέταρτη επιλογή |

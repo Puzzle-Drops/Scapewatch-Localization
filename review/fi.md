@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardi |
 | Discover | Tutki |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Taitokuvut: +{0}% (+{1} askelta/s) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Tehtävänantoviitta: +{0}% (+{1} askelta/s) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | Taitokuvut: {0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | Taitokuvut {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | Tehtävänantoviitta {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% liikkumisnopeus, kun kaikki tehtävänannot on suoritettu |
 | `@all_skills_lv` | All Skills Lv {0} | Kaikki taidot tasolla {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% mahdollisuus autojalostukseen |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% mahdollisuus autopankitukseen |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Mestarit tungeksivat pankissa. 'Kolme koetusta takana. Näytä nyt meille maan hienointa työtä.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Mestaruus: Muinainen koetus |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Ensimmäinen kupu oli koetuksista. Toinen on siitä, mitä kukaan ei opettanut sinulle.' |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Palkinto Julmasta ja Muinaisesta koetuksesta. Molemmat pinoutuvat. |
 | `Lucky Stamp` | Lucky Stamp | Onnekas leima |
 | `Make this task lucky` | Make this task lucky | Tee tästä tehtävästä onnekas |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Yksi leima päivässä. Uusi tulee klo 00:00 UTC. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | Käytetäänkö onnekas leima? |
 | `Stamp` | Stamp | Leimaa |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | Onnekas leima lukittu |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | Onnekas leima valmis |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Onnekas leima käytetty tänään |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Kerran päivässä voit tehdä yhdestä jonosi tehtävästä onnekkaan: 2x XP, 2x palkkiot, ei epäonnistuneita toimintoja. Uusi leima tulee klo 00:00 UTC. Saat sen Raihnaisesta koetuksesta. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% liikkumisnopeus Säilyy niin kauan kuin kaikki tehtävänannot on suoritettu |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Nollaa onnekas leima |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Mestarit odottavat tyrmän suulla ja painavat käteesi vahasinetin. 'Kerran päivässä se tekee tehtävästä onnekkaan. Seuraava koetus on kauempana.' |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | Palkkiosinetti |
 | `Master's Writ` | Master's Writ | Mestarin valtakirja |
 | `Fourth Option` | Fourth Option | Neljäs vaihtoehto |
-| `Bounty Seal Locked` | Bounty Seal Locked | Palkkiosinetti lukittu |
-| `Bounty Seal Ready` | Bounty Seal Ready | Palkkiosinetti valmis |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | Palkkiosinetti käytetty tänään |
-| `Master's Writ Locked` | Master's Writ Locked | Mestarin valtakirja lukittu |
-| `Master's Writ Ready` | Master's Writ Ready | Mestarin valtakirja valmis |
-| `Master's Writ Used Today` | Master's Writ Used Today | Mestarin valtakirja käytetty tänään |
-| `Fourth Option Locked` | Fourth Option Locked | Neljäs vaihtoehto lukittu |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | Neljäs vaihtoehto avattu |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Kerran päivässä voit tuplata yhden jonosi tehtävän: kaksinkertainen määrä tai kaksinkertainen tappomäärä. Uusi sinetti tulee klo 00:00 UTC. Saat sen Turmaisesta koetuksesta. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Kerran päivässä voit korvata yhden jonosi tehtävän valitsemallasi: mikä tahansa toiminto, johon tasosi riittää, missä tahansa löytämässäsi paikassa. Uusi valtakirja tulee klo 00:00 UTC. Saat sen Raivoisasta koetuksesta. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0} % mahdollisuus neljänteen tehtävään jokaisella uudella jonorivillä. Saat sen Julmasta koetuksesta. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0} % mahdollisuus neljänteen tehtävään jokaisella uudella jonorivillä |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Tuplaa kerran päivässä yksi jonon tehtävä. Uusi sinetti tulee klo 00:00 UTC. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Kirjoita kerran päivässä yksi jonon tehtävä itse. Uusi valtakirja tulee klo 00:00 UTC. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Mestarit odottavat tyrmän suulla mukanaan lasikupu ja neljän kortin käsi. 'Ensimmäisessä kuvussa on kaikki tähänastiset koetukset. Kortit tarkoittavat, että joinain päivinä saat yhden vaihtoehdon lisää.' |
 | `Reset Seal + Writ` | Reset Seal + Writ | Nollaa sinetti + valtakirja |
 | `Fourth Option Rows` | Fourth Option Rows | Neljäs vaihtoehto kaikille riveille |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | Tehtävänantopalkinnot {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Jokaisen kuvakkeen vihje kertoo, mitä se tekee ja mistä tehtävänannosta sen saa. Napsauta kuvaketta avataksesi tehtävänannon. |
+| `Ready today` | Ready today | Valmis tänään |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Käytetty tänään. Uusi tulee klo 00:00 UTC. |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Ozan |
 | Discover | Keşfet |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Beceri küreleri: +{0}% (+{1} adım/sn) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Görev pelerini: +{0}% (+{1} adım/sn) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | Beceri küreleri: %{0} |
-| `@globes_count` | Globes of Skills {0}/{1} | Beceri küreleri {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | Görev pelerini {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | Tüm görevler tamamlanmışken +{0}% hareket hızı |
 | `@all_skills_lv` | All Skills Lv {0} | Tüm Beceriler Sv {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% otomatik işleme şansı |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% otomatik bankaya gönderme şansı |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Ustalar bankayı dolduruyor. 'Üç imtihan tamam. Şimdi bize ülkenin en iyi işini göster.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Ustalık: Kadim İmtihan |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'İlk Küre imtihanlar içindi. İkincisi, kimsenin sana öğretmedikleri için.' |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Habis ve Kadim imtihanlarından kazanılır. İkisi de birikir. |
 | `Lucky Stamp` | Lucky Stamp | Şanslı Mühür |
 | `Make this task lucky` | Make this task lucky | Bu görevi şanslı yap |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Günde bir mühür. Yenisi 00:00 UTC'de gelir. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | Şanslı Mühür kullanılsın mı? |
 | `Stamp` | Stamp | Mühürle |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | Şanslı Mühür kilitli |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | Şanslı Mühür hazır |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Şanslı Mühür bugün kullanıldı |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Günde bir kez, sırandaki bir görevi şanslı yap: 2x XP, 2x ödül, başarısız eylem yok. Yeni mühür 00:00 UTC'de gelir. Cılız İmtihan'dan kazanılır. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% hareket hızı Tüm görevler tamamlandığı sürece sende kalır |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Şanslı Mührü sıfırla |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Ustalar zindanın ağzında bekliyor ve eline bir balmumu mühür tutuşturuyor. 'Günde bir kez bir görevi şanslı kılar. Sonraki imtihan daha uzakta.' |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | Ödül Mührü |
 | `Master's Writ` | Master's Writ | Usta Fermanı |
 | `Fourth Option` | Fourth Option | Dördüncü Seçenek |
-| `Bounty Seal Locked` | Bounty Seal Locked | Ödül Mührü kilitli |
-| `Bounty Seal Ready` | Bounty Seal Ready | Ödül Mührü hazır |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | Ödül Mührü bugün kullanıldı |
-| `Master's Writ Locked` | Master's Writ Locked | Usta Fermanı kilitli |
-| `Master's Writ Ready` | Master's Writ Ready | Usta Fermanı hazır |
-| `Master's Writ Used Today` | Master's Writ Used Today | Usta Fermanı bugün kullanıldı |
-| `Fourth Option Locked` | Fourth Option Locked | Dördüncü Seçenek kilitli |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | Dördüncü Seçenek açıldı |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Günde bir kez, sırandaki bir görevi ikiye katla: iki kat miktar ya da iki kat öldürme. Yeni mühür 00:00 UTC'de gelir. Korkunç İmtihan'dan kazanılır. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Günde bir kez, sırandaki bir görevi seçtiğin bir görevle değiştir: seviyenin yettiği her etkinlik, keşfettiğin her yerde. Yeni ferman 00:00 UTC'de gelir. Vahşi İmtihan'dan kazanılır. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | %{0} ihtimalle sıradaki her yeni satırda dördüncü bir görev. Habis İmtihan'dan kazanılır. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | %{0} ihtimalle sıradaki her yeni satırda dördüncü bir görev |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Günde bir kez, sıradaki bir görevi ikiye katla. Yeni mühür 00:00 UTC'de gelir. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Günde bir kez, sıradaki bir görevi kendin yaz. Yeni ferman 00:00 UTC'de gelir. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Ustalar zindanın ağzında, ellerinde cam bir küre ve dört kartla bekliyor. 'İlk Küre şimdiye kadarki her imtihanı içinde taşır. Kartlar, bazı günler bir seçeneğin daha olacağı anlamına gelir.' |
 | `Reset Seal + Writ` | Reset Seal + Writ | Ödül Mührünü + Fermanı sıfırla |
 | `Fourth Option Rows` | Fourth Option Rows | Dördüncü Seçenek satırları |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | Görev ödülleri {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Her birinin ipucu ne işe yaradığını ve hangi görevden geldiğini gösterir. Görevi açmak için birine tıkla. |
+| `Ready today` | Ready today | Bugün hazır |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Bugün kullanıldı. Yenisi 00:00 UTC'de gelir. |

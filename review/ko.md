@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 음유 |
 | Discover | 탐험 |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | 스킬의 구체: +{0}% (+{1} 스텝/초) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | 퀘스트 망토: +{0}% (+{1} 스텝/초) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | 스킬의 구체: {0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | 스킬의 구체 {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | 퀘스트 망토 {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | 모든 퀘스트 완료 시 이동 속도 +{0}% |
 | `@all_skills_lv` | All Skills Lv {0} | 모든 스킬 Lv {0} |
 | `@b:auto_process` | +{0}% auto-process chance | 자동 가공 확률 +{0}% |
 | `@b:auto_bank` | +{0}% auto-bank chance | 자동 은행 보관 확률 +{0}% |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | 장인들이 은행에 북적인다. '시련 세 개를 마쳤군. 이제 이 땅 최고의 솜씨를 보여 줘.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | 통달: 고대의 시련 |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | '첫 번째 구체는 시련을 위한 것이었다. 두 번째는 아무도 가르쳐 주지 않은 것을 위한 것이다.' |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | 사악한 시련과 고대의 시련 보상입니다. 둘 다 중첩됩니다. |
 | `Lucky Stamp` | Lucky Stamp | 행운 인장 |
 | `Make this task lucky` | Make this task lucky | 이 임무를 행운 임무로 만들기 |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | 인장은 하루에 하나입니다. 00:00 UTC에 새 인장이 지급됩니다. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | 행운 인장을 사용하시겠습니까? |
 | `Stamp` | Stamp | 찍기 |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | 행운 인장 잠김 |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | 행운 인장 준비됨 |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | 행운 인장 오늘 사용함 |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | 하루에 한 번, 대기열의 임무 하나를 행운 임무로 만듭니다: 경험치 2배, 보상 2배, 행동 실패 없음. 00:00 UTC에 새 인장이 지급됩니다. 허약한 시련의 보상입니다. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | 이동 속도 +10% 모든 퀘스트를 완료한 상태에서만 유지됩니다 |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | 행운 인장 초기화 |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | 장인들이 던전 입구에서 기다리다가 당신의 손에 밀랍 인장을 쥐여 준다. '하루에 한 번, 임무 하나를 행운 임무로 만들어 준다. 다음 시련은 더 먼 곳에서 치른다.' |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | 포상 인장 |
 | `Master's Writ` | Master's Writ | 장인의 위임장 |
 | `Fourth Option` | Fourth Option | 네 번째 옵션 |
-| `Bounty Seal Locked` | Bounty Seal Locked | 포상 인장 잠김 |
-| `Bounty Seal Ready` | Bounty Seal Ready | 포상 인장 준비됨 |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | 포상 인장 오늘 사용함 |
-| `Master's Writ Locked` | Master's Writ Locked | 장인의 위임장 잠김 |
-| `Master's Writ Ready` | Master's Writ Ready | 장인의 위임장 준비됨 |
-| `Master's Writ Used Today` | Master's Writ Used Today | 장인의 위임장 오늘 사용함 |
-| `Fourth Option Locked` | Fourth Option Locked | 네 번째 옵션 잠김 |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | 네 번째 옵션 해금됨 |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | 하루에 한 번, 대기열의 임무 하나를 2배로 만듭니다: 수량 2배 또는 처치 수 2배. 00:00 UTC에 새 포상 인장이 지급됩니다. 흉포한 시련의 보상입니다. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | 하루에 한 번, 대기열의 임무 하나를 원하는 임무로 교체합니다: 발견한 모든 장소에서 레벨이 되는 모든 활동을 고를 수 있습니다. 00:00 UTC에 새 위임장이 지급됩니다. 야만의 시련의 보상입니다. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | 새 대기열 줄마다 {0}% 확률로 네 번째 임무 등장. 사악한 시련의 보상입니다. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | 새 대기열 줄마다 {0}% 확률로 네 번째 임무 등장 |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | 하루에 한 번, 대기열의 임무 하나를 2배로 만듭니다. 00:00 UTC에 새 포상 인장이 지급됩니다. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | 하루에 한 번, 대기열의 임무 하나를 직접 작성합니다. 00:00 UTC에 새 위임장이 지급됩니다. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | 장인들이 유리 구체와 카드 네 장을 들고 던전 입구에서 기다린다. '첫 번째 구체에는 지금까지의 모든 시련이 담겨 있지. 이 카드가 있으면 어떤 날은 선택지가 하나 더 생긴다.' |
 | `Reset Seal + Writ` | Reset Seal + Writ | 포상 인장 + 위임장 초기화 |
 | `Fourth Option Rows` | Fourth Option Rows | 네 번째 옵션 줄 |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | 퀘스트 보상 {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | 각 아이콘의 툴팁에서 효과와 보상을 주는 퀘스트를 확인할 수 있습니다. 클릭하면 해당 퀘스트가 열립니다. |
+| `Ready today` | Ready today | 오늘 준비됨 |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | 오늘 사용함. 00:00 UTC에 다시 지급됩니다. |

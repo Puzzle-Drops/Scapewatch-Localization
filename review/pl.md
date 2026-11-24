@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Pieśń |
 | Discover | Odkrywanie |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Sfery Umiejętności: +{0}% (+{1} kroków/s) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Peleryna Zadań: +{0}% (+{1} kroków/s) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | Sfery Umiejętności: {0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | Sfery Umiejętności {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | Peleryna Zadań {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% szybkości ruchu, gdy wszystkie zadania są ukończone |
 | `@all_skills_lv` | All Skills Lv {0} | Wszystkie umiejętności Poz {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% szansy na automatyczne przetworzenie |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% szansy na automatyczne odesłanie do banku |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Mistrzowie tłoczą się w banku. „Trzy próby za tobą. Teraz pokaż nam najlepszą robotę w krainie.” |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Mistrzostwo: Pradawna Próba |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | „Pierwsza Sfera była za próby. Druga jest za to, czego nikt cię nie nauczył.” |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Nagroda za Złowrogą i Pradawną Próbę. Obie się kumulują. |
 | `Lucky Stamp` | Lucky Stamp | Szczęśliwa pieczęć |
 | `Make this task lucky` | Make this task lucky | Uczyń to zadanie szczęśliwym |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Jedna pieczęć dziennie. Nowa pojawia się o 00:00 UTC. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | Użyć Szczęśliwej pieczęci? |
 | `Stamp` | Stamp | Opieczętuj |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | Szczęśliwa pieczęć zablokowana |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | Szczęśliwa pieczęć gotowa |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Szczęśliwa pieczęć użyta dzisiaj |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Raz dziennie uczyń jedno zadanie w kolejce szczęśliwym: 2x XP, 2x nagrody, bez nieudanych akcji. Nowa pieczęć pojawia się o 00:00 UTC. Nagroda za Słabą Próbę. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% szybkości ruchu Zachowujesz ją, dopóki wszystkie zadania fabularne są ukończone |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Zresetuj Szczęśliwą pieczęć |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Mistrzowie czekają u wejścia do lochu i wciskają ci do ręki woskową pieczęć. „Raz dziennie czyni zadanie szczęśliwym. Następna próba jest dalej.” |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | Sygnet nagrody |
 | `Master's Writ` | Master's Writ | Glejt mistrza |
 | `Fourth Option` | Fourth Option | Czwarta opcja |
-| `Bounty Seal Locked` | Bounty Seal Locked | Sygnet nagrody zablokowany |
-| `Bounty Seal Ready` | Bounty Seal Ready | Sygnet nagrody gotowy |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | Sygnet nagrody użyty dzisiaj |
-| `Master's Writ Locked` | Master's Writ Locked | Glejt mistrza zablokowany |
-| `Master's Writ Ready` | Master's Writ Ready | Glejt mistrza gotowy |
-| `Master's Writ Used Today` | Master's Writ Used Today | Glejt mistrza użyty dzisiaj |
-| `Fourth Option Locked` | Fourth Option Locked | Czwarta opcja zablokowana |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | Czwarta opcja odblokowana |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Raz dziennie podwój jedno zadanie w kolejce: podwójna ilość albo podwójna liczba zabójstw. Nowy sygnet pojawia się o 00:00 UTC. Nagroda za Groźną Próbę. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Raz dziennie zastąp zadanie w kolejce wybranym przez siebie: dowolna aktywność, na którą masz poziom, w dowolnym odkrytym miejscu. Nowy glejt pojawia się o 00:00 UTC. Nagroda za Dziką Próbę. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% szansy na czwarte zadanie w każdym nowym wierszu kolejki. Nagroda za Złowrogą Próbę. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% szansy na czwarte zadanie w każdym nowym wierszu kolejki |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Raz dziennie podwój jedno zadanie z kolejki. Nowy sygnet pojawia się o 00:00 UTC. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Raz dziennie samodzielnie wpisz jedno zadanie do kolejki. Nowy glejt pojawia się o 00:00 UTC. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Mistrzowie czekają u wejścia do lochu ze szklaną sferą i czterema kartami w dłoni. „Pierwsza Sfera mieści w sobie wszystkie dotychczasowe próby. Karty sprawią, że niektórych dni dostaniesz jeden wybór więcej.” |
 | `Reset Seal + Writ` | Reset Seal + Writ | Zresetuj sygnet + glejt |
 | `Fourth Option Rows` | Fourth Option Rows | Wiersze z czwartą opcją |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | Nagrody z Zadań {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Podpowiedź każdej ikony mówi, co robi i które zadanie ją daje. Kliknij ikonę, aby otworzyć to zadanie. |
+| `Ready today` | Ready today | Gotowe do użycia dzisiaj |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Użyto dzisiaj. Odnawia się o 00:00 UTC. |

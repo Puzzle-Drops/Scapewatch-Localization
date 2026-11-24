@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Penyair |
 | Discover | Terokai |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Glob Kemahiran: +{0}% (+{1} langkah/saat) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Jubah Quest: +{0}% (+{1} langkah/saat) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | Glob Kemahiran: {0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | Glob Kemahiran {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | Jubah Quest {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% kelajuan pergerakan selagi semua quest diselesaikan |
 | `@all_skills_lv` | All Skills Lv {0} | Semua Kemahiran Thp {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% peluang proses automatik |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% peluang simpan ke bank automatik |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Para guru memenuhi bank. 'Tiga ujian selesai. Sekarang tunjukkan kepada kami kerja terbaik di tanah ini.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Penguasaan: Ujian Purba |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Glob Pertama adalah untuk ujian-ujian itu. Yang kedua untuk apa yang tiada siapa ajarkan kepadamu.' |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Ganjaran daripada Ujian Bengis dan Ujian Purba. Kedua-duanya bertindan. |
 | `Lucky Stamp` | Lucky Stamp | Cop Bertuah |
 | `Make this task lucky` | Make this task lucky | Jadikan tugasan ini bertuah |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Satu cop sehari. Cop baharu tiba pada 00:00 UTC. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | Guna Cop Bertuah? |
 | `Stamp` | Stamp | Cop |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | Cop Bertuah dikunci |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | Cop Bertuah sedia |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Cop Bertuah sudah digunakan hari ini |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Sekali sehari, jadikan satu tugasan dalam baris gilir anda bertuah: 2x XP, 2x ganjaran, tiada tindakan gagal. Cop baharu tiba pada 00:00 UTC. Ganjaran daripada Ujian Lemah. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% kelajuan bergerak Kekal dimiliki selagi semua Quest selesai |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Set Semula Cop Bertuah |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Para guru menunggu di mulut penjara bawah tanah lalu meletakkan sebuah mohor lilin ke dalam tangan anda. 'Sekali sehari, ia menjadikan satu tugasan bertuah. Ujian seterusnya lebih jauh lagi.' |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | Meterai Ganjaran |
 | `Master's Writ` | Master's Writ | Watikah Guru |
 | `Fourth Option` | Fourth Option | Pilihan Keempat |
-| `Bounty Seal Locked` | Bounty Seal Locked | Meterai Ganjaran dikunci |
-| `Bounty Seal Ready` | Bounty Seal Ready | Meterai Ganjaran sedia |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | Meterai Ganjaran sudah digunakan hari ini |
-| `Master's Writ Locked` | Master's Writ Locked | Watikah Guru dikunci |
-| `Master's Writ Ready` | Master's Writ Ready | Watikah Guru sedia |
-| `Master's Writ Used Today` | Master's Writ Used Today | Watikah Guru sudah digunakan hari ini |
-| `Fourth Option Locked` | Fourth Option Locked | Pilihan Keempat dikunci |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | Pilihan Keempat dibuka |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Sekali sehari, gandakan satu tugasan dalam baris gilir anda: dua kali ganda kuantiti, atau dua kali ganda bunuhan. Meterai baharu tiba pada 00:00 UTC. Ganjaran daripada Ujian Dahsyat. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Sekali sehari, gantikan satu tugasan dalam baris gilir anda dengan tugasan pilihan anda: mana-mana aktiviti yang tahapnya telah anda capai, di mana-mana tempat yang telah anda terokai. Watikah baharu tiba pada 00:00 UTC. Ganjaran daripada Ujian Ganas. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% peluang tugasan keempat pada setiap baris baharu dalam baris gilir. Ganjaran daripada Ujian Bengis. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% peluang tugasan keempat pada setiap baris baharu dalam baris gilir |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Sekali sehari, gandakan satu tugasan dalam baris gilir. Meterai baharu tiba pada 00:00 UTC. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Sekali sehari, tulis sendiri satu tugasan dalam baris gilir. Watikah baharu tiba pada 00:00 UTC. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Para guru menunggu di mulut penjara bawah tanah dengan sebiji glob kaca dan empat keping kad di tangan. 'Glob Pertama menyimpan setiap ujian setakat ini. Kad-kad itu bermakna ada hari kau dapat satu pilihan lagi.' |
 | `Reset Seal + Writ` | Reset Seal + Writ | Set Semula Meterai + Watikah |
 | `Fourth Option Rows` | Fourth Option Rows | Baris Pilihan Keempat |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | Ganjaran Quest {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Tip alat setiap satu menerangkan fungsinya dan quest yang memberikannya. Klik salah satu untuk membuka quest tersebut. |
+| `Ready today` | Ready today | Sedia hari ini |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Sudah digunakan hari ini. Yang baharu tiba pada 00:00 UTC. |

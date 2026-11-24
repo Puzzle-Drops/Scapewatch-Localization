@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Objevování |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Sféry dovedností: +{0}% (+{1} kroků/s) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Plášť questů: +{0}% (+{1} kroků/s) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | Sféry dovedností: {0} % |
-| `@globes_count` | Globes of Skills {0}/{1} | Sféry dovedností {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | Plášť questů {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% rychlosti pohybu, dokud jsou splněny všechny questy |
 | `@all_skills_lv` | All Skills Lv {0} | Všechny dovednosti Úr {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% šance na automatické zpracování |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% šance na automatické uložení do banky |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | V bance se tísní mistři. „Tři zkoušky za tebou. Teď nám ukaž tu nejlepší práci v zemi.“ |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Mistrovství: Prastará zkouška |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | „První sféra byla za zkoušky. Druhá je za to, co tě nikdo nenaučil.“ |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Odměna za Zlovolnou a Prastarou zkoušku. Obě se sčítají. |
 | `Lucky Stamp` | Lucky Stamp | Šťastná pečeť |
 | `Make this task lucky` | Make this task lucky | Učinit tento úkol šťastným |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Jedna pečeť denně. Nová přijde v 00:00 UTC. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | Použít Šťastnou pečeť? |
 | `Stamp` | Stamp | Zpečetit |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | Šťastná pečeť zamčena |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | Šťastná pečeť připravena |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Šťastná pečeť dnes použita |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Jednou denně učiň jeden úkol ve své frontě šťastným: 2x XP, 2x odměny, žádné neúspěšné akce. Nová pečeť přijde v 00:00 UTC. Odměna za Chabou zkoušku. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% rychlost pohybu Zůstane ti, dokud máš splněné všechny questy |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Resetovat Šťastnou pečeť |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Mistři čekají u vstupu do žaláře a vtisknou ti do dlaně voskovou pečeť. „Jednou denně učiní jeden úkol šťastným. Další zkouška je dál.“ |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | Odměnová kokarda |
 | `Master's Writ` | Master's Writ | Listina mistrů |
 | `Fourth Option` | Fourth Option | Čtvrtá možnost |
-| `Bounty Seal Locked` | Bounty Seal Locked | Odměnová kokarda zamčena |
-| `Bounty Seal Ready` | Bounty Seal Ready | Odměnová kokarda připravena |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | Odměnová kokarda dnes použita |
-| `Master's Writ Locked` | Master's Writ Locked | Listina mistrů zamčena |
-| `Master's Writ Ready` | Master's Writ Ready | Listina mistrů připravena |
-| `Master's Writ Used Today` | Master's Writ Used Today | Listina mistrů dnes použita |
-| `Fourth Option Locked` | Fourth Option Locked | Čtvrtá možnost zamčena |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | Čtvrtá možnost odemčena |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Jednou denně zdvojnásob jeden úkol ve své frontě: dvojnásobné množství, nebo dvojnásobný počet zabití. Nová kokarda přijde v 00:00 UTC. Odměna za Hrozivou zkoušku. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Jednou denně nahraď úkol ve své frontě úkolem podle své volby: jakákoli činnost, na kterou máš úroveň, na jakémkoli místě, které jsi objevil. Nová listina přijde v 00:00 UTC. Odměna za Divokou zkoušku. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% šance na čtvrtý úkol v každém novém řádku fronty. Odměna za Zlovolnou zkoušku. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% šance na čtvrtý úkol v každém novém řádku fronty |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Jednou denně zdvojnásob jeden úkol ve frontě. Nová kokarda přijde v 00:00 UTC. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Jednou denně si sám napiš jeden úkol ve frontě. Nová listina přijde v 00:00 UTC. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Mistři čekají u vstupu do žaláře se skleněnou sférou a čtyřmi kartami v ruce. „První sféra obsahuje všechny dosavadní zkoušky. Karty znamenají, že budeš mít některé dny o jednu volbu víc.“ |
 | `Reset Seal + Writ` | Reset Seal + Writ | Resetovat kokardu + listinu |
 | `Fourth Option Rows` | Fourth Option Rows | Řádky se čtvrtou možností |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | Odměny z questů {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Popisek každé položky ukazuje, co dělá a který quest ji dává. Kliknutím otevřeš příslušný quest. |
+| `Ready today` | Ready today | Dnes připravena |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Dnes použita. Obnoví se v 00:00 UTC. |

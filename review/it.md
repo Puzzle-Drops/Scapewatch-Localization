@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cantare |
 | Discover | Scoprire |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Globi delle Abilità: +{0}% (+{1} passi/sec) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Mantello delle Missioni: +{0}% (+{1} passi/sec) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | Globi delle Abilità: {0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | Globi delle Abilità {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | Mantello delle Missioni {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% di velocità di movimento finché tutte le missioni sono completate |
 | `@all_skills_lv` | All Skills Lv {0} | Tutte le Abilità Liv {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% di probabilità di lavorazione automatica |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% di probabilità di deposito automatico in banca |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | I maestri affollano la banca. 'Tre prove superate. Ora mostraci il lavoro migliore della terra.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Maestria: La Prova Antica |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Il Primo Globo era per le prove. Il secondo è per ciò che nessuno ti ha insegnato.' |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Ricompensa della Prova Sinistra e della Prova Antica. Si cumulano entrambi. |
 | `Lucky Stamp` | Lucky Stamp | Timbro Fortunato |
 | `Make this task lucky` | Make this task lucky | Rendi fortunato questo compito |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Un timbro al giorno. Uno nuovo arriva alle 00:00 UTC. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | Usare il Timbro Fortunato? |
 | `Stamp` | Stamp | Timbra |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | Timbro Fortunato bloccato |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | Timbro Fortunato pronto |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Timbro Fortunato usato oggi |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Una volta al giorno, rendi fortunato un compito della tua coda: 2x XP, 2x ricompense, nessuna azione fallita. Un nuovo timbro arriva alle 00:00 UTC. Ricompensa della Prova Debole. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% velocità di movimento Resta tuo finché tutte le missioni sono completate |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Reimposta Timbro Fortunato |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | I maestri attendono all'ingresso del sotterraneo e ti mettono in mano un sigillo di ceralacca. 'Una volta al giorno rende fortunato un compito. La prossima prova è più lontana.' |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | Sigillo del Premio |
 | `Master's Writ` | Master's Writ | Mandato del Maestro |
 | `Fourth Option` | Fourth Option | Quarta Opzione |
-| `Bounty Seal Locked` | Bounty Seal Locked | Sigillo del Premio bloccato |
-| `Bounty Seal Ready` | Bounty Seal Ready | Sigillo del Premio pronto |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | Sigillo del Premio usato oggi |
-| `Master's Writ Locked` | Master's Writ Locked | Mandato del Maestro bloccato |
-| `Master's Writ Ready` | Master's Writ Ready | Mandato del Maestro pronto |
-| `Master's Writ Used Today` | Master's Writ Used Today | Mandato del Maestro usato oggi |
-| `Fourth Option Locked` | Fourth Option Locked | Quarta Opzione bloccata |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | Quarta Opzione sbloccata |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Una volta al giorno, raddoppia un compito della tua coda: il doppio della quantità o il doppio delle uccisioni. Un nuovo sigillo arriva alle 00:00 UTC. Ricompensa della Prova Truce. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Una volta al giorno, sostituisci un compito della tua coda con uno a tua scelta: qualsiasi attività per cui hai il livello, in qualsiasi luogo che hai scoperto. Un nuovo mandato arriva alle 00:00 UTC. Ricompensa della Prova Selvaggia. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% di probabilità di un quarto compito in ogni nuova riga della coda. Ricompensa della Prova Sinistra. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% di probabilità di un quarto compito in ogni nuova riga della coda |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Una volta al giorno, raddoppia un compito in coda. Un nuovo sigillo arriva alle 00:00 UTC. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Una volta al giorno, scrivi tu un compito in coda. Un nuovo mandato arriva alle 00:00 UTC. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | I maestri attendono all'ingresso del sotterraneo con un globo di vetro e una mano di quattro carte. 'Il Primo Globo racchiude tutte le prove affrontate finora. Le carte significano che certi giorni avrai una scelta in più.' |
 | `Reset Seal + Writ` | Reset Seal + Writ | Reimposta Sigillo + Mandato |
 | `Fourth Option Rows` | Fourth Option Rows | Righe con Quarta Opzione |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | Ricompense delle Missioni {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Il tooltip di ciascuno indica cosa fa e quale missione lo assegna. Clicca su uno per aprire quella missione. |
+| `Ready today` | Ready today | Pronto oggi |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Usato oggi. Di nuovo disponibile alle 00:00 UTC. |

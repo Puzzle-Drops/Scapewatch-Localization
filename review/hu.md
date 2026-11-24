@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bárd |
 | Discover | Felfedezés |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Képességek glóbuszai: +{0}% (+{1} lépés/mp) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Küldetésköpeny: +{0}% (+{1} lépés/mp) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | Képességek glóbuszai: {0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | Képességek glóbuszai {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | Küldetésköpeny {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% mozgássebesség, amíg minden küldetés teljesítve van |
 | `@all_skills_lv` | All Skills Lv {0} | Minden képesség Sz {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% automatikus feldolgozási esély |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% automatikus bankba küldési esély |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | A mesterek tolonganak a bankban. 'Három próba megvan. Most mutasd meg nekünk a föld legjobb munkáját.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Mesterség: Az ősi próba |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Az első glóbusz a próbákért járt. A második azért jár, amit senki sem tanított meg neked.' |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | A kegyetlen és az ősi próba jutalma. Mindkettő halmozódik. |
 | `Lucky Stamp` | Lucky Stamp | Szerencsés pecsét |
 | `Make this task lucky` | Make this task lucky | Tedd szerencséssé ezt a feladatot |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Naponta egy pecsét. Újat 00:00 UTC-kor kapsz. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | Felhasználod a Szerencsés pecsétet? |
 | `Stamp` | Stamp | Pecsételés |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | Szerencsés pecsét zárolva |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | Szerencsés pecsét használható |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Szerencsés pecsét ma már felhasználva |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Naponta egyszer tedd szerencséssé a feladatsorod egyik feladatát: 2x XP, 2x jutalom, nincsenek sikertelen műveletek. Új pecsétet 00:00 UTC-kor kapsz. A gyenge próba jutalma. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% mozgási sebesség Addig marad nálad, amíg minden küldetés teljesítve van |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Szerencsés pecsét visszaállítása |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | A mesterek a tömlöc bejáratánál várnak, és egy viaszpecsétet nyomnak a kezedbe. 'Naponta egyszer szerencséssé tesz egy feladatot. A következő próba messzebb vár.' |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | Jutalompecsét |
 | `Master's Writ` | Master's Writ | Mesterlevél |
 | `Fourth Option` | Fourth Option | Negyedik lehetőség |
-| `Bounty Seal Locked` | Bounty Seal Locked | Jutalompecsét zárolva |
-| `Bounty Seal Ready` | Bounty Seal Ready | Jutalompecsét használható |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | Jutalompecsét ma már felhasználva |
-| `Master's Writ Locked` | Master's Writ Locked | Mesterlevél zárolva |
-| `Master's Writ Ready` | Master's Writ Ready | Mesterlevél használható |
-| `Master's Writ Used Today` | Master's Writ Used Today | Mesterlevél ma már felhasználva |
-| `Fourth Option Locked` | Fourth Option Locked | Negyedik lehetőség zárolva |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | Negyedik lehetőség feloldva |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Naponta egyszer duplázd meg a feladatsorod egyik feladatát: dupla mennyiség vagy dupla ölésszám. Új Jutalompecsétet 00:00 UTC-kor kapsz. A baljós próba jutalma. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Naponta egyszer cseréld le a feladatsorod egyik feladatát egy általad választottra: bármely tevékenység, amelyhez megvan a szinted, bármely felfedezett helyen. Új Mesterlevelet 00:00 UTC-kor kapsz. A vad próba jutalma. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% esély egy negyedik feladatra a feladatsor minden új sorában. A kegyetlen próba jutalma. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% esély egy negyedik feladatra a feladatsor minden új sorában |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Naponta egyszer duplázd meg a sor egyik feladatát. Új Jutalompecsétet 00:00 UTC-kor kapsz. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Naponta egyszer te magad írhatod meg a sor egyik feladatát. Új Mesterlevelet 00:00 UTC-kor kapsz. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | A mesterek a tömlöc bejáratánál várnak egy üvegből készült glóbusszal és négy kártyalappal. 'Az első glóbusz minden eddigi próbát magában hordoz. A kártyák azt jelentik, hogy egyes napokon eggyel több lehetőséged lesz.' |
 | `Reset Seal + Writ` | Reset Seal + Writ | Jutalompecsét + Mesterlevél visszaállítása |
 | `Fourth Option Rows` | Fourth Option Rows | Sorok negyedik lehetőséggel |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | Küldetésjutalmak {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Mindegyik leírása megmutatja, mit csinál, és melyik küldetés adja. Kattints rá a küldetés megnyitásához. |
+| `Ready today` | Ready today | Ma használható |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Ma már felhasználva. Újat 00:00 UTC-kor kapsz. |

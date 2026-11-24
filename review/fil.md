@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Tuklasin |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Mga globo ng kasanayan: +{0}% (+{1} hakbang/seg) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Kapa ng Quest: +{0}% (+{1} hakbang/seg) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | Mga globo ng kasanayan: {0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | Mga globo ng kasanayan {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | Kapa ng Quest {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% bilis ng paggalaw habang tapos ang lahat ng quest |
 | `@all_skills_lv` | All Skills Lv {0} | Lahat ng Skill Lv {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% tsansa ng awtomatikong pagproseso |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% tsansa ng awtomatikong pag-bangko |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Nagsisiksikan ang mga maestro sa bangko. 'Tapos na ang tatlong pagsubok. Ngayon, ipakita mo sa amin ang pinakamahusay na gawa sa lupain.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Kahusayan: Ang Sinaunang Pagsubok |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Ang Unang Globo ay para sa mga pagsubok. Ang ikalawa ay para sa hindi itinuro sa iyo ninuman.' |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Gantimpala mula sa Madilim na Pagsubok at Sinaunang Pagsubok. Nagsasalansan ang dalawa. |
 | `Lucky Stamp` | Lucky Stamp | Maswerteng Selyo |
 | `Make this task lucky` | Make this task lucky | Gawing maswerte ang gawaing ito |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Isang selyo kada araw. Darating ang bago sa 00:00 UTC. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | Gamitin ang Maswerteng Selyo? |
 | `Stamp` | Stamp | Tatakan |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | Nakakandado ang Maswerteng Selyo |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | Handa na ang Maswerteng Selyo |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Nagamit na ngayong araw ang Maswerteng Selyo |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Isang beses kada araw, gawing maswerte ang isang gawain sa iyong pila: 2x XP, 2x gantimpala, walang nabigong aksyon. Darating ang bagong selyo sa 00:00 UTC. Gantimpala mula sa Mahinang Pagsubok. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% bilis ng paggalaw Mananatili sa iyo habang tapos ang lahat ng Quest |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | I-reset ang Maswerteng Selyo |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Naghihintay ang mga maestro sa bunganga ng piitan at idiniin nila sa iyong palad ang isang selyong pagkit. 'Minsan isang araw, ginagawa nitong maswerte ang isang gawain. Mas malayo ang susunod na pagsubok.' |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | Sagisag ng Pabuya |
 | `Master's Writ` | Master's Writ | Kasulatan ng Maestro |
 | `Fourth Option` | Fourth Option | Ikaapat na Opsyon |
-| `Bounty Seal Locked` | Bounty Seal Locked | Nakakandado ang Sagisag ng Pabuya |
-| `Bounty Seal Ready` | Bounty Seal Ready | Handa na ang Sagisag ng Pabuya |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | Nagamit na ngayong araw ang Sagisag ng Pabuya |
-| `Master's Writ Locked` | Master's Writ Locked | Nakakandado ang Kasulatan ng Maestro |
-| `Master's Writ Ready` | Master's Writ Ready | Handa na ang Kasulatan ng Maestro |
-| `Master's Writ Used Today` | Master's Writ Used Today | Nagamit na ngayong araw ang Kasulatan ng Maestro |
-| `Fourth Option Locked` | Fourth Option Locked | Nakakandado ang Ikaapat na Opsyon |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | Nakabukas ang Ikaapat na Opsyon |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Isang beses kada araw, doblehin ang isang gawain sa iyong pila: doble ang dami, o doble ang papatayin. Darating ang bagong sagisag sa 00:00 UTC. Gantimpala mula sa Mabangis na Pagsubok. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Isang beses kada araw, palitan ang isang gawain sa iyong pila ng gawaing pipiliin mo: anumang aktibidad na kaya ng iyong antas, sa anumang lugar na natuklasan mo na. Darating ang bagong kasulatan sa 00:00 UTC. Gantimpala mula sa Marahas na Pagsubok. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% tsansa ng ikaapat na gawain sa bawat bagong hanay ng pila. Gantimpala mula sa Madilim na Pagsubok. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% tsansa ng ikaapat na gawain sa bawat bagong hanay ng pila |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Isang beses kada araw, doblehin ang isang gawain sa pila. Darating ang bagong sagisag sa 00:00 UTC. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Isang beses kada araw, ikaw mismo ang magsulat ng isang gawain sa pila. Darating ang bagong kasulatan sa 00:00 UTC. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Naghihintay ang mga maestro sa bunganga ng piitan, may dalang globong salamin at apat na baraha. 'Nasa loob ng Unang Globo ang bawat pagsubok hanggang ngayon. Ibig sabihin ng mga baraha, may mga araw na magkakaroon ka ng isa pang opsyon.' |
 | `Reset Seal + Writ` | Reset Seal + Writ | I-reset ang Sagisag + Kasulatan |
 | `Fourth Option Rows` | Fourth Option Rows | Mga hanay na may Ikaapat na Opsyon |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | Mga Gantimpala ng Quest {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Sinasabi ng tooltip ng bawat isa kung ano ang ginagawa nito at kung aling quest ang nagbibigay nito. I-click ang isa para buksan ang quest na iyon. |
+| `Ready today` | Ready today | Handa na ngayong araw |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Nagamit na ngayong araw. Darating ang bago sa 00:00 UTC. |

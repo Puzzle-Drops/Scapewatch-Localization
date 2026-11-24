@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бард |
 | Discover | Открытие |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Шары навыков: +{0}% (+{1} шагов/сек) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Плащ заданий: +{0}% (+{1} шагов/сек) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | Шары навыков: {0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | Шары навыков {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | Плащ заданий {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% к скорости передвижения, пока выполнены все задания |
 | `@all_skills_lv` | All Skills Lv {0} | Все навыки ур. {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% к шансу автообработки |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% к шансу автоотправки в банк |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Мастера толпятся в банке. «Три испытания позади. Теперь покажи нам лучшую работу в этих землях». |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Мастерство: Древнее испытание |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | «Первый шар был за испытания. Второй — за то, чему тебя никто не учил». |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Награда за Жестокое и Древнее испытания. Эффекты обоих суммируются. |
 | `Lucky Stamp` | Lucky Stamp | Удачная печать |
 | `Make this task lucky` | Make this task lucky | Сделать эту задачу удачной |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Одна печать в день. Новая появляется в 00:00 UTC. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | Использовать Удачную печать? |
 | `Stamp` | Stamp | Поставить печать |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | Удачная печать заблокирована |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | Удачная печать готова |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Удачная печать сегодня использована |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Раз в день можно сделать одну задачу в очереди удачной: 2x XP, 2x награды, без неудачных действий. Новая печать появляется в 00:00 UTC. Награда за Слабое испытание. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% к скорости передвижения Сохраняется, пока выполнены все задания |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Сбросить Удачную печать |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Мастера ждут у входа в подземелье и вкладывают вам в руку восковую печать. «Раз в день она делает задачу удачной. Следующее испытание будет дальше». |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | Наградное клеймо |
 | `Master's Writ` | Master's Writ | Грамота мастера |
 | `Fourth Option` | Fourth Option | Четвёртый вариант |
-| `Bounty Seal Locked` | Bounty Seal Locked | Наградное клеймо заблокировано |
-| `Bounty Seal Ready` | Bounty Seal Ready | Наградное клеймо готово |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | Наградное клеймо сегодня использовано |
-| `Master's Writ Locked` | Master's Writ Locked | Грамота мастера заблокирована |
-| `Master's Writ Ready` | Master's Writ Ready | Грамота мастера готова |
-| `Master's Writ Used Today` | Master's Writ Used Today | Грамота мастера сегодня использована |
-| `Fourth Option Locked` | Fourth Option Locked | Четвёртый вариант заблокирован |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | Четвёртый вариант разблокирован |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Раз в день можно удвоить одну задачу в очереди: двойное количество или двойное число убийств. Новое клеймо появляется в 00:00 UTC. Награда за Зловещее испытание. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Раз в день можно заменить задачу в очереди на выбранную вами: любое занятие, для которого хватает уровня, в любом открытом месте. Новая грамота появляется в 00:00 UTC. Награда за Свирепое испытание. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | Шанс {0}% на четвёртую задачу в каждой новой строке очереди. Награда за Жестокое испытание. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | Шанс {0}% на четвёртую задачу в каждой новой строке очереди |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Раз в день можно удвоить одну задачу в очереди. Новое клеймо появляется в 00:00 UTC. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Раз в день можно самостоятельно вписать одну задачу в очередь. Новая грамота появляется в 00:00 UTC. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Мастера ждут у входа в подземелье со стеклянным шаром и четырьмя картами в руке. «В Первом шаре все пройденные испытания. Карты значат, что в иные дни у тебя будет на один выбор больше». |
 | `Reset Seal + Writ` | Reset Seal + Writ | Сбросить клеймо + грамоту |
 | `Fourth Option Rows` | Fourth Option Rows | Строки с четвёртым вариантом |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | Награды за задания {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Подсказка каждого значка показывает, что он делает и какое задание его даёт. Нажмите на значок, чтобы открыть это задание. |
+| `Ready today` | Ready today | Сегодня готово к использованию |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Сегодня использовано. Обновится в 00:00 UTC. |

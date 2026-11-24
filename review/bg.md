@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бард |
 | Discover | Откритие |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Кълба на уменията: +{0}% (+{1} стъпки/сек) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Наметало за куестове: +{0}% (+{1} стъпки/сек) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | Кълба на уменията: {0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | Кълба на уменията {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | Наметало за куестове {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% към скорост на придвижване, докато всички куестове са завършени |
 | `@all_skills_lv` | All Skills Lv {0} | Всички умения Нв {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% шанс за автоматична обработка |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% шанс за автоматично прибиране в банката |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Майсторите се тълпят в банката. „Три изпита зад гърба ти. Сега ни покажи най-добрата работа в страната.“ |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Майсторство: Древният изпит |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | „Първото кълбо беше за изпитите. Второто е за онова, на което никой не те е учил.“ |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Награда от Пагубния и Древния изпит. Двете се натрупват. |
 | `Lucky Stamp` | Lucky Stamp | Късметлийски печат |
 | `Make this task lucky` | Make this task lucky | Направи тази задача късметлийска |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Един печат на ден. Нов идва в 00:00 UTC. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | Да се използва ли Късметлийският печат? |
 | `Stamp` | Stamp | Подпечатай |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | Късметлийският печат е заключен |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | Късметлийският печат е готов |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Късметлийският печат е използван днес |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Веднъж на ден направи една задача от опашката си късметлийска: 2x XP, 2x награди, без неуспешни действия. Нов печат идва в 00:00 UTC. Награда от Немощния изпит. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% скорост на движение Остава у теб, докато всички куестове са завършени |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Нулирай Късметлийския печат |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Майсторите чакат при входа на подземието и пъхат в ръката ти восъчен печат. „Веднъж на ден той прави една задача късметлийска. Следващият изпит е по-далеч.“ |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | Награден медальон |
 | `Master's Writ` | Master's Writ | Майсторска грамота |
 | `Fourth Option` | Fourth Option | Четвърти вариант |
-| `Bounty Seal Locked` | Bounty Seal Locked | Наградният медальон е заключен |
-| `Bounty Seal Ready` | Bounty Seal Ready | Наградният медальон е готов |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | Наградният медальон е използван днес |
-| `Master's Writ Locked` | Master's Writ Locked | Майсторската грамота е заключена |
-| `Master's Writ Ready` | Master's Writ Ready | Майсторската грамота е готова |
-| `Master's Writ Used Today` | Master's Writ Used Today | Майсторската грамота е използвана днес |
-| `Fourth Option Locked` | Fourth Option Locked | Четвъртият вариант е заключен |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | Четвъртият вариант е отключен |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Веднъж на ден удвои една задача от опашката си: двойно количество или двоен брой убийства. Нов медальон идва в 00:00 UTC. Награда от Зловещия изпит. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Веднъж на ден замени задача от опашката си с такава по твой избор: всяка дейност, за която имаш нивото, на всяко място, което си открил. Нова грамота идва в 00:00 UTC. Награда от Свирепия изпит. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% шанс за четвърта задача на всеки нов ред от опашката. Награда от Пагубния изпит. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% шанс за четвърта задача на всеки нов ред от опашката |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Веднъж на ден удвои една задача от опашката. Нов медальон идва в 00:00 UTC. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Веднъж на ден сам напиши една задача в опашката. Нова грамота идва в 00:00 UTC. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Майсторите чакат при входа на подземието със стъклено кълбо и четири карти в ръка. „В Първото кълбо са всички изпити досега. Картите означават, че някои дни ще имаш още един избор.“ |
 | `Reset Seal + Writ` | Reset Seal + Writ | Нулирай медальон + грамота |
 | `Fourth Option Rows` | Fourth Option Rows | Редове с четвърти вариант |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | Награди от куестове {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Подсказката на всеки предмет казва какво прави и кой куест го дава. Кликни върху предмет, за да отвориш куеста му. |
+| `Ready today` | Ready today | Готово за използване днес |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Използвано днес. Подновява се в 00:00 UTC. |

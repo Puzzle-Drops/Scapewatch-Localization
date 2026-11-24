@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Βάρδος |
 | Discover | Ανακάλυψη |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Σφαίρες δεξιοτήτων: +{0}% (+{1} βήματα/δευτ) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Μανδύας αποστολών: +{0}% (+{1} βήματα/δευτ) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | Σφαίρες δεξιοτήτων: {0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | Σφαίρες δεξιοτήτων {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | Μανδύας αποστολών {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% ταχύτητα κίνησης όσο όλες οι αποστολές είναι ολοκληρωμένες |
 | `@all_skills_lv` | All Skills Lv {0} | Όλες οι δεξιότητες Επ {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% πιθανότητα αυτόματης επεξεργασίας |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% πιθανότητα αυτόματης κατάθεσης |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Οι δάσκαλοι στριμώχνονται στην τράπεζα. 'Τρεις δοκιμές πίσω σου. Τώρα δείξε μας την καλύτερη δουλειά της χώρας.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Μαεστρία: Η Αρχαία Δοκιμή |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Η Πρώτη Σφαίρα ήταν για τις δοκιμές. Η δεύτερη είναι για όσα δεν σου δίδαξε κανείς.' |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Ανταμοιβή από την Ολέθρια και την Αρχαία Δοκιμή. Ισχύουν και οι δύο αθροιστικά. |
 | `Lucky Stamp` | Lucky Stamp | Τυχερή σφραγίδα |
 | `Make this task lucky` | Make this task lucky | Κάνε αυτή την εργασία τυχερή |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Μία σφραγίδα τη μέρα. Η επόμενη έρχεται στις 00:00 UTC. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | Χρήση της Τυχερής σφραγίδας; |
 | `Stamp` | Stamp | Σφράγιση |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | Η Τυχερή σφραγίδα είναι κλειδωμένη |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | Η Τυχερή σφραγίδα είναι έτοιμη |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Η Τυχερή σφραγίδα χρησιμοποιήθηκε σήμερα |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Μία φορά τη μέρα, κάνε τυχερή μία εργασία της ουράς σου: 2x XP, 2x ανταμοιβές, καμία αποτυχημένη ενέργεια. Μια νέα σφραγίδα έρχεται στις 00:00 UTC. Ανταμοιβή από την Άθλια Δοκιμή. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% ταχύτητα κίνησης Τον κρατάς όσο όλες οι αποστολές είναι ολοκληρωμένες |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Επαναφορά Τυχερής σφραγίδας |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Οι δάσκαλοι περιμένουν στην είσοδο του μπουντρουμιού και σου βάζουν στο χέρι μια κέρινη σφραγίδα. 'Μία φορά τη μέρα κάνει μια εργασία τυχερή. Η επόμενη δοκιμή είναι πιο μακριά.' |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | Βούλα ανταμοιβής |
 | `Master's Writ` | Master's Writ | Διάταγμα του Δασκάλου |
 | `Fourth Option` | Fourth Option | Τέταρτη επιλογή |
-| `Bounty Seal Locked` | Bounty Seal Locked | Η Βούλα ανταμοιβής είναι κλειδωμένη |
-| `Bounty Seal Ready` | Bounty Seal Ready | Η Βούλα ανταμοιβής είναι έτοιμη |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | Η Βούλα ανταμοιβής χρησιμοποιήθηκε σήμερα |
-| `Master's Writ Locked` | Master's Writ Locked | Το Διάταγμα του Δασκάλου είναι κλειδωμένο |
-| `Master's Writ Ready` | Master's Writ Ready | Το Διάταγμα του Δασκάλου είναι έτοιμο |
-| `Master's Writ Used Today` | Master's Writ Used Today | Το Διάταγμα του Δασκάλου χρησιμοποιήθηκε σήμερα |
-| `Fourth Option Locked` | Fourth Option Locked | Η Τέταρτη επιλογή είναι κλειδωμένη |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | Η Τέταρτη επιλογή ξεκλειδώθηκε |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Μία φορά τη μέρα, διπλασίασε μία εργασία της ουράς σου: διπλάσια ποσότητα ή διπλάσιες θανατώσεις. Μια νέα βούλα έρχεται στις 00:00 UTC. Ανταμοιβή από τη Ζοφερή Δοκιμή. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Μία φορά τη μέρα, αντικατάστησε μία εργασία της ουράς σου με μία της επιλογής σου: οποιαδήποτε δραστηριότητα για την οποία έχεις το επίπεδο, σε οποιαδήποτε τοποθεσία έχεις ανακαλύψει. Ένα νέο διάταγμα έρχεται στις 00:00 UTC. Ανταμοιβή από την Άγρια Δοκιμή. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% πιθανότητα για τέταρτη εργασία σε κάθε νέα σειρά της ουράς. Ανταμοιβή από την Ολέθρια Δοκιμή. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% πιθανότητα για τέταρτη εργασία σε κάθε νέα σειρά της ουράς |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Μία φορά τη μέρα, διπλασίασε μία εργασία της ουράς. Μια νέα βούλα έρχεται στις 00:00 UTC. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Μία φορά τη μέρα, γράψε εσύ μία εργασία της ουράς. Ένα νέο διάταγμα έρχεται στις 00:00 UTC. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Οι δάσκαλοι περιμένουν στην είσοδο του μπουντρουμιού με μια γυάλινη σφαίρα και τέσσερα τραπουλόχαρτα στο χέρι. 'Η Πρώτη Σφαίρα κρατά όλες τις δοκιμές ως τώρα. Τα χαρτιά σημαίνουν ότι κάποιες μέρες θα έχεις μία επιλογή παραπάνω.' |
 | `Reset Seal + Writ` | Reset Seal + Writ | Επαναφορά Βούλας + Διατάγματος |
 | `Fourth Option Rows` | Fourth Option Rows | Σειρές με Τέταρτη επιλογή |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | Ανταμοιβές αποστολών {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Η επεξήγηση κάθε εικονιδίου λέει τι κάνει και ποια αποστολή το δίνει. Κάνε κλικ σε ένα για να ανοίξεις την αποστολή. |
+| `Ready today` | Ready today | Έτοιμο για χρήση σήμερα |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Χρησιμοποιήθηκε σήμερα. Επιστρέφει στις 00:00 UTC. |

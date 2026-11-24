@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Oppdag |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Ferdighetsglobuser: +{0}% (+{1} steg/sek) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Oppdrags-kappe: +{0}% (+{1} steg/sek) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | Ferdighetsglobuser: {0} % |
-| `@globes_count` | Globes of Skills {0}/{1} | Ferdighetsglobuser {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | Oppdrags-kappe {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% bevegelseshastighet så lenge alle oppdrag er fullført |
 | `@all_skills_lv` | All Skills Lv {0} | Alle ferdigheter niv {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% sjanse for autobearbeiding |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% sjanse for autobanking |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Mesterne trengs i banken. 'Tre prøver bestått. Vis oss nå det fineste arbeidet i landet.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Mestring: Den eldgamle prøven |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Den første globusen var for prøvene. Den andre er for det ingen har lært deg.' |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Belønning fra den onde og den eldgamle prøven. Begge stables. |
 | `Lucky Stamp` | Lucky Stamp | Heldig stempel |
 | `Make this task lucky` | Make this task lucky | Gjør denne oppgaven heldig |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Ett stempel per dag. Et nytt kommer kl. 00:00 UTC. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | Bruke det heldige stempelet? |
 | `Stamp` | Stamp | Stemple |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | Heldig stempel låst |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | Heldig stempel klart |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Heldig stempel brukt i dag |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | En gang om dagen kan du gjøre én oppgave i køen din heldig: 2x XP, 2x belønninger, ingen mislykkede handlinger. Et nytt stempel kommer kl. 00:00 UTC. Belønning fra den spinkle prøven. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% bevegelseshastighet Beholdes så lenge alle oppdrag er fullført |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Tilbakestill heldig stempel |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Mesterne venter ved fangehullets munning og trykker et lakksegl i hånden din. 'En gang om dagen gjør det en oppgave heldig. Neste prøve ligger lenger unna.' |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | Belønningssegl |
 | `Master's Writ` | Master's Writ | Mesterfullmakt |
 | `Fourth Option` | Fourth Option | Fjerde alternativ |
-| `Bounty Seal Locked` | Bounty Seal Locked | Belønningssegl låst |
-| `Bounty Seal Ready` | Bounty Seal Ready | Belønningssegl klart |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | Belønningssegl brukt i dag |
-| `Master's Writ Locked` | Master's Writ Locked | Mesterfullmakt låst |
-| `Master's Writ Ready` | Master's Writ Ready | Mesterfullmakt klar |
-| `Master's Writ Used Today` | Master's Writ Used Today | Mesterfullmakt brukt i dag |
-| `Fourth Option Locked` | Fourth Option Locked | Fjerde alternativ låst |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | Fjerde alternativ låst opp |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | En gang om dagen kan du doble én oppgave i køen din: dobbel mengde, eller dobbelt så mange drap. Et nytt segl kommer kl. 00:00 UTC. Belønning fra den grufulle prøven. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | En gang om dagen kan du bytte ut en oppgave i køen din med en du velger selv: hvilken som helst aktivitet du har nivå til, på et hvilket som helst sted du har oppdaget. En ny fullmakt kommer kl. 00:00 UTC. Belønning fra den ville prøven. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0} % sjanse for en fjerde oppgave på hver nye rad i køen. Belønning fra den onde prøven. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0} % sjanse for en fjerde oppgave på hver nye rad i køen |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Doble én oppgave i køen en gang om dagen. Et nytt segl kommer kl. 00:00 UTC. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Skriv én oppgave i køen selv en gang om dagen. En ny fullmakt kommer kl. 00:00 UTC. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Mesterne venter ved fangehullets munning med en glassglobus og en hånd med fire kort. 'Den første globusen rommer hver prøve så langt. Kortene betyr at du noen dager får ett valg til.' |
 | `Reset Seal + Writ` | Reset Seal + Writ | Tilbakestill segl + fullmakt |
 | `Fourth Option Rows` | Fourth Option Rows | Rader med fjerde alternativ |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | Oppdragsbelønninger {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Verktøytipset til hvert ikon viser hva det gjør og hvilket oppdrag som gir det. Klikk på et for å åpne oppdraget. |
+| `Ready today` | Ready today | Klar til bruk i dag |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Brukt i dag. Kan brukes igjen kl. 00:00 UTC. |

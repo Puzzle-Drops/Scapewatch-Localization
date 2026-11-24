@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | กวี |
 | Discover | ค้นพบ |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | ทรงกลมแห่งทักษะ: +{0}% (+{1} ก้าว/วิ) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | ผ้าคลุมเควสต์: +{0}% (+{1} ก้าว/วิ) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | ทรงกลมแห่งทักษะ: {0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | ทรงกลมแห่งทักษะ {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | ผ้าคลุมเควสต์ {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% ความเร็วการเคลื่อนที่ขณะที่ทำเควสต์ครบทุกเควสต์ |
 | `@all_skills_lv` | All Skills Lv {0} | ทุกทักษะ Lv {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% โอกาสแปรรูปอัตโนมัติ |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% โอกาสฝากธนาคารอัตโนมัติ |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | เหล่าปรมาจารย์เบียดกันอยู่ในธนาคาร 'ผ่านบททดสอบมาแล้วสามบท ตอนนี้แสดงผลงานที่ดีที่สุดในแผ่นดินให้พวกเราดู' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | ความเชี่ยวชาญ: บททดสอบโบราณ |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'ทรงกลมลูกแรกมีไว้สำหรับบททดสอบ ลูกที่สองมีไว้สำหรับสิ่งที่ไม่มีใครสอนเจ้า' |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | รางวัลจากบททดสอบอำมหิตและบททดสอบโบราณ ผลซ้อนกันได้ทั้งคู่ |
 | `Lucky Stamp` | Lucky Stamp | ตราประทับนำโชค |
 | `Make this task lucky` | Make this task lucky | ทำให้ภารกิจนี้นำโชค |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | ประทับได้วันละครั้ง ตราประทับใหม่จะมาเวลา 00:00 UTC |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | ต้องการใช้ตราประทับนำโชคหรือไม่? |
 | `Stamp` | Stamp | ประทับ |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | ตราประทับนำโชคถูกล็อก |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | ตราประทับนำโชคพร้อมใช้ |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | ตราประทับนำโชคของวันนี้ถูกใช้แล้ว |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | วันละครั้ง ทำให้ภารกิจหนึ่งในคิวนำโชค: XP 2 เท่า, รางวัล 2 เท่า, ไม่มีการกระทำที่ล้มเหลว ตราประทับใหม่จะมาเวลา 00:00 UTC ได้รับจากบททดสอบอ่อนแอ |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | ความเร็วในการเคลื่อนที่ +10% ถือครองได้ตราบที่ทำเควสต์สำเร็จครบทุกเควสต์ |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | รีเซ็ตตราประทับนำโชค |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | เหล่าปรมาจารย์รออยู่ที่ปากทางดันเจียน และวางตราประทับขี้ผึ้งไว้ในมือของคุณ 'มันทำให้ภารกิจนำโชคได้วันละครั้ง บททดสอบต่อไปอยู่ไกลออกไปอีก' |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | ตราผนึกรางวัล |
 | `Master's Writ` | Master's Writ | ลิขิตปรมาจารย์ |
 | `Fourth Option` | Fourth Option | ตัวเลือกที่สี่ |
-| `Bounty Seal Locked` | Bounty Seal Locked | ตราผนึกรางวัลถูกล็อก |
-| `Bounty Seal Ready` | Bounty Seal Ready | ตราผนึกรางวัลพร้อมใช้ |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | ตราผนึกรางวัลของวันนี้ถูกใช้แล้ว |
-| `Master's Writ Locked` | Master's Writ Locked | ลิขิตปรมาจารย์ถูกล็อก |
-| `Master's Writ Ready` | Master's Writ Ready | ลิขิตปรมาจารย์พร้อมใช้ |
-| `Master's Writ Used Today` | Master's Writ Used Today | ลิขิตปรมาจารย์ของวันนี้ถูกใช้แล้ว |
-| `Fourth Option Locked` | Fourth Option Locked | ตัวเลือกที่สี่ถูกล็อก |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | ปลดล็อกตัวเลือกที่สี่แล้ว |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | วันละครั้ง เพิ่มภารกิจหนึ่งในคิวเป็นสองเท่า: จำนวนสองเท่า หรือจำนวนสังหารสองเท่า ตราผนึกใหม่จะมาเวลา 00:00 UTC ได้รับจากบททดสอบร้ายกาจ |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | วันละครั้ง แทนที่ภารกิจหนึ่งในคิวด้วยภารกิจที่คุณเลือก: กิจกรรมใดก็ได้ที่เลเวลของคุณถึง ณ สถานที่ใดก็ได้ที่คุณค้นพบแล้ว ลิขิตใหม่จะมาเวลา 00:00 UTC ได้รับจากบททดสอบป่าเถื่อน |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | โอกาส {0}% ที่แถวใหม่แต่ละแถวในคิวจะมีภารกิจที่สี่ ได้รับจากบททดสอบอำมหิต |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | โอกาส {0}% ที่แถวใหม่แต่ละแถวในคิวจะมีภารกิจที่สี่ |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | วันละครั้ง เพิ่มภารกิจหนึ่งในคิวเป็นสองเท่า ตราผนึกใหม่จะมาเวลา 00:00 UTC |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | วันละครั้ง เขียนภารกิจหนึ่งในคิวด้วยตัวเอง ลิขิตใหม่จะมาเวลา 00:00 UTC |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | เหล่าปรมาจารย์รออยู่ที่ปากทางดันเจียนพร้อมทรงกลมแก้วและไพ่สี่ใบ 'ทรงกลมลูกแรกบรรจุทุกบททดสอบที่ผ่านมา ไพ่เหล่านี้หมายความว่าบางวันเจ้าจะได้ตัวเลือกเพิ่มอีกหนึ่งตัว' |
 | `Reset Seal + Writ` | Reset Seal + Writ | รีเซ็ตตราผนึก + ลิขิต |
 | `Fourth Option Rows` | Fourth Option Rows | แถวตัวเลือกที่สี่ |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | รางวัลจากเควสต์ {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | คำอธิบายของแต่ละไอคอนจะบอกว่าทำอะไรได้และได้รับจากเควสต์ใด คลิกเพื่อเปิดเควสต์นั้น |
+| `Ready today` | Ready today | พร้อมใช้วันนี้ |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | วันนี้ถูกใช้แล้ว อันใหม่จะมาเวลา 00:00 UTC |

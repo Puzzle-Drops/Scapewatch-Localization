@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Upptäck |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Färdighetsglober: +{0}% (+{1} steg/sek) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Quest-mantel: +{0}% (+{1} steg/sek) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | Färdighetsglober: {0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | Färdighetsglober {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | Quest-mantel {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% rörelsehastighet så länge alla quests är klara |
 | `@all_skills_lv` | All Skills Lv {0} | Alla färdigheter niv {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% chans till autobearbetning |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% chans till autobankning |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Mästarna trängs i banken. 'Tre prövningar avklarade. Visa oss nu det finaste arbetet i landet.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Behärskning: Den uråldriga prövningen |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Den första globen var för prövningarna. Den andra är för det som ingen har lärt dig.' |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Belöning från den ondskefulla och den uråldriga prövningen. Båda staplas. |
 | `Lucky Stamp` | Lucky Stamp | Lyckosam stämpel |
 | `Make this task lucky` | Make this task lucky | Gör denna uppgift lyckosam |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | En stämpel per dag. En ny kommer kl. 00:00 UTC. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | Vill du använda den lyckosamma stämpeln? |
 | `Stamp` | Stamp | Stämpla |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | Lyckosam stämpel låst |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | Lyckosam stämpel redo |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Lyckosam stämpel använd i dag |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | En gång om dagen kan du göra en uppgift i din kö lyckosam: 2x XP, 2x belöningar, inga misslyckade handlingar. En ny stämpel kommer kl. 00:00 UTC. Belöning från den klena prövningen. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% rörelsehastighet Behålls så länge alla quests är slutförda |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Återställ lyckosam stämpel |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Mästarna väntar vid fängelsehålans mynning och trycker ett lacksigill i din hand. 'En gång om dagen gör det en uppgift lyckosam. Nästa prövning ligger längre bort.' |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | Belöningssigill |
 | `Master's Writ` | Master's Writ | Mästarens fullmakt |
 | `Fourth Option` | Fourth Option | Fjärde valet |
-| `Bounty Seal Locked` | Bounty Seal Locked | Belöningssigill låst |
-| `Bounty Seal Ready` | Bounty Seal Ready | Belöningssigill redo |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | Belöningssigill använt i dag |
-| `Master's Writ Locked` | Master's Writ Locked | Mästarens fullmakt låst |
-| `Master's Writ Ready` | Master's Writ Ready | Mästarens fullmakt redo |
-| `Master's Writ Used Today` | Master's Writ Used Today | Mästarens fullmakt använd i dag |
-| `Fourth Option Locked` | Fourth Option Locked | Fjärde valet låst |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | Fjärde valet upplåst |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | En gång om dagen kan du dubbla en uppgift i din kö: dubbel mängd eller dubbelt så många dråp. Ett nytt sigill kommer kl. 00:00 UTC. Belöning från den grymma prövningen. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | En gång om dagen kan du byta ut en uppgift i din kö mot en du väljer själv: vilken aktivitet som helst som du har nivå för, på vilken upptäckt plats som helst. En ny fullmakt kommer kl. 00:00 UTC. Belöning från den vilda prövningen. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% chans till en fjärde uppgift på varje ny rad i kön. Belöning från den ondskefulla prövningen. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% chans till en fjärde uppgift på varje ny rad i kön |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Dubbla en uppgift i kön en gång om dagen. Ett nytt sigill kommer kl. 00:00 UTC. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Skriv själv en uppgift i kön en gång om dagen. En ny fullmakt kommer kl. 00:00 UTC. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Mästarna väntar vid fängelsehålans mynning med en glasglob och fyra kort på hand. 'Den första globen rymmer varje prövning hittills. Korten betyder att du vissa dagar får ett val till.' |
 | `Reset Seal + Writ` | Reset Seal + Writ | Återställ sigill + fullmakt |
 | `Fourth Option Rows` | Fourth Option Rows | Rader med ett fjärde val |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | Quest-belöningar {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Varje ikons verktygstips visar vad den gör och vilken quest som ger den. Klicka på en för att öppna questen. |
+| `Ready today` | Ready today | Redo i dag |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Har använts i dag. Kommer tillbaka kl. 00:00 UTC. |

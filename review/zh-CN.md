@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟游 |
 | Discover | 探索 |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | 技能之球：+{0}%（+{1}步/秒） |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | 剧情任务披风：+{0}%（+{1}步/秒） |
 | `@crit_pct_globes` | Globes of Skills: {0}% | 技能之球：{0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | 技能之球 {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | 剧情任务披风 {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | 完成所有剧情任务期间，移动速度+{0}% |
 | `@all_skills_lv` | All Skills Lv {0} | 所有技能{0}级 |
 | `@b:auto_process` | +{0}% auto-process chance | 自动加工几率+{0}% |
 | `@b:auto_bank` | +{0}% auto-bank chance | 自动存入银行几率+{0}% |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | 大师们挤满了银行。「三场试炼已经完成。现在，让我们看看这片土地上最精湛的手艺。」 |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | 精通：远古试炼 |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 「第一之球是为这些试炼。第二颗，是为那些无人教过你的东西。」 |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | 由残暴试炼与远古试炼奖励。两者效果可叠加。 |
 | `Lucky Stamp` | Lucky Stamp | 幸运印章 |
 | `Make this task lucky` | Make this task lucky | 将这项委托设为幸运委托 |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | 每天一枚印章。新印章于 00:00 UTC 发放。 |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | 使用幸运印章？ |
 | `Stamp` | Stamp | 盖章 |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | 幸运印章尚未解锁 |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | 幸运印章已就绪 |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | 幸运印章今日已使用 |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | 每天一次，将队列中的一项委托设为幸运委托：2 倍经验、2 倍奖励、行动不失败。新印章于 00:00 UTC 发放。完成孱弱试炼后获得。 |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | 移动速度 +10% 仅在全部剧情任务完成时可持有 |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | 重置幸运印章 |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | 大师们在地牢入口等候，把一枚火漆印章塞到你手里。「每天一次，它能让一项委托变得幸运。下一场试炼在更远的地方。」 |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | 奖赏封印 |
 | `Master's Writ` | Master's Writ | 大师手令 |
 | `Fourth Option` | Fourth Option | 第四选项 |
-| `Bounty Seal Locked` | Bounty Seal Locked | 奖赏封印尚未解锁 |
-| `Bounty Seal Ready` | Bounty Seal Ready | 奖赏封印已就绪 |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | 奖赏封印今日已使用 |
-| `Master's Writ Locked` | Master's Writ Locked | 大师手令尚未解锁 |
-| `Master's Writ Ready` | Master's Writ Ready | 大师手令已就绪 |
-| `Master's Writ Used Today` | Master's Writ Used Today | 大师手令今日已使用 |
-| `Fourth Option Locked` | Fourth Option Locked | 第四选项尚未解锁 |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | 已解锁第四选项 |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | 每天一次，将队列中的一项委托翻倍：数量翻倍，或击杀数翻倍。新封印于 00:00 UTC 发放。完成凶险试炼后获得。 |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | 每天一次，将队列中的一项委托替换为你选择的委托：任意等级达标的活动，任意已探索的地点。新的手令于 00:00 UTC 发放。完成野蛮试炼后获得。 |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | 队列中每个新行有 {0}% 几率出现第四项委托。完成残暴试炼后获得。 |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | 队列中每个新行有 {0}% 几率出现第四项委托 |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | 每天一次，将队列中的一项委托翻倍。新封印于 00:00 UTC 发放。 |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | 每天一次，亲自为队列写入一项委托。新的手令于 00:00 UTC 发放。 |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | 大师们带着一颗玻璃球和四张牌，在地牢入口等候。「第一之球承载着迄今为止的每一场试炼。这些牌意味着，有些日子你会多一个选择。」 |
 | `Reset Seal + Writ` | Reset Seal + Writ | 重置封印 + 手令 |
 | `Fourth Option Rows` | Fourth Option Rows | 第四选项行 |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | 剧情任务奖励 {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | 每个图标的提示会说明其效果及获取它的剧情任务。点击即可打开该剧情任务。 |
+| `Ready today` | Ready today | 今日已就绪 |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | 今日已使用。将于 00:00 UTC 恢复。 |

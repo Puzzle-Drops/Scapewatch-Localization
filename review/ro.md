@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cântă |
 | Discover | Descoperire |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Sferele abilităților: +{0}% (+{1} pași/sec) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Pelerină de misiuni: +{0}% (+{1} pași/sec) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | Sferele abilităților: {0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | Sferele abilităților {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | Pelerină de misiuni {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% viteză de mișcare cât timp toate misiunile sunt finalizate |
 | `@all_skills_lv` | All Skills Lv {0} | Toate abilitățile Niv {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% șansă de procesare automată |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% șansă de depunere automată la bancă |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Maeștrii se înghesuie în bancă. 'Trei probe încheiate. Acum arată-ne cea mai bună muncă din ținut.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Măiestrie: Proba străveche |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Prima sferă a fost pentru probe. A doua este pentru ce nu te-a învățat nimeni.' |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Recompensă din Proba nemiloasă și Proba străveche. Ambele se cumulează. |
 | `Lucky Stamp` | Lucky Stamp | Sigiliu norocos |
 | `Make this task lucky` | Make this task lucky | Fă această sarcină norocoasă |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Un sigiliu pe zi. Unul nou apare la 00:00 UTC. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | Folosești Sigiliul norocos? |
 | `Stamp` | Stamp | Aplică |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | Sigiliul norocos blocat |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | Sigiliul norocos disponibil |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Sigiliul norocos folosit astăzi |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | O dată pe zi, fă norocoasă o sarcină din coada ta: 2x XP, 2x recompense, fără acțiuni eșuate. Un sigiliu nou apare la 00:00 UTC. Recompensă pentru Proba neputincioasă. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% viteză de mișcare O păstrezi cât timp toate misiunile sunt finalizate |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Resetează Sigiliul norocos |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Maeștrii așteaptă la gura temniței și îți pun în mână un sigiliu de ceară. 'O dată pe zi face o sarcină norocoasă. Următoarea probă e mai departe.' |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | Pecetea răsplății |
 | `Master's Writ` | Master's Writ | Hrisovul maestrului |
 | `Fourth Option` | Fourth Option | A patra opțiune |
-| `Bounty Seal Locked` | Bounty Seal Locked | Pecetea răsplății blocată |
-| `Bounty Seal Ready` | Bounty Seal Ready | Pecetea răsplății disponibilă |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | Pecetea răsplății folosită astăzi |
-| `Master's Writ Locked` | Master's Writ Locked | Hrisovul maestrului blocat |
-| `Master's Writ Ready` | Master's Writ Ready | Hrisovul maestrului disponibil |
-| `Master's Writ Used Today` | Master's Writ Used Today | Hrisovul maestrului folosit astăzi |
-| `Fourth Option Locked` | Fourth Option Locked | A patra opțiune blocată |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | A patra opțiune deblocată |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | O dată pe zi, dublează o sarcină din coada ta: cantitate dublă sau ucideri duble. O pecete nouă apare la 00:00 UTC. Recompensă pentru Proba cumplită. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | O dată pe zi, înlocuiește o sarcină din coada ta cu una aleasă de tine: orice activitate pentru care ai nivelul, în orice loc pe care l-ai descoperit. Un hrisov nou apare la 00:00 UTC. Recompensă pentru Proba sălbatică. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% șanse pentru o a patra sarcină pe fiecare rând nou din coadă. Recompensă pentru Proba nemiloasă. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% șanse pentru o a patra sarcină pe fiecare rând nou din coadă |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | O dată pe zi, dublează o sarcină din coadă. O pecete nouă apare la 00:00 UTC. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | O dată pe zi, scrie chiar tu o sarcină din coadă. Un hrisov nou apare la 00:00 UTC. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Maeștrii așteaptă la gura temniței cu o sferă de sticlă și patru cărți în mână. 'Prima sferă cuprinde fiecare probă de până acum. Cărțile înseamnă că în unele zile ai o alegere în plus.' |
 | `Reset Seal + Writ` | Reset Seal + Writ | Resetează Pecetea + Hrisovul |
 | `Fourth Option Rows` | Fourth Option Rows | Rânduri cu a patra opțiune |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | Recompense de misiuni {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Descrierea fiecăruia arată ce face și ce misiune îl oferă. Dă clic pe unul pentru a deschide misiunea respectivă. |
+| `Ready today` | Ready today | Disponibil astăzi |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | S-a folosit astăzi. Revine la 00:00 UTC. |

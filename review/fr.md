@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Découverte |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Globes des compétences: +{0}% (+{1} pas/sec) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Cape de quête: +{0}% (+{1} pas/sec) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | Globes des compétences : {0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | Globes des compétences {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | Cape de quête {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% de vitesse de déplacement tant que toutes les quêtes sont terminées |
 | `@all_skills_lv` | All Skills Lv {0} | Toutes les compétences Niv {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% de chances de transformation automatique |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% de chances de dépôt automatique en banque |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Les maîtres se pressent dans la banque. 'Trois épreuves accomplies. Montrez-nous maintenant le plus beau travail du pays.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Maîtrise : L'Épreuve ancienne |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Le Premier Globe était pour les épreuves. Le second est pour ce que personne ne vous a enseigné.' |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Récompense de l'Épreuve funèbre et de l'Épreuve ancienne. Les deux se cumulent. |
 | `Lucky Stamp` | Lucky Stamp | Sceau chanceux |
 | `Make this task lucky` | Make this task lucky | Rendre cette tâche chanceuse |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Un sceau par jour. Le prochain arrive à 00:00 UTC. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | Utiliser le Sceau chanceux ? |
 | `Stamp` | Stamp | Apposer |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | Sceau chanceux verrouillé |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | Sceau chanceux prêt |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Sceau chanceux utilisé aujourd'hui |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Une fois par jour, rendez chanceuse une tâche de votre file : 2x XP, 2x récompenses, aucune action échouée. Un nouveau sceau arrive à 00:00 UTC. Récompense de l'Épreuve faible. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% de vitesse de déplacement Conservée tant que toutes les quêtes sont terminées |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Réinitialiser le Sceau chanceux |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Les maîtres attendent à l'entrée du donjon et vous glissent un sceau de cire dans la main. 'Une fois par jour, il rend une tâche chanceuse. La prochaine épreuve est plus loin.' |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | Cachet de prime |
 | `Master's Writ` | Master's Writ | Mandat du maître |
 | `Fourth Option` | Fourth Option | Quatrième option |
-| `Bounty Seal Locked` | Bounty Seal Locked | Cachet de prime verrouillé |
-| `Bounty Seal Ready` | Bounty Seal Ready | Cachet de prime prêt |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | Cachet de prime utilisé aujourd'hui |
-| `Master's Writ Locked` | Master's Writ Locked | Mandat du maître verrouillé |
-| `Master's Writ Ready` | Master's Writ Ready | Mandat du maître prêt |
-| `Master's Writ Used Today` | Master's Writ Used Today | Mandat du maître utilisé aujourd'hui |
-| `Fourth Option Locked` | Fourth Option Locked | Quatrième option verrouillée |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | Quatrième option débloquée |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Une fois par jour, doublez une tâche de votre file : quantité doublée, ou éliminations doublées. Un nouveau cachet arrive à 00:00 UTC. Récompense de l'Épreuve funeste. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Une fois par jour, remplacez une tâche de votre file par une tâche de votre choix : n'importe quelle activité pour laquelle vous avez le niveau, dans n'importe quel lieu que vous avez découvert. Un nouveau mandat arrive à 00:00 UTC. Récompense de l'Épreuve sauvage. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% de chance d'avoir une quatrième tâche sur chaque nouvelle ligne de la file. Récompense de l'Épreuve funèbre. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% de chance d'avoir une quatrième tâche sur chaque nouvelle ligne de la file |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Une fois par jour, doublez une tâche en file. Un nouveau cachet arrive à 00:00 UTC. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Une fois par jour, écrivez vous-même une tâche en file. Un nouveau mandat arrive à 00:00 UTC. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Les maîtres attendent à l'entrée du donjon avec un globe de verre et une main de quatre cartes. 'Le Premier Globe contient toutes les épreuves passées jusqu'ici. Les cartes signifient que certains jours, vous aurez une option de plus.' |
 | `Reset Seal + Writ` | Reset Seal + Writ | Réinitialiser Cachet + Mandat |
 | `Fourth Option Rows` | Fourth Option Rows | Lignes à quatre options |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | Récompenses de quête {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | L'infobulle de chacun indique son effet et la quête qui le donne. Cliquez dessus pour ouvrir cette quête. |
+| `Ready today` | Ready today | Prêt aujourd'hui |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Utilisé aujourd'hui. De nouveau disponible à 00:00 UTC. |

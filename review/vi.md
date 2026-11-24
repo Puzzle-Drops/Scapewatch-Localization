@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Nhạc công |
 | Discover | Khám phá |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Khối cầu kỹ năng: +{0}% (+{1} bước/giây) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Áo choàng Quest: +{0}% (+{1} bước/giây) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | Khối cầu kỹ năng: {0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | Khối cầu kỹ năng {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | Áo choàng Quest {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% tốc độ di chuyển khi đã hoàn thành mọi quest |
 | `@all_skills_lv` | All Skills Lv {0} | Tất cả kỹ năng Lv {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% tỉ lệ tự động chế biến |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% tỉ lệ tự động gửi ngân hàng |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | Các bậc thầy chen chúc trong ngân hàng. 'Đã xong ba thử thách. Giờ hãy cho chúng ta thấy tay nghề tuyệt nhất vùng đất này.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Tinh thông: Thử thách cổ đại |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'Khối cầu thứ nhất dành cho các thử thách. Khối thứ hai dành cho những gì chưa ai dạy ngươi.' |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Phần thưởng từ Thử thách tàn khốc và Thử thách cổ đại. Cả hai đều cộng dồn. |
 | `Lucky Stamp` | Lucky Stamp | Con dấu May mắn |
 | `Make this task lucky` | Make this task lucky | Biến nhiệm vụ này thành nhiệm vụ may mắn |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Mỗi ngày một con dấu. Con dấu mới đến lúc 00:00 UTC. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | Dùng Con dấu May mắn? |
 | `Stamp` | Stamp | Đóng dấu |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | Con dấu May mắn đang khóa |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | Con dấu May mắn sẵn sàng |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Con dấu May mắn đã dùng hôm nay |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Mỗi ngày một lần, biến một nhiệm vụ trong hàng đợi thành may mắn: 2x XP, 2x phần thưởng, không có hành động thất bại. Con dấu mới đến lúc 00:00 UTC. Phần thưởng từ Thử thách yếu ớt. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% tốc độ di chuyển Chỉ giữ được khi đã hoàn thành mọi Quest |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Đặt lại Con dấu May mắn |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Các bậc thầy chờ ở cửa ngục tối và ấn vào tay bạn một con dấu sáp. 'Mỗi ngày một lần, nó khiến một nhiệm vụ trở nên may mắn. Thử thách tiếp theo còn ở xa hơn.' |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | Ấn Ban thưởng |
 | `Master's Writ` | Master's Writ | Sắc lệnh Bậc thầy |
 | `Fourth Option` | Fourth Option | Lựa chọn thứ tư |
-| `Bounty Seal Locked` | Bounty Seal Locked | Ấn Ban thưởng đang khóa |
-| `Bounty Seal Ready` | Bounty Seal Ready | Ấn Ban thưởng sẵn sàng |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | Ấn Ban thưởng đã dùng hôm nay |
-| `Master's Writ Locked` | Master's Writ Locked | Sắc lệnh Bậc thầy đang khóa |
-| `Master's Writ Ready` | Master's Writ Ready | Sắc lệnh Bậc thầy sẵn sàng |
-| `Master's Writ Used Today` | Master's Writ Used Today | Sắc lệnh Bậc thầy đã dùng hôm nay |
-| `Fourth Option Locked` | Fourth Option Locked | Lựa chọn thứ tư đang khóa |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | Đã mở khóa Lựa chọn thứ tư |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Mỗi ngày một lần, nhân đôi một nhiệm vụ trong hàng đợi: gấp đôi số lượng, hoặc gấp đôi số lần hạ gục. Chiếc ấn mới đến lúc 00:00 UTC. Phần thưởng từ Thử thách hung hiểm. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Mỗi ngày một lần, thay một nhiệm vụ trong hàng đợi bằng nhiệm vụ bạn chọn: bất kỳ hoạt động nào bạn đủ cấp, tại bất kỳ địa điểm nào bạn đã khám phá. Sắc lệnh mới đến lúc 00:00 UTC. Phần thưởng từ Thử thách hung bạo. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% cơ hội có nhiệm vụ thứ tư ở mỗi hàng mới trong hàng đợi. Phần thưởng từ Thử thách tàn khốc. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% cơ hội có nhiệm vụ thứ tư ở mỗi hàng mới trong hàng đợi |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Mỗi ngày một lần, nhân đôi một nhiệm vụ trong hàng đợi. Chiếc ấn mới đến lúc 00:00 UTC. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Mỗi ngày một lần, tự viết một nhiệm vụ trong hàng đợi. Sắc lệnh mới đến lúc 00:00 UTC. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | Các bậc thầy chờ ở cửa ngục tối với một khối cầu thủy tinh và bốn lá bài. 'Khối cầu thứ nhất chứa đựng mọi thử thách cho tới giờ. Những lá bài nghĩa là có những ngày ngươi được thêm một lựa chọn.' |
 | `Reset Seal + Writ` | Reset Seal + Writ | Đặt lại Ấn + Sắc lệnh |
 | `Fourth Option Rows` | Fourth Option Rows | Hàng có Lựa chọn thứ tư |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | Phần thưởng Quest {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Chú thích của mỗi biểu tượng cho biết công dụng và quest trao nó. Nhấp vào một biểu tượng để mở quest đó. |
+| `Ready today` | Ready today | Sẵn sàng hôm nay |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Đã dùng hôm nay. Sẽ trở lại lúc 00:00 UTC. |

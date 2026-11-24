@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | スキルの天球: +{0}% (+{1} 歩/秒) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | クエストケープ: +{0}% (+{1} 歩/秒) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | スキルの天球：{0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | スキルの天球 {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | クエストケープ {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | 全クエスト完了中は移動速度+{0}% |
 | `@all_skills_lv` | All Skills Lv {0} | 全スキル Lv {0} |
 | `@b:auto_process` | +{0}% auto-process chance | 自動加工確率+{0}% |
 | `@b:auto_bank` | +{0}% auto-bank chance | 自動預け入れ確率+{0}% |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | 達人たちが銀行に詰めかける。「三つの試練を終えたな。では、この地で最高の仕事を見せてくれ」 |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | 熟達：古代の試練 |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 「第一の天球は、試練のためのものだった。第二の天球は、誰も君に教えなかったもののためだ」 |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | 邪悪の試練と古代の試練の報酬。両方の効果が重複する。 |
 | `Lucky Stamp` | Lucky Stamp | 幸運スタンプ |
 | `Make this task lucky` | Make this task lucky | このタスクを幸運にする |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | スタンプは1日1回まで。00:00 UTC に補充されます。 |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | 幸運スタンプを使いますか？ |
 | `Stamp` | Stamp | 押す |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | 幸運スタンプ 未解放 |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | 幸運スタンプ 使用可能 |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | 幸運スタンプ 本日使用済み |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | 1日1回、キュー内のタスク1つを幸運にできます：XP 2倍、報酬 2倍、アクション失敗なし。00:00 UTC にスタンプが補充されます。虚弱の試練の報酬です。 |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | 移動速度 +10% すべてのクエストを完了している間のみ保持できる |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | 幸運スタンプをリセット |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | 達人たちがダンジョンの入口で待っていて、封蝋の印章をあなたの手に握らせる。「日に一度、タスクを一つ幸運にしてくれる。次の試練はもっと遠くで行う」 |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | 褒賞の印章 |
 | `Master's Writ` | Master's Writ | 達人の書状 |
 | `Fourth Option` | Fourth Option | 第四の選択肢 |
-| `Bounty Seal Locked` | Bounty Seal Locked | 褒賞の印章 未解放 |
-| `Bounty Seal Ready` | Bounty Seal Ready | 褒賞の印章 使用可能 |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | 褒賞の印章 本日使用済み |
-| `Master's Writ Locked` | Master's Writ Locked | 達人の書状 未解放 |
-| `Master's Writ Ready` | Master's Writ Ready | 達人の書状 使用可能 |
-| `Master's Writ Used Today` | Master's Writ Used Today | 達人の書状 本日使用済み |
-| `Fourth Option Locked` | Fourth Option Locked | 第四の選択肢 未解放 |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | 第四の選択肢 解放済み |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | 1日1回、キュー内のタスク1つを2倍にできます：数量が2倍、または討伐数が2倍。00:00 UTC に印章が補充されます。凶兆の試練の報酬です。 |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | 1日1回、キュー内のタスク1つを好きなタスクに置き換えられます：レベルを満たしたどのアクティビティでも、発見済みのどの場所でも選べます。00:00 UTC に書状が補充されます。獰猛の試練の報酬です。 |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | 新しいキュー行ごとに{0}%の確率で4つ目のタスクが出現。邪悪の試練の報酬です。 |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | 新しいキュー行ごとに{0}%の確率で4つ目のタスクが出現 |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | 1日1回、キューのタスク1つを2倍にする。00:00 UTC に印章が補充される。 |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | 1日1回、キューのタスク1つを自分で書き込む。00:00 UTC に書状が補充される。 |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | 達人たちがガラスの天球と4枚のカードを手に、ダンジョンの入口で待っている。「第一の天球には、これまでのすべての試練が込められている。カードは、選択肢が一つ増える日があるという意味だ」 |
 | `Reset Seal + Writ` | Reset Seal + Writ | 印章＋書状をリセット |
 | `Fourth Option Rows` | Fourth Option Rows | 第四の選択肢の行 |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | クエスト報酬 {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | 各アイコンのツールチップに効果と入手できるクエストが表示されます。クリックするとそのクエストを開きます。 |
+| `Ready today` | Ready today | 本日使用可能 |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | 本日使用済み。00:00 UTC に補充されます。 |

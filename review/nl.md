@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Ontdekken |
 
-## Lines to review (1416)
+## Lines to review (1401)
 
 | Key | English | Current |
 |---|---|---|
@@ -1334,9 +1334,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `@mv_globes` | Globes of Skills: +{0}% (+{1} steps/sec) | Vaardigheidsglobes: +{0}% (+{1} stappen/sec) |
 | `@mv_quest_cape` | Quest Cape: +{0}% (+{1} steps/sec) | Quest-mantel: +{0}% (+{1} stappen/sec) |
 | `@crit_pct_globes` | Globes of Skills: {0}% | Vaardigheidsglobes: {0}% |
-| `@globes_count` | Globes of Skills {0}/{1} | Vaardigheidsglobes {0}/{1} |
-| `@quest_cape_count` | Quest Cape {0}/{1} | Quest-mantel {0}/{1} |
-| `@quest_cape_desc` | +{0}% movement speed while every quest is completed | +{0}% bewegingssnelheid zolang elke quest voltooid is |
 | `@all_skills_lv` | All Skills Lv {0} | Alle Vaardigheden Niv {0} |
 | `@b:auto_process` | +{0}% auto-process chance | +{0}% kans op auto-verwerking |
 | `@b:auto_bank` | +{0}% auto-bank chance | +{0}% kans op auto-banken |
@@ -1420,16 +1417,11 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.'` | The masters crowd the bank. 'Three trials done. Now show us the finest work in the land.' | De meesters verdringen zich in de bank. 'Drie proeven gehaald. Laat ons nu het beste werk van het land zien.' |
 | `Mastery: The Ancient Trial` | Mastery: The Ancient Trial | Meesterschap: De Aloude Proef |
 | `'The First Globe was for the trials. The second is for what nobody taught you.'` | 'The First Globe was for the trials. The second is for what nobody taught you.' | 'De Eerste Globe was voor de proeven. De tweede is voor wat niemand je heeft geleerd.' |
-| `Rewarded by the Fell and Ancient trials. Both stack.` | Rewarded by the Fell and Ancient trials. Both stack. | Beloning uit de Wrede en de Aloude Proef. Beide zijn stapelbaar. |
 | `Lucky Stamp` | Lucky Stamp | Geluksstempel |
 | `Make this task lucky` | Make this task lucky | Deze taak gelukkig maken |
 | `One stamp per day. A new one comes at 00:00 UTC.` | One stamp per day. A new one comes at 00:00 UTC. | Eén stempel per dag. Om 00:00 UTC komt er een nieuwe. |
 | `Use the Lucky Stamp?` | Use the Lucky Stamp? | Geluksstempel gebruiken? |
 | `Stamp` | Stamp | Stempelen |
-| `Lucky Stamp Locked` | Lucky Stamp Locked | Geluksstempel vergrendeld |
-| `Lucky Stamp Ready` | Lucky Stamp Ready | Geluksstempel klaar |
-| `Lucky Stamp Used Today` | Lucky Stamp Used Today | Geluksstempel vandaag gebruikt |
-| `Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial.` | Once a day, make one task in your queue lucky: 2x XP, 2x rewards, no failed actions. A new stamp comes at 00:00 UTC. Rewarded by the Feeble trial. | Maak één keer per dag een taak in je wachtrij gelukkig: 2x XP, 2x beloningen, geen mislukte acties. Om 00:00 UTC komt er een nieuwe stempel. Beloning van de Zwakke Proef. |
 | `+10% movement speed Held while every quest is completed` | +10% movement speed Held while every quest is completed | +10% bewegingssnelheid Blijft van jou zolang alle quests voltooid zijn |
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Geluksstempel resetten |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | De meesters wachten bij de ingang van de kerker en drukken je een lakzegel in de hand. 'Eén keer per dag maakt het een taak gelukkig. De volgende proef ligt verder weg.' |
@@ -1442,17 +1434,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bounty Seal` | Bounty Seal | Beloningszegel |
 | `Master's Writ` | Master's Writ | Meestersmandaat |
 | `Fourth Option` | Fourth Option | Vierde Optie |
-| `Bounty Seal Locked` | Bounty Seal Locked | Beloningszegel vergrendeld |
-| `Bounty Seal Ready` | Bounty Seal Ready | Beloningszegel klaar |
-| `Bounty Seal Used Today` | Bounty Seal Used Today | Beloningszegel vandaag gebruikt |
-| `Master's Writ Locked` | Master's Writ Locked | Meestersmandaat vergrendeld |
-| `Master's Writ Ready` | Master's Writ Ready | Meestersmandaat klaar |
-| `Master's Writ Used Today` | Master's Writ Used Today | Meestersmandaat vandaag gebruikt |
-| `Fourth Option Locked` | Fourth Option Locked | Vierde Optie vergrendeld |
-| `Fourth Option Unlocked` | Fourth Option Unlocked | Vierde Optie ontgrendeld |
-| `Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial.` | Once a day, double one task in your queue: twice the quantity, or twice the kills. A new seal comes at 00:00 UTC. Rewarded by the Dire trial. | Verdubbel één keer per dag een taak in je wachtrij: dubbele hoeveelheid of dubbel zoveel kills. Om 00:00 UTC komt er een nieuw zegel. Beloning van de Grimmige Proef. |
-| `Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial.` | Once a day, replace a task in your queue with one you choose: any activity you have the level for, at any place you have discovered. A new writ comes at 00:00 UTC. Rewarded by the Savage trial. | Vervang één keer per dag een taak in je wachtrij door een taak naar keuze: elke activiteit waarvoor je het niveau hebt, op elke plek die je hebt ontdekt. Om 00:00 UTC komt er een nieuw mandaat. Beloning van de Woeste Proef. |
-| `@fourth_option_desc` | {0}% chance of a fourth task on each new queue row. Rewarded by the Fell trial. | {0}% kans op een vierde taak in elke nieuwe rij van de wachtrij. Beloning van de Wrede Proef. |
 | `@fourth_option_chance` | {0}% chance of a fourth task on each new queue row | {0}% kans op een vierde taak in elke nieuwe rij van de wachtrij |
 | `Once a day, double one queued task. A new seal comes at 00:00 UTC.` | Once a day, double one queued task. A new seal comes at 00:00 UTC. | Verdubbel één keer per dag een taak in de wachtrij. Om 00:00 UTC komt er een nieuw zegel. |
 | `Once a day, write one queued task yourself. A new writ comes at 00:00 UTC.` | Once a day, write one queued task yourself. A new writ comes at 00:00 UTC. | Schrijf één keer per dag zelf een taak in de wachtrij. Om 00:00 UTC komt er een nieuw mandaat. |
@@ -1486,3 +1467,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.'` | The masters wait at the dungeon mouth with a glass globe and a hand of four cards. 'The First Globe holds every trial so far. The cards mean some days you get one more choice.' | De meesters wachten bij de ingang van de kerker met een glazen globe en een hand van vier kaarten. 'De Eerste Globe bevat elke proef tot nu toe. De kaarten betekenen dat je sommige dagen een keuze extra krijgt.' |
 | `Reset Seal + Writ` | Reset Seal + Writ | Zegel + mandaat resetten |
 | `Fourth Option Rows` | Fourth Option Rows | Rijen met Vierde Optie |
+| `@quest_rewards_count` | Quest Rewards {0}/{1} | Quest-beloningen {0}/{1} |
+| `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | De tooltip van elk icoon toont wat het doet en welke quest het geeft. Klik erop om die quest te openen. |
+| `Ready today` | Ready today | Vandaag klaar voor gebruik |
+| `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Vandaag gebruikt. Om 00:00 UTC weer beschikbaar. |

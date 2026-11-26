@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Mesterlevéllel beírva |
 | `Replaces` | Replaces | Lecserélendő |
 | `This replaces a lucky task.` | This replaces a lucky task. | Ez egy szerencsés feladatot cserél le. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Ez egy megduplázott feladatot cserél le. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Ez egy szerencsés, megduplázott feladatot cserél le. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | A mennyiséget a játék sorsolja, mint bármely feladatnál. Naponta egy Mesterlevél. Újat 00:00 UTC-kor kapsz. |
 | `Write` | Write | Beírás |
 | `Place` | Place | Hely |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Mindegyik leírása megmutatja, mit csinál, és melyik küldetés adja. Kattints rá a küldetés megnyitásához. |
 | `Ready today` | Ready today | Ma használható |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Ma már felhasználva. Újat 00:00 UTC-kor kapsz. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Szerencsés pecséttel szerencséssé téve |
+| `One daily tool per task.` | One daily tool per task. | Feladatonként egy napi eszköz. |

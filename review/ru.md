@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Вписана по Грамоте мастера |
 | `Replaces` | Replaces | Заменяет |
 | `This replaces a lucky task.` | This replaces a lucky task. | Это заменит удачную задачу. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Это заменит задачу с клеймом. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Это заменит удачную задачу с клеймом. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Количество выпадает случайно, как у любой задачи. Одна грамота в день. Новая появляется в 00:00 UTC. |
 | `Write` | Write | Вписать |
 | `Place` | Place | Место |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Подсказка каждого значка показывает, что он делает и какое задание его даёт. Нажмите на значок, чтобы открыть это задание. |
 | `Ready today` | Ready today | Сегодня готово к использованию |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Сегодня использовано. Обновится в 00:00 UTC. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Сделана удачной Удачной печатью |
+| `One daily tool per task.` | One daily tool per task. | Один ежедневный инструмент на задачу. |

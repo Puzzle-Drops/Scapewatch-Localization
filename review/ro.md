@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Scrisă cu Hrisovul maestrului |
 | `Replaces` | Replaces | Înlocuiește |
 | `This replaces a lucky task.` | This replaces a lucky task. | Aceasta înlocuiește o sarcină norocoasă. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Aceasta înlocuiește o sarcină pecetluită. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Aceasta înlocuiește o sarcină norocoasă și pecetluită. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Cantitatea se generează ca la orice sarcină. Un hrisov pe zi. Unul nou apare la 00:00 UTC. |
 | `Write` | Write | Scrie |
 | `Place` | Place | Loc |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Descrierea fiecăruia arată ce face și ce misiune îl oferă. Dă clic pe unul pentru a deschide misiunea respectivă. |
 | `Ready today` | Ready today | Disponibil astăzi |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | S-a folosit astăzi. Revine la 00:00 UTC. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Făcută norocoasă de Sigiliul norocos |
+| `One daily tool per task.` | One daily tool per task. | Câte o unealtă zilnică pe sarcină. |

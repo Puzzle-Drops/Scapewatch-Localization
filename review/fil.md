@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Isinulat gamit ang Kasulatan ng Maestro |
 | `Replaces` | Replaces | Papalitan |
 | `This replaces a lucky task.` | This replaces a lucky task. | Papalitan nito ang isang maswerteng gawain. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Papalitan nito ang isang dinobleng gawain. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Papalitan nito ang isang maswerte at dinobleng gawain. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Nira-roll ang dami gaya ng anumang gawain. Isang kasulatan kada araw. Darating ang bago sa 00:00 UTC. |
 | `Write` | Write | Isulat |
 | `Place` | Place | Lugar |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Sinasabi ng tooltip ng bawat isa kung ano ang ginagawa nito at kung aling quest ang nagbibigay nito. I-click ang isa para buksan ang quest na iyon. |
 | `Ready today` | Ready today | Handa na ngayong araw |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Nagamit na ngayong araw. Darating ang bago sa 00:00 UTC. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Pinaswerte ng Maswerteng Selyo |
+| `One daily tool per task.` | One daily tool per task. | Isang pang-araw-araw na kagamitan bawat gawain. |

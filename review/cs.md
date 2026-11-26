@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Napsáno Listinou mistrů |
 | `Replaces` | Replaces | Nahrazuje |
 | `This replaces a lucky task.` | This replaces a lucky task. | Tímto nahradíš šťastný úkol. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Tímto nahradíš zdvojnásobený úkol. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Tímto nahradíš šťastný, zdvojnásobený úkol. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Množství se losuje jako u každého úkolu. Jedna listina denně. Nová přijde v 00:00 UTC. |
 | `Write` | Write | Napsat |
 | `Place` | Place | Místo |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Popisek každé položky ukazuje, co dělá a který quest ji dává. Kliknutím otevřeš příslušný quest. |
 | `Ready today` | Ready today | Dnes připravena |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Dnes použita. Obnoví se v 00:00 UTC. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Šťastná díky Šťastné pečeti |
+| `One daily tool per task.` | One daily tool per task. | Jedna denní pomůcka na úkol. |

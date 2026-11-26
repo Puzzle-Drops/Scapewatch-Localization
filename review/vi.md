@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Được viết bằng Sắc lệnh Bậc thầy |
 | `Replaces` | Replaces | Thay thế |
 | `This replaces a lucky task.` | This replaces a lucky task. | Thao tác này sẽ thay thế một nhiệm vụ may mắn. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Thao tác này sẽ thay thế một nhiệm vụ đã được nhân đôi. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Thao tác này sẽ thay thế một nhiệm vụ may mắn đã được nhân đôi. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Số lượng được gieo như mọi nhiệm vụ khác. Mỗi ngày một sắc lệnh. Sắc lệnh mới đến lúc 00:00 UTC. |
 | `Write` | Write | Viết |
 | `Place` | Place | Địa điểm |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Chú thích của mỗi biểu tượng cho biết công dụng và quest trao nó. Nhấp vào một biểu tượng để mở quest đó. |
 | `Ready today` | Ready today | Sẵn sàng hôm nay |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Đã dùng hôm nay. Sẽ trở lại lúc 00:00 UTC. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Được làm may mắn bởi Con dấu May mắn |
+| `One daily tool per task.` | One daily tool per task. | Mỗi nhiệm vụ chỉ dùng một công cụ hằng ngày. |

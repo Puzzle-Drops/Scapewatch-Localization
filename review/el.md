@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Γράφτηκε με το Διάταγμα του Δασκάλου |
 | `Replaces` | Replaces | Αντικαθιστά |
 | `This replaces a lucky task.` | This replaces a lucky task. | Αυτό αντικαθιστά μια τυχερή εργασία. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Αυτό αντικαθιστά μια διπλασιασμένη εργασία. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Αυτό αντικαθιστά μια τυχερή, διπλασιασμένη εργασία. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Η ποσότητα ρίχνεται όπως σε κάθε εργασία. Ένα διάταγμα τη μέρα. Το επόμενο έρχεται στις 00:00 UTC. |
 | `Write` | Write | Εγγραφή |
 | `Place` | Place | Τοποθεσία |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Η επεξήγηση κάθε εικονιδίου λέει τι κάνει και ποια αποστολή το δίνει. Κάνε κλικ σε ένα για να ανοίξεις την αποστολή. |
 | `Ready today` | Ready today | Έτοιμο για χρήση σήμερα |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Χρησιμοποιήθηκε σήμερα. Επιστρέφει στις 00:00 UTC. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Έγινε τυχερή από την Τυχερή σφραγίδα |
+| `One daily tool per task.` | One daily tool per task. | Ένα ημερήσιο εργαλείο ανά εργασία. |

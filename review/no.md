@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Skrevet med mesterfullmakten |
 | `Replaces` | Replaces | Erstatter |
 | `This replaces a lucky task.` | This replaces a lucky task. | Dette erstatter en heldig oppgave. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Dette erstatter en forseglet oppgave. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Dette erstatter en heldig, forseglet oppgave. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Mengden trilles som for alle oppgaver. Én fullmakt per dag. En ny kommer kl. 00:00 UTC. |
 | `Write` | Write | Skriv |
 | `Place` | Place | Sted |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Verktøytipset til hvert ikon viser hva det gjør og hvilket oppdrag som gir det. Klikk på et for å åpne oppdraget. |
 | `Ready today` | Ready today | Klar til bruk i dag |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Brukt i dag. Kan brukes igjen kl. 00:00 UTC. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Gjort heldig av det heldige stempelet |
+| `One daily tool per task.` | One daily tool per task. | Ett daglig verktøy per oppgave. |

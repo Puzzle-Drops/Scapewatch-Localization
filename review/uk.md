@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Вписано Грамотою майстрів |
 | `Replaces` | Replaces | Замінює |
 | `This replaces a lucky task.` | This replaces a lucky task. | Це замінить щасливе доручення. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Це замінить подвоєне доручення. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Це замінить щасливе подвоєне доручення. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Кількість визначається випадково, як і для будь-якого доручення. Одна грамота на день. Нова з’являється о 00:00 UTC. |
 | `Write` | Write | Вписати |
 | `Place` | Place | Місце |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Підказка кожного значка показує, що він робить і яке завдання його дає. Натисніть на значок, щоб відкрити це завдання. |
 | `Ready today` | Ready today | Готова сьогодні |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Сьогодні використано. Оновиться о 00:00 UTC. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Зроблено щасливою Щасливою печаткою |
+| `One daily tool per task.` | One daily tool per task. | Один щоденний інструмент на завдання. |

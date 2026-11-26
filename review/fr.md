@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Écrite avec le Mandat du maître |
 | `Replaces` | Replaces | Remplace |
 | `This replaces a lucky task.` | This replaces a lucky task. | Ceci remplace une tâche chanceuse. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Ceci remplace une tâche cachetée. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Ceci remplace une tâche chanceuse et cachetée. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | La quantité est tirée comme pour toute tâche. Un mandat par jour. Le prochain arrive à 00:00 UTC. |
 | `Write` | Write | Écrire |
 | `Place` | Place | Lieu |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | L'infobulle de chacun indique son effet et la quête qui le donne. Cliquez dessus pour ouvrir cette quête. |
 | `Ready today` | Ready today | Prêt aujourd'hui |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Utilisé aujourd'hui. De nouveau disponible à 00:00 UTC. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Rendue chanceuse par le Sceau chanceux |
+| `One daily tool per task.` | One daily tool per task. | Un outil quotidien par tâche. |

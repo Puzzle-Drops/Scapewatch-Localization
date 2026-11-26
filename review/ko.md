@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | 장인의 위임장으로 작성됨 |
 | `Replaces` | Replaces | 교체 대상 |
 | `This replaces a lucky task.` | This replaces a lucky task. | 행운 임무가 교체됩니다. |
-| `This replaces a sealed task.` | This replaces a sealed task. | 포상 인장이 찍힌 임무가 교체됩니다. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | 포상 인장이 찍힌 행운 임무가 교체됩니다. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | 수량은 다른 임무처럼 무작위로 정해집니다. 위임장은 하루에 하나입니다. 00:00 UTC에 새로 지급됩니다. |
 | `Write` | Write | 작성 |
 | `Place` | Place | 장소 |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | 각 아이콘의 툴팁에서 효과와 보상을 주는 퀘스트를 확인할 수 있습니다. 클릭하면 해당 퀘스트가 열립니다. |
 | `Ready today` | Ready today | 오늘 준비됨 |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | 오늘 사용함. 00:00 UTC에 다시 지급됩니다. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | 행운 인장으로 행운 적용됨 |
+| `One daily tool per task.` | One daily tool per task. | 작업 하나에 일일 도구는 하나만 쓸 수 있습니다. |

@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | 達人の書状で書き込み済み |
 | `Replaces` | Replaces | 置き換え対象 |
 | `This replaces a lucky task.` | This replaces a lucky task. | 幸運タスクを置き換えます。 |
-| `This replaces a sealed task.` | This replaces a sealed task. | 印章で2倍化したタスクを置き換えます。 |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | 幸運かつ印章で2倍化したタスクを置き換えます。 |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | 数量は通常のタスクと同じくランダムに決まります。書状は1日1回まで。00:00 UTC に補充されます。 |
 | `Write` | Write | 書く |
 | `Place` | Place | 場所 |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | 各アイコンのツールチップに効果と入手できるクエストが表示されます。クリックするとそのクエストを開きます。 |
 | `Ready today` | Ready today | 本日使用可能 |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | 本日使用済み。00:00 UTC に補充されます。 |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | 幸運スタンプで幸運化済み |
+| `One daily tool per task.` | One daily tool per task. | 1つのタスクにデイリーツールは1つまで。 |

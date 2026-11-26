@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Geschreven met het Meestersmandaat |
 | `Replaces` | Replaces | Vervangt |
 | `This replaces a lucky task.` | This replaces a lucky task. | Dit vervangt een gelukkige taak. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Dit vervangt een verzegelde taak. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Dit vervangt een gelukkige, verzegelde taak. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | De hoeveelheid wordt gerold zoals bij elke taak. Eén mandaat per dag. Om 00:00 UTC komt er een nieuw mandaat. |
 | `Write` | Write | Schrijven |
 | `Place` | Place | Plek |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | De tooltip van elk icoon toont wat het doet en welke quest het geeft. Klik erop om die quest te openen. |
 | `Ready today` | Ready today | Vandaag klaar voor gebruik |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Vandaag gebruikt. Om 00:00 UTC weer beschikbaar. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Gelukkig gemaakt door de Geluksstempel |
+| `One daily tool per task.` | One daily tool per task. | Eén dagelijks hulpmiddel per taak. |

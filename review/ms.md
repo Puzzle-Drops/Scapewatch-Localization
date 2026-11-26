@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Ditulis dengan Watikah Guru |
 | `Replaces` | Replaces | Menggantikan |
 | `This replaces a lucky task.` | This replaces a lucky task. | Ini menggantikan tugasan bertuah. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Ini menggantikan tugasan yang dimeterai. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Ini menggantikan tugasan bertuah yang dimeterai. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Jumlahnya dilambung seperti tugasan lain. Satu watikah sehari. Watikah baharu tiba pada 00:00 UTC. |
 | `Write` | Write | Tulis |
 | `Place` | Place | Tempat |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Tip alat setiap satu menerangkan fungsinya dan quest yang memberikannya. Klik salah satu untuk membuka quest tersebut. |
 | `Ready today` | Ready today | Sedia hari ini |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Sudah digunakan hari ini. Yang baharu tiba pada 00:00 UTC. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Dijadikan bertuah oleh Cop Bertuah |
+| `One daily tool per task.` | One daily tool per task. | Satu alat harian bagi setiap tugasan. |

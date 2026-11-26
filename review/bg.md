@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Написана с Майсторската грамота |
 | `Replaces` | Replaces | Заменя |
 | `This replaces a lucky task.` | This replaces a lucky task. | Това заменя късметлийска задача. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Това заменя удвоена задача. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Това заменя късметлийска, удвоена задача. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Количеството се тегли като при всяка задача. Една грамота на ден. Нова идва в 00:00 UTC. |
 | `Write` | Write | Напиши |
 | `Place` | Place | Място |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Подсказката на всеки предмет казва какво прави и кой куест го дава. Кликни върху предмет, за да отвориш куеста му. |
 | `Ready today` | Ready today | Готово за използване днес |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Използвано днес. Подновява се в 00:00 UTC. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Направена късметлийска от Късметлийския печат |
+| `One daily tool per task.` | One daily tool per task. | Само един ежедневен инструмент на задача. |

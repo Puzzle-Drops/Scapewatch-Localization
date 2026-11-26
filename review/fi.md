@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Kirjoitettu mestarin valtakirjalla |
 | `Replaces` | Replaces | Korvaa |
 | `This replaces a lucky task.` | This replaces a lucky task. | Tämä korvaa onnekkaan tehtävän. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Tämä korvaa sinetöidyn tehtävän. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Tämä korvaa onnekkaan, sinetöidyn tehtävän. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Määrä arvotaan kuten missä tahansa tehtävässä. Yksi valtakirja päivässä. Uusi tulee klo 00:00 UTC. |
 | `Write` | Write | Kirjoita |
 | `Place` | Place | Paikka |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Jokaisen kuvakkeen vihje kertoo, mitä se tekee ja mistä tehtävänannosta sen saa. Napsauta kuvaketta avataksesi tehtävänannon. |
 | `Ready today` | Ready today | Valmis tänään |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Käytetty tänään. Uusi tulee klo 00:00 UTC. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Tehty onnekkaaksi onnekkaalla leimalla |
+| `One daily tool per task.` | One daily tool per task. | Yksi päivittäinen työkalu tehtävää kohden. |

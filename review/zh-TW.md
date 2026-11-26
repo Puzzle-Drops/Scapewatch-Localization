@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | 由大師手令寫入 |
 | `Replaces` | Replaces | 替換 |
 | `This replaces a lucky task.` | This replaces a lucky task. | 這將替換一個幸運差事。 |
-| `This replaces a sealed task.` | This replaces a sealed task. | 這將替換一個已翻倍的差事。 |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | 這將替換一個已翻倍的幸運差事。 |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | 數量和其他差事一樣隨機擲出。每天一張手令。新的手令於 00:00 UTC 發放。 |
 | `Write` | Write | 寫入 |
 | `Place` | Place | 地點 |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | 每個圖示的提示會說明其效果及取得它的任務。點擊即可開啟該任務。 |
 | `Ready today` | Ready today | 今日已就緒 |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | 今日已使用。將於 00:00 UTC 恢復。 |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | 已由幸運印章變為幸運 |
+| `One daily tool per task.` | One daily tool per task. | 每個任務只能使用一種每日工具。 |

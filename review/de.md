@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Mit dem Meisterbrief geschrieben |
 | `Replaces` | Replaces | Ersetzt |
 | `This replaces a lucky task.` | This replaces a lucky task. | Dies ersetzt eine glückliche Aufgabe. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Dies ersetzt eine gesiegelte Aufgabe. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Dies ersetzt eine glückliche, gesiegelte Aufgabe. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Die Menge wird wie bei jeder Aufgabe gewürfelt. Ein Meisterbrief pro Tag. Um 00:00 UTC gibt es einen neuen. |
 | `Write` | Write | Schreiben |
 | `Place` | Place | Ort |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Jeder Tooltip zeigt, was der Gegenstand bewirkt und welche Quest ihn gewährt. Klicke darauf, um die Quest zu öffnen. |
 | `Ready today` | Ready today | Heute bereit |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Heute verwendet. Ab 00:00 UTC wieder verfügbar. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Mit dem Glücksstempel glücklich gemacht |
+| `One daily tool per task.` | One daily tool per task. | Ein tägliches Hilfsmittel pro Aufgabe. |

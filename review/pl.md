@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Wpisane Glejtem mistrza |
 | `Replaces` | Replaces | Zastępuje |
 | `This replaces a lucky task.` | This replaces a lucky task. | To zastąpi szczęśliwe zadanie. |
-| `This replaces a sealed task.` | This replaces a sealed task. | To zastąpi zadanie z sygnetem. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | To zastąpi szczęśliwe zadanie z sygnetem. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Ilość jest losowana jak w każdym zadaniu. Jeden glejt dziennie. Nowy pojawia się o 00:00 UTC. |
 | `Write` | Write | Wpisz |
 | `Place` | Place | Miejsce |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Podpowiedź każdej ikony mówi, co robi i które zadanie ją daje. Kliknij ikonę, aby otworzyć to zadanie. |
 | `Ready today` | Ready today | Gotowe do użycia dzisiaj |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Użyto dzisiaj. Odnawia się o 00:00 UTC. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Uczynione szczęśliwym Szczęśliwą pieczęcią |
+| `One daily tool per task.` | One daily tool per task. | Jedno codzienne narzędzie na zadanie. |

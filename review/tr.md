@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Usta Fermanı ile yazıldı |
 | `Replaces` | Replaces | Değiştirilecek |
 | `This replaces a lucky task.` | This replaces a lucky task. | Bu, şanslı bir görevi değiştirir. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Bu, ikiye katlanmış bir görevi değiştirir. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Bu, şanslı ve ikiye katlanmış bir görevi değiştirir. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Miktar, her görevde olduğu gibi rastgele belirlenir. Günde bir ferman. Yenisi 00:00 UTC'de gelir. |
 | `Write` | Write | Yaz |
 | `Place` | Place | Konum |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Her birinin ipucu ne işe yaradığını ve hangi görevden geldiğini gösterir. Görevi açmak için birine tıkla. |
 | `Ready today` | Ready today | Bugün hazır |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Bugün kullanıldı. Yenisi 00:00 UTC'de gelir. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Şanslı Mühür ile şanslı yapıldı |
+| `One daily tool per task.` | One daily tool per task. | Görev başına bir günlük araç. |

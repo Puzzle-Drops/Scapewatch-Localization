@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | เขียนด้วยลิขิตปรมาจารย์ |
 | `Replaces` | Replaces | แทนที่ |
 | `This replaces a lucky task.` | This replaces a lucky task. | นี่จะแทนที่ภารกิจนำโชค |
-| `This replaces a sealed task.` | This replaces a sealed task. | นี่จะแทนที่ภารกิจที่เพิ่มเป็นสองเท่าแล้ว |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | นี่จะแทนที่ภารกิจนำโชคที่เพิ่มเป็นสองเท่าแล้ว |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | จำนวนจะถูกสุ่มเหมือนภารกิจทั่วไป เขียนได้วันละครั้ง ลิขิตใหม่จะมาเวลา 00:00 UTC |
 | `Write` | Write | เขียน |
 | `Place` | Place | สถานที่ |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | คำอธิบายของแต่ละไอคอนจะบอกว่าทำอะไรได้และได้รับจากเควสต์ใด คลิกเพื่อเปิดเควสต์นั้น |
 | `Ready today` | Ready today | พร้อมใช้วันนี้ |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | วันนี้ถูกใช้แล้ว อันใหม่จะมาเวลา 00:00 UTC |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | ทำให้โชคดีด้วยตราประทับนำโชค |
+| `One daily tool per task.` | One daily tool per task. | ใช้เครื่องมือประจำวันได้หนึ่งอย่างต่อหนึ่งงาน |

@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Escrita con el Decreto del maestro |
 | `Replaces` | Replaces | Sustituye |
 | `This replaces a lucky task.` | This replaces a lucky task. | Esto sustituye una tarea con suerte. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Esto sustituye una tarea lacrada. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Esto sustituye una tarea con suerte y lacrada. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | La cantidad se genera como en cualquier tarea. Un decreto al día. Llega uno nuevo a las 00:00 UTC. |
 | `Write` | Write | Escribir |
 | `Place` | Place | Lugar |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Cada icono muestra al pasar el cursor qué hace y qué misión lo otorga. Haz clic en uno para abrir esa misión. |
 | `Ready today` | Ready today | Listo hoy |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Usado hoy. Disponible de nuevo a las 00:00 UTC. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Hecha afortunada con el Sello de la suerte |
+| `One daily tool per task.` | One daily tool per task. | Una herramienta diaria por tarea. |

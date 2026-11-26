@@ -1452,8 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Skriven med mästarens fullmakt |
 | `Replaces` | Replaces | Ersätter |
 | `This replaces a lucky task.` | This replaces a lucky task. | Detta ersätter en lyckosam uppgift. |
-| `This replaces a sealed task.` | This replaces a sealed task. | Detta ersätter en förseglad uppgift. |
-| `This replaces a lucky, sealed task.` | This replaces a lucky, sealed task. | Detta ersätter en lyckosam, förseglad uppgift. |
 | `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Mängden slås som för vilken uppgift som helst. En fullmakt per dag. En ny kommer kl. 00:00 UTC. |
 | `Write` | Write | Skriv |
 | `Place` | Place | Plats |
@@ -1471,3 +1469,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Each one's tooltip says what it does and which quest gives it. Click one to open that quest.` | Each one's tooltip says what it does and which quest gives it. Click one to open that quest. | Varje ikons verktygstips visar vad den gör och vilken quest som ger den. Klicka på en för att öppna questen. |
 | `Ready today` | Ready today | Redo i dag |
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Har använts i dag. Kommer tillbaka kl. 00:00 UTC. |
+| `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Gjord lyckosam med den lyckosamma stämpeln |
+| `One daily tool per task.` | One daily tool per task. | Ett dagligt verktyg per uppgift. |

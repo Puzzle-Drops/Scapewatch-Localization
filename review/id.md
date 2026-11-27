@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Temukan |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | Perjalanan ke bank |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Hanya untuk surat perintah ini. Gratis: tanpa kredit, dan Kustomisasi Keahlian tetap seperti semula. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Jenis Tugas kembali ke Keterampilan. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Mati membatalkan tugas tempat kamu mati dan memakan kredit putar ulang sebanyak melewatinya, atau sisa yang kamu punya. Mati juga mengembalikan Jenis Tugas ke Keterampilan. Sisa antreanmu tidak tersentuh. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | Mati juga memakan {0} emas ({1} per total level). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | Mati juga memakan sisa emasmu: {0}. |
+| `@death_gold_popup` | Death cost: -{0} gold | Biaya kematian: -{0} emas |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Mati membatalkan tugas tempat kamu mati dan memakan kredit putar ulang sebanyak melewatinya, atau sisa yang kamu punya, ditambah {0} emas per total level. Mati juga mengembalikan Jenis Tugas ke Keterampilan, dan baris baru yang ditambahkannya berisi tugas keterampilan yang tidak bisa beruntung. Sisa antreanmu tidak tersentuh. |

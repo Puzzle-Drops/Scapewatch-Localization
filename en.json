@@ -9790,7 +9790,6 @@
   "Earn 1 for each skilling task you complete. Combat tasks do not pay credits.": "Earn 1 for each skilling task you complete. Combat tasks do not pay credits.",
   "This toggle decides which way new rows lean. On Skilling a row rolls 2 skilling tasks and 1 combat task; switch it and that mirrors. It only changes rows rolled after you switch. Leave it on Skilling for now, and we will go over combat later.": "This toggle decides which way new rows lean. On Skilling a row rolls 2 skilling tasks and 1 combat task; switch it and that mirrors. It only changes rows rolled after you switch. Leave it on Skilling for now, and we will go over combat later.",
   "Task Type switched back to Skilling.": "Task Type switched back to Skilling.",
-  "Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.": "Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.",
   "Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.": "Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.",
   "Alms Path": "Alms Path",
   "Alms Rewards": "Alms Rewards",

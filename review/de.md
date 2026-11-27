@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Entdecken |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | Bankweg |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Nur für diesen Meisterbrief. Kostenlos: kein Guthaben, und deine Fertigkeitsanpassung bleibt unverändert. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Aufgabentyp wieder auf Fertigkeiten gestellt. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Der Tod bricht die Aufgabe ab, bei der du gestorben bist, und kostet so viel Neuwurf-Guthaben wie das Überspringen, oder was dir noch bleibt. Außerdem stellt er den Aufgabentyp wieder auf Fertigkeiten. Der Rest deiner Warteschlange bleibt unberührt. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | Der Tod hat dich außerdem {0} Gold gekostet ({1} pro Gesamtstufe). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | Der Tod hat dich außerdem dein letztes Gold gekostet: {0}. |
+| `@death_gold_popup` | Death cost: -{0} gold | Todeskosten: -{0} Gold |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Der Tod bricht die Aufgabe ab, bei der du gestorben bist, und kostet so viel Neuwurf-Guthaben wie das Überspringen, oder was dir noch bleibt, plus {0} Gold pro Gesamtstufe. Außerdem stellt er den Aufgabentyp wieder auf Fertigkeiten, und die neue Zeile, die er hinzufügt, besteht aus Fertigkeitsaufgaben, die nicht glücklich sein können. Der Rest deiner Warteschlange bleibt unberührt. |

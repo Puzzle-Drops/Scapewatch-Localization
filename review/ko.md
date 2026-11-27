@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 음유 |
 | Discover | 탐험 |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | 은행 거리 |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | 이 위임장에만 적용됩니다. 무료: 크레딧이 들지 않으며 스킬 커스터마이징은 그대로 유지됩니다. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | 임무 종류가 스킬로 돌아갔습니다. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | 사망하면 사망한 임무가 취소되며, 건너뛰기와 같은 재설정 크레딧(부족하면 남은 크레딧 전부)이 듭니다. 임무 종류도 스킬로 돌아갑니다. 대기열의 나머지는 그대로입니다. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | 사망으로 골드도 {0} 잃었습니다 (총 레벨당 {1}). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | 사망으로 남은 골드 {0}도 잃었습니다. |
+| `@death_gold_popup` | Death cost: -{0} gold | 사망 비용: 골드 -{0} |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | 사망하면 사망한 임무가 취소되며, 건너뛰기와 같은 재설정 크레딧(부족하면 남은 크레딧 전부)과 총 레벨당 골드 {0}이 듭니다. 임무 종류도 스킬로 돌아가고, 새로 추가되는 줄은 행운이 될 수 없는 스킬 임무로 채워집니다. 대기열의 나머지는 그대로입니다. |

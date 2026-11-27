@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | 銀行路程 |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | 僅限本次手令。免費：不花費點數，你的技能自訂保持不變。 |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | 差事類型已切換回技能。 |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | 死亡會取消你死亡時的那個差事，並消耗與跳過它相同的重抽點數（不足時扣光剩餘點數）。差事類型也會切換回技能。佇列的其餘部分不受影響。 |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | 死亡還花費了{0}金幣（總等級每級{1}）。 |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | 死亡還花光了你最後的{0}金幣。 |
+| `@death_gold_popup` | Death cost: -{0} gold | 死亡代價：金幣 -{0} |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | 死亡會取消你死亡時的那個差事，並消耗與跳過它相同的重抽點數（不足時扣光剩餘點數），外加總等級每級{0}金幣。差事類型也會切換回技能，新增的那一列是不會成為幸運差事的技能差事。佇列的其餘部分不受影響。 |

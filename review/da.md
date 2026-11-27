@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Opdag |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | Banktur |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Kun for dette mesterbrev. Gratis: ingen kreditter, og din færdighedstilpasning forbliver uændret. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Opgavetypen skiftede tilbage til Færdigheder. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Døden annullerer den opgave, du døde på, og koster lige så mange genslagskreditter som at springe den over, eller det du har tilbage. Den skifter også opgavetypen tilbage til Færdigheder. Resten af køen er urørt. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | At dø kostede også {0} guld ({1} pr. samlet niveau). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | At dø kostede også dit sidste guld: {0}. |
+| `@death_gold_popup` | Death cost: -{0} gold | Dødens pris: -{0} guld |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Døden annullerer den opgave, du døde på, og koster lige så mange genslagskreditter som at springe den over, eller det du har tilbage, plus {0} guld pr. samlet niveau. Den skifter også opgavetypen tilbage til Færdigheder, og den nye række, den tilføjer, er færdighedsopgaver, der ikke kan være heldige. Resten af køen er urørt. |

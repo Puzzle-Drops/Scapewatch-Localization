@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Ozan |
 | Discover | Keşfet |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | Banka yolu |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Yalnızca bu ferman için. Ücretsiz: kredi gerekmez ve yetenek özelleştirmen olduğu gibi kalır. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Görev Türü yeniden Yetenek'e geçti. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Ölmek, öldüğün görevi iptal eder ve onu atlamakla aynı miktarda yeniden atma kredisine, ya da kalan kredine mal olur. Ayrıca Görev Türü'nü yeniden Yetenek'e çevirir. Sıranın geri kalanına dokunulmaz. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | Ölmek ayrıca {0} altına mal oldu (toplam seviye başına {1}). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | Ölmek ayrıca kalan son altınına mal oldu: {0}. |
+| `@death_gold_popup` | Death cost: -{0} gold | Ölüm bedeli: -{0} altın |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Ölmek, öldüğün görevi iptal eder ve onu atlamakla aynı miktarda yeniden atma kredisine, ya da kalan kredine, ek olarak toplam seviye başına {0} altına mal olur. Ayrıca Görev Türü'nü yeniden Yetenek'e çevirir ve eklediği yeni satır şanslı olamayan yetenek görevlerinden oluşur. Sıranın geri kalanına dokunulmaz. |

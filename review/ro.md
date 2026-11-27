@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cântă |
 | Discover | Descoperire |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | Drum la bancă |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Doar pentru acest hrisov. Gratis: fără credite, iar personalizarea abilității tale rămâne neschimbată. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Tipul de sarcină a revenit la Îndemânare. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Moartea anulează sarcina la care ai murit și costă tot atâtea credite de rezvârlire cât săritul peste ea, sau câte îți mai rămân. De asemenea, readuce tipul de sarcină la Îndemânare. Restul cozii rămâne neatins. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | Moartea te-a costat și {0} aur ({1} pe nivel total). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | Moartea te-a costat și ultimul tău aur: {0}. |
+| `@death_gold_popup` | Death cost: -{0} gold | Costul morții: -{0} aur |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Moartea anulează sarcina la care ai murit și costă tot atâtea credite de rezvârlire cât săritul peste ea, sau câte îți mai rămân, plus {0} aur pe nivel total. De asemenea, readuce tipul de sarcină la Îndemânare, iar rândul nou pe care îl adaugă are sarcini de îndemânare care nu pot fi norocoase. Restul cozii rămâne neatins. |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Oppdag |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | Banktur |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Bare for denne fullmakten. Gratis: ingen kreditter, og ferdighetstilpasningen din forblir uendret. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Oppgavetypen ble satt tilbake til Ferdigheter. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Å dø avbryter oppgaven du døde på og koster like mange ny terning-kreditter som å hoppe over den, eller det du har igjen. Den setter også oppgavetypen tilbake til Ferdigheter. Resten av køen er urørt. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | Å dø kostet også {0} gull ({1} per totalt nivå). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | Å dø kostet også ditt siste gull: {0}. |
+| `@death_gold_popup` | Death cost: -{0} gold | Dødens pris: -{0} gull |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Å dø avbryter oppgaven du døde på og koster like mange ny terning-kreditter som å hoppe over den, eller det du har igjen, pluss {0} gull per totalt nivå. Den setter også oppgavetypen tilbake til Ferdigheter, og den nye raden den legger til, er ferdighetsoppgaver som ikke kan være heldige. Resten av køen er urørt. |

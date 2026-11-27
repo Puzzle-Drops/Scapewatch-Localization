@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Objevování |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | Cesta do banky |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Jen pro tuto listinu. Zdarma: žádné kredity a tvoje přizpůsobení dovednosti zůstane beze změny. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Typ úkolu se přepnul zpět na Dovednosti. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Smrt zruší úkol, u kterého jsi zemřel, a stojí stejně kreditů na přehození jako jeho přeskočení, nebo kolik ti zbývá. Také přepne typ úkolu zpět na Dovednosti. Zbytek fronty zůstane nedotčený. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | Smrt tě stála také {0} zlata ({1} za celkovou úroveň). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | Smrt tě stála také posledních {0} zlata. |
+| `@death_gold_popup` | Death cost: -{0} gold | Cena smrti: -{0} zlata |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Smrt zruší úkol, u kterého jsi zemřel, a stojí stejně kreditů na přehození jako jeho přeskočení, nebo kolik ti zbývá, plus {0} zlata za každou celkovou úroveň. Také přepne typ úkolu zpět na Dovednosti a nový řádek, který přidá, tvoří úkoly dovedností, které nemohou být šťastné. Zbytek fronty zůstane nedotčený. |

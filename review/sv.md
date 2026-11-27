@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Upptäck |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | Banktur |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Bara för den här fullmakten. Gratis: inga krediter, och din färdighetsanpassning förblir som den är. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Uppgiftstypen bytte tillbaka till Färdigheter. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Att dö avbryter uppgiften du dog på och kostar lika många omkast-krediter som att hoppa över den, eller det du har kvar. Den byter också tillbaka uppgiftstypen till Färdigheter. Resten av kön är orörd. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | Att dö kostade också {0} guld ({1} per total nivå). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | Att dö kostade också ditt sista guld: {0}. |
+| `@death_gold_popup` | Death cost: -{0} gold | Dödens pris: -{0} guld |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Att dö avbryter uppgiften du dog på och kostar lika många omkast-krediter som att hoppa över den, eller det du har kvar, plus {0} guld per total nivå. Den byter också tillbaka uppgiftstypen till Färdigheter, och den nya raden den lägger till är färdighetsuppgifter som inte kan vara lyckosamma. Resten av kön är orörd. |

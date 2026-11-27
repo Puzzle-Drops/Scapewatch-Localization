@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | กวี |
 | Discover | ค้นพบ |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | ระยะไปธนาคาร |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | ใช้กับลิขิตนี้เท่านั้น ฟรี: ไม่ใช้เครดิต และการปรับแต่งทักษะของคุณจะยังเหมือนเดิม |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | ประเภทภารกิจเปลี่ยนกลับเป็นฝึกทักษะแล้ว |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | การตายจะยกเลิกภารกิจที่คุณตาย และใช้เครดิตทอยใหม่เท่ากับการข้ามภารกิจนั้น หรือเท่าที่คุณเหลืออยู่ และยังเปลี่ยนประเภทภารกิจกลับเป็นฝึกทักษะ ส่วนที่เหลือในคิวไม่ถูกแตะต้อง |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | การตายยังเสียทองอีก {0} ({1} ต่อเลเวลรวม) |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | การตายยังเสียทองที่เหลืออยู่ทั้งหมด {0} |
+| `@death_gold_popup` | Death cost: -{0} gold | ค่าการตาย: ทอง -{0} |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | การตายจะยกเลิกภารกิจที่คุณตาย และใช้เครดิตทอยใหม่เท่ากับการข้ามภารกิจนั้น หรือเท่าที่คุณเหลืออยู่ บวกทอง {0} ต่อเลเวลรวม และยังเปลี่ยนประเภทภารกิจกลับเป็นฝึกทักษะ โดยแถวใหม่ที่เพิ่มเข้ามาจะเป็นภารกิจฝึกทักษะที่นำโชคไม่ได้ ส่วนที่เหลือในคิวไม่ถูกแตะต้อง |

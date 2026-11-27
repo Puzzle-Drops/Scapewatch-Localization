@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Βάρδος |
 | Discover | Ανακάλυψη |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | Ως την τράπεζα |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Μόνο για αυτό το διάταγμα. Δωρεάν: χωρίς πόντους, και η εξατομίκευση δεξιοτήτων σου μένει ως έχει. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Ο τύπος αποστολής άλλαξε ξανά σε Δεξιότητες. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Ο θάνατος ακυρώνει την αποστολή στην οποία πέθανες και κοστίζει όσες πιστώσεις ξαναρίξιμου και η παράλειψή της, ή όσες σου έχουν απομείνει. Επίσης αλλάζει τον τύπο αποστολής ξανά σε Δεξιότητες. Η υπόλοιπη ουρά σου μένει ανέπαφη. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | Ο θάνατος σού κόστισε επίσης {0} χρυσό ({1} ανά συνολικό επίπεδο). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | Ο θάνατος σού κόστισε επίσης τον τελευταίο σου χρυσό: {0}. |
+| `@death_gold_popup` | Death cost: -{0} gold | Κόστος θανάτου: -{0} χρυσός |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Ο θάνατος ακυρώνει την αποστολή στην οποία πέθανες και κοστίζει όσες πιστώσεις ξαναρίξιμου και η παράλειψή της, ή όσες σου έχουν απομείνει, συν {0} χρυσό ανά συνολικό επίπεδο. Επίσης αλλάζει τον τύπο αποστολής ξανά σε Δεξιότητες, και η νέα σειρά που προσθέτει έχει αποστολές δεξιοτήτων που δεν μπορούν να είναι τυχερές. Η υπόλοιπη ουρά σου μένει ανέπαφη. |

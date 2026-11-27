@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Découverte |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | Trajet à la banque |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Pour ce mandat seulement. Gratuit : aucun crédit, et votre personnalisation de compétence reste inchangée. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Type de tâche remis sur Compétences. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Mourir annule la tâche sur laquelle vous êtes mort et coûte autant de crédits de relance que la passer, ou ce qu'il vous reste. Cela remet aussi le type de tâche sur Compétences. Le reste de votre file reste intact. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | Mourir vous a aussi coûté {0} or ({1} par niveau total). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | Mourir vous a aussi coûté votre dernier or : {0}. |
+| `@death_gold_popup` | Death cost: -{0} gold | Coût de la mort : -{0} or |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Mourir annule la tâche sur laquelle vous êtes mort et coûte autant de crédits de relance que la passer, ou ce qu'il vous reste, plus {0} or par niveau total. Cela remet aussi le type de tâche sur Compétences, et la nouvelle ligne ajoutée contient des tâches de compétence qui ne peuvent pas être chanceuses. Le reste de votre file reste intact. |

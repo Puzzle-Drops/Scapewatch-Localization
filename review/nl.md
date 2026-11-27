@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Ontdekken |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | Bankroute |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Alleen voor dit mandaat. Gratis: geen kredieten, en je vaardigheidsaanpassing blijft zoals hij is. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Taaktype teruggezet op Vaardigheden. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Doodgaan annuleert de taak waarop je stierf en kost evenveel herwerptegoed als die overslaan, of wat je nog over hebt. Ook zet het het taaktype terug op Vaardigheden. De rest van je wachtrij blijft onaangeroerd. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | Doodgaan kostte ook {0} goud ({1} per totaalniveau). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | Doodgaan kostte ook je laatste goud: {0}. |
+| `@death_gold_popup` | Death cost: -{0} gold | Kosten van de dood: -{0} goud |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Doodgaan annuleert de taak waarop je stierf en kost evenveel herwerptegoed als die overslaan, of wat je nog over hebt, plus {0} goud per totaalniveau. Ook zet het het taaktype terug op Vaardigheden, en de nieuwe rij die het toevoegt bevat vaardigheidstaken die niet gelukkig kunnen zijn. De rest van je wachtrij blijft onaangeroerd. |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | 銀行まで |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | この書状だけの設定です。無料：クレジットは不要で、スキルカスタマイズは変わりません。 |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | タスク種別がスキルに戻りました。 |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | 死亡すると、死亡したタスクが取り消され、スキップと同じリロールクレジット（足りない場合は残り全部）を消費します。タスク種別もスキルに戻ります。キューの残りはそのままです。 |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | 死亡でゴールドも{0}消費しました（合計レベルごとに{1}）。 |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | 死亡で残りのゴールド{0}も消費しました。 |
+| `@death_gold_popup` | Death cost: -{0} gold | 死亡のコスト：ゴールド -{0} |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | 死亡すると、死亡したタスクが取り消され、スキップと同じリロールクレジット（足りない場合は残り全部）と、合計レベルごとに{0}ゴールドを消費します。タスク種別もスキルに戻り、追加される新しい行は幸運にならないスキルタスクになります。キューの残りはそのままです。 |

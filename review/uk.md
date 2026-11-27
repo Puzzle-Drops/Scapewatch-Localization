@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бардівство |
 | Discover | Дослідження |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | До банку |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Лише для цієї грамоти. Безкоштовно: без кредитів, а твої налаштування навичок лишаються без змін. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Тип доручення знову перемкнено на Навички. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Смерть скасовує доручення, на якому ви загинули, і коштує стільки ж кредитів перекидання, скільки його пропуск, або скільки у вас лишилося. Також тип доручення знову перемикається на Навички. Решта черги лишається незмінною. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | Смерть також коштувала вам {0} золота ({1} за кожен загальний рівень). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | Смерть також забрала ваше останнє золото: {0}. |
+| `@death_gold_popup` | Death cost: -{0} gold | Ціна смерті: -{0} золота |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Смерть скасовує доручення, на якому ви загинули, і коштує стільки ж кредитів перекидання, скільки його пропуск, або скільки у вас лишилося, плюс {0} золота за кожен загальний рівень. Також тип доручення знову перемикається на Навички, а новий рядок, який вона додає, складається з доручень навичок, які не можуть бути щасливими. Решта черги лишається незмінною. |

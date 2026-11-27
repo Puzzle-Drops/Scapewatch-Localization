@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardo |
 | Discover | Descoberta |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | Ida ao banco |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Só para este mandado. Grátis: sem créditos, e a tua personalização de habilidade mantém-se igual. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | O tipo de tarefa voltou a Habilidades. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Morrer cancela a tarefa em que morreste e custa os mesmos créditos de rerrolagem que saltá-la, ou os que te restarem. Também repõe o tipo de tarefa em Habilidades. O resto da fila fica intacto. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | Morrer também custou {0} de ouro ({1} por nível total). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | Morrer também custou o teu último ouro: {0}. |
+| `@death_gold_popup` | Death cost: -{0} gold | Custo da morte: -{0} de ouro |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Morrer cancela a tarefa em que morreste e custa os mesmos créditos de rerrolagem que saltá-la, ou os que te restarem, mais {0} de ouro por nível total. Também repõe o tipo de tarefa em Habilidades, e a nova linha que acrescenta tem tarefas de habilidade que não podem ter sorte. O resto da fila fica intacto. |

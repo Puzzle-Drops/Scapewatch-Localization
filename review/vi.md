@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Nhạc công |
 | Discover | Khám phá |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | Đường ra ngân hàng |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Chỉ áp dụng cho sắc lệnh này. Miễn phí: không tốn tín dụng, và tùy chỉnh kỹ năng của bạn vẫn giữ nguyên. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Loại nhiệm vụ đã chuyển lại về Kỹ năng. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Chết sẽ hủy nhiệm vụ mà bạn đã chết và tốn số điểm gieo lại bằng việc bỏ qua nó, hoặc số bạn còn lại. Nó cũng chuyển Loại nhiệm vụ về lại Kỹ năng. Phần còn lại của hàng đợi không bị ảnh hưởng. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | Chết còn tốn thêm {0} vàng ({1} mỗi tổng cấp). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | Chết còn lấy nốt số vàng cuối cùng của bạn: {0}. |
+| `@death_gold_popup` | Death cost: -{0} gold | Giá của cái chết: -{0} vàng |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Chết sẽ hủy nhiệm vụ mà bạn đã chết và tốn số điểm gieo lại bằng việc bỏ qua nó, hoặc số bạn còn lại, cộng thêm {0} vàng mỗi tổng cấp. Nó cũng chuyển Loại nhiệm vụ về lại Kỹ năng, và hàng mới nó thêm vào là các nhiệm vụ kỹ năng không thể may mắn. Phần còn lại của hàng đợi không bị ảnh hưởng. |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cantare |
 | Discover | Scoprire |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | Viaggio in banca |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Solo per questo mandato. Gratis: nessun credito, e la tua Personalizzazione Abilità resta invariata. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Tipo di compito riportato su Abilità. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Morire annulla il compito in cui sei morto e costa gli stessi crediti rilancio che saltarlo, o quelli che ti restano. Inoltre riporta il tipo di compito su Abilità. Il resto della coda resta intatto. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | Morire ti è costato anche {0} oro ({1} per livello totale). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | Morire ti è costato anche il tuo ultimo oro: {0}. |
+| `@death_gold_popup` | Death cost: -{0} gold | Costo della morte: -{0} oro |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Morire annulla il compito in cui sei morto e costa gli stessi crediti rilancio che saltarlo, o quelli che ti restano, più {0} oro per livello totale. Inoltre riporta il tipo di compito su Abilità, e la nuova riga che aggiunge contiene compiti di abilità che non possono essere fortunati. Il resto della coda resta intatto. |

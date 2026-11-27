@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бард |
 | Discover | Откритие |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | До банката |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Само за тази грамота. Безплатно: без кредити, а персонализирането на уменията ти остава непроменено. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Типът задача е върнат на Умения. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Смъртта отменя задачата, в която си загинал, и струва толкова кредити за прехвърляне, колкото пропускането ѝ, или колкото ти остават. Връща и типа задача на Умения. Останалата част от опашката остава непокътната. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | Смъртта ти струва и {0} злато ({1} на общо ниво). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | Смъртта ти струва и последните {0} злато. |
+| `@death_gold_popup` | Death cost: -{0} gold | Цена на смъртта: -{0} злато |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Смъртта отменя задачата, в която си загинал, и струва толкова кредити за прехвърляне, колкото пропускането ѝ, или колкото ти остават, плюс {0} злато на общо ниво. Връща и типа задача на Умения, а новият ред, който добавя, е от задачи за умения, които не могат да са късметлийски. Останалата част от опашката остава непокътната. |

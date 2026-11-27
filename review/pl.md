@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Pieśń |
 | Discover | Odkrywanie |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | Droga do banku |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Tylko dla tego glejtu. Za darmo: bez kredytów, a twoja personalizacja umiejętności pozostaje bez zmian. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Typ zadania przełączono z powrotem na Umiejętności. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Śmierć anuluje zadanie, przy którym zginąłeś, i kosztuje tyle kredytów przelosowania, co jego pominięcie, albo tyle, ile ci zostało. Przełącza też typ zadania z powrotem na Umiejętności. Reszta kolejki pozostaje nietknięta. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | Śmierć kosztowała też {0} złota ({1} za każdy łączny poziom). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | Śmierć kosztowała też twoje ostatnie złoto: {0}. |
+| `@death_gold_popup` | Death cost: -{0} gold | Koszt śmierci: -{0} złota |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Śmierć anuluje zadanie, przy którym zginąłeś, i kosztuje tyle kredytów przelosowania, co jego pominięcie, albo tyle, ile ci zostało, plus {0} złota za każdy łączny poziom. Przełącza też typ zadania z powrotem na Umiejętności, a nowy wiersz, który dodaje, to zadania umiejętności, które nie mogą być szczęśliwe. Reszta kolejki pozostaje nietknięta. |

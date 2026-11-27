@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Penyair |
 | Discover | Terokai |
 
-## Lines to review (1409)
+## Lines to review (1412)
 
 | Key | English | Current |
 |---|---|---|
@@ -1478,4 +1478,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Bank trip` | Bank trip | Perjalanan ke bank |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Untuk watikah ini sahaja. Percuma: tiada kredit, dan Penyesuaian Kemahiran anda kekal seperti sedia ada. |
 | `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Jenis Tugas kembali kepada Kemahiran. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Mati membatalkan tugas yang anda mati padanya dan memakan kredit lambung semula yang sama seperti melangkaunya, atau baki yang anda ada. Ia juga menukar Jenis Tugas kembali kepada Kemahiran. Selebihnya dalam baris gilir kekal tidak berubah. |
+| `@death_gold_full` | Dying also cost {0} gold ({1} per total level). | Mati juga memakan {0} emas ({1} bagi setiap jumlah tahap). |
+| `@death_gold_partial` | Dying also cost your last {0} gold. | Mati juga memakan baki emas terakhir anda: {0}. |
+| `@death_gold_popup` | Death cost: -{0} gold | Kos kematian: -{0} emas |
+| `@death_rules_tip` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left, plus {0} gold per total level. It also switches Task Type back to Skilling, and the new row it adds is skilling tasks that can't be lucky. The rest of your queue is untouched. | Mati membatalkan tugas yang anda mati padanya dan memakan kredit lambung semula yang sama seperti melangkaunya, atau baki yang anda ada, serta {0} emas bagi setiap jumlah tahap. Ia juga menukar Jenis Tugas kembali kepada Kemahiran, dan baris baharu yang ditambahnya ialah tugas kemahiran yang tidak boleh bertuah. Selebihnya dalam baris gilir kekal tidak berubah. |

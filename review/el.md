@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Βάρδος |
 | Discover | Ανακάλυψη |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Γράφτηκε με το Διάταγμα του Δασκάλου |
 | `Replaces` | Replaces | Αντικαθιστά |
 | `This replaces a lucky task.` | This replaces a lucky task. | Αυτό αντικαθιστά μια τυχερή εργασία. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Η ποσότητα ρίχνεται όπως σε κάθε εργασία. Ένα διάταγμα τη μέρα. Το επόμενο έρχεται στις 00:00 UTC. |
 | `Write` | Write | Εγγραφή |
 | `Place` | Place | Τοποθεσία |
 | `Pick an activity` | Pick an activity | Διάλεξε μια δραστηριότητα |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | Το αντικείμενο δεν έχει αναβαθμίσεις πολύτιμων λίθων |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Δεν ήταν δυνατή η αφαίρεση του όπλου από την τράπεζα |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Δεν έχεις αρκετό χρυσό (χρειάζονται {0}) |
+| `Walk there` | Walk there | Διαδρομή ως εκεί |
+| `Bank trip` | Bank trip | Ως την τράπεζα |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Μόνο για αυτό το διάταγμα. Δωρεάν: χωρίς πόντους, και η εξατομίκευση δεξιοτήτων σου μένει ως έχει. |

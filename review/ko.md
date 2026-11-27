@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 음유 |
 | Discover | 탐험 |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | 장인의 위임장으로 작성됨 |
 | `Replaces` | Replaces | 교체 대상 |
 | `This replaces a lucky task.` | This replaces a lucky task. | 행운 임무가 교체됩니다. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | 수량은 다른 임무처럼 무작위로 정해집니다. 위임장은 하루에 하나입니다. 00:00 UTC에 새로 지급됩니다. |
 | `Write` | Write | 작성 |
 | `Place` | Place | 장소 |
 | `Pick an activity` | Pick an activity | 활동을 선택하세요 |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | 보석 강화가 되지 않은 아이템입니다 |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | 은행에서 무기를 꺼낼 수 없습니다 |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | 골드가 부족합니다 (필요: {0}) |
+| `Walk there` | Walk there | 이동 거리 |
+| `Bank trip` | Bank trip | 은행 거리 |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | 이 위임장에만 적용됩니다. 무료: 크레딧이 들지 않으며 스킬 커스터마이징은 그대로 유지됩니다. |

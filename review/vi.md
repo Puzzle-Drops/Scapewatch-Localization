@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Nhạc công |
 | Discover | Khám phá |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Được viết bằng Sắc lệnh Bậc thầy |
 | `Replaces` | Replaces | Thay thế |
 | `This replaces a lucky task.` | This replaces a lucky task. | Thao tác này sẽ thay thế một nhiệm vụ may mắn. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Số lượng được gieo như mọi nhiệm vụ khác. Mỗi ngày một sắc lệnh. Sắc lệnh mới đến lúc 00:00 UTC. |
 | `Write` | Write | Viết |
 | `Place` | Place | Địa điểm |
 | `Pick an activity` | Pick an activity | Chọn một hoạt động |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | Vật phẩm chưa được nâng cấp bằng đá quý |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Không thể lấy vũ khí ra khỏi ngân hàng |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Không đủ vàng (cần {0}) |
+| `Walk there` | Walk there | Đường đến đó |
+| `Bank trip` | Bank trip | Đường ra ngân hàng |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Chỉ áp dụng cho sắc lệnh này. Miễn phí: không tốn tín dụng, và tùy chỉnh kỹ năng của bạn vẫn giữ nguyên. |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Oppdag |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Skrevet med mesterfullmakten |
 | `Replaces` | Replaces | Erstatter |
 | `This replaces a lucky task.` | This replaces a lucky task. | Dette erstatter en heldig oppgave. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Mengden trilles som for alle oppgaver. Én fullmakt per dag. En ny kommer kl. 00:00 UTC. |
 | `Write` | Write | Skriv |
 | `Place` | Place | Sted |
 | `Pick an activity` | Pick an activity | Velg en aktivitet |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | Gjenstanden er ikke oppgradert med edelsteiner |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Kunne ikke fjerne våpenet fra banken |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Ikke nok gull (trenger {0}) |
+| `Walk there` | Walk there | Vei dit |
+| `Bank trip` | Bank trip | Banktur |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Bare for denne fullmakten. Gratis: ingen kreditter, og ferdighetstilpasningen din forblir uendret. |

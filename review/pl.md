@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Pieśń |
 | Discover | Odkrywanie |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Wpisane Glejtem mistrza |
 | `Replaces` | Replaces | Zastępuje |
 | `This replaces a lucky task.` | This replaces a lucky task. | To zastąpi szczęśliwe zadanie. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Ilość jest losowana jak w każdym zadaniu. Jeden glejt dziennie. Nowy pojawia się o 00:00 UTC. |
 | `Write` | Write | Wpisz |
 | `Place` | Place | Miejsce |
 | `Pick an activity` | Pick an activity | Wybierz aktywność |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | Przedmiot nie ma ulepszeń klejnotami |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Nie udało się wyjąć broni z banku |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Za mało złota (potrzeba {0}) |
+| `Walk there` | Walk there | Droga tam |
+| `Bank trip` | Bank trip | Droga do banku |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Tylko dla tego glejtu. Za darmo: bez kredytów, a twoja personalizacja umiejętności pozostaje bez zmian. |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardi |
 | Discover | Tutki |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Kirjoitettu mestarin valtakirjalla |
 | `Replaces` | Replaces | Korvaa |
 | `This replaces a lucky task.` | This replaces a lucky task. | Tämä korvaa onnekkaan tehtävän. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Määrä arvotaan kuten missä tahansa tehtävässä. Yksi valtakirja päivässä. Uusi tulee klo 00:00 UTC. |
 | `Write` | Write | Kirjoita |
 | `Place` | Place | Paikka |
 | `Pick an activity` | Pick an activity | Valitse toiminto |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | Esinettä ei ole päivitetty jalokivillä |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Asetta ei voitu poistaa pankista |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Kultaa ei ole tarpeeksi (tarvitaan {0}) |
+| `Walk there` | Walk there | Matka sinne |
+| `Bank trip` | Bank trip | Pankkimatka |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Vain tälle valtakirjalle. Ilmainen: ei luottoja, ja taidon mukautuksesi pysyy ennallaan. |

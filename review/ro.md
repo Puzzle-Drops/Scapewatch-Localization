@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cântă |
 | Discover | Descoperire |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Scrisă cu Hrisovul maestrului |
 | `Replaces` | Replaces | Înlocuiește |
 | `This replaces a lucky task.` | This replaces a lucky task. | Aceasta înlocuiește o sarcină norocoasă. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Cantitatea se generează ca la orice sarcină. Un hrisov pe zi. Unul nou apare la 00:00 UTC. |
 | `Write` | Write | Scrie |
 | `Place` | Place | Loc |
 | `Pick an activity` | Pick an activity | Alege o activitate |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | Obiectul nu are îmbunătățiri cu pietre prețioase |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Arma nu a putut fi scoasă din bancă |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Nu ai destul aur (necesar: {0}) |
+| `Walk there` | Walk there | Drumul până acolo |
+| `Bank trip` | Bank trip | Drum la bancă |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Doar pentru acest hrisov. Gratis: fără credite, iar personalizarea abilității tale rămâne neschimbată. |

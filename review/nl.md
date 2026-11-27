@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Ontdekken |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Geschreven met het Meestersmandaat |
 | `Replaces` | Replaces | Vervangt |
 | `This replaces a lucky task.` | This replaces a lucky task. | Dit vervangt een gelukkige taak. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | De hoeveelheid wordt gerold zoals bij elke taak. Eén mandaat per dag. Om 00:00 UTC komt er een nieuw mandaat. |
 | `Write` | Write | Schrijven |
 | `Place` | Place | Plek |
 | `Pick an activity` | Pick an activity | Kies een activiteit |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | Het voorwerp is niet met edelstenen verbeterd |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Het wapen kon niet uit de bank worden gehaald |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Niet genoeg goud (nodig: {0}) |
+| `Walk there` | Walk there | Weg erheen |
+| `Bank trip` | Bank trip | Bankroute |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Alleen voor dit mandaat. Gratis: geen kredieten, en je vaardigheidsaanpassing blijft zoals hij is. |

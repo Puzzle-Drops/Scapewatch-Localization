@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cantare |
 | Discover | Scoprire |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Scritto con il Mandato del Maestro |
 | `Replaces` | Replaces | Sostituisce |
 | `This replaces a lucky task.` | This replaces a lucky task. | Questo sostituisce un compito fortunato. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | La quantità viene tirata a sorte come per ogni compito. Un mandato al giorno. Uno nuovo arriva alle 00:00 UTC. |
 | `Write` | Write | Scrivi |
 | `Place` | Place | Luogo |
 | `Pick an activity` | Pick an activity | Scegli un'attività |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | L'oggetto non ha potenziamenti con gemme |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Impossibile togliere l'arma dalla banca |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Oro insufficiente (servono {0}) |
+| `Walk there` | Walk there | Strada fin lì |
+| `Bank trip` | Bank trip | Viaggio in banca |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Solo per questo mandato. Gratis: nessun credito, e la tua Personalizzazione Abilità resta invariata. |

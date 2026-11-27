@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | 由大師手令寫入 |
 | `Replaces` | Replaces | 替換 |
 | `This replaces a lucky task.` | This replaces a lucky task. | 這將替換一個幸運差事。 |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | 數量和其他差事一樣隨機擲出。每天一張手令。新的手令於 00:00 UTC 發放。 |
 | `Write` | Write | 寫入 |
 | `Place` | Place | 地點 |
 | `Pick an activity` | Pick an activity | 選擇一項活動 |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | 該物品沒有寶石強化 |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | 無法從銀行取出武器 |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | 金幣不足（需要 {0}） |
+| `Walk there` | Walk there | 前往路程 |
+| `Bank trip` | Bank trip | 銀行路程 |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | 僅限本次手令。免費：不花費點數，你的技能自訂保持不變。 |

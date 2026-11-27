@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | 達人の書状で書き込み済み |
 | `Replaces` | Replaces | 置き換え対象 |
 | `This replaces a lucky task.` | This replaces a lucky task. | 幸運タスクを置き換えます。 |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | 数量は通常のタスクと同じくランダムに決まります。書状は1日1回まで。00:00 UTC に補充されます。 |
 | `Write` | Write | 書く |
 | `Place` | Place | 場所 |
 | `Pick an activity` | Pick an activity | アクティビティを選択 |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | このアイテムは宝石強化されていません |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | 銀行から武器を取り出せませんでした |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | ゴールドが足りません（必要: {0}） |
+| `Walk there` | Walk there | 現地まで |
+| `Bank trip` | Bank trip | 銀行まで |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | この書状だけの設定です。無料：クレジットは不要で、スキルカスタマイズは変わりません。 |

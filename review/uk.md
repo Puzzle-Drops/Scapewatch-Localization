@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бардівство |
 | Discover | Дослідження |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Вписано Грамотою майстрів |
 | `Replaces` | Replaces | Замінює |
 | `This replaces a lucky task.` | This replaces a lucky task. | Це замінить щасливе доручення. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Кількість визначається випадково, як і для будь-якого доручення. Одна грамота на день. Нова з’являється о 00:00 UTC. |
 | `Write` | Write | Вписати |
 | `Place` | Place | Місце |
 | `Pick an activity` | Pick an activity | Обери заняття |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | Предмет не має покращень самоцвітами |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Не вдалося вийняти зброю з банку |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Недостатньо золота (потрібно {0}) |
+| `Walk there` | Walk there | Шлях туди |
+| `Bank trip` | Bank trip | До банку |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Лише для цієї грамоти. Безкоштовно: без кредитів, а твої налаштування навичок лишаються без змін. |

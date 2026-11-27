@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | กวี |
 | Discover | ค้นพบ |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | เขียนด้วยลิขิตปรมาจารย์ |
 | `Replaces` | Replaces | แทนที่ |
 | `This replaces a lucky task.` | This replaces a lucky task. | นี่จะแทนที่ภารกิจนำโชค |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | จำนวนจะถูกสุ่มเหมือนภารกิจทั่วไป เขียนได้วันละครั้ง ลิขิตใหม่จะมาเวลา 00:00 UTC |
 | `Write` | Write | เขียน |
 | `Place` | Place | สถานที่ |
 | `Pick an activity` | Pick an activity | เลือกกิจกรรม |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | ไอเทมนี้ยังไม่ได้อัปเกรดด้วยอัญมณี |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | ไม่สามารถนำอาวุธออกจากธนาคารได้ |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | ทองไม่พอ (ต้องใช้ {0}) |
+| `Walk there` | Walk there | ระยะไปที่นั่น |
+| `Bank trip` | Bank trip | ระยะไปธนาคาร |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | ใช้กับลิขิตนี้เท่านั้น ฟรี: ไม่ใช้เครดิต และการปรับแต่งทักษะของคุณจะยังเหมือนเดิม |

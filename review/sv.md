@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Upptäck |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Skriven med mästarens fullmakt |
 | `Replaces` | Replaces | Ersätter |
 | `This replaces a lucky task.` | This replaces a lucky task. | Detta ersätter en lyckosam uppgift. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Mängden slås som för vilken uppgift som helst. En fullmakt per dag. En ny kommer kl. 00:00 UTC. |
 | `Write` | Write | Skriv |
 | `Place` | Place | Plats |
 | `Pick an activity` | Pick an activity | Välj en aktivitet |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | Föremålet är inte uppgraderat med ädelstenar |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Kunde inte ta ut vapnet ur banken |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Inte tillräckligt med guld (behöver {0}) |
+| `Walk there` | Walk there | Väg dit |
+| `Bank trip` | Bank trip | Banktur |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Bara för den här fullmakten. Gratis: inga krediter, och din färdighetsanpassning förblir som den är. |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Temukan |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Ditulis dengan Surat Perintah Guru |
 | `Replaces` | Replaces | Menggantikan |
 | `This replaces a lucky task.` | This replaces a lucky task. | Ini menggantikan tugas yang beruntung. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Jumlahnya diundi seperti tugas lain. Satu surat perintah per hari. Surat perintah baru tersedia pukul 00:00 UTC. |
 | `Write` | Write | Tulis |
 | `Place` | Place | Tempat |
 | `Pick an activity` | Pick an activity | Pilih aktivitas |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | Item belum ditingkatkan dengan permata |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Tidak dapat mengambil senjata dari bank |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Emas tidak cukup (butuh {0}) |
+| `Walk there` | Walk there | Jalan ke sana |
+| `Bank trip` | Bank trip | Perjalanan ke bank |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Hanya untuk surat perintah ini. Gratis: tanpa kredit, dan Kustomisasi Keahlian tetap seperti semula. |

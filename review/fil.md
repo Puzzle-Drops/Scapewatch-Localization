@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Tuklasin |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Isinulat gamit ang Kasulatan ng Maestro |
 | `Replaces` | Replaces | Papalitan |
 | `This replaces a lucky task.` | This replaces a lucky task. | Papalitan nito ang isang maswerteng gawain. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Nira-roll ang dami gaya ng anumang gawain. Isang kasulatan kada araw. Darating ang bago sa 00:00 UTC. |
 | `Write` | Write | Isulat |
 | `Place` | Place | Lugar |
 | `Pick an activity` | Pick an activity | Pumili ng aktibidad |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | Hindi naka-gem upgrade ang item |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Hindi maalis ang sandata sa bangko |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Kulang ang ginto (kailangan ng {0}) |
+| `Walk there` | Walk there | Lakad papunta |
+| `Bank trip` | Bank trip | Lakad sa bangko |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Para lang sa kasulatang ito. Libre: walang kredito, at hindi magbabago ang pagpapa-customize mo ng kasanayan. |

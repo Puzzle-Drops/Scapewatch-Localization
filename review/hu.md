@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bárd |
 | Discover | Felfedezés |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Mesterlevéllel beírva |
 | `Replaces` | Replaces | Lecserélendő |
 | `This replaces a lucky task.` | This replaces a lucky task. | Ez egy szerencsés feladatot cserél le. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | A mennyiséget a játék sorsolja, mint bármely feladatnál. Naponta egy Mesterlevél. Újat 00:00 UTC-kor kapsz. |
 | `Write` | Write | Beírás |
 | `Place` | Place | Hely |
 | `Pick an activity` | Pick an activity | Válassz egy tevékenységet |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | A tárgy nincs drágakövekkel fejlesztve |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | A fegyvert nem sikerült kivenni a bankból |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Nincs elég arany (kell: {0}) |
+| `Walk there` | Walk there | Odaút |
+| `Bank trip` | Bank trip | Banki út |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Csak erre a Mesterlevélre. Ingyenes: nem kerül kreditbe, és a képességek testreszabása változatlan marad. |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Objevování |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Napsáno Listinou mistrů |
 | `Replaces` | Replaces | Nahrazuje |
 | `This replaces a lucky task.` | This replaces a lucky task. | Tímto nahradíš šťastný úkol. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Množství se losuje jako u každého úkolu. Jedna listina denně. Nová přijde v 00:00 UTC. |
 | `Write` | Write | Napsat |
 | `Place` | Place | Místo |
 | `Pick an activity` | Pick an activity | Vyber činnost |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | Předmět nemá vylepšení drahokamy |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Zbraň se nepodařilo vyjmout z banky |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Nedostatek zlata (potřeba {0}) |
+| `Walk there` | Walk there | Cesta tam |
+| `Bank trip` | Bank trip | Cesta do banky |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Jen pro tuto listinu. Zdarma: žádné kredity a tvoje přizpůsobení dovednosti zůstane beze změny. |

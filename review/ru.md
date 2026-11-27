@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бард |
 | Discover | Открытие |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Вписана по Грамоте мастера |
 | `Replaces` | Replaces | Заменяет |
 | `This replaces a lucky task.` | This replaces a lucky task. | Это заменит удачную задачу. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Количество выпадает случайно, как у любой задачи. Одна грамота в день. Новая появляется в 00:00 UTC. |
 | `Write` | Write | Вписать |
 | `Place` | Place | Место |
 | `Pick an activity` | Pick an activity | Выберите занятие |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | У предмета нет улучшений самоцветами |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Не удалось убрать оружие из банка |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Недостаточно золота (нужно {0}) |
+| `Walk there` | Walk there | Путь туда |
+| `Bank trip` | Bank trip | До банка |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Только для этой грамоты. Бесплатно: без кредитов, а ваша настройка навыков остаётся прежней. |

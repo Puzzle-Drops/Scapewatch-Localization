@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Penyair |
 | Discover | Terokai |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Ditulis dengan Watikah Guru |
 | `Replaces` | Replaces | Menggantikan |
 | `This replaces a lucky task.` | This replaces a lucky task. | Ini menggantikan tugasan bertuah. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Jumlahnya dilambung seperti tugasan lain. Satu watikah sehari. Watikah baharu tiba pada 00:00 UTC. |
 | `Write` | Write | Tulis |
 | `Place` | Place | Tempat |
 | `Pick an activity` | Pick an activity | Pilih aktiviti |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | Item belum dinaik taraf dengan permata |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Tidak dapat mengeluarkan senjata dari bank |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Emas tidak mencukupi (perlu {0}) |
+| `Walk there` | Walk there | Perjalanan ke sana |
+| `Bank trip` | Bank trip | Perjalanan ke bank |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Untuk watikah ini sahaja. Percuma: tiada kredit, dan Penyesuaian Kemahiran anda kekal seperti sedia ada. |

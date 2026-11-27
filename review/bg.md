@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бард |
 | Discover | Откритие |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Написана с Майсторската грамота |
 | `Replaces` | Replaces | Заменя |
 | `This replaces a lucky task.` | This replaces a lucky task. | Това заменя късметлийска задача. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Количеството се тегли като при всяка задача. Една грамота на ден. Нова идва в 00:00 UTC. |
 | `Write` | Write | Напиши |
 | `Place` | Place | Място |
 | `Pick an activity` | Pick an activity | Избери дейност |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | Предметът няма подобрения със скъпоценни камъни |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Оръжието не можа да бъде извадено от банката |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Нямаш достатъчно злато (нужни са {0}) |
+| `Walk there` | Walk there | Път дотам |
+| `Bank trip` | Bank trip | До банката |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Само за тази грамота. Безплатно: без кредити, а персонализирането на уменията ти остава непроменено. |

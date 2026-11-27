@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Ozan |
 | Discover | Keşfet |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Usta Fermanı ile yazıldı |
 | `Replaces` | Replaces | Değiştirilecek |
 | `This replaces a lucky task.` | This replaces a lucky task. | Bu, şanslı bir görevi değiştirir. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Miktar, her görevde olduğu gibi rastgele belirlenir. Günde bir ferman. Yenisi 00:00 UTC'de gelir. |
 | `Write` | Write | Yaz |
 | `Place` | Place | Konum |
 | `Pick an activity` | Pick an activity | Bir etkinlik seç |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | Eşya mücevherle geliştirilmemiş |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Silah bankadan çıkarılamadı |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Yeterli altın yok ({0} gerekli) |
+| `Walk there` | Walk there | Oraya yol |
+| `Bank trip` | Bank trip | Banka yolu |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Yalnızca bu ferman için. Ücretsiz: kredi gerekmez ve yetenek özelleştirmen olduğu gibi kalır. |

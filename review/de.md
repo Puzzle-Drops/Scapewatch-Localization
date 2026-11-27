@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Entdecken |
 
-## Lines to review (1406)
+## Lines to review (1408)
 
 | Key | English | Current |
 |---|---|---|
@@ -1452,7 +1452,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Written with the Master's Writ` | Written with the Master's Writ | Mit dem Meisterbrief geschrieben |
 | `Replaces` | Replaces | Ersetzt |
 | `This replaces a lucky task.` | This replaces a lucky task. | Dies ersetzt eine glückliche Aufgabe. |
-| `The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC.` | The amount is rolled like any task. One writ per day. A new one comes at 00:00 UTC. | Die Menge wird wie bei jeder Aufgabe gewürfelt. Ein Meisterbrief pro Tag. Um 00:00 UTC gibt es einen neuen. |
 | `Write` | Write | Schreiben |
 | `Place` | Place | Ort |
 | `Pick an activity` | Pick an activity | Wähle eine Aktivität |
@@ -1476,3 +1475,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Item is not gem-upgraded` | Item is not gem-upgraded | Der Gegenstand ist nicht mit Edelsteinen verbessert |
 | `Could not remove weapon from bank` | Could not remove weapon from bank | Die Waffe konnte nicht aus der Bank genommen werden |
 | `@not_enough_gold_need` | Not enough gold (need {0}) | Nicht genug Gold (benötigt: {0}) |
+| `Walk there` | Walk there | Weg dorthin |
+| `Bank trip` | Bank trip | Bankweg |
+| `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Nur für diesen Meisterbrief. Kostenlos: kein Guthaben, und deine Fertigkeitsanpassung bleibt unverändert. |

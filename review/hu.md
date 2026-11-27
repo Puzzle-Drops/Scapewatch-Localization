@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bárd |
 | Discover | Felfedezés |
 
-## Lines to review (1408)
+## Lines to review (1409)
 
 | Key | English | Current |
 |---|---|---|
@@ -1426,7 +1426,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Szerencsés pecsét visszaállítása |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | A mesterek a tömlöc bejáratánál várnak, és egy viaszpecsétet nyomnak a kezedbe. 'Naponta egyszer szerencséssé tesz egy feladatot. A következő próba messzebb vár.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Naponta egyszer tedd szerencséssé a sor egyik feladatát. Új pecsétet 00:00 UTC-kor kapsz. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | A halál törli azt a feladatot, amelyben meghaltál, és ugyanannyi újradobási kreditbe kerül, mint a kihagyása, vagy amennyi maradt. A sor többi része érintetlen marad. |
 | `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Feladat törölve. A halál ugyanannyiba kerül, mint a feladat kihagyása, de nem volt újradobási kredited, így ingyenes volt. |
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Feladat törölve. A halál ugyanannyiba kerül, mint a feladat kihagyása: {0} újradobási kredit. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Feladat törölve. A halál ugyanannyiba kerül, mint a feladat kihagyása, így elfogytak a maradék újradobási kreditjeid ({0}). |
@@ -1478,3 +1477,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Walk there` | Walk there | Odaút |
 | `Bank trip` | Bank trip | Banki út |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Csak erre a Mesterlevélre. Ingyenes: nem kerül kreditbe, és a képességek testreszabása változatlan marad. |
+| `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | A feladattípus visszaváltott Készségekre. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | A halál törli azt a feladatot, amelyben meghaltál, és ugyanannyi újradobási kreditbe kerül, mint a kihagyása, vagy amennyi maradt. A feladattípust is visszaváltja Készségekre. A sor többi része érintetlen marad. |

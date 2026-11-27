@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cântă |
 | Discover | Descoperire |
 
-## Lines to review (1408)
+## Lines to review (1409)
 
 | Key | English | Current |
 |---|---|---|
@@ -1426,7 +1426,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Resetează Sigiliul norocos |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Maeștrii așteaptă la gura temniței și îți pun în mână un sigiliu de ceară. 'O dată pe zi face o sarcină norocoasă. Următoarea probă e mai departe.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | O dată pe zi, fă norocoasă o sarcină din coadă. Un sigiliu nou apare la 00:00 UTC. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Moartea anulează sarcina la care ai murit și costă tot atâtea credite de rezvârlire cât săritul peste ea, sau câte îți mai rămân. Restul cozii rămâne neatins. |
 | `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Sarcină anulată. Moartea costă cât săritul peste sarcină, dar nu aveai credite de rezvârlire, așa că a fost gratuită. |
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Sarcină anulată. Moartea costă cât săritul peste sarcină: {0} credite de rezvârlire. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Sarcină anulată. Moartea costă cât săritul peste sarcină, așa că ultimele tale credite de rezvârlire ({0}) au fost cheltuite. |
@@ -1478,3 +1477,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Walk there` | Walk there | Drumul până acolo |
 | `Bank trip` | Bank trip | Drum la bancă |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Doar pentru acest hrisov. Gratis: fără credite, iar personalizarea abilității tale rămâne neschimbată. |
+| `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Tipul de sarcină a revenit la Îndemânare. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Moartea anulează sarcina la care ai murit și costă tot atâtea credite de rezvârlire cât săritul peste ea, sau câte îți mai rămân. De asemenea, readuce tipul de sarcină la Îndemânare. Restul cozii rămâne neatins. |

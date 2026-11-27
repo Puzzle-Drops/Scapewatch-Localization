@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Oppdag |
 
-## Lines to review (1408)
+## Lines to review (1409)
 
 | Key | English | Current |
 |---|---|---|
@@ -1426,7 +1426,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Tilbakestill heldig stempel |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Mesterne venter ved fangehullets munning og trykker et lakksegl i hånden din. 'En gang om dagen gjør det en oppgave heldig. Neste prøve ligger lenger unna.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Gjør én oppgave i køen heldig en gang om dagen. Et nytt stempel kommer kl. 00:00 UTC. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Å dø avbryter oppgaven du døde på og koster like mange ny terning-kreditter som å hoppe over den, eller det du har igjen. Resten av køen er urørt. |
 | `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Oppgaven er avbrutt. Å dø koster det samme som å hoppe over oppgaven, men du hadde ingen ny terning-kreditter, så det var gratis. |
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Oppgaven er avbrutt. Å dø koster det samme som å hoppe over oppgaven: {0} ny terning-kreditter. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Oppgaven er avbrutt. Å dø koster det samme som å hoppe over oppgaven, så de siste ny terning-kredittene dine ({0}) ble brukt. |
@@ -1478,3 +1477,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Walk there` | Walk there | Vei dit |
 | `Bank trip` | Bank trip | Banktur |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Bare for denne fullmakten. Gratis: ingen kreditter, og ferdighetstilpasningen din forblir uendret. |
+| `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Oppgavetypen ble satt tilbake til Ferdigheter. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Å dø avbryter oppgaven du døde på og koster like mange ny terning-kreditter som å hoppe over den, eller det du har igjen. Den setter også oppgavetypen tilbake til Ferdigheter. Resten av køen er urørt. |

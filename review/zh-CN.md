@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟游 |
 | Discover | 探索 |
 
-## Lines to review (1408)
+## Lines to review (1409)
 
 | Key | English | Current |
 |---|---|---|
@@ -1426,7 +1426,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | 重置幸运印章 |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | 大师们在地牢入口等候，把一枚火漆印章塞到你手里。「每天一次，它能让一项委托变得幸运。下一场试炼在更远的地方。」 |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | 每天一次，将队列中的一项委托设为幸运委托。新印章于 00:00 UTC 发放。 |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | 死亡会取消你死亡时所在的那项委托，并消耗与跳过它相同的重抽点数（不足时扣光剩余点数）。队列里的其余委托不受影响。 |
 | `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | 委托已取消。死亡的代价与跳过委托相同，但你没有重抽点数，所以没有花费。 |
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | 委托已取消。死亡的代价与跳过委托相同：{0}重抽点数。 |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | 委托已取消。死亡的代价与跳过委托相同，因此花掉了你剩余的重抽点数（{0}）。 |
@@ -1478,3 +1477,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Walk there` | Walk there | 前往路程 |
 | `Bank trip` | Bank trip | 银行路程 |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | 仅限本次手令。免费：不花费点数，你的技能自定义保持不变。 |
+| `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | 委托类型已切换回生活技能。 |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | 死亡会取消你死亡时所在的那项委托，并消耗与跳过它相同的重抽点数（不足时扣光剩余点数）。委托类型也会切换回生活技能。队列里的其余委托不受影响。 |

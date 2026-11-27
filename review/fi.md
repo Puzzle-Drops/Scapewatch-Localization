@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardi |
 | Discover | Tutki |
 
-## Lines to review (1408)
+## Lines to review (1409)
 
 | Key | English | Current |
 |---|---|---|
@@ -1426,7 +1426,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Nollaa onnekas leima |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Mestarit odottavat tyrmän suulla ja painavat käteesi vahasinetin. 'Kerran päivässä se tekee tehtävästä onnekkaan. Seuraava koetus on kauempana.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Tee kerran päivässä yhdestä jonon tehtävästä onnekas. Uusi leima tulee klo 00:00 UTC. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Kuolema peruu tehtävän, johon kuolit, ja maksaa yhtä monta uudelleenheittokrediittiä kuin sen ohittaminen, tai sen mitä sinulla on jäljellä. Muu jono jää koskemattomaksi. |
 | `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Tehtävä peruttu. Kuoleminen maksaa saman kuin tehtävän ohittaminen, mutta sinulla ei ollut uudelleenheittokrediittejä, joten se oli ilmainen. |
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Tehtävä peruttu. Kuoleminen maksaa saman kuin tehtävän ohittaminen: {0} uudelleenheittokrediittiä. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Tehtävä peruttu. Kuoleminen maksaa saman kuin tehtävän ohittaminen, joten viimeiset uudelleenheittokrediittisi ({0}) käytettiin. |
@@ -1478,3 +1477,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Walk there` | Walk there | Matka sinne |
 | `Bank trip` | Bank trip | Pankkimatka |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Vain tälle valtakirjalle. Ilmainen: ei luottoja, ja taidon mukautuksesi pysyy ennallaan. |
+| `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Tehtävätyyppi vaihtui takaisin Taitoihin. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Kuolema peruu tehtävän, johon kuolit, ja maksaa yhtä monta uudelleenheittokrediittiä kuin sen ohittaminen, tai sen mitä sinulla on jäljellä. Se myös vaihtaa tehtävätyypin takaisin Taitoihin. Muu jono jää koskemattomaksi. |

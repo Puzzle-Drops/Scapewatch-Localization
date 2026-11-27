@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Opdag |
 
-## Lines to review (1408)
+## Lines to review (1409)
 
 | Key | English | Current |
 |---|---|---|
@@ -1426,7 +1426,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Nulstil heldigt stempel |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Mestrene venter ved indgangen til fangekælderen og trykker et laksegl i hånden på dig. 'En gang om dagen gør det en opgave heldig. Den næste prøve ligger længere ude.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Gør én opgave i køen heldig en gang om dagen. Et nyt stempel kommer kl. 00:00 UTC. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Døden annullerer den opgave, du døde på, og koster lige så mange genslagskreditter som at springe den over, eller det du har tilbage. Resten af køen er urørt. |
 | `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Opgaven er annulleret. At dø koster det samme som at springe opgaven over, men du havde ingen genslagskreditter, så det var gratis. |
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Opgaven er annulleret. At dø koster det samme som at springe opgaven over: {0} genslagskreditter. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Opgaven er annulleret. At dø koster det samme som at springe opgaven over, så dine sidste genslagskreditter ({0}) blev brugt. |
@@ -1478,3 +1477,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Walk there` | Walk there | Vej derhen |
 | `Bank trip` | Bank trip | Banktur |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Kun for dette mesterbrev. Gratis: ingen kreditter, og din færdighedstilpasning forbliver uændret. |
+| `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Opgavetypen skiftede tilbage til Færdigheder. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Døden annullerer den opgave, du døde på, og koster lige så mange genslagskreditter som at springe den over, eller det du har tilbage. Den skifter også opgavetypen tilbage til Færdigheder. Resten af køen er urørt. |

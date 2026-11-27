@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Upptäck |
 
-## Lines to review (1408)
+## Lines to review (1409)
 
 | Key | English | Current |
 |---|---|---|
@@ -1426,7 +1426,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Återställ lyckosam stämpel |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Mästarna väntar vid fängelsehålans mynning och trycker ett lacksigill i din hand. 'En gång om dagen gör det en uppgift lyckosam. Nästa prövning ligger längre bort.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Gör en uppgift i kön lyckosam en gång om dagen. En ny stämpel kommer kl. 00:00 UTC. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Att dö avbryter uppgiften du dog på och kostar lika många omkast-krediter som att hoppa över den, eller det du har kvar. Resten av kön är orörd. |
 | `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Uppgiften avbröts. Att dö kostar lika mycket som att hoppa över uppgiften, men du hade inga omkast-krediter, så det var gratis. |
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Uppgiften avbröts. Att dö kostar lika mycket som att hoppa över uppgiften: {0} omkast-krediter. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Uppgiften avbröts. Att dö kostar lika mycket som att hoppa över uppgiften, så dina sista omkast-krediter ({0}) gick åt. |
@@ -1478,3 +1477,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Walk there` | Walk there | Väg dit |
 | `Bank trip` | Bank trip | Banktur |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Bara för den här fullmakten. Gratis: inga krediter, och din färdighetsanpassning förblir som den är. |
+| `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Uppgiftstypen bytte tillbaka till Färdigheter. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Att dö avbryter uppgiften du dog på och kostar lika många omkast-krediter som att hoppa över den, eller det du har kvar. Den byter också tillbaka uppgiftstypen till Färdigheter. Resten av kön är orörd. |

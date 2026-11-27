@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (1408)
+## Lines to review (1409)
 
 | Key | English | Current |
 |---|---|---|
@@ -1426,7 +1426,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | 重置幸運印章 |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | 大師們在地牢入口等候，把一枚火漆印章塞到你手裡。「每天一次，它能讓一個差事變得幸運。下一場試煉在更遠的地方。」 |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | 每天一次，將佇列中的一個差事設為幸運差事。新印章於 00:00 UTC 發放。 |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | 死亡會取消你死亡時的那個差事，並消耗與跳過它相同的重抽點數（不足時扣光剩餘點數）。佇列的其餘部分不受影響。 |
 | `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | 差事已取消。死亡的代價與跳過差事相同，但你沒有重抽點數，所以沒有花費。 |
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | 差事已取消。死亡的代價與跳過差事相同：{0} 重抽點數。 |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | 差事已取消。死亡的代價與跳過差事相同，因此花掉了你剩餘的重抽點數（{0}）。 |
@@ -1478,3 +1477,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Walk there` | Walk there | 前往路程 |
 | `Bank trip` | Bank trip | 銀行路程 |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | 僅限本次手令。免費：不花費點數，你的技能自訂保持不變。 |
+| `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | 差事類型已切換回技能。 |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | 死亡會取消你死亡時的那個差事，並消耗與跳過它相同的重抽點數（不足時扣光剩餘點數）。差事類型也會切換回技能。佇列的其餘部分不受影響。 |

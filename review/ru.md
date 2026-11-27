@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бард |
 | Discover | Открытие |
 
-## Lines to review (1408)
+## Lines to review (1409)
 
 | Key | English | Current |
 |---|---|---|
@@ -1426,7 +1426,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Сбросить Удачную печать |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Мастера ждут у входа в подземелье и вкладывают вам в руку восковую печать. «Раз в день она делает задачу удачной. Следующее испытание будет дальше». |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Раз в день можно сделать одну задачу в очереди удачной. Новая печать появляется в 00:00 UTC. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Смерть отменяет задачу, на которой вы погибли, и стоит столько же кредитов переброса, сколько её пропуск, или сколько у вас осталось. Остальная очередь не меняется. |
 | `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Задача отменена. Смерть стоит столько же, сколько пропуск задачи, но у вас не было кредитов переброса, поэтому она ничего не стоила. |
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Задача отменена. Смерть стоит столько же, сколько пропуск задачи: {0} кредитов переброса. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Задача отменена. Смерть стоит столько же, сколько пропуск задачи, поэтому потрачены ваши последние кредиты переброса ({0}). |
@@ -1478,3 +1477,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Walk there` | Walk there | Путь туда |
 | `Bank trip` | Bank trip | До банка |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Только для этой грамоты. Бесплатно: без кредитов, а ваша настройка навыков остаётся прежней. |
+| `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Тип задачи снова переключён на Прокачку. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Смерть отменяет задачу, на которой вы погибли, и стоит столько же кредитов переброса, сколько её пропуск, или сколько у вас осталось. Также тип задачи снова переключается на Прокачку. Остальная очередь не меняется. |

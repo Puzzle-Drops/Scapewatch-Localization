@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Entdecken |
 
-## Lines to review (1408)
+## Lines to review (1409)
 
 | Key | English | Current |
 |---|---|---|
@@ -1426,7 +1426,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Glücksstempel zurücksetzen |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Die Meister warten am Eingang des Verlieses und drücken dir ein Wachssiegel in die Hand. 'Einmal am Tag macht es eine Aufgabe glücklich. Die nächste Prüfung liegt weiter draußen.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Mache einmal am Tag eine Aufgabe in der Warteschlange glücklich. Um 00:00 UTC gibt es einen neuen Stempel. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Der Tod bricht die Aufgabe ab, bei der du gestorben bist, und kostet so viel Neuwurf-Guthaben wie das Überspringen, oder was dir noch bleibt. Der Rest deiner Warteschlange bleibt unberührt. |
 | `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Aufgabe abgebrochen. Sterben kostet so viel wie das Überspringen, aber du hattest kein Neuwurf-Guthaben, also war es kostenlos. |
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Aufgabe abgebrochen. Sterben kostet so viel wie das Überspringen: {0} Neuwurf-Guthaben. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Aufgabe abgebrochen. Sterben kostet so viel wie das Überspringen, also wurde dein restliches Neuwurf-Guthaben ({0}) verbraucht. |
@@ -1478,3 +1477,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Walk there` | Walk there | Weg dorthin |
 | `Bank trip` | Bank trip | Bankweg |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Nur für diesen Meisterbrief. Kostenlos: kein Guthaben, und deine Fertigkeitsanpassung bleibt unverändert. |
+| `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Aufgabentyp wieder auf Fertigkeiten gestellt. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Der Tod bricht die Aufgabe ab, bei der du gestorben bist, und kostet so viel Neuwurf-Guthaben wie das Überspringen, oder was dir noch bleibt. Außerdem stellt er den Aufgabentyp wieder auf Fertigkeiten. Der Rest deiner Warteschlange bleibt unberührt. |

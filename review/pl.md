@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Pieśń |
 | Discover | Odkrywanie |
 
-## Lines to review (1408)
+## Lines to review (1409)
 
 | Key | English | Current |
 |---|---|---|
@@ -1426,7 +1426,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Zresetuj Szczęśliwą pieczęć |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Mistrzowie czekają u wejścia do lochu i wciskają ci do ręki woskową pieczęć. „Raz dziennie czyni zadanie szczęśliwym. Następna próba jest dalej.” |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Raz dziennie uczyń jedno zadanie z kolejki szczęśliwym. Nowa pieczęć pojawia się o 00:00 UTC. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Śmierć anuluje zadanie, przy którym zginąłeś, i kosztuje tyle kredytów przelosowania, co jego pominięcie, albo tyle, ile ci zostało. Reszta kolejki pozostaje nietknięta. |
 | `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Zadanie anulowane. Śmierć kosztuje tyle, co pominięcie zadania, ale nie miałeś kredytów przelosowania, więc była darmowa. |
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Zadanie anulowane. Śmierć kosztuje tyle, co pominięcie zadania: {0} kredytów przelosowania. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Zadanie anulowane. Śmierć kosztuje tyle, co pominięcie zadania, więc wydano twoje ostatnie kredyty przelosowania ({0}). |
@@ -1478,3 +1477,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Walk there` | Walk there | Droga tam |
 | `Bank trip` | Bank trip | Droga do banku |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Tylko dla tego glejtu. Za darmo: bez kredytów, a twoja personalizacja umiejętności pozostaje bez zmian. |
+| `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Typ zadania przełączono z powrotem na Umiejętności. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Śmierć anuluje zadanie, przy którym zginąłeś, i kosztuje tyle kredytów przelosowania, co jego pominięcie, albo tyle, ile ci zostało. Przełącza też typ zadania z powrotem na Umiejętności. Reszta kolejki pozostaje nietknięta. |

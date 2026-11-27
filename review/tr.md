@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Ozan |
 | Discover | Keşfet |
 
-## Lines to review (1408)
+## Lines to review (1409)
 
 | Key | English | Current |
 |---|---|---|
@@ -1426,7 +1426,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Şanslı Mührü sıfırla |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Ustalar zindanın ağzında bekliyor ve eline bir balmumu mühür tutuşturuyor. 'Günde bir kez bir görevi şanslı kılar. Sonraki imtihan daha uzakta.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Günde bir kez, sıradaki bir görevi şanslı yap. Yeni mühür 00:00 UTC'de gelir. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Ölmek, öldüğün görevi iptal eder ve onu atlamakla aynı miktarda yeniden atma kredisine, ya da kalan kredine mal olur. Sıranın geri kalanına dokunulmaz. |
 | `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Görev iptal edildi. Ölmek, görevi atlamakla aynı bedele mal olur ama hiç yeniden atma kredin yoktu, bu yüzden ücretsizdi. |
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Görev iptal edildi. Ölmek, görevi atlamakla aynı bedele mal olur: {0} yeniden atma kredisi. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Görev iptal edildi. Ölmek, görevi atlamakla aynı bedele mal olur, bu yüzden kalan son yeniden atma kredilerin ({0}) harcandı. |
@@ -1478,3 +1477,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Walk there` | Walk there | Oraya yol |
 | `Bank trip` | Bank trip | Banka yolu |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Yalnızca bu ferman için. Ücretsiz: kredi gerekmez ve yetenek özelleştirmen olduğu gibi kalır. |
+| `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Görev Türü yeniden Yetenek'e geçti. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Ölmek, öldüğün görevi iptal eder ve onu atlamakla aynı miktarda yeniden atma kredisine, ya da kalan kredine mal olur. Ayrıca Görev Türü'nü yeniden Yetenek'e çevirir. Sıranın geri kalanına dokunulmaz. |

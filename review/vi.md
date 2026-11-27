@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Nhạc công |
 | Discover | Khám phá |
 
-## Lines to review (1408)
+## Lines to review (1409)
 
 | Key | English | Current |
 |---|---|---|
@@ -1426,7 +1426,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | Đặt lại Con dấu May mắn |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | Các bậc thầy chờ ở cửa ngục tối và ấn vào tay bạn một con dấu sáp. 'Mỗi ngày một lần, nó khiến một nhiệm vụ trở nên may mắn. Thử thách tiếp theo còn ở xa hơn.' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | Mỗi ngày một lần, biến một nhiệm vụ trong hàng đợi thành may mắn. Con dấu mới đến lúc 00:00 UTC. |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | Chết sẽ hủy nhiệm vụ mà bạn đã chết và tốn số điểm gieo lại bằng việc bỏ qua nó, hoặc số bạn còn lại. Phần còn lại của hàng đợi không bị ảnh hưởng. |
 | `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | Đã hủy nhiệm vụ. Chết tốn bằng việc bỏ qua nhiệm vụ, nhưng bạn không có điểm gieo lại nên không mất gì. |
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | Đã hủy nhiệm vụ. Chết tốn bằng việc bỏ qua nhiệm vụ: {0} điểm gieo lại. |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | Đã hủy nhiệm vụ. Chết tốn bằng việc bỏ qua nhiệm vụ, nên số điểm gieo lại cuối cùng của bạn ({0}) đã bị dùng hết. |
@@ -1478,3 +1477,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Walk there` | Walk there | Đường đến đó |
 | `Bank trip` | Bank trip | Đường ra ngân hàng |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | Chỉ áp dụng cho sắc lệnh này. Miễn phí: không tốn tín dụng, và tùy chỉnh kỹ năng của bạn vẫn giữ nguyên. |
+| `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | Loại nhiệm vụ đã chuyển lại về Kỹ năng. |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | Chết sẽ hủy nhiệm vụ mà bạn đã chết và tốn số điểm gieo lại bằng việc bỏ qua nó, hoặc số bạn còn lại. Nó cũng chuyển Loại nhiệm vụ về lại Kỹ năng. Phần còn lại của hàng đợi không bị ảnh hưởng. |

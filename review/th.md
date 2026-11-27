@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | กวี |
 | Discover | ค้นพบ |
 
-## Lines to review (1408)
+## Lines to review (1409)
 
 | Key | English | Current |
 |---|---|---|
@@ -1426,7 +1426,6 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Reset Lucky Stamp` | Reset Lucky Stamp | รีเซ็ตตราประทับนำโชค |
 | `The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.'` | The masters wait at the dungeon mouth and press a wax seal into your hand. 'Once a day it makes a task lucky. The next trial is further out.' | เหล่าปรมาจารย์รออยู่ที่ปากทางดันเจียน และวางตราประทับขี้ผึ้งไว้ในมือของคุณ 'มันทำให้ภารกิจนำโชคได้วันละครั้ง บททดสอบต่อไปอยู่ไกลออกไปอีก' |
 | `Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC.` | Once a day, make one queued task lucky. A new stamp comes at 00:00 UTC. | วันละครั้ง ทำให้ภารกิจหนึ่งในคิวนำโชค ตราประทับใหม่จะมาเวลา 00:00 UTC |
-| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. The rest of your queue is untouched. | การตายจะยกเลิกภารกิจที่คุณตาย และใช้เครดิตทอยใหม่เท่ากับการข้ามภารกิจนั้น หรือเท่าที่คุณเหลืออยู่ ส่วนที่เหลือในคิวไม่ถูกแตะต้อง |
 | `Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free.` | Task cancelled. Dying costs the same as skipping it, but you had no reroll credits, so it was free. | ยกเลิกภารกิจแล้ว การตายมีค่าใช้จ่ายเท่ากับการข้ามภารกิจ แต่คุณไม่มีเครดิตทอยใหม่ จึงไม่เสียอะไร |
 | `@death_cost_full` | Task cancelled. Dying costs the same as skipping it: {0} reroll credits. | ยกเลิกภารกิจแล้ว การตายมีค่าใช้จ่ายเท่ากับการข้ามภารกิจ: เครดิตทอยใหม่ {0} |
 | `@death_cost_partial` | Task cancelled. Dying costs the same as skipping it, so your last reroll credits ({0}) were spent. | ยกเลิกภารกิจแล้ว การตายมีค่าใช้จ่ายเท่ากับการข้ามภารกิจ จึงใช้เครดิตทอยใหม่ที่เหลืออยู่ทั้งหมด ({0}) |
@@ -1478,3 +1477,5 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Walk there` | Walk there | ระยะไปที่นั่น |
 | `Bank trip` | Bank trip | ระยะไปธนาคาร |
 | `Just for this writ. Free: no credits, and your Skill Customization stays as it is.` | Just for this writ. Free: no credits, and your Skill Customization stays as it is. | ใช้กับลิขิตนี้เท่านั้น ฟรี: ไม่ใช้เครดิต และการปรับแต่งทักษะของคุณจะยังเหมือนเดิม |
+| `Task Type switched back to Skilling.` | Task Type switched back to Skilling. | ประเภทภารกิจเปลี่ยนกลับเป็นฝึกทักษะแล้ว |
+| `Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched.` | Dying cancels the task you died on and costs the same reroll credits as skipping it, or what you have left. It also switches Task Type back to Skilling. The rest of your queue is untouched. | การตายจะยกเลิกภารกิจที่คุณตาย และใช้เครดิตทอยใหม่เท่ากับการข้ามภารกิจนั้น หรือเท่าที่คุณเหลืออยู่ และยังเปลี่ยนประเภทภารกิจกลับเป็นฝึกทักษะ ส่วนที่เหลือในคิวไม่ถูกแตะต้อง |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Objevování |
 
-## Lines to review (1401)
+## Lines to review (1406)
 
 | Key | English | Current |
 |---|---|---|
@@ -1471,3 +1471,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Dnes použita. Obnoví se v 00:00 UTC. |
 | `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Šťastná díky Šťastné pečeti |
 | `One daily tool per task.` | One daily tool per task. | Jedna denní pomůcka na úkol. |
+| `Unknown item` | Unknown item | Neznámý předmět |
+| `You do not have one of those in the bank` | You do not have one of those in the bank | Takový předmět v bance nemáš |
+| `Item is not gem-upgraded` | Item is not gem-upgraded | Předmět nemá vylepšení drahokamy |
+| `Could not remove weapon from bank` | Could not remove weapon from bank | Zbraň se nepodařilo vyjmout z banky |
+| `@not_enough_gold_need` | Not enough gold (need {0}) | Nedostatek zlata (potřeba {0}) |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (1401)
+## Lines to review (1406)
 
 | Key | English | Current |
 |---|---|---|
@@ -1471,3 +1471,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | 本日使用済み。00:00 UTC に補充されます。 |
 | `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | 幸運スタンプで幸運化済み |
 | `One daily tool per task.` | One daily tool per task. | 1つのタスクにデイリーツールは1つまで。 |
+| `Unknown item` | Unknown item | 不明なアイテム |
+| `You do not have one of those in the bank` | You do not have one of those in the bank | 銀行にそのアイテムがありません |
+| `Item is not gem-upgraded` | Item is not gem-upgraded | このアイテムは宝石強化されていません |
+| `Could not remove weapon from bank` | Could not remove weapon from bank | 銀行から武器を取り出せませんでした |
+| `@not_enough_gold_need` | Not enough gold (need {0}) | ゴールドが足りません（必要: {0}） |

@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | กวี |
 | Discover | ค้นพบ |
 
-## Lines to review (1401)
+## Lines to review (1406)
 
 | Key | English | Current |
 |---|---|---|
@@ -1471,3 +1471,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | วันนี้ถูกใช้แล้ว อันใหม่จะมาเวลา 00:00 UTC |
 | `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | ทำให้โชคดีด้วยตราประทับนำโชค |
 | `One daily tool per task.` | One daily tool per task. | ใช้เครื่องมือประจำวันได้หนึ่งอย่างต่อหนึ่งงาน |
+| `Unknown item` | Unknown item | ไอเทมที่ไม่รู้จัก |
+| `You do not have one of those in the bank` | You do not have one of those in the bank | คุณไม่มีไอเทมนั้นในธนาคาร |
+| `Item is not gem-upgraded` | Item is not gem-upgraded | ไอเทมนี้ยังไม่ได้อัปเกรดด้วยอัญมณี |
+| `Could not remove weapon from bank` | Could not remove weapon from bank | ไม่สามารถนำอาวุธออกจากธนาคารได้ |
+| `@not_enough_gold_need` | Not enough gold (need {0}) | ทองไม่พอ (ต้องใช้ {0}) |

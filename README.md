@@ -80,36 +80,36 @@ The full rules are in [TRANSLATING.md](TRANSLATING.md).
 
 | Code | Language | Lines to review |
 |---|---|---|
-| `bg` | Български | [1401](review/bg.md) |
-| `cs` | Čeština | [1401](review/cs.md) |
-| `da` | Dansk | [1401](review/da.md) |
-| `de` | Deutsch | [1401](review/de.md) |
-| `el` | Ελληνικά | [1401](review/el.md) |
-| `es` | Español (Latinoamérica) | [1401](review/es.md) |
-| `es-ES` | Español (España) | [1401](review/es-ES.md) |
-| `fi` | Suomi | [1401](review/fi.md) |
-| `fil` | Filipino | [1401](review/fil.md) |
-| `fr` | Français | [1401](review/fr.md) |
-| `hu` | Magyar | [1401](review/hu.md) |
-| `id` | Bahasa Indonesia | [1401](review/id.md) |
-| `it` | Italiano | [1401](review/it.md) |
-| `ja` | 日本語 | [1401](review/ja.md) |
-| `ko` | 한국어 | [1401](review/ko.md) |
-| `ms` | Bahasa Melayu | [1401](review/ms.md) |
-| `nl` | Nederlands | [1401](review/nl.md) |
-| `no` | Norsk | [1401](review/no.md) |
-| `pl` | Polski | [1401](review/pl.md) |
-| `pt-BR` | Português (Brasil) | [1401](review/pt-BR.md) |
-| `pt-PT` | Português (Portugal) | [1401](review/pt-PT.md) |
-| `ro` | Română | [1401](review/ro.md) |
-| `ru` | Русский | [1401](review/ru.md) |
-| `sv` | Svenska | [1401](review/sv.md) |
-| `th` | ไทย | [1401](review/th.md) |
-| `tr` | Türkçe | [1401](review/tr.md) |
-| `uk` | Українська | [1401](review/uk.md) |
-| `vi` | Tiếng Việt | [1401](review/vi.md) |
-| `zh-CN` | 简体中文 | [1401](review/zh-CN.md) |
-| `zh-TW` | 繁體中文 | [1401](review/zh-TW.md) |
+| `bg` | Български | [1406](review/bg.md) |
+| `cs` | Čeština | [1406](review/cs.md) |
+| `da` | Dansk | [1406](review/da.md) |
+| `de` | Deutsch | [1406](review/de.md) |
+| `el` | Ελληνικά | [1406](review/el.md) |
+| `es` | Español (Latinoamérica) | [1406](review/es.md) |
+| `es-ES` | Español (España) | [1406](review/es-ES.md) |
+| `fi` | Suomi | [1406](review/fi.md) |
+| `fil` | Filipino | [1406](review/fil.md) |
+| `fr` | Français | [1406](review/fr.md) |
+| `hu` | Magyar | [1406](review/hu.md) |
+| `id` | Bahasa Indonesia | [1406](review/id.md) |
+| `it` | Italiano | [1406](review/it.md) |
+| `ja` | 日本語 | [1406](review/ja.md) |
+| `ko` | 한국어 | [1406](review/ko.md) |
+| `ms` | Bahasa Melayu | [1406](review/ms.md) |
+| `nl` | Nederlands | [1406](review/nl.md) |
+| `no` | Norsk | [1406](review/no.md) |
+| `pl` | Polski | [1406](review/pl.md) |
+| `pt-BR` | Português (Brasil) | [1406](review/pt-BR.md) |
+| `pt-PT` | Português (Portugal) | [1406](review/pt-PT.md) |
+| `ro` | Română | [1406](review/ro.md) |
+| `ru` | Русский | [1406](review/ru.md) |
+| `sv` | Svenska | [1406](review/sv.md) |
+| `th` | ไทย | [1406](review/th.md) |
+| `tr` | Türkçe | [1406](review/tr.md) |
+| `uk` | Українська | [1406](review/uk.md) |
+| `vi` | Tiếng Việt | [1406](review/vi.md) |
+| `zh-CN` | 简体中文 | [1406](review/zh-CN.md) |
+| `zh-TW` | 繁體中文 | [1406](review/zh-TW.md) |
 
 ## Credit
 

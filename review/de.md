@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Barde |
 | Discover | Entdecken |
 
-## Lines to review (1401)
+## Lines to review (1406)
 
 | Key | English | Current |
 |---|---|---|
@@ -1471,3 +1471,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Heute verwendet. Ab 00:00 UTC wieder verfügbar. |
 | `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Mit dem Glücksstempel glücklich gemacht |
 | `One daily tool per task.` | One daily tool per task. | Ein tägliches Hilfsmittel pro Aufgabe. |
+| `Unknown item` | Unknown item | Unbekannter Gegenstand |
+| `You do not have one of those in the bank` | You do not have one of those in the bank | Du hast keinen solchen Gegenstand in der Bank |
+| `Item is not gem-upgraded` | Item is not gem-upgraded | Der Gegenstand ist nicht mit Edelsteinen verbessert |
+| `Could not remove weapon from bank` | Could not remove weapon from bank | Die Waffe konnte nicht aus der Bank genommen werden |
+| `@not_enough_gold_need` | Not enough gold (need {0}) | Nicht genug Gold (benötigt: {0}) |

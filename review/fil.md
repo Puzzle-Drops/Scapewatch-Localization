@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bard |
 | Discover | Tuklasin |
 
-## Lines to review (1401)
+## Lines to review (1406)
 
 | Key | English | Current |
 |---|---|---|
@@ -1471,3 +1471,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Nagamit na ngayong araw. Darating ang bago sa 00:00 UTC. |
 | `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Pinaswerte ng Maswerteng Selyo |
 | `One daily tool per task.` | One daily tool per task. | Isang pang-araw-araw na kagamitan bawat gawain. |
+| `Unknown item` | Unknown item | Hindi kilalang item |
+| `You do not have one of those in the bank` | You do not have one of those in the bank | Wala kang ganoon sa bangko |
+| `Item is not gem-upgraded` | Item is not gem-upgraded | Hindi naka-gem upgrade ang item |
+| `Could not remove weapon from bank` | Could not remove weapon from bank | Hindi maalis ang sandata sa bangko |
+| `@not_enough_gold_need` | Not enough gold (need {0}) | Kulang ang ginto (kailangan ng {0}) |

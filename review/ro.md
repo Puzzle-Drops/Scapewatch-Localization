@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Cântă |
 | Discover | Descoperire |
 
-## Lines to review (1401)
+## Lines to review (1406)
 
 | Key | English | Current |
 |---|---|---|
@@ -1471,3 +1471,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | S-a folosit astăzi. Revine la 00:00 UTC. |
 | `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Făcută norocoasă de Sigiliul norocos |
 | `One daily tool per task.` | One daily tool per task. | Câte o unealtă zilnică pe sarcină. |
+| `Unknown item` | Unknown item | Obiect necunoscut |
+| `You do not have one of those in the bank` | You do not have one of those in the bank | Nu ai un astfel de obiect în bancă |
+| `Item is not gem-upgraded` | Item is not gem-upgraded | Obiectul nu are îmbunătățiri cu pietre prețioase |
+| `Could not remove weapon from bank` | Could not remove weapon from bank | Arma nu a putut fi scoasă din bancă |
+| `@not_enough_gold_need` | Not enough gold (need {0}) | Nu ai destul aur (necesar: {0}) |

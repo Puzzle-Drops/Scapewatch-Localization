@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Бард |
 | Discover | Откритие |
 
-## Lines to review (1401)
+## Lines to review (1406)
 
 | Key | English | Current |
 |---|---|---|
@@ -1471,3 +1471,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Използвано днес. Подновява се в 00:00 UTC. |
 | `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Направена късметлийска от Късметлийския печат |
 | `One daily tool per task.` | One daily tool per task. | Само един ежедневен инструмент на задача. |
+| `Unknown item` | Unknown item | Непознат предмет |
+| `You do not have one of those in the bank` | You do not have one of those in the bank | Нямаш такъв предмет в банката |
+| `Item is not gem-upgraded` | Item is not gem-upgraded | Предметът няма подобрения със скъпоценни камъни |
+| `Could not remove weapon from bank` | Could not remove weapon from bank | Оръжието не можа да бъде извадено от банката |
+| `@not_enough_gold_need` | Not enough gold (need {0}) | Нямаш достатъчно злато (нужни са {0}) |

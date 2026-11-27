@@ -543,6 +543,7 @@
   "@requires_higher_level": "Requires a higher {0} level.",
   "@requires_skill_level": "Requires {0} level {1}",
   "@talent_points_level": "Not enough talent points (level up {0}).",
+  "@not_enough_gold_need": "Not enough gold (need {0})",
   "@stackable_per_craft": "Stackable, {0} per craft",
   "@steps_n_of": "Steps: {0} / {1}",
   "@opens_at_a_time": "Opens {0} at a time",

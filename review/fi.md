@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bardi |
 | Discover | Tutki |
 
-## Lines to review (1401)
+## Lines to review (1406)
 
 | Key | English | Current |
 |---|---|---|
@@ -1471,3 +1471,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Käytetty tänään. Uusi tulee klo 00:00 UTC. |
 | `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Tehty onnekkaaksi onnekkaalla leimalla |
 | `One daily tool per task.` | One daily tool per task. | Yksi päivittäinen työkalu tehtävää kohden. |
+| `Unknown item` | Unknown item | Tuntematon esine |
+| `You do not have one of those in the bank` | You do not have one of those in the bank | Sinulla ei ole sellaista pankissa |
+| `Item is not gem-upgraded` | Item is not gem-upgraded | Esinettä ei ole päivitetty jalokivillä |
+| `Could not remove weapon from bank` | Could not remove weapon from bank | Asetta ei voitu poistaa pankista |
+| `@not_enough_gold_need` | Not enough gold (need {0}) | Kultaa ei ole tarpeeksi (tarvitaan {0}) |

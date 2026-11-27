@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Ozan |
 | Discover | Keşfet |
 
-## Lines to review (1401)
+## Lines to review (1406)
 
 | Key | English | Current |
 |---|---|---|
@@ -1471,3 +1471,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Bugün kullanıldı. Yenisi 00:00 UTC'de gelir. |
 | `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Şanslı Mühür ile şanslı yapıldı |
 | `One daily tool per task.` | One daily tool per task. | Görev başına bir günlük araç. |
+| `Unknown item` | Unknown item | Bilinmeyen eşya |
+| `You do not have one of those in the bank` | You do not have one of those in the bank | Bankada böyle bir eşyan yok |
+| `Item is not gem-upgraded` | Item is not gem-upgraded | Eşya mücevherle geliştirilmemiş |
+| `Could not remove weapon from bank` | Could not remove weapon from bank | Silah bankadan çıkarılamadı |
+| `@not_enough_gold_need` | Not enough gold (need {0}) | Yeterli altın yok ({0} gerekli) |

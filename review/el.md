@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Βάρδος |
 | Discover | Ανακάλυψη |
 
-## Lines to review (1401)
+## Lines to review (1406)
 
 | Key | English | Current |
 |---|---|---|
@@ -1471,3 +1471,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Χρησιμοποιήθηκε σήμερα. Επιστρέφει στις 00:00 UTC. |
 | `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Έγινε τυχερή από την Τυχερή σφραγίδα |
 | `One daily tool per task.` | One daily tool per task. | Ένα ημερήσιο εργαλείο ανά εργασία. |
+| `Unknown item` | Unknown item | Άγνωστο αντικείμενο |
+| `You do not have one of those in the bank` | You do not have one of those in the bank | Δεν έχεις τέτοιο αντικείμενο στην τράπεζα |
+| `Item is not gem-upgraded` | Item is not gem-upgraded | Το αντικείμενο δεν έχει αναβαθμίσεις πολύτιμων λίθων |
+| `Could not remove weapon from bank` | Could not remove weapon from bank | Δεν ήταν δυνατή η αφαίρεση του όπλου από την τράπεζα |
+| `@not_enough_gold_need` | Not enough gold (need {0}) | Δεν έχεις αρκετό χρυσό (χρειάζονται {0}) |

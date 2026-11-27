@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Bárd |
 | Discover | Felfedezés |
 
-## Lines to review (1401)
+## Lines to review (1406)
 
 | Key | English | Current |
 |---|---|---|
@@ -1471,3 +1471,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Ma már felhasználva. Újat 00:00 UTC-kor kapsz. |
 | `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Szerencsés pecséttel szerencséssé téve |
 | `One daily tool per task.` | One daily tool per task. | Feladatonként egy napi eszköz. |
+| `Unknown item` | Unknown item | Ismeretlen tárgy |
+| `You do not have one of those in the bank` | You do not have one of those in the bank | Nincs ilyen tárgyad a bankban |
+| `Item is not gem-upgraded` | Item is not gem-upgraded | A tárgy nincs drágakövekkel fejlesztve |
+| `Could not remove weapon from bank` | Could not remove weapon from bank | A fegyvert nem sikerült kivenni a bankból |
+| `@not_enough_gold_need` | Not enough gold (need {0}) | Nincs elég arany (kell: {0}) |

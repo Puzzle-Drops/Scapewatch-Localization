@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | Nhạc công |
 | Discover | Khám phá |
 
-## Lines to review (1401)
+## Lines to review (1406)
 
 | Key | English | Current |
 |---|---|---|
@@ -1471,3 +1471,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | Đã dùng hôm nay. Sẽ trở lại lúc 00:00 UTC. |
 | `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | Được làm may mắn bởi Con dấu May mắn |
 | `One daily tool per task.` | One daily tool per task. | Mỗi nhiệm vụ chỉ dùng một công cụ hằng ngày. |
+| `Unknown item` | Unknown item | Vật phẩm không xác định |
+| `You do not have one of those in the bank` | You do not have one of those in the bank | Bạn không có vật phẩm đó trong ngân hàng |
+| `Item is not gem-upgraded` | Item is not gem-upgraded | Vật phẩm chưa được nâng cấp bằng đá quý |
+| `Could not remove weapon from bank` | Could not remove weapon from bank | Không thể lấy vũ khí ra khỏi ngân hàng |
+| `@not_enough_gold_need` | Not enough gold (need {0}) | Không đủ vàng (cần {0}) |

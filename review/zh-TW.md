@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 吟遊 |
 | Discover | 探索 |
 
-## Lines to review (1401)
+## Lines to review (1406)
 
 | Key | English | Current |
 |---|---|---|
@@ -1471,3 +1471,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | 今日已使用。將於 00:00 UTC 恢復。 |
 | `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | 已由幸運印章變為幸運 |
 | `One daily tool per task.` | One daily tool per task. | 每個任務只能使用一種每日工具。 |
+| `Unknown item` | Unknown item | 未知物品 |
+| `You do not have one of those in the bank` | You do not have one of those in the bank | 你的銀行裡沒有這件物品 |
+| `Item is not gem-upgraded` | Item is not gem-upgraded | 該物品沒有寶石強化 |
+| `Could not remove weapon from bank` | Could not remove weapon from bank | 無法從銀行取出武器 |
+| `@not_enough_gold_need` | Not enough gold (need {0}) | 金幣不足（需要 {0}） |

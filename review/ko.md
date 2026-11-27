@@ -66,7 +66,7 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | Bard | 음유 |
 | Discover | 탐험 |
 
-## Lines to review (1401)
+## Lines to review (1406)
 
 | Key | English | Current |
 |---|---|---|
@@ -1471,3 +1471,8 @@ Use the same words in your fixes. If one of these is wrong everywhere, open an i
 | `Used today. A new one comes at 00:00 UTC.` | Used today. A new one comes at 00:00 UTC. | 오늘 사용함. 00:00 UTC에 다시 지급됩니다. |
 | `Made lucky by the Lucky Stamp` | Made lucky by the Lucky Stamp | 행운 인장으로 행운 적용됨 |
 | `One daily tool per task.` | One daily tool per task. | 작업 하나에 일일 도구는 하나만 쓸 수 있습니다. |
+| `Unknown item` | Unknown item | 알 수 없는 아이템 |
+| `You do not have one of those in the bank` | You do not have one of those in the bank | 은행에 해당 아이템이 없습니다 |
+| `Item is not gem-upgraded` | Item is not gem-upgraded | 보석 강화가 되지 않은 아이템입니다 |
+| `Could not remove weapon from bank` | Could not remove weapon from bank | 은행에서 무기를 꺼낼 수 없습니다 |
+| `@not_enough_gold_need` | Not enough gold (need {0}) | 골드가 부족합니다 (필요: {0}) |

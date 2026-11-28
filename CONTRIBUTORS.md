@@ -8,6 +8,10 @@ Thank you to everyone who has helped translate Scapewatch. Add the name you'd li
 - Sparkling
 - Last_Soul
 
+## Brazilian Portugues (Português do Brasil) (pt-BR)
+
+- hotaru
+
 ## Community extensions
 
 - ChiliMud, Yaphets, caster, Carefree, Cra
